@@ -1,0 +1,496 @@
+[
+  {
+    "word": "mum",
+    "phonetic": "/mʌm/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "妈妈（英式口语）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My mum makes great pancakes.",
+        "chinese": "我妈妈做的煎饼很棒。",
+        "scene": "孩子夸妈妈的厨艺"
+      },
+      {
+        "level": "medium",
+        "english": "I need to call my mum and tell her I'll be late for dinner.",
+        "chinese": "我需要给妈妈打个电话，告诉她我晚饭会晚点到。",
+        "scene": "晚回家前给妈妈打电话"
+      },
+      {
+        "level": "long",
+        "english": "When I was little, my mum used to read me a story every single night, even when she looked really tired after work.",
+        "chinese": "我小时候，妈妈每晚都会给我读故事，即使她下班后看起来特别累也坚持读。",
+        "scene": "回忆儿时妈妈每晚的陪伴"
+      }
+    ]
+  },
+  {
+    "word": "dad",
+    "phonetic": "/dæd/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "爸爸（口语）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Dad, can we play catch?",
+        "chinese": "爸爸，我们能玩接球吗？",
+        "scene": "孩子邀请爸爸一起玩"
+      },
+      {
+        "level": "medium",
+        "english": "My dad taught me how to ride a bike when I was five.",
+        "chinese": "我五岁的时候爸爸教会了我骑自行车。",
+        "scene": "回忆爸爸教骑车的经历"
+      },
+      {
+        "level": "long",
+        "english": "I remember my dad getting up early every Saturday to make us pancakes, and the whole kitchen always smelled like vanilla and coffee.",
+        "chinese": "我记得每个周六爸爸都会早起给我们做煎饼，整个厨房总是弥漫着香草和咖啡的味道。",
+        "scene": "回忆周末爸爸的爱心早餐"
+      }
+    ]
+  },
+  {
+    "word": "grandma",
+    "phonetic": "/ˈɡræn.mɑː/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "奶奶；姥姥（口语）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My grandma lives with us.",
+        "chinese": "我奶奶和我们住在一起。",
+        "scene": "向朋友介绍家庭情况"
+      },
+      {
+        "level": "medium",
+        "english": "We're driving to my grandma's house for Thanksgiving this year.",
+        "chinese": "今年我们要开车去奶奶家过感恩节。",
+        "scene": "假期出行计划"
+      },
+      {
+        "level": "long",
+        "english": "My grandma always sneaks me a little money when I visit, even though I tell her I'm an adult now and I don't need it.",
+        "chinese": "我去看奶奶的时候，她总是偷偷塞给我一点钱，尽管我跟她说我已经是大人了不需要。",
+        "scene": "奶奶对孙辈不变的疼爱"
+      }
+    ]
+  },
+  {
+    "word": "grandpa",
+    "phonetic": "/ˈɡræn.pɑː/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "爷爷；姥爷（口语）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My grandpa tells funny jokes.",
+        "chinese": "我爷爷讲的笑话很有趣。",
+        "scene": "孩子谈论爷爷的幽默"
+      },
+      {
+        "level": "medium",
+        "english": "Grandpa fell asleep in his chair while watching the baseball game again.",
+        "chinese": "爷爷看棒球赛的时候又在椅子上睡着了。",
+        "scene": "家庭生活中有趣的日常一幕"
+      },
+      {
+        "level": "long",
+        "english": "My grandpa showed me his old photo album from when he was in the army, and I couldn't believe how young he looked in those pictures.",
+        "chinese": "爷爷给我看了他在部队时的旧相册，我简直不敢相信照片里的他看起来那么年轻。",
+        "scene": "祖孙一起翻看老照片"
+      }
+    ]
+  },
+  {
+    "word": "grandfather",
+    "phonetic": "/ˈɡrændˌfɑː.ðɚ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "祖父；外祖父（正式）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My grandfather was a doctor.",
+        "chinese": "我的祖父曾是一名医生。",
+        "scene": "简单介绍祖父的职业"
+      },
+      {
+        "level": "medium",
+        "english": "My grandfather still drives at the age of eighty-two.",
+        "chinese": "我的祖父八十二岁了仍然在开车。",
+        "scene": "描述祖父身体硬朗"
+      },
+      {
+        "level": "long",
+        "english": "My grandfather sat me down and told me stories about how he met my grandmother during a snowstorm, and it sounded just like a scene from an old movie.",
+        "chinese": "祖父让我坐下，给我讲他在一场暴风雪中如何遇见祖母的故事，听起来就像一部老电影里的场景。",
+        "scene": "听祖父讲年轻时的浪漫故事"
+      }
+    ]
+  },
+  {
+    "word": "grandmother",
+    "phonetic": "/ˈɡrændˌmʌð.ɚ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "祖母；外祖母（正式）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My grandmother knits beautiful sweaters.",
+        "chinese": "我祖母织的毛衣很漂亮。",
+        "scene": "夸赞祖母的手艺"
+      },
+      {
+        "level": "medium",
+        "english": "I found my grandmother's old recipe box in the attic last weekend.",
+        "chinese": "上周末我在阁楼里找到了祖母的旧食谱盒子。",
+        "scene": "在家中寻宝发现旧物"
+      },
+      {
+        "level": "long",
+        "english": "My grandmother insists on sending me handwritten birthday cards every year, and her perfect cursive always makes me smile before I even read the message.",
+        "chinese": "祖母每年都坚持给我寄手写生日贺卡，她那娟秀的草书总让我在看到内容之前就忍不住微笑。",
+        "scene": "每年收到祖母手写贺卡的感动"
+      }
+    ]
+  },
+  {
+    "word": "mother",
+    "phonetic": "/ˈmʌð.ɚ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "母亲；妈妈（正式）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My mother speaks three languages.",
+        "chinese": "我母亲会说三种语言。",
+        "scene": "介绍母亲的能力"
+      },
+      {
+        "level": "medium",
+        "english": "My mother always knows exactly what to say when I'm feeling down.",
+        "chinese": "我情绪低落的时候，母亲总是知道该说些什么。",
+        "scene": "表达母亲善解人意"
+      },
+      {
+        "level": "long",
+        "english": "My mother saved every single drawing I made from kindergarten through fifth grade, and she surprised me with them in a huge album on my graduation day.",
+        "chinese": "我母亲把我从幼儿园到五年级画的每一幅画都保存了下来，毕业那天她用一本巨大的相册装好送给我，给了我一个惊喜。",
+        "scene": "母亲珍藏孩子成长印记的感人举动"
+      }
+    ]
+  },
+  {
+    "word": "father",
+    "phonetic": "/ˈfɑː.ðɚ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "父亲；爸爸（正式）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My father loves old black-and-white movies.",
+        "chinese": "我父亲喜欢黑白老电影。",
+        "scene": "谈论父亲的爱好"
+      },
+      {
+        "level": "medium",
+        "english": "My father picked me up from the airport at midnight without any complaints.",
+        "chinese": "我父亲半夜毫无怨言地去机场接我。",
+        "scene": "父亲深夜接机的温暖举动"
+      },
+      {
+        "level": "long",
+        "english": "My father worked two jobs while I was growing up, and now that I'm older, I finally understand the sacrifices he made for our family.",
+        "chinese": "在我成长的过程中父亲打了两份工，现在我长大了，终于理解了他为家庭做出的牺牲。",
+        "scene": "成年后体会父亲的不易"
+      }
+    ]
+  },
+  {
+    "word": "me",
+    "phonetic": "/miː/",
+    "part_of_speech": "pronoun",
+    "chinese_meaning": "我（宾格）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Please pass me the salt.",
+        "chinese": "请把盐递给我。",
+        "scene": "饭桌上请人递东西"
+      },
+      {
+        "level": "medium",
+        "english": "My brother told me there's a new burger place nearby.",
+        "chinese": "我哥哥告诉我附近新开了一家汉堡店。",
+        "scene": "家人分享新店信息"
+      },
+      {
+        "level": "long",
+        "english": "She showed me a picture of the puppy she just adopted, and honestly, it was the cutest thing I've seen all year.",
+        "chinese": "她给我看了她刚收养的小狗照片，说实话，那是我一整年见过的最可爱的小东西。",
+        "scene": "朋友分享收养宠物的喜悦"
+      }
+    ]
+  },
+  {
+    "word": "sister",
+    "phonetic": "/ˈsɪs.tɚ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "姐姐；妹妹",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My little sister loves princess dresses.",
+        "chinese": "我妹妹喜欢公主裙。",
+        "scene": "描述妹妹的喜好"
+      },
+      {
+        "level": "medium",
+        "english": "I borrowed my sister's sweater without asking, and now she's mad at me.",
+        "chinese": "我没跟姐姐说就借穿了她的毛衣，她现在生我的气了。",
+        "scene": "姐妹间的小摩擦"
+      },
+      {
+        "level": "long",
+        "english": "Even though my sister and I fought all the time as kids, she's now the first person I call when something good or bad happens.",
+        "chinese": "尽管小时候我和姐姐总是吵架，但现在无论发生好事还是坏事，她都是我第一个想要打电话的人。",
+        "scene": "长大后姐妹情深"
+      }
+    ]
+  },
+  {
+    "word": "family",
+    "phonetic": "/ˈfæm.əl.i/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "家庭；家人",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Family is everything to me.",
+        "chinese": "家庭对我来说就是一切。",
+        "scene": "表达对家庭的珍视"
+      },
+      {
+        "level": "medium",
+        "english": "My whole family gets together for a big dinner every Sunday.",
+        "chinese": "每个周日我们全家人都会聚在一起吃一顿大餐。",
+        "scene": "家庭传统周聚餐"
+      },
+      {
+        "level": "long",
+        "english": "We didn't have much money when I was growing up, but my family always found a way to make the holidays feel special and full of joy.",
+        "chinese": "我小时候家里没什么钱，但我的家人总是有办法让节日变得特别、充满快乐。",
+        "scene": "回忆清贫但充满爱的童年"
+      }
+    ]
+  },
+  {
+    "word": "have",
+    "phonetic": "/hæv/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "有；吃；喝",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I have two cats at home.",
+        "chinese": "我家里有两只猫。",
+        "scene": "告诉别人家里养的宠物"
+      },
+      {
+        "level": "medium",
+        "english": "Let's have lunch together after the meeting.",
+        "chinese": "开完会我们一起吃午饭吧。",
+        "scene": "同事间约饭"
+      },
+      {
+        "level": "long",
+        "english": "I used to have a really old car that would shake whenever I drove over 50 miles an hour, but I honestly kind of miss it.",
+        "chinese": "我以前有一辆很旧的车，每次时速超过50英里就会抖，但说真的我还有点怀念它。",
+        "scene": "回忆拥有过的老爷车"
+      }
+    ]
+  },
+  {
+    "word": "big",
+    "phonetic": "/bɪɡ/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "大的；重大的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "That's a really big dog.",
+        "chinese": "那真是一只大狗。",
+        "scene": "看到大型犬时的感叹"
+      },
+      {
+        "level": "medium",
+        "english": "We need a bigger table if we're having eight people for dinner.",
+        "chinese": "如果有八个人吃饭，我们就需要一张更大的桌子。",
+        "scene": "家庭聚餐前的准备"
+      },
+      {
+        "level": "long",
+        "english": "I wanted to buy the big sofa, but my living room is so small that I had to pick a smaller one, and honestly, it fits the space much better.",
+        "chinese": "我本来想买那个大沙发，但我的客厅太小了，只好选了个小一点的，说实话，它更适合这个空间。",
+        "scene": "选购家具时的取舍"
+      }
+    ]
+  },
+  {
+    "word": "cousin",
+    "phonetic": "/ˈkʌz.ən/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "堂兄弟姐妹；表兄弟姐妹",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My cousin and I are the same age.",
+        "chinese": "我表姐和我同岁。",
+        "scene": "介绍和堂表亲的关系"
+      },
+      {
+        "level": "medium",
+        "english": "I'm spending the weekend at my cousin's place in the city.",
+        "chinese": "我要去城里表弟的住处过周末。",
+        "scene": "周末计划"
+      },
+      {
+        "level": "long",
+        "english": "My cousin taught me how to skateboard when we were little, and even though I fell a hundred times, she never got impatient with me.",
+        "chinese": "小时候表姐教我玩滑板，我摔了无数次，她却从来没有对我不耐烦。",
+        "scene": "回忆表姐耐心教玩滑板的童年"
+      }
+    ]
+  },
+  {
+    "word": "brother",
+    "phonetic": "/ˈbrʌð.ɚ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "哥哥；弟弟",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My brother is taller than me now.",
+        "chinese": "我弟弟现在比我高了。",
+        "scene": "感叹弟弟身高超过自己"
+      },
+      {
+        "level": "medium",
+        "english": "My brother borrowed my car and returned it with an empty tank.",
+        "chinese": "我哥哥借了我的车，还回来时油箱是空的。",
+        "scene": "兄弟间常见的小埋怨"
+      },
+      {
+        "level": "long",
+        "english": "My older brother always defended me when kids at school were mean, and I don't think I ever really thanked him enough for that.",
+        "chinese": "学校里有人欺负我的时候，哥哥总是护着我，我觉得我从没为此好好谢过他。",
+        "scene": "感念哥哥儿时的保护"
+      }
+    ]
+  },
+  {
+    "word": "baby",
+    "phonetic": "/ˈbeɪ.bi/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "婴儿；宝宝",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The baby just fell asleep.",
+        "chinese": "宝宝刚刚睡着了。",
+        "scene": "轻声提醒保持安静"
+      },
+      {
+        "level": "medium",
+        "english": "We're bringing a little gift for their new baby boy.",
+        "chinese": "我们给他们刚出生的儿子带了一份小礼物。",
+        "scene": "去看望新生儿"
+      },
+      {
+        "level": "long",
+        "english": "I was nervous about holding the baby at first, but the moment she grabbed my finger and smiled, I felt instantly relaxed.",
+        "chinese": "起初我很紧张不敢抱宝宝，但当她抓住我的手指并笑起来的一瞬间，我立刻就放松了。",
+        "scene": "初次抱婴儿时的体验"
+      }
+    ]
+  },
+  {
+    "word": "uncle",
+    "phonetic": "/ˈʌŋ.kəl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "叔叔；舅舅；姑父；姨父",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My uncle lives in California.",
+        "chinese": "我叔叔住在加州。",
+        "scene": "介绍亲戚的居住地"
+      },
+      {
+        "level": "medium",
+        "english": "My uncle is the funniest person at every family gathering.",
+        "chinese": "我舅舅是每次家庭聚会里最搞笑的人。",
+        "scene": "家庭聚会中的开心果"
+      },
+      {
+        "level": "long",
+        "english": "My uncle promised to take me fishing for years, and he finally showed up at six in the morning last Saturday with two fishing rods and a bag of snacks.",
+        "chinese": "舅舅答应带我钓鱼好多年了，上周六早上六点他终于出现了，带着两根鱼竿和一袋零食。",
+        "scene": "舅舅兑现带外甥钓鱼的承诺"
+      }
+    ]
+  },
+  {
+    "word": "aunt",
+    "phonetic": "/ænt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "阿姨；姑姑；婶婶；舅妈",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My aunt sent me this necklace.",
+        "chinese": "这串项链是我姑姑送给我的。",
+        "scene": "展示收到的礼物"
+      },
+      {
+        "level": "medium",
+        "english": "I'm staying with my aunt for a few days while my parents are away.",
+        "chinese": "我爸妈出门这几天，我住在姑姑家。",
+        "scene": "临时住在亲戚家"
+      },
+      {
+        "level": "long",
+        "english": "My aunt always slips me extra dessert when she thinks my mom isn't looking, and it's been our little secret since I was a kid.",
+        "chinese": "我姑姑总是趁我妈不注意的时候多塞给我一份甜点，这是我们从我小时候就有的小秘密。",
+        "scene": "姑姑和孩子间的甜蜜小秘密"
+      }
+    ]
+  },
+  {
+    "word": "small",
+    "phonetic": "/smɔːl/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "小的；年幼的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My apartment is pretty small.",
+        "chinese": "我的公寓非常小。",
+        "scene": "跟朋友吐槽住房面积"
+      },
+      {
+        "level": "medium",
+        "english": "When I was small, I believed there were monsters under my bed.",
+        "chinese": "我很小的时候，相信床底下有怪物。",
+        "scene": "回忆儿时天真的恐惧"
+      },
+      {
+        "level": "long",
+        "english": "The coffee shop was tiny—only a small counter and two tables—but it had the best hot chocolate I'd ever tasted, so I went back every single day that winter.",
+        "chinese": "那家咖啡馆很小，只有一个不大的柜台和两张桌子，但有我喝过最美味的热巧克力，所以那年冬天我每天都去。",
+        "scene": "发现一家小而美的咖啡馆"
+      }
+    ]
+  }
+]
