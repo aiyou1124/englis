@@ -1,0 +1,470 @@
+[
+  {
+    "word": "apple",
+    "phonetic": "/ˈæp.əl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "苹果",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I eat an apple every morning.",
+        "chinese": "我每天早上吃一个苹果。",
+        "scene": "描述日常早餐习惯"
+      },
+      {
+        "level": "medium",
+        "english": "Can you grab a few apples from the fruit bowl?",
+        "chinese": "你能从水果盘里拿几个苹果吗？",
+        "scene": "请家人帮忙拿水果"
+      },
+      {
+        "level": "long",
+        "english": "My grandma makes the best apple pie, and the whole house smells like cinnamon and baked apples when she's in the kitchen.",
+        "chinese": "我奶奶做的苹果派最好吃了，她在厨房忙活的时候，整个房子都飘着肉桂和烤苹果的香味。",
+        "scene": "回忆奶奶做苹果派的温馨时光"
+      }
+    ]
+  },
+  {
+    "word": "banana",
+    "phonetic": "/bəˈnæn.ə/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "香蕉",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The banana is still green.",
+        "chinese": "这根香蕉还是青的。",
+        "scene": "拿起一根没熟的香蕉"
+      },
+      {
+        "level": "medium",
+        "english": "I like to slice a banana into my cereal in the morning.",
+        "chinese": "我早上喜欢切一根香蕉加到麦片里。",
+        "scene": "准备早餐时的习惯"
+      },
+      {
+        "level": "long",
+        "english": "I bought a bunch of bananas two days ago, and they're already covered in brown spots because the weather is so hot.",
+        "chinese": "我两天前买了一串香蕉，因为天气太热，现在上面已经全是褐斑了。",
+        "scene": "抱怨天热导致水果熟得太快"
+      }
+    ]
+  },
+  {
+    "word": "farm",
+    "phonetic": "/fɑːrm/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "农场",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My uncle owns a small farm.",
+        "chinese": "我叔叔有个小农场。",
+        "scene": "向朋友介绍亲戚的职业"
+      },
+      {
+        "level": "medium",
+        "english": "We're going to visit a pumpkin farm this weekend.",
+        "chinese": "我们这个周末要去一个南瓜农场玩。",
+        "scene": "计划秋季周末出行"
+      },
+      {
+        "level": "long",
+        "english": "Growing up, I spent every summer on my grandparents' farm, and my favorite thing was collecting warm eggs from the chicken coop.",
+        "chinese": "小时候每个夏天我都在爷爷奶奶的农场度过，我最喜欢的事就是去鸡窝里捡热乎乎的鸡蛋。",
+        "scene": "回忆童年在农场的快乐时光"
+      }
+    ]
+  },
+  {
+    "word": "air",
+    "phonetic": "/er/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "空气；空中",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's get some fresh air.",
+        "chinese": "我们出去呼吸点新鲜空气吧。",
+        "scene": "在室内待久了提议出去走走"
+      },
+      {
+        "level": "medium",
+        "english": "The air smells like rain. I think a storm is coming.",
+        "chinese": "空气里有雨的味道，我觉得暴风雨要来了。",
+        "scene": "闻到雨前的气息"
+      },
+      {
+        "level": "long",
+        "english": "When I opened the window this morning, the cold air hit my face and I immediately knew I should have worn a warmer jacket.",
+        "chinese": "今天早上我一打开窗户，冷空气就扑面而来，我立刻意识到自己应该穿一件更厚的外套。",
+        "scene": "清晨开窗感受到寒意"
+      }
+    ]
+  },
+  {
+    "word": "orange",
+    "phonetic": "/ˈɔːr.ɪndʒ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "橙子；橙色",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This orange is really sweet.",
+        "chinese": "这个橙子真甜。",
+        "scene": "吃橙子时随口夸赞"
+      },
+      {
+        "level": "medium",
+        "english": "I squeezed three oranges to make a glass of juice.",
+        "chinese": "我榨了三个橙子做了一杯果汁。",
+        "scene": "在家自制鲜榨橙汁"
+      },
+      {
+        "level": "long",
+        "english": "My mom always puts an orange in my lunchbox, and I've grown so used to it that lunch feels incomplete without one.",
+        "chinese": "我妈妈总是在我的午餐盒里放一个橙子，我早已习惯成这样，午饭没有橙子就觉得少了点什么。",
+        "scene": "讲述妈妈给带水果的习惯"
+      }
+    ]
+  },
+  {
+    "word": "grape",
+    "phonetic": "/ɡreɪp/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "葡萄",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Please wash the grapes.",
+        "chinese": "请把葡萄洗一下。",
+        "scene": "请家人帮忙洗水果"
+      },
+      {
+        "level": "medium",
+        "english": "I love frozen grapes as a snack on hot summer days.",
+        "chinese": "在炎热的夏天，我喜欢吃冻葡萄当零食。",
+        "scene": "分享消暑小零食"
+      },
+      {
+        "level": "long",
+        "english": "I brought a bag of grapes to the park for a picnic, but by the time we sat down, they had rolled all over the basket.",
+        "chinese": "我带了一袋葡萄去公园野餐，但等我们坐下时，葡萄已经滚得整个篮子都是。",
+        "scene": "野餐时水果洒出来的小意外"
+      }
+    ]
+  },
+  {
+    "word": "school",
+    "phonetic": "/skuːl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "学校",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I walk to school every day.",
+        "chinese": "我每天走路上学。",
+        "scene": "描述上学的交通方式"
+      },
+      {
+        "level": "medium",
+        "english": "School was canceled yesterday because of the snowstorm.",
+        "chinese": "昨天因为暴风雪学校停课了。",
+        "scene": "告诉家长学校的通知"
+      },
+      {
+        "level": "long",
+        "english": "I still remember my first day of school: I was so nervous I held my dad's hand and wouldn't let go until I saw a friendly teacher at the door.",
+        "chinese": "我还记得第一天上学的场景：我紧张得一直拉着爸爸的手不放，直到在校门口看到一位和蔼的老师。",
+        "scene": "回忆第一天上学时的紧张心情"
+      }
+    ]
+  },
+  {
+    "word": "garden",
+    "phonetic": "/ˈɡɑːr.dən/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "花园；菜园",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My mom loves her flower garden.",
+        "chinese": "我妈妈很喜欢她的花园。",
+        "scene": "谈起妈妈的花园爱好"
+      },
+      {
+        "level": "medium",
+        "english": "We planted tomatoes and cucumbers in the garden this year.",
+        "chinese": "今年我们在菜园里种了西红柿和黄瓜。",
+        "scene": "分享自家菜园的种植情况"
+      },
+      {
+        "level": "long",
+        "english": "After a long day at work, I love sitting in the garden with a cup of tea, just listening to the birds and watching the sun go down.",
+        "chinese": "工作了一天之后，我喜欢坐在花园里喝杯茶，听听鸟叫，看看日落。",
+        "scene": "花园是下班后的宁静角落"
+      }
+    ]
+  },
+  {
+    "word": "need",
+    "phonetic": "/niːd/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "需要",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I need a glass of water.",
+        "chinese": "我需要一杯水。",
+        "scene": "口渴时简单说一句"
+      },
+      {
+        "level": "medium",
+        "english": "We need to leave by seven if we want to make the movie.",
+        "chinese": "如果想赶上那部电影，我们得七点前出发。",
+        "scene": "商量出门时间"
+      },
+      {
+        "level": "long",
+        "english": "I need to buy some new running shoes because my old ones are so worn out that my feet hurt after every run.",
+        "chinese": "我需要买双新跑鞋，因为旧的那双已经磨得不行了，每次跑完脚都疼。",
+        "scene": "发现运动鞋该换了"
+      }
+    ]
+  },
+  {
+    "word": "water",
+    "phonetic": "/ˈwɑː.t̬ɚ/",
+    "part_of_speech": "noun, verb",
+    "chinese_meaning": "水；给…浇水",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can I have some water?",
+        "chinese": "能给我点水吗？",
+        "scene": "在朋友家或餐厅要水喝"
+      },
+      {
+        "level": "medium",
+        "english": "Don't forget to water the plants before you leave.",
+        "chinese": "你走之前别忘了给植物浇水。",
+        "scene": "提醒家人照顾盆栽"
+      },
+      {
+        "level": "long",
+        "english": "I was so thirsty after the hike that I drank a whole bottle of water in seconds, and it was the most refreshing thing I've ever tasted.",
+        "chinese": "徒步之后我渴坏了，几秒钟就灌下了一整瓶水，那真是我喝过最解渴的东西。",
+        "scene": "运动后极度口渴"
+      }
+    ]
+  },
+  {
+    "word": "flower",
+    "phonetic": "/ˈflaʊ.ɚ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "花",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "These flowers smell wonderful.",
+        "chinese": "这些花闻起来好香。",
+        "scene": "凑近闻花香时的感叹"
+      },
+      {
+        "level": "medium",
+        "english": "He brought me flowers for no reason, just to cheer me up.",
+        "chinese": "他无缘无故给我带了花，就是为了让我开心。",
+        "scene": "收到别人送的花"
+      },
+      {
+        "level": "long",
+        "english": "I tried to grow roses last year, but the flowers never bloomed; turns out I wasn't giving them enough sun.",
+        "chinese": "去年我试着种玫瑰，但花一直没开；后来才知道是阳光不够。",
+        "scene": "种花的失败经验"
+      }
+    ]
+  },
+  {
+    "word": "grass",
+    "phonetic": "/ɡræs/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "草；草地",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The grass is wet in the morning.",
+        "chinese": "早上的草地是湿的。",
+        "scene": "早晨走到草坪上的发现"
+      },
+      {
+        "level": "medium",
+        "english": "Let's sit on the grass and eat our sandwiches.",
+        "chinese": "我们坐在草地上吃三明治吧。",
+        "scene": "公园野餐时找地方坐"
+      },
+      {
+        "level": "long",
+        "english": "My dad asked me to mow the lawn, but the grass was so tall that the mower kept getting stuck.",
+        "chinese": "我爸让我修剪草坪，但草长得太高了，割草机老是卡住。",
+        "scene": "周末做家务时遇到的麻烦"
+      }
+    ]
+  },
+  {
+    "word": "plant",
+    "phonetic": "/plænt/",
+    "part_of_speech": "noun, verb",
+    "chinese_meaning": "植物；种植",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This plant needs more sunlight.",
+        "chinese": "这株植物需要更多阳光。",
+        "scene": "观察室内盆栽后得出的结论"
+      },
+      {
+        "level": "medium",
+        "english": "We're going to plant some tulip bulbs this autumn.",
+        "chinese": "今年秋天我们打算种些郁金香球茎。",
+        "scene": "聊秋季园艺计划"
+      },
+      {
+        "level": "long",
+        "english": "I bought a tiny plant from the farmers' market, and now, two years later, it's grown so big I had to move it to a bigger pot.",
+        "chinese": "我在农夫市场买了一株小小的植物，现在两年过去了，它长得太大，我只好给它换了个更大的花盆。",
+        "scene": "看着植物慢慢长大的成就感"
+      }
+    ]
+  },
+  {
+    "word": "new",
+    "phonetic": "/nuː/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "新的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I got a new phone today.",
+        "chinese": "我今天买了个新手机。",
+        "scene": "兴奋地告诉朋友"
+      },
+      {
+        "level": "medium",
+        "english": "There's a new coffee shop on the corner. Want to try it?",
+        "chinese": "街角新开了一家咖啡店，想去试试吗？",
+        "scene": "约朋友去新店探店"
+      },
+      {
+        "level": "long",
+        "english": "Starting a new school is always scary at first, but I'm sure you'll make friends in no time.",
+        "chinese": "刚到一个新学校总是挺吓人的，但我相信你很快就能交到朋友。",
+        "scene": "安慰转学的朋友或孩子"
+      }
+    ]
+  },
+  {
+    "word": "tree",
+    "phonetic": "/triː/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "树",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "A bird is sitting on that tree.",
+        "chinese": "有只鸟停在树上。",
+        "scene": "指着窗外告诉孩子"
+      },
+      {
+        "level": "medium",
+        "english": "We hung a swing from the big tree in the backyard.",
+        "chinese": "我们在后院的大树上挂了个秋千。",
+        "scene": "为家里增添一个玩耍设施"
+      },
+      {
+        "level": "long",
+        "english": "During the storm, a huge branch fell off the old oak tree in front of our house, and we were without power for two days.",
+        "chinese": "暴风雨中，我们家门前那棵老橡树的一根大树杈掉了下来，害得我们停电了两天。",
+        "scene": "暴风雨造成的意外"
+      }
+    ]
+  },
+  {
+    "word": "sun",
+    "phonetic": "/sʌn/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "太阳；阳光",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The sun is so bright today!",
+        "chinese": "今天太阳好刺眼！",
+        "scene": "走出门被阳光晃到眼"
+      },
+      {
+        "level": "medium",
+        "english": "We spent the whole afternoon lying in the sun at the beach.",
+        "chinese": "我们整个下午都在沙滩上晒太阳。",
+        "scene": "描述惬意的海滩时光"
+      },
+      {
+        "level": "long",
+        "english": "I forgot to put on sunscreen, and after an hour in the sun, my shoulders were red and stinging.",
+        "chinese": "我忘了涂防晒霜，在太阳底下晒了一个小时，肩膀就又红又疼。",
+        "scene": "晒伤后的懊恼"
+      }
+    ]
+  },
+  {
+    "word": "give",
+    "phonetic": "/ɡɪv/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "给；给予",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can you give me a pen?",
+        "chinese": "能给我一支笔吗？",
+        "scene": "在教室或办公室借文具"
+      },
+      {
+        "level": "medium",
+        "english": "I want to give my mom something special for her birthday.",
+        "chinese": "我想给我妈妈送一份特别的生日礼物。",
+        "scene": "为妈妈挑选生日礼物"
+      },
+      {
+        "level": "long",
+        "english": "My grandpa gave me this old watch when I graduated, and even though it's not expensive, it means the world to me.",
+        "chinese": "我毕业时爷爷给了我这块旧手表，它虽然不贵，但对我来说意义非凡。",
+        "scene": "一份饱含情感的礼物"
+      }
+    ]
+  },
+  {
+    "word": "them",
+    "phonetic": "/ðem/",
+    "part_of_speech": "pronoun",
+    "chinese_meaning": "他们；她们；它们（宾格）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I don't like them.",
+        "chinese": "我不喜欢它们。",
+        "scene": "表达对某物或某事的排斥"
+      },
+      {
+        "level": "medium",
+        "english": "I bought some cookies. Do you want to try them?",
+        "chinese": "我买了些饼干，你想尝尝吗？",
+        "scene": "和朋友分享零食"
+      },
+      {
+        "level": "long",
+        "english": "I ran into my old neighbors at the store, and I was so happy to see them that we stood in the aisle talking for half an hour.",
+        "chinese": "我在商店里碰见了老邻居，太高兴了，我们在过道上站着聊了半个小时。",
+        "scene": "意外遇见熟人并热聊"
+      }
+    ]
+  }
+]

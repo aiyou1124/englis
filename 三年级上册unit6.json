@@ -1,0 +1,418 @@
+[
+  {
+    "word": "old",
+    "phonetic": "/oʊld/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "老的；旧的；…岁的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My car is getting old.",
+        "chinese": "我的车越来越旧了。",
+        "scene": "感叹自己的车老化"
+      },
+      {
+        "level": "medium",
+        "english": "I found an old photo of my parents from their wedding day.",
+        "chinese": "我找到了一张我父母结婚那天的老照片。",
+        "scene": "翻看家庭旧照片"
+      },
+      {
+        "level": "long",
+        "english": "My grandfather is eighty years old, but he still walks two miles every morning before breakfast.",
+        "chinese": "我爷爷八十岁了，但他每天早饭前仍然要走两英里。",
+        "scene": "夸家里老人身体硬朗"
+      }
+    ]
+  },
+  {
+    "word": "five",
+    "phonetic": "/faɪv/",
+    "part_of_speech": "number",
+    "chinese_meaning": "五；五个",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I have five dollars in my pocket.",
+        "chinese": "我口袋里有五美元。",
+        "scene": "摸口袋发现零钱"
+      },
+      {
+        "level": "medium",
+        "english": "We need to leave in five minutes if we want to be on time.",
+        "chinese": "如果我们想准时到，五分钟后就得出发。",
+        "scene": "催家人出门"
+      },
+      {
+        "level": "long",
+        "english": "I waited in line for five hours to get concert tickets, and by the time I reached the front, they were almost sold out.",
+        "chinese": "我排了五个小时队买演唱会门票，等我排到最前面时，票都快卖光了。",
+        "scene": "排队买票的难忘经历"
+      }
+    ]
+  },
+  {
+    "word": "year",
+    "phonetic": "/jɪr/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "年；岁",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Happy New Year!",
+        "chinese": "新年快乐！",
+        "scene": "跨年时互相祝福"
+      },
+      {
+        "level": "medium",
+        "english": "I've been studying Spanish for about a year now.",
+        "chinese": "我学西班牙语到现在差不多一年了。",
+        "scene": "聊自己的学习经历"
+      },
+      {
+        "level": "long",
+        "english": "This past year has been full of changes: I moved to a new city, started a new job, and made some amazing new friends.",
+        "chinese": "过去这一年充满了变化：我搬到了新城市，开始了新工作，还交了一些很棒的新朋友。",
+        "scene": "回顾一年来的变化"
+      }
+    ]
+  },
+  {
+    "word": "one",
+    "phonetic": "/wʌn/",
+    "part_of_speech": "number",
+    "chinese_meaning": "一；一个",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I only need one ticket.",
+        "chinese": "我只需要一张票。",
+        "scene": "在售票处买票"
+      },
+      {
+        "level": "medium",
+        "english": "Can I just have one more cookie? Just one, I promise.",
+        "chinese": "我能再吃一块饼干吗？就一块，我保证。",
+        "scene": "孩子向父母讨要零食"
+      },
+      {
+        "level": "long",
+        "english": "I spent one whole summer learning how to surf, and by the end of it, I could finally stand up on the board without falling.",
+        "chinese": "我花了一整个夏天学冲浪，到最后终于能在板上站起来不摔倒了。",
+        "scene": "回顾一个夏天的学习成果"
+      }
+    ]
+  },
+  {
+    "word": "two",
+    "phonetic": "/tuː/",
+    "part_of_speech": "number",
+    "chinese_meaning": "二；两个",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I have two cats at home.",
+        "chinese": "我家有两只猫。",
+        "scene": "跟人聊起家里的宠物"
+      },
+      {
+        "level": "medium",
+        "english": "We're going on vacation for two weeks in July.",
+        "chinese": "我们七月份要去度两周假。",
+        "scene": "分享度假计划"
+      },
+      {
+        "level": "long",
+        "english": "I only got two hours of sleep last night because my neighbor's dog wouldn't stop barking, and now I can barely keep my eyes open.",
+        "chinese": "昨晚我只睡了两个小时，因为邻居家的狗一直叫个不停，现在我眼睛都快睁不开了。",
+        "scene": "抱怨被吵得没睡好"
+      }
+    ]
+  },
+  {
+    "word": "three",
+    "phonetic": "/θriː/",
+    "part_of_speech": "number",
+    "chinese_meaning": "三；三个",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We have three dogs and one cat.",
+        "chinese": "我们有三只狗和一只猫。",
+        "scene": "介绍家里的宠物数量"
+      },
+      {
+        "level": "medium",
+        "english": "I'll meet you at the coffee shop in about three hours.",
+        "chinese": "大概三小时后我在咖啡店跟你碰面。",
+        "scene": "和朋友约见面时间"
+      },
+      {
+        "level": "long",
+        "english": "I tried to bake cookies yesterday, but I burned three batches before I finally got the timing right.",
+        "chinese": "昨天我试着烤饼干，但在我最终把握好时间之前，连续烤焦了三炉。",
+        "scene": "分享烘焙失败的经历"
+      }
+    ]
+  },
+  {
+    "word": "four",
+    "phonetic": "/fɔːr/",
+    "part_of_speech": "number",
+    "chinese_meaning": "四；四个",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Our table has four chairs.",
+        "chinese": "我们的桌子配了四把椅子。",
+        "scene": "描述餐厅或厨房的布置"
+      },
+      {
+        "level": "medium",
+        "english": "The movie starts in four minutes. Let's hurry!",
+        "chinese": "电影四分钟后开始。我们快点！",
+        "scene": "赶着进电影院"
+      },
+      {
+        "level": "long",
+        "english": "I went to the store to buy milk and came out with four bags of snacks I didn't need.",
+        "chinese": "我去商店买牛奶，结果出来时手里多了四袋我并不需要的零食。",
+        "scene": "去超市控制不住购物的经历"
+      }
+    ]
+  },
+  {
+    "word": "ten",
+    "phonetic": "/tɛn/",
+    "part_of_speech": "number",
+    "chinese_meaning": "十；十个",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'll be there in ten minutes.",
+        "chinese": "我十分钟后到。",
+        "scene": "打电话告诉朋友到达时间"
+      },
+      {
+        "level": "medium",
+        "english": "My little cousin just turned ten years old last weekend.",
+        "chinese": "我小表弟上周末刚满十岁。",
+        "scene": "聊亲戚家孩子的年龄"
+      },
+      {
+        "level": "long",
+        "english": "I set my alarm for seven, but I hit snooze ten times and ended up being late for work.",
+        "chinese": "我把闹钟设在七点，但我按了十次贪睡键，结果上班迟到了。",
+        "scene": "典型的早上起不来的经历"
+      }
+    ]
+  },
+  {
+    "word": "six",
+    "phonetic": "/sɪks/",
+    "part_of_speech": "number",
+    "chinese_meaning": "六；六个",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My dog is six years old.",
+        "chinese": "我的狗六岁了。",
+        "scene": "介绍宠物的年龄"
+      },
+      {
+        "level": "medium",
+        "english": "We're having six people for dinner, so we need a bigger table.",
+        "chinese": "我们有六个人吃晚饭，所以需要一张更大的桌子。",
+        "scene": "准备家庭聚餐"
+      },
+      {
+        "level": "long",
+        "english": "I was stuck in traffic for six hours on my way back from the beach, and by the time I got home, I was too exhausted to even eat.",
+        "chinese": "从海滩回来的路上我被堵了六个小时，到家时累得连饭都吃不下。",
+        "scene": "假日回程堵车的痛苦经历"
+      }
+    ]
+  },
+  {
+    "word": "seven",
+    "phonetic": "/ˈsɛv.ən/",
+    "part_of_speech": "number",
+    "chinese_meaning": "七；七个",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I have seven dollars in my wallet.",
+        "chinese": "我钱包里有七美元。",
+        "scene": "查看钱包里剩多少钱"
+      },
+      {
+        "level": "medium",
+        "english": "The restaurant opens at seven in the morning for breakfast.",
+        "chinese": "那家餐厅早上七点开门供应早餐。",
+        "scene": "了解餐厅的营业时间"
+      },
+      {
+        "level": "long",
+        "english": "I packed seven books for a weekend trip, thinking I'd have so much time to read, but I didn't even finish one.",
+        "chinese": "我周末旅行带了七本书，以为会有很多时间看，结果连一本都没看完。",
+        "scene": "高估自己旅行时的阅读量"
+      }
+    ]
+  },
+  {
+    "word": "eight",
+    "phonetic": "/eɪt/",
+    "part_of_speech": "number",
+    "chinese_meaning": "八；八个",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Our team scored eight goals!",
+        "chinese": "我们队进了八个球！",
+        "scene": "兴奋地报告比赛结果"
+      },
+      {
+        "level": "medium",
+        "english": "I usually go to bed around eight o'clock on weekdays.",
+        "chinese": "平时我通常八点左右上床睡觉。",
+        "scene": "谈论日常作息"
+      },
+      {
+        "level": "long",
+        "english": "I remember being eight years old and believing I could dig a hole all the way to China if I just kept going.",
+        "chinese": "我记得八岁的时候，相信只要一直挖就能挖到中国去。",
+        "scene": "回忆童年天真的想法"
+      }
+    ]
+  },
+  {
+    "word": "nine",
+    "phonetic": "/naɪn/",
+    "part_of_speech": "number",
+    "chinese_meaning": "九；九个",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She has nine unread messages on her phone.",
+        "chinese": "她手机上有九条未读消息。",
+        "scene": "注意到别人手机屏幕的提醒"
+      },
+      {
+        "level": "medium",
+        "english": "I waited for the bus for almost nine minutes in the rain.",
+        "chinese": "我在雨中等公交车等了快九分钟。",
+        "scene": "抱怨天气不好还等车"
+      },
+      {
+        "level": "long",
+        "english": "My grandmother had nine siblings, so family gatherings were always huge and loud and full of amazing food.",
+        "chinese": "我奶奶有九个兄弟姐妹，所以家庭聚会总是人又多又热闹，还有很多好吃的。",
+        "scene": "回忆祖辈大家庭的热闹场面"
+      }
+    ]
+  },
+  {
+    "word": "o'clock",
+    "phonetic": "/əˈklɑːk/",
+    "part_of_speech": "adverb",
+    "chinese_meaning": "…点钟",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'll meet you at three o'clock.",
+        "chinese": "我三点钟跟你见面。",
+        "scene": "约定碰面时间"
+      },
+      {
+        "level": "medium",
+        "english": "The alarm goes off at six o'clock every morning.",
+        "chinese": "闹钟每天早上六点钟响。",
+        "scene": "描述早上的日程"
+      },
+      {
+        "level": "long",
+        "english": "My dad used to come home from work at five o'clock on the dot, and I'd run to the door to greet him every single day.",
+        "chinese": "我爸以前每天五点钟准时下班回家，我每天都会跑到门口去迎接他。",
+        "scene": "温馨的童年记忆"
+      }
+    ]
+  },
+  {
+    "word": "cut",
+    "phonetic": "/kʌt/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "切；割；剪",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Cut the apple into small pieces.",
+        "chinese": "把苹果切成小块。",
+        "scene": "为孩子准备水果"
+      },
+      {
+        "level": "medium",
+        "english": "I need to cut my hair. It's getting way too long.",
+        "chinese": "我需要剪头发了。它长得太长了。",
+        "scene": "对着镜子自言自语"
+      },
+      {
+        "level": "long",
+        "english": "I tried to cut open a box with a dull knife and ended up cutting my finger instead, so I had to go find a bandage.",
+        "chinese": "我试着用一把钝刀划开箱子，结果割伤了自己的手指，只好去找创可贴。",
+        "scene": "拆快递时不小心弄伤手的尴尬"
+      }
+    ]
+  },
+  {
+    "word": "eat",
+    "phonetic": "/iːt/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "吃",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's eat outside today.",
+        "chinese": "我们今天到外面吃吧。",
+        "scene": "提议在户外用餐"
+      },
+      {
+        "level": "medium",
+        "english": "I usually eat lunch at my desk while checking emails.",
+        "chinese": "我通常一边看邮件一边在办公桌旁吃午饭。",
+        "scene": "描述工作日的午餐习惯"
+      },
+      {
+        "level": "long",
+        "english": "I was so hungry after the hike that I could have eaten a whole pizza by myself, but I shared it with my friends instead.",
+        "chinese": "徒步之后我太饿了，一个人就能吞下一整张披萨，但我还是跟朋友们分享了。",
+        "scene": "运动后极度饥饿但不忘分享"
+      }
+    ]
+  },
+  {
+    "word": "cake",
+    "phonetic": "/keɪk/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "蛋糕",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This chocolate cake is so good!",
+        "chinese": "这个巧克力蛋糕太好吃了！",
+        "scene": "在派对上吃到喜欢的蛋糕"
+      },
+      {
+        "level": "medium",
+        "english": "I baked a birthday cake for my mom with cream cheese frosting.",
+        "chinese": "我给我妈妈烤了一个生日蛋糕，上面涂了奶油奶酪糖霜。",
+        "scene": "为家人亲手做生日蛋糕"
+      },
+      {
+        "level": "long",
+        "english": "The cake looked so beautiful on the table, but when I tried to cut it, the whole thing fell apart because I had forgotten to let it cool down.",
+        "chinese": "蛋糕在桌上看起来很漂亮，但当我试着切的时候，整个蛋糕散了架，因为我忘了先让它冷却。",
+        "scene": "烘焙翻车：蛋糕没凉透就切导致碎裂"
+      }
+    ]
+  }
+]

@@ -1,0 +1,574 @@
+[
+  {
+    "word": "like",
+    "phonetic": "/laɪk/",
+    "part_of_speech": "verb, preposition",
+    "chinese_meaning": "喜欢；像",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I like your shoes.",
+        "chinese": "我喜欢你的鞋子。",
+        "scene": "看到朋友的新鞋随口夸赞"
+      },
+      {
+        "level": "medium",
+        "english": "She looks just like her mom when she smiles.",
+        "chinese": "她笑起来的时候跟她妈妈长得一模一样。",
+        "scene": "谈论家人长相相似"
+      },
+      {
+        "level": "long",
+        "english": "I didn't like coffee at first, but after trying a really good latte, I started to enjoy it and now I drink it every morning.",
+        "chinese": "起初我不喜欢咖啡，但在喝了一杯特别好喝的拿铁之后，我开始喜欢上了，现在每天早上都要喝。",
+        "scene": "讲述口味逐渐改变的经历"
+      }
+    ]
+  },
+  {
+    "word": "dog",
+    "phonetic": "/dɔːɡ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "狗",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "That dog is so fluffy.",
+        "chinese": "那只狗毛茸茸的。",
+        "scene": "在路边看到一只可爱的狗"
+      },
+      {
+        "level": "medium",
+        "english": "We take our dog for a walk every evening after dinner.",
+        "chinese": "我们每天晚饭后都带狗出去散步。",
+        "scene": "讲述家庭遛狗习惯"
+      },
+      {
+        "level": "long",
+        "english": "Our neighbor's dog barks every time the mailman comes, but he's actually really friendly and just wants attention.",
+        "chinese": "邻居的狗每次看到邮递员来都要叫，但它其实特别友好，只是想要引起关注。",
+        "scene": "聊起邻居家那只爱叫但亲人的狗"
+      }
+    ]
+  },
+  {
+    "word": "pet",
+    "phonetic": "/pɛt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "宠物",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Do you have a pet?",
+        "chinese": "你养宠物吗？",
+        "scene": "和新认识的朋友找话题聊天"
+      },
+      {
+        "level": "medium",
+        "english": "My daughter wants a pet rabbit for her birthday.",
+        "chinese": "我女儿生日想要一只宠物兔子。",
+        "scene": "家长之间聊孩子的心愿"
+      },
+      {
+        "level": "long",
+        "english": "We adopted a pet cat from the shelter last month, and it took her a few days to feel comfortable, but now she sleeps on my bed every night.",
+        "chinese": "上个月我们从收容所领养了一只宠物猫，它花了几天才慢慢适应，但现在每天晚上都睡在我床上。",
+        "scene": "分享领养宠物的温馨经历"
+      }
+    ]
+  },
+  {
+    "word": "cat",
+    "phonetic": "/kæt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "猫",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The cat is sleeping on the sofa.",
+        "chinese": "猫在沙发上睡觉。",
+        "scene": "随口描述家中的情景"
+      },
+      {
+        "level": "medium",
+        "english": "My cat follows me around the house like a little shadow.",
+        "chinese": "我家的猫像个小影子一样，我在屋里走到哪它跟到哪。",
+        "scene": "形容猫咪粘人的可爱习惯"
+      },
+      {
+        "level": "long",
+        "english": "I used to think cats were unfriendly, but then I met my friend's cat who jumped on my lap and started purring, and now I'm a cat person.",
+        "chinese": "我以前觉得猫不亲近人，但后来见到朋友家的猫跳到我腿上开始打呼噜，现在我完全成了一个爱猫的人。",
+        "scene": "因为一次亲密接触改变了对猫的看法"
+      }
+    ]
+  },
+  {
+    "word": "fish",
+    "phonetic": "/fɪʃ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "鱼；鱼肉",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I had fish for lunch.",
+        "chinese": "我午饭吃了鱼。",
+        "scene": "简单说起午餐吃了什么"
+      },
+      {
+        "level": "medium",
+        "english": "We keep a few small fish in a tank in the living room.",
+        "chinese": "我们在客厅的鱼缸里养了几条小鱼。",
+        "scene": "介绍家里的观赏鱼"
+      },
+      {
+        "level": "long",
+        "english": "My grandpa takes me fishing every summer, and even if we don't catch anything, we just sit on the boat and talk for hours.",
+        "chinese": "我爷爷每年夏天都带我去钓鱼，就算一条也钓不到，我们也会坐在船上聊好几个钟头。",
+        "scene": "怀念和爷爷一起钓鱼的夏日时光"
+      }
+    ]
+  },
+  {
+    "word": "bird",
+    "phonetic": "/bɜːrd/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "鸟",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Listen to that bird sing!",
+        "chinese": "听那只鸟唱歌！",
+        "scene": "清晨听到窗外鸟鸣"
+      },
+      {
+        "level": "medium",
+        "english": "A little bird built a nest right outside my window.",
+        "chinese": "一只小鸟刚好在我窗外筑了个巢。",
+        "scene": "惊喜地发现窗外的小鸟邻居"
+      },
+      {
+        "level": "long",
+        "english": "I woke up to the sound of birds chirping this morning, and it was so peaceful that I just lay in bed for an extra ten minutes.",
+        "chinese": "今天早上我被鸟叫声唤醒，那种感觉宁静极了，我在床上多赖了十分钟才起来。",
+        "scene": "周末清晨享受自然的片刻宁静"
+      }
+    ]
+  },
+  {
+    "word": "rabbit",
+    "phonetic": "/ˈræb.ɪt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "兔子",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The rabbit has long ears.",
+        "chinese": "那只兔子有对长耳朵。",
+        "scene": "带孩子观察兔子时说的话"
+      },
+      {
+        "level": "medium",
+        "english": "We saw a wild rabbit in the garden eating our carrots.",
+        "chinese": "我们看到一只野兔在菜园里偷吃我们的胡萝卜。",
+        "scene": "在自家菜园里和野生动物偶遇"
+      },
+      {
+        "level": "long",
+        "english": "My cousin has a pet rabbit that's litter-trained and hops around the house freely, just like a cat.",
+        "chinese": "我表妹养了一只宠物兔，会上厕所，还在屋里自由自在地蹦来蹦去，简直跟猫一样。",
+        "scene": "听说别人家有个性的宠物"
+      }
+    ]
+  },
+  {
+    "word": "go",
+    "phonetic": "/ɡoʊ/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "去；走",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's go to the park.",
+        "chinese": "我们去公园吧。",
+        "scene": "提议一起出门活动"
+      },
+      {
+        "level": "medium",
+        "english": "I go to the gym every morning before work.",
+        "chinese": "我每天早上上班前都去健身房。",
+        "scene": "聊起自己雷打不动的晨练习惯"
+      },
+      {
+        "level": "long",
+        "english": "I wanted to go to the concert, but the tickets were sold out, so we went to a nice restaurant instead and still had a great time.",
+        "chinese": "我本来想去看那场演唱会的，但票卖光了，于是我们就去了家不错的餐厅，结果照样玩得很开心。",
+        "scene": "计划泡汤后临时换个地方照样快乐"
+      }
+    ]
+  },
+  {
+    "word": "zoo",
+    "phonetic": "/zuː/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "动物园",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We went to the zoo yesterday.",
+        "chinese": "我们昨天去了动物园。",
+        "scene": "简单告诉别人昨天的行程"
+      },
+      {
+        "level": "medium",
+        "english": "The kids love watching the monkeys at the zoo.",
+        "chinese": "孩子们特别喜欢在动物园看猴子。",
+        "scene": "一家人在动物园里闲逛"
+      },
+      {
+        "level": "long",
+        "english": "We spent the whole day at the zoo, and by the time we saw the lions, my little brother was so tired he fell asleep in the stroller.",
+        "chinese": "我们在动物园待了一整天，等走到狮子区的时候，小弟弟已经累得在手推车里睡着了。",
+        "scene": "带娃逛动物园累并快乐的一天"
+      }
+    ]
+  },
+  {
+    "word": "fox",
+    "phonetic": "/fɑːks/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "狐狸",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I saw a fox last night.",
+        "chinese": "我昨晚看到一只狐狸。",
+        "scene": "晚上开车或回家时巧遇狐狸"
+      },
+      {
+        "level": "medium",
+        "english": "A fox comes into our backyard every once in a while.",
+        "chinese": "有只狐狸隔三差五就跑到我家后院来。",
+        "scene": "和邻居聊起常来串门的狐狸"
+      },
+      {
+        "level": "long",
+        "english": "We were camping when a fox walked right past our tent; it stared at us for a second and then disappeared into the woods.",
+        "chinese": "我们露营的时候，一只狐狸径直走过帐篷，看了我们几秒，接着就消失在树林里了。",
+        "scene": "在野外与狐狸近距离对视的奇妙瞬间"
+      }
+    ]
+  },
+  {
+    "word": "Miss",
+    "phonetic": "/mɪs/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "小姐；老师（用于未婚女性姓氏前）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Good morning, Miss Li.",
+        "chinese": "早上好，李老师/李小姐。",
+        "scene": "学生在校门口向老师问好"
+      },
+      {
+        "level": "medium",
+        "english": "Our new English teacher, Miss Parker, is really funny.",
+        "chinese": "我们新来的英语老师帕克小姐特别有趣。",
+        "scene": "同学之间讨论新来的老师"
+      },
+      {
+        "level": "long",
+        "english": "I remember my first-grade teacher, Miss Davis, who taught me to love reading by reading us stories every single day.",
+        "chinese": "我还记得我一年级的老师戴维斯小姐，她每天都给我们读故事，让我从此爱上了阅读。",
+        "scene": "怀念童年那位点燃阅读兴趣的老师"
+      }
+    ]
+  },
+  {
+    "word": "panda",
+    "phonetic": "/ˈpæn.də/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "熊猫；大熊猫",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Pandas eat bamboo.",
+        "chinese": "熊猫吃竹子。",
+        "scene": "给孩子介绍熊猫的习性"
+      },
+      {
+        "level": "medium",
+        "english": "We waited in line for an hour to see the baby panda.",
+        "chinese": "我们为了看熊猫宝宝排了一小时的队。",
+        "scene": "在动物园排队看人气动物"
+      },
+      {
+        "level": "long",
+        "english": "Seeing a panda in real life was amazing; it looked just like a giant stuffed animal, sitting there and munching on bamboo without a care.",
+        "chinese": "亲眼看到熊猫的感觉太奇妙了，它就像一只巨大的毛绒玩具，坐在那里无忧无虑地嚼着竹子。",
+        "scene": "第一次近距离看到熊猫时的兴奋感叹"
+      }
+    ]
+  },
+  {
+    "word": "red panda",
+    "phonetic": "/ˌrɛd ˈpændə/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "小熊猫；红熊猫",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Look at that cute red panda!",
+        "chinese": "快看那只可爱的小熊猫！",
+        "scene": "在动物园小熊猫馆前兴奋地指给孩子看"
+      },
+      {
+        "level": "medium",
+        "english": "The red panda was curled up on a branch, sleeping in the sun.",
+        "chinese": "那只小熊猫蜷在树枝上，在阳光下睡觉。",
+        "scene": "描述小熊猫在园内的萌态"
+      },
+      {
+        "level": "long",
+        "english": "I used to think a red panda was a baby panda, but I learned they're a totally different animal with a long, bushy tail that helps them balance.",
+        "chinese": "我以前以为小熊猫是熊猫宝宝，后来才知道它们是完全不同的动物，有一条长长的、毛茸茸的尾巴来帮助平衡。",
+        "scene": "纠正对小熊猫的误解，增长动物知识"
+      }
+    ]
+  },
+  {
+    "word": "cute",
+    "phonetic": "/kjuːt/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "可爱的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Your puppy is so cute!",
+        "chinese": "你的小狗好可爱呀！",
+        "scene": "看到朋友新养的宠物"
+      },
+      {
+        "level": "medium",
+        "english": "She wore a cute hat with little ears on it.",
+        "chinese": "她戴了一顶有对小耳朵的可爱帽子。",
+        "scene": "描述别人有趣的穿搭"
+      },
+      {
+        "level": "long",
+        "english": "My niece did this cute little dance when she heard the music, and everyone at the party gathered around to watch.",
+        "chinese": "我侄女一听到音乐就跳起一支可爱的小舞蹈，派对上的所有人都围过来看。",
+        "scene": "家庭聚会中小孩成为全场焦点"
+      }
+    ]
+  },
+  {
+    "word": "monkey",
+    "phonetic": "/ˈmʌŋ.ki/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "猴子",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The monkey is climbing the tree.",
+        "chinese": "那只猴子在爬树。",
+        "scene": "带孩子逛动物园时的现场描述"
+      },
+      {
+        "level": "medium",
+        "english": "A monkey at the park tried to take my sunglasses!",
+        "chinese": "公园里有只猴子想抢走我的太阳镜！",
+        "scene": "在景区遭遇调皮的猴子"
+      },
+      {
+        "level": "long",
+        "english": "When we visited Bali, monkeys were everywhere around the temple, and one of them opened my bag and stole a banana right out of it.",
+        "chinese": "我们在巴厘岛玩的时候，寺庙周围到处都是猴子，其中有一只竟拉开我的包，直接把里面的香蕉给偷走了。",
+        "scene": "旅行时被猴子“打劫”的有趣经历"
+      }
+    ]
+  },
+  {
+    "word": "tiger",
+    "phonetic": "/ˈtaɪ.ɡɚ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "老虎",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Tigers have stripes.",
+        "chinese": "老虎身上有条纹。",
+        "scene": "给小朋友讲解动物特征"
+      },
+      {
+        "level": "medium",
+        "english": "We heard a tiger roar during the safari tour.",
+        "chinese": "在野生动物园游览时，我们听到了老虎的吼叫声。",
+        "scene": "在野生动物园里的震撼体验"
+      },
+      {
+        "level": "long",
+        "english": "I'll never forget the moment the tiger walked right up to the glass at the zoo; it was so close I could see its golden eyes.",
+        "chinese": "我永远忘不了在动物园老虎径直走到玻璃前的那一刻，近得我连它金黄色的眼睛都能看得一清二楚。",
+        "scene": "与猛兽隔窗相望的难忘瞬间"
+      }
+    ]
+  },
+  {
+    "word": "elephant",
+    "phonetic": "/ˈel.ə.fənt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "大象",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Elephants are very smart.",
+        "chinese": "大象非常聪明。",
+        "scene": "和朋友聊起喜欢的大象"
+      },
+      {
+        "level": "medium",
+        "english": "We rode an elephant in Thailand last summer.",
+        "chinese": "去年夏天我们在泰国骑了大象。",
+        "scene": "分享旅行中特别的体验"
+      },
+      {
+        "level": "long",
+        "english": "The elephant at the sanctuary gently took food from my hand with its trunk, and it felt both ticklish and magical.",
+        "chinese": "保护区里的大象用鼻子温柔地从我手里取走食物，那种感觉又痒又神奇。",
+        "scene": "在动物保护区与大象互动的奇妙感"
+      }
+    ]
+  },
+  {
+    "word": "lion",
+    "phonetic": "/ˈlaɪ.ən/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "狮子",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The lion is sleeping in the sun.",
+        "chinese": "狮子在太阳底下睡觉。",
+        "scene": "在动物园看到狮子懒洋洋的样子"
+      },
+      {
+        "level": "medium",
+        "english": "In the movie, the lion cub learns to be brave.",
+        "chinese": "电影里，那只小狮子学会了勇敢。",
+        "scene": "和孩子讨论看过的动画电影"
+      },
+      {
+        "level": "long",
+        "english": "I always thought lions were scary, but when I saw them at the zoo they were just lounging around like big lazy cats.",
+        "chinese": "我一直觉得狮子很吓人，但在动物园看到它们就像大懒猫一样瘫在那里，感觉完全不一样了。",
+        "scene": "发现猛兽也有慵懒可爱的一面"
+      }
+    ]
+  },
+  {
+    "word": "animal",
+    "phonetic": "/ˈæn.ɪ.məl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "动物",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "What's your favorite animal?",
+        "chinese": "你最喜欢什么动物？",
+        "scene": "小孩子之间最常见的聊天话题"
+      },
+      {
+        "level": "medium",
+        "english": "We're learning about different animal habitats in science class.",
+        "chinese": "我们在科学课上学习不同动物的栖息地。",
+        "scene": "学生跟家长汇报课堂内容"
+      },
+      {
+        "level": "long",
+        "english": "My dream job is to be a vet so I can help sick animals, because I've loved every kind of animal since I was a little kid.",
+        "chinese": "我的梦想是当一名兽医，帮助生病的动物，因为我从小就喜欢各种小动物。",
+        "scene": "和朋友分享未来职业的理想"
+      }
+    ]
+  },
+  {
+    "word": "giraffe",
+    "phonetic": "/dʒɪˈræf/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "长颈鹿",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Giraffes have long necks.",
+        "chinese": "长颈鹿有很长的脖子。",
+        "scene": "指着绘本给孩子讲解"
+      },
+      {
+        "level": "medium",
+        "english": "We fed a giraffe at the zoo and its tongue was purple!",
+        "chinese": "我们在动物园喂长颈鹿，它的舌头居然是紫色的！",
+        "scene": "兴奋地分享喂食动物的新奇发现"
+      },
+      {
+        "level": "long",
+        "english": "Seeing a giraffe up close is incredible because they look so gentle, and their eyelashes are ridiculously long and pretty.",
+        "chinese": "近距离看长颈鹿的感觉真是难以置信，它们看起来非常温顺，而且睫毛长得不可思议，漂亮极了。",
+        "scene": "在野生动物园近距离观察长颈鹿的感叹"
+      }
+    ]
+  },
+  {
+    "word": "tall",
+    "phonetic": "/tɔːl/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "高的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My dad is very tall.",
+        "chinese": "我爸爸很高。",
+        "scene": "向同学介绍家人"
+      },
+      {
+        "level": "medium",
+        "english": "She's the tallest girl in our class.",
+        "chinese": "她是我们班个子最高的女生。",
+        "scene": "和别的班同学介绍班级情况"
+      },
+      {
+        "level": "long",
+        "english": "I had to stand on my toes to reach the top shelf, but my tall friend just reached up and grabbed it without any effort.",
+        "chinese": "我得踮起脚尖才能勉强够着顶层架子，而我那位高个子朋友一伸手就轻轻松松拿下来了。",
+        "scene": "矮个子和高个子朋友日常拿东西的对比"
+      }
+    ]
+  },
+  {
+    "word": "fast",
+    "phonetic": "/fæst/",
+    "part_of_speech": "adjective, adverb",
+    "chinese_meaning": "快的；快地",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "He runs really fast.",
+        "chinese": "他跑得非常快。",
+        "scene": "看运动会时评价选手"
+      },
+      {
+        "level": "medium",
+        "english": "The fast train gets you downtown in ten minutes.",
+        "chinese": "坐那趟快车到市中心只要十分钟。",
+        "scene": "给别人指路或推荐交通方式"
+      },
+      {
+        "level": "long",
+        "english": "I ate my breakfast so fast this morning that I got a stomachache, so I'm never doing that again.",
+        "chinese": "今天早上我早饭吃得太快，结果搞得肚子疼，我以后再也不敢这么狼吞虎咽了。",
+        "scene": "分享早晨匆忙带来的小教训"
+      }
+    ]
+  }
+]

@@ -1,0 +1,444 @@
+[
+  {
+    "word": "colour",
+    "phonetic": "/ˈkʌl.ər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "颜色（英式拼写）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "What colour is your car?",
+        "chinese": "你的车是什么颜色的？",
+        "scene": "闲聊时问起对方车子的颜色"
+      },
+      {
+        "level": "medium",
+        "english": "I love the colour of the sky just before the sun goes down.",
+        "chinese": "我特别喜欢日落前天空的颜色。",
+        "scene": "欣赏傍晚天空时的感叹"
+      },
+      {
+        "level": "long",
+        "english": "We spent an hour arguing about what colour to paint the living room, and we ended up choosing a light grey that everyone hates.",
+        "chinese": "我们花了一个小时争论客厅刷什么颜色，最后选了一种浅灰色，结果大家都不喜欢。",
+        "scene": "家庭装修选颜色时的争吵"
+      }
+    ]
+  },
+  {
+    "word": "orange",
+    "phonetic": "/ˈɔːr.ɪndʒ/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "橙色的；橙色",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She wore a bright orange dress.",
+        "chinese": "她穿了一件亮橙色的连衣裙。",
+        "scene": "描述别人醒目的穿着"
+      },
+      {
+        "level": "medium",
+        "english": "The leaves turn orange and red every autumn in our neighborhood.",
+        "chinese": "每年秋天我们街区的树叶都会变成橙色和红色。",
+        "scene": "谈论季节变化带来的景色"
+      },
+      {
+        "level": "long",
+        "english": "I wanted to dye my hair orange for the concert, but my mom talked me out of it and I ended up with just an orange streak instead.",
+        "chinese": "我本想为演唱会染个橙色头发，但我妈劝住了我，最后我只挑染了一缕橙色。",
+        "scene": "一时冲动想染夸张发色又被劝住的经历"
+      }
+    ]
+  },
+  {
+    "word": "green",
+    "phonetic": "/ɡriːn/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "绿色的；绿色",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I like your green backpack.",
+        "chinese": "我喜欢你的绿色背包。",
+        "scene": "看到同学的新书包随口夸奖"
+      },
+      {
+        "level": "medium",
+        "english": "The salad is mostly green, but it has some tomatoes and carrots.",
+        "chinese": "这份沙拉大部分是绿色的，但里面有些番茄和胡萝卜。",
+        "scene": "描述午餐沙拉的内容"
+      },
+      {
+        "level": "long",
+        "english": "When the traffic light turned green, the car in front of me didn't move, so I gently honked and the driver waved an apology.",
+        "chinese": "当交通信号灯变绿时，我前面的车没动，于是我轻轻按了下喇叭，那位司机挥手表示歉意。",
+        "scene": "路口等红灯变绿时的小插曲"
+      }
+    ]
+  },
+  {
+    "word": "red",
+    "phonetic": "/rɛd/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "红色的；红色",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The stop sign is red.",
+        "chinese": "停车标志是红色的。",
+        "scene": "教小孩认识交通标志"
+      },
+      {
+        "level": "medium",
+        "english": "I love wearing red lipstick when I go out with friends.",
+        "chinese": "和朋友出去玩时我喜欢涂红色口红。",
+        "scene": "分享化妆的小爱好"
+      },
+      {
+        "level": "long",
+        "english": "I spilled red wine on my new white shirt at the party, and I spent the rest of the night trying to hide the stain with a jacket.",
+        "chinese": "派对上我把红酒洒在了新的白衬衫上，结果整个晚上我都用外套遮着那块污渍。",
+        "scene": "社交场合的尴尬小意外"
+      }
+    ]
+  },
+  {
+    "word": "blue",
+    "phonetic": "/bluː/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "蓝色的；蓝色；忧伤的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The sky is so blue today.",
+        "chinese": "今天天空真蓝。",
+        "scene": "天气好时抬头看天"
+      },
+      {
+        "level": "medium",
+        "english": "He's been feeling a little blue since his best friend moved away.",
+        "chinese": "自从最好的朋友搬走后，他一直有点闷闷不乐。",
+        "scene": "关心朋友的情绪状态"
+      },
+      {
+        "level": "long",
+        "english": "I painted my room a soft blue because I heard it helps you sleep better, and honestly, I've been sleeping like a baby ever since.",
+        "chinese": "我把房间刷成了柔和的蓝色，因为听说这样有助睡眠，老实说，从那以后我睡得特别香。",
+        "scene": "用颜色改善睡眠质量的尝试"
+      }
+    ]
+  },
+  {
+    "word": "make",
+    "phonetic": "/meɪk/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "制作；做；使得",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's make a cake for Dad.",
+        "chinese": "我们给爸爸做个蛋糕吧。",
+        "scene": "孩子提议为爸爸准备惊喜"
+      },
+      {
+        "level": "medium",
+        "english": "Could you make me a cup of coffee, please?",
+        "chinese": "你能帮我冲杯咖啡吗？",
+        "scene": "早上请家人帮忙做咖啡"
+      },
+      {
+        "level": "long",
+        "english": "Watching that funny video really made my day; I was in such a bad mood before, and now I can't stop smiling.",
+        "chinese": "看了那个搞笑视频真让我开心了一整天，之前心情还很差，现在笑得停不下来。",
+        "scene": "一个搞笑视频改变心情的瞬间"
+      }
+    ]
+  },
+  {
+    "word": "purple",
+    "phonetic": "/ˈpɜːr.pəl/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "紫色的；紫色",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She has a purple pencil case.",
+        "chinese": "她有一个紫色的铅笔盒。",
+        "scene": "观察同学的文具"
+      },
+      {
+        "level": "medium",
+        "english": "The sky turned a beautiful shade of purple after the storm.",
+        "chinese": "暴风雨过后，天空变成了一种美丽的紫色。",
+        "scene": "雨后傍晚的迷人天色"
+      },
+      {
+        "level": "long",
+        "english": "My grandma's favourite colour was purple, so every time I see a purple flower, it reminds me of her garden and the time we spent together.",
+        "chinese": "我奶奶最喜欢的颜色是紫色，所以每次看到紫色的花，我都会想起她的花园和我们一起度过的时光。",
+        "scene": "睹物思人的温情回忆"
+      }
+    ]
+  },
+  {
+    "word": "brown",
+    "phonetic": "/braʊn/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "棕色的；棕色",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "He has brown eyes.",
+        "chinese": "他有一双棕色的眼睛。",
+        "scene": "描述某人的外貌特征"
+      },
+      {
+        "level": "medium",
+        "english": "I'll have a brown sugar latte, please.",
+        "chinese": "我要一杯红糖拿铁，谢谢。",
+        "scene": "在咖啡店点单"
+      },
+      {
+        "level": "long",
+        "english": "I tried to bake brownies for the first time, and the edges got a little too brown, but the middle was still soft and delicious.",
+        "chinese": "我第一次尝试烤布朗尼，边上烤得有点焦黄了，但中间还是又软又好吃。",
+        "scene": "分享烘焙的小翻车与成功"
+      }
+    ]
+  },
+  {
+    "word": "bear",
+    "phonetic": "/bɛr/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "熊",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I saw a bear on TV.",
+        "chinese": "我在电视上看到一只熊。",
+        "scene": "孩子说起在纪录片里看到的动物"
+      },
+      {
+        "level": "medium",
+        "english": "We had to be careful with our food while camping because of bears.",
+        "chinese": "露营时我们得小心存放食物，因为有熊出没。",
+        "scene": "交流露营时的安全注意事项"
+      },
+      {
+        "level": "long",
+        "english": "When we were driving through the mountains, a black bear crossed the road right in front of us, and we just sat there in silence, completely amazed.",
+        "chinese": "我们开车穿过山区时，一只黑熊就在我们车前横穿马路，我们静静地坐在车里，完全被震撼到了。",
+        "scene": "在野外与熊近距离邂逅的难忘经历"
+      }
+    ]
+  },
+  {
+    "word": "yellow",
+    "phonetic": "/ˈjɛl.oʊ/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "黄色的；黄色",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She drives a yellow car.",
+        "chinese": "她开一辆黄色的车。",
+        "scene": "描述某人的车子颜色"
+      },
+      {
+        "level": "medium",
+        "english": "I love how the yellow leaves look in the fall sunshine.",
+        "chinese": "我喜欢黄色树叶在秋日阳光下的样子。",
+        "scene": "欣赏秋天景色"
+      },
+      {
+        "level": "long",
+        "english": "I put on a bright yellow raincoat this morning because the forecast said it would pour, and of course, it turned out to be sunny all day.",
+        "chinese": "今天早上我穿了一件亮黄色雨衣，因为天气预报说会下大雨，结果当然是一整天都大晴天。",
+        "scene": "被天气预报忽悠的尴尬经历"
+      }
+    ]
+  },
+  {
+    "word": "duck",
+    "phonetic": "/dʌk/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "鸭子",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Look at the ducks in the pond!",
+        "chinese": "看池塘里的鸭子！",
+        "scene": "逛公园时指着水面上"
+      },
+      {
+        "level": "medium",
+        "english": "We fed the ducks some old bread at the lake yesterday.",
+        "chinese": "昨天我们在湖边用一些旧面包喂了鸭子。",
+        "scene": "周末湖边的亲子活动"
+      },
+      {
+        "level": "long",
+        "english": "A mama duck and her little ducklings crossed the busy road, and all the cars just stopped and waited until they were safely on the other side.",
+        "chinese": "一只鸭妈妈带着一群小鸭子横穿繁忙的马路，所有的车都停下来等着，直到它们安全走到另一边。",
+        "scene": "路上遇到鸭子一家过马路的暖心一幕"
+      }
+    ]
+  },
+  {
+    "word": "sea",
+    "phonetic": "/siː/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "海；海洋",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I can hear the sea from here.",
+        "chinese": "我从这里能听到海的声音。",
+        "scene": "走近海边时的感慨"
+      },
+      {
+        "level": "medium",
+        "english": "We spent our vacation by the sea, swimming every single day.",
+        "chinese": "我们在海边度过了假期，每天都会去游泳。",
+        "scene": "描述惬意的海边假期"
+      },
+      {
+        "level": "long",
+        "english": "The sea was so clear that we could see little fish swimming around our feet, and I wished I had brought an underwater camera.",
+        "chinese": "海水清澈得能看见小鱼在我们脚边游来游去，我真后悔没带水下相机。",
+        "scene": "清澈海水带来的惊喜与遗憾"
+      }
+    ]
+  },
+  {
+    "word": "some",
+    "phonetic": "/sʌm/",
+    "part_of_speech": "determiner, pronoun",
+    "chinese_meaning": "一些；若干",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can I have some water?",
+        "chinese": "我能喝点水吗？",
+        "scene": "在家或餐厅提出请求"
+      },
+      {
+        "level": "medium",
+        "english": "I need to buy some milk and eggs on the way home.",
+        "chinese": "我回家路上得买些牛奶和鸡蛋。",
+        "scene": "心里默念购物清单"
+      },
+      {
+        "level": "long",
+        "english": "I baked some cookies for the school bake sale, but my brother ate half of them before I even left the house.",
+        "chinese": "我为学校义卖烤了些饼干，可我还没出门，弟弟就吃掉了一半。",
+        "scene": "辛苦准备的东西被家人偷吃"
+      }
+    ]
+  },
+  {
+    "word": "pink",
+    "phonetic": "/pɪŋk/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "粉红色的；粉红色",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She painted her nails pink.",
+        "chinese": "她把指甲涂成了粉红色。",
+        "scene": "注意到朋友的新美甲"
+      },
+      {
+        "level": "medium",
+        "english": "My little sister insists that everything she owns has to be pink.",
+        "chinese": "我妹妹坚持她所有的东西都必须是粉红色的。",
+        "scene": "吐槽妹妹对粉色的执着"
+      },
+      {
+        "level": "long",
+        "english": "I ordered a pink sweater online, but when it arrived, it was more like a neon pink, which was way brighter than I expected.",
+        "chinese": "我在网上订了一件粉色毛衣，但收到后才发现那是荧光粉，比我预想的亮太多了。",
+        "scene": "网购色差带来的哭笑不得"
+      }
+    ]
+  },
+  {
+    "word": "draw",
+    "phonetic": "/drɔː/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "画；绘制",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can you draw a cat?",
+        "chinese": "你会画猫吗？",
+        "scene": "小朋友之间互相问"
+      },
+      {
+        "level": "medium",
+        "english": "My daughter loves to draw pictures of our family and our dog.",
+        "chinese": "我女儿喜欢画我们的家人和狗。",
+        "scene": "展示孩子的涂鸦作品"
+      },
+      {
+        "level": "long",
+        "english": "I used to draw on the back of my notebooks during class, and one time my teacher caught me, but she just smiled and said I had a gift.",
+        "chinese": "我以前上课时在笔记本背面画画，有一次被老师抓到了，但她只是笑了笑，说我很有天赋。",
+        "scene": "回忆学生时代在课上偷画画的经历"
+      }
+    ]
+  },
+  {
+    "word": "white",
+    "phonetic": "/waɪt/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "白色的；白色",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I love your white shoes.",
+        "chinese": "我喜欢你的白鞋。",
+        "scene": "夸奖朋友的新鞋"
+      },
+      {
+        "level": "medium",
+        "english": "The whole garden was covered in white snow this morning.",
+        "chinese": "今天早上整个花园都被白雪覆盖了。",
+        "scene": "描述下雪后的美景"
+      },
+      {
+        "level": "long",
+        "english": "I bought a white couch thinking it would look elegant, but with two kids and a dog, it was a terrible decision.",
+        "chinese": "我买了一张白色沙发，本以为会很雅致，但有两个孩子和一条狗，这真是个糟糕的决定。",
+        "scene": "有娃有宠物后对白色家具的后悔"
+      }
+    ]
+  },
+  {
+    "word": "black",
+    "phonetic": "/blæk/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "黑色的；黑色",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "He was wearing a black hat.",
+        "chinese": "他戴着一顶黑色的帽子。",
+        "scene": "描述某人的装扮"
+      },
+      {
+        "level": "medium",
+        "english": "Most of my clothes are black because it's just easier to match.",
+        "chinese": "我大部分衣服都是黑色的，因为这样更好搭配。",
+        "scene": "解释自己穿衣风格的原因"
+      },
+      {
+        "level": "long",
+        "english": "I walked into a black coffee table in the middle of the night because I didn't turn on the light, and now my shin has a huge bruise.",
+        "chinese": "半夜我没开灯，结果撞上了黑色的茶几，现在小腿上青了一大块。",
+        "scene": "半夜摸黑撞到家具的惨痛经历"
+      }
+    ]
+  }
+]
