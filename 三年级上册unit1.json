@@ -1,0 +1,392 @@
+[
+  {
+    "word": "name",
+    "phonetic": "/neɪm/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "名字；名称",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My name is Tom.",
+        "chinese": "我的名字叫汤姆。",
+        "scene": "自我介绍"
+      },
+      {
+        "level": "medium",
+        "english": "I can't remember her name, but she was very nice.",
+        "chinese": "我记不起她的名字了，但她人很好。",
+        "scene": "朋友聊天谈起某人"
+      },
+      {
+        "level": "long",
+        "english": "When I was in line for coffee, the barista asked for my name, and I almost said my brother's name by accident because I was so tired.",
+        "chinese": "我排队买咖啡的时候，咖啡师问我的名字，我累得差点说成我哥哥的名字。",
+        "scene": "在咖啡店点单时发生的小插曲"
+      }
+    ]
+  },
+  {
+    "word": "nice",
+    "phonetic": "/naɪs/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "友好的；令人愉快的；好看的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "That's a nice shirt.",
+        "chinese": "那件衬衫很好看。",
+        "scene": "朋友之间互相夸奖衣着"
+      },
+      {
+        "level": "medium",
+        "english": "Everyone at the party was really nice to me.",
+        "chinese": "派对上的每个人都对我非常友好。",
+        "scene": "参加聚会后的感受"
+      },
+      {
+        "level": "long",
+        "english": "I was nervous about the first day, but my new coworkers turned out to be super nice and even invited me to grab lunch with them.",
+        "chinese": "我第一天很紧张，但新同事们特别友好，还邀请我和他们一起去吃午饭。",
+        "scene": "新人第一天上班的体验"
+      }
+    ]
+  },
+  {
+    "word": "ear",
+    "phonetic": "/ɪr/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "耳朵",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My right ear hurts a little.",
+        "chinese": "我的右耳有点疼。",
+        "scene": "跟家人说不舒服"
+      },
+      {
+        "level": "medium",
+        "english": "Can you speak into my left ear? I can't hear well on the other side.",
+        "chinese": "你能对着我的左耳说吗？我另一只耳朵听不太清。",
+        "scene": "请求对方换一边说话"
+      },
+      {
+        "level": "long",
+        "english": "I tried to clean my ear with a cotton swab, but then it felt blocked, so I made an appointment to get my ears checked.",
+        "chinese": "我试着用棉签清理耳朵，结果感觉堵住了，就预约去检查耳朵。",
+        "scene": "生活中耳朵不适去看医生"
+      }
+    ]
+  },
+  {
+    "word": "hand",
+    "phonetic": "/hænd/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "手",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Wash your hands before dinner.",
+        "chinese": "晚饭前要洗手。",
+        "scene": "家长提醒孩子饭前洗手"
+      },
+      {
+        "level": "medium",
+        "english": "He held my hand while we walked through the crowd.",
+        "chinese": "我们穿过人群的时候他牵着我的手。",
+        "scene": "逛街或游乐场人多时"
+      },
+      {
+        "level": "long",
+        "english": "I burned my hand a little while taking the pan out of the oven, so I ran it under cold water for a few minutes and now it feels better.",
+        "chinese": "我把烤盘从烤箱拿出来时手稍微烫了一下，赶紧用冷水冲了几分钟，现在好多了。",
+        "scene": "做饭时的小意外"
+      }
+    ]
+  },
+  {
+    "word": "eye",
+    "phonetic": "/aɪ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "眼睛",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Close your eyes and make a wish.",
+        "chinese": "闭上眼睛许个愿。",
+        "scene": "生日派对吹蜡烛前"
+      },
+      {
+        "level": "medium",
+        "english": "Something got into my eye. Can you see if there's anything?",
+        "chinese": "我眼睛里进东西了，你能帮我看看吗？",
+        "scene": "户外活动时眼睛不适"
+      },
+      {
+        "level": "long",
+        "english": "I rubbed my eyes so hard because of allergies that they turned red, and my friend jokingly asked if I'd been crying.",
+        "chinese": "过敏让我使劲揉眼睛，结果眼睛都红了，朋友开玩笑问我是不是刚哭过。",
+        "scene": "过敏季节的日常尴尬"
+      }
+    ]
+  },
+  {
+    "word": "mouth",
+    "phonetic": "/maʊθ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "嘴；口",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Don't talk with your mouth full.",
+        "chinese": "嘴里塞满东西时不要说话。",
+        "scene": "饭桌上的礼仪提醒"
+      },
+      {
+        "level": "medium",
+        "english": "The food was so spicy that my whole mouth was burning.",
+        "chinese": "那个食物太辣了，辣得我整个嘴像着了火一样。",
+        "scene": "吃到超辣食物后的反应"
+      },
+      {
+        "level": "long",
+        "english": "I woke up with a weird taste in my mouth and realized I'd forgotten to brush my teeth the night before after that late-night snack.",
+        "chinese": "我醒来时嘴里有股怪味，才意识到昨晚吃了夜宵后忘了刷牙。",
+        "scene": "早上起床时的懊恼"
+      }
+    ]
+  },
+  {
+    "word": "arm",
+    "phonetic": "/ɑːrm/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "手臂；胳膊",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My arm is sore from the shot.",
+        "chinese": "我打针的那只手臂酸痛。",
+        "scene": "打完疫苗后跟朋友说明情况"
+      },
+      {
+        "level": "medium",
+        "english": "I fell off my bike and scraped my arm, but it's not too bad.",
+        "chinese": "我从自行车上摔下来擦伤了手臂，不过不太严重。",
+        "scene": "骑自行车发生小意外"
+      },
+      {
+        "level": "long",
+        "english": "She grabbed my arm and pulled me back just before I stepped into the street without looking, and I was so grateful she was paying attention.",
+        "chinese": "我过马路没看车就要迈步，她一把抓住我的胳膊把我拉回来，我特别感激她留意到了。",
+        "scene": "朋友及时阻止危险发生"
+      }
+    ]
+  },
+  {
+    "word": "can",
+    "phonetic": "/kæn/",
+    "part_of_speech": "modal verb",
+    "chinese_meaning": "能；可以；会",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I can swim.",
+        "chinese": "我会游泳。",
+        "scene": "告诉别人自己会的技能"
+      },
+      {
+        "level": "medium",
+        "english": "Can you pick up some milk on your way home?",
+        "chinese": "你回家的路上能买点牛奶吗？",
+        "scene": "家人之间拜托带东西"
+      },
+      {
+        "level": "long",
+        "english": "I can’t believe I left my keys inside again, but luckily my roommate can come back early to let me in.",
+        "chinese": "我简直不敢相信又把钥匙落在屋里了，不过好在室友可以早点回来给我开门。",
+        "scene": "钥匙锁在家里的窘境"
+      }
+    ]
+  },
+  {
+    "word": "share",
+    "phonetic": "/ʃer/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "分享；共用；告诉别人",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's share the cake.",
+        "chinese": "我们一起吃这块蛋糕吧。",
+        "scene": "小朋友之间分零食"
+      },
+      {
+        "level": "medium",
+        "english": "Do you want to share a ride to the airport tomorrow?",
+        "chinese": "明天你愿意一起拼车去机场吗？",
+        "scene": "商量出行计划"
+      },
+      {
+        "level": "long",
+        "english": "During the meeting, she shared a story about how she solved the same problem at her last job, and it really helped everyone calm down.",
+        "chinese": "会上她分享了自己上一份工作时如何解决类似问题的经历，真的让大家都镇定下来了。",
+        "scene": "工作会议上同事分享经验"
+      }
+    ]
+  },
+  {
+    "word": "smile",
+    "phonetic": "/smaɪl/",
+    "part_of_speech": "verb / noun",
+    "chinese_meaning": "微笑；笑容",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "You have a beautiful smile.",
+        "chinese": "你的笑容很美。",
+        "scene": "真诚地赞美对方"
+      },
+      {
+        "level": "medium",
+        "english": "Every time I see her, she smiles and says hello.",
+        "chinese": "我每次见到她，她都会微笑着打招呼。",
+        "scene": "描述一位友善的邻居或同事"
+      },
+      {
+        "level": "long",
+        "english": "I was having a really tough morning, but when the barista smiled and remembered my order, it completely turned my day around.",
+        "chinese": "我今天上午本来特别难熬，但咖啡师微笑着还记下了我的点单，那一刻我的心情完全变好了。",
+        "scene": "咖啡馆里陌生人的善意"
+      }
+    ]
+  },
+  {
+    "word": "listen",
+    "phonetic": "/ˈlɪs.ən/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "听；倾听；听从",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Listen to me, please.",
+        "chinese": "请听我说。",
+        "scene": "希望引起对方注意认真听"
+      },
+      {
+        "level": "medium",
+        "english": "I love listening to music while I cook dinner.",
+        "chinese": "我喜欢做晚饭时听音乐。",
+        "scene": "谈论日常习惯"
+      },
+      {
+        "level": "long",
+        "english": "I wish I had listened to my mom when she told me to bring an umbrella, because now I'm completely soaked walking home in the rain.",
+        "chinese": "我真希望当初听了妈妈的话带上雨伞，现在只能淋着雨走回家，浑身都湿透了。",
+        "scene": "后悔没听长辈建议"
+      }
+    ]
+  },
+  {
+    "word": "help",
+    "phonetic": "/hɛlp/",
+    "part_of_speech": "verb / noun",
+    "chinese_meaning": "帮助；帮忙；援助",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can I help you?",
+        "chinese": "需要帮忙吗？",
+        "scene": "店员主动询问顾客"
+      },
+      {
+        "level": "medium",
+        "english": "Thanks for helping me move the couch. I couldn't do it alone.",
+        "chinese": "谢谢你帮我搬沙发，我一个人搬不动。",
+        "scene": "朋友帮忙搬家或挪家具"
+      },
+      {
+        "level": "long",
+        "english": "When my car broke down, a stranger stopped to help, and we ended up waiting together for the tow truck and talking about our dogs.",
+        "chinese": "我车抛锚时，一位陌生人停下来帮忙，最后我们一起等拖车，还聊了聊彼此养的狗。",
+        "scene": "路遇好心人"
+      }
+    ]
+  },
+  {
+    "word": "say",
+    "phonetic": "/seɪ/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "说；讲；表明",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "What did you say?",
+        "chinese": "你刚说什么？",
+        "scene": "没听清对方的话"
+      },
+      {
+        "level": "medium",
+        "english": "She didn't say goodbye before she left, which was a little strange.",
+        "chinese": "她走之前没说再见，这有点奇怪。",
+        "scene": "留意到朋友的反常行为"
+      },
+      {
+        "level": "long",
+        "english": "I wanted to say thank you for the gift, but I got shy and just smiled, so I sent a text message later to say how much I loved it.",
+        "chinese": "我本来想当面谢谢你的礼物，但害羞得只笑了笑，后来发了条短信说我很喜欢。",
+        "scene": "当面表达感谢有点尴尬转而用文字"
+      }
+    ]
+  },
+  {
+    "word": "friend",
+    "phonetic": "/frɛnd/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "朋友",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She is my best friend.",
+        "chinese": "她是我最好的朋友。",
+        "scene": "向别人介绍闺蜜或死党"
+      },
+      {
+        "level": "medium",
+        "english": "I'm meeting an old friend for coffee this afternoon.",
+        "chinese": "我今天下午约了一位老朋友喝咖啡。",
+        "scene": "安排与老友叙旧"
+      },
+      {
+        "level": "long",
+        "english": "A true friend isn't someone who just hangs out with you when things are fun, but someone who shows up when you really need support.",
+        "chinese": "真正的朋友不是只在好玩的时候陪你玩的人，而是在你真正需要支持时出现的人。",
+        "scene": "经历困难后对友情的感悟"
+      }
+    ]
+  },
+  {
+    "word": "good",
+    "phonetic": "/ɡʊd/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "好的；愉快的；擅长的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This pizza is so good.",
+        "chinese": "这个比萨太好吃了。",
+        "scene": "吃到喜欢的食物时赞叹"
+      },
+      {
+        "level": "medium",
+        "english": "She's really good at explaining hard things in a simple way.",
+        "chinese": "她特别擅长用简单的方式解释难懂的东西。",
+        "scene": "夸奖朋友或同事的讲解能力"
+      },
+      {
+        "level": "long",
+        "english": "It was a good day—we didn't do anything special, just walked around the park and had ice cream, but it felt exactly right.",
+        "chinese": "那是一个美好的一天，我们没做什么特别的事，只是在公园逛逛、吃冰淇淋，但感觉恰到好处。",
+        "scene": "描述平淡但惬意的周末"
+      }
+    ]
+  }
+]
