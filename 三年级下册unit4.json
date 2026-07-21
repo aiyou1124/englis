@@ -1,0 +1,444 @@
+[
+  {
+    "word": "breakfast",
+    "phonetic": "/ˈbrekfəst/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "早餐",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I had cereal for breakfast.",
+        "chinese": "我早餐吃了麦片。",
+        "scene": "早餐吃什么"
+      },
+      {
+        "level": "medium",
+        "english": "I skipped breakfast this morning, so I'm already starving and it's only ten o'clock.",
+        "chinese": "我今天早上没吃早饭，才十点我就饿坏了。",
+        "scene": "没吃早餐"
+      },
+      {
+        "level": "long",
+        "english": "On Sundays, my dad makes a huge breakfast with pancakes, scrambled eggs, and bacon, and we all sit around the table talking and laughing for an hour.",
+        "chinese": "星期天，我爸会做一顿丰盛的早餐，有煎饼、炒蛋和培根，我们全家人围坐在餐桌旁有说有笑地聊上一个小时。",
+        "scene": "家庭周日早餐"
+      }
+    ]
+  },
+  {
+    "word": "time",
+    "phonetic": "/taɪm/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "时间；次",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "What time do we leave?",
+        "chinese": "我们几点出发？",
+        "scene": "问时间"
+      },
+      {
+        "level": "medium",
+        "english": "It's almost time to go; grab your jacket and let's head out the door.",
+        "chinese": "差不多该走了，拿上你的外套，我们出门吧。",
+        "scene": "准备出门"
+      },
+      {
+        "level": "long",
+        "english": "I can't believe how much time we wasted sitting in traffic — we could have taken the back roads and been here an hour ago.",
+        "chinese": "真不敢相信我们在堵车上浪费了这么多时间，要是走小路，我们一个小时前就该到了。",
+        "scene": "堵车后悔"
+      }
+    ]
+  },
+  {
+    "word": "bread",
+    "phonetic": "/brɛd/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "面包",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I need to buy some bread.",
+        "chinese": "我需要买点面包。",
+        "scene": "购物"
+      },
+      {
+        "level": "medium",
+        "english": "Can you pick up a loaf of bread on your way home from work?",
+        "chinese": "你下班回家路上能顺便带一条面包回来吗？",
+        "scene": "请人带面包"
+      },
+      {
+        "level": "long",
+        "english": "My grandmother used to bake fresh bread every Saturday morning, and the whole house would smell amazing for the rest of the day.",
+        "chinese": "我奶奶以前每个星期六早上都会烤新鲜面包，接下来一整天整个房子都香得不得了。",
+        "scene": "回忆奶奶烤面包"
+      }
+    ]
+  },
+  {
+    "word": "egg",
+    "phonetic": "/ɛɡ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "鸡蛋",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I want an egg for breakfast.",
+        "chinese": "我早餐想吃个鸡蛋。",
+        "scene": "早餐"
+      },
+      {
+        "level": "medium",
+        "english": "Be careful with those eggs — they're organic and cost me a fortune at the farmer's market.",
+        "chinese": "小心那些鸡蛋，它们是有机的，我在农贸市场花了大价钱买的。",
+        "scene": "小心拿鸡蛋"
+      },
+      {
+        "level": "long",
+        "english": "I tried to flip an egg without breaking the yolk this morning, and I actually did it perfectly for the first time in my life, so I had to take a picture.",
+        "chinese": "今天早上我试着翻鸡蛋不弄破蛋黄，结果我有生以来第一次完美做到了，所以必须拍张照留念。",
+        "scene": "煎蛋成功"
+      }
+    ]
+  },
+  {
+    "word": "milk",
+    "phonetic": "/mɪlk/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "牛奶",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We're out of milk again.",
+        "chinese": "我们又没牛奶了。",
+        "scene": "牛奶没了"
+      },
+      {
+        "level": "medium",
+        "english": "I poured milk into my coffee, only to realize it had gone sour and the whole cup was ruined.",
+        "chinese": "我把牛奶倒进咖啡里，才发现牛奶酸了，整杯咖啡都毁了。",
+        "scene": "牛奶坏了"
+      },
+      {
+        "level": "long",
+        "english": "I used to hate drinking milk as a kid, but my mom would make me finish a whole glass before I could leave the table, and now I actually love it.",
+        "chinese": "我小时候特别讨厌喝牛奶，但我妈非要我喝完一整杯才能离开餐桌，结果现在我居然真爱上了喝牛奶。",
+        "scene": "小时候被迫喝牛奶"
+      }
+    ]
+  },
+  {
+    "word": "noodle",
+    "phonetic": "/ˈnuːdəl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "面条",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I love chicken noodle soup.",
+        "chinese": "我喜欢鸡汤面条。",
+        "scene": "喜欢的面条"
+      },
+      {
+        "level": "medium",
+        "english": "There's a tiny noodle shop near my office that makes the most amazing hand-pulled noodles.",
+        "chinese": "我办公室附近有家小面馆，做的拉面好吃极了。",
+        "scene": "面馆推荐"
+      },
+      {
+        "level": "long",
+        "english": "Whenever I'm feeling under the weather, I make myself a huge bowl of spicy noodle soup with vegetables and a soft-boiled egg, and it always makes me feel better.",
+        "chinese": "每当我觉得不舒服的时候，就会给自己做一大碗香辣汤面，加上蔬菜和一个溏心蛋，吃完总能感觉好很多。",
+        "scene": "治愈面条"
+      }
+    ]
+  },
+  {
+    "word": "juice",
+    "phonetic": "/dʒuːs/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "果汁",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can I have some apple juice?",
+        "chinese": "我能喝点苹果汁吗？",
+        "scene": "要果汁"
+      },
+      {
+        "level": "medium",
+        "english": "I spilled orange juice all over the kitchen floor this morning, and my socks are still sticky.",
+        "chinese": "今天早上我把橙汁洒了一厨房地板，我的袜子现在还粘乎乎的。",
+        "scene": "打翻果汁"
+      },
+      {
+        "level": "long",
+        "english": "I bought a juicer last month thinking I'd make fresh juice every day, but honestly, cleaning the machine takes so long that I've only used it twice.",
+        "chinese": "上个月我买了台榨汁机，想着天天榨新鲜果汁喝，但说实话，清洗机器太费时间了，我到现在只用过两次。",
+        "scene": "榨汁机闲置"
+      }
+    ]
+  },
+  {
+    "word": "rice",
+    "phonetic": "/raɪs/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "米饭；大米",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We're having rice for dinner.",
+        "chinese": "我们晚饭吃米饭。",
+        "scene": "晚餐"
+      },
+      {
+        "level": "medium",
+        "english": "I accidentally added too much water to the rice, so it turned into a sticky mess.",
+        "chinese": "我不小心在米饭里加了太多水，结果煮成了一团粘糊糊的东西。",
+        "scene": "米饭煮烂了"
+      },
+      {
+        "level": "long",
+        "english": "My mom taught me how to make fried rice using leftover rice from the night before, and now it's my favorite quick meal when I don't feel like cooking something fancy.",
+        "chinese": "我妈教我用前一天晚上的剩饭做炒饭，现在当我不想做什么大餐时，这已经成了我最喜欢的快手饭。",
+        "scene": "做炒饭"
+      }
+    ]
+  },
+  {
+    "word": "meat",
+    "phonetic": "/miːt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "肉",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I don't eat meat on Fridays.",
+        "chinese": "我星期五不吃肉。",
+        "scene": "饮食习惯"
+      },
+      {
+        "level": "medium",
+        "english": "The meat at that BBQ place is so tender it practically falls off the bone.",
+        "chinese": "那家烧烤店的肉嫩得几乎脱骨。",
+        "scene": "夸烤肉"
+      },
+      {
+        "level": "long",
+        "english": "I'm trying to cut down on meat and eat more plant-based meals, but it's hard when my roommate brings home burgers that smell incredible.",
+        "chinese": "我在努力少吃肉，多吃素食，但室友带回家的汉堡闻起来香得要命，实在太难抵挡了。",
+        "scene": "减少吃肉"
+      }
+    ]
+  },
+  {
+    "word": "vegetable",
+    "phonetic": "/ˈvɛdʒtəbəl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "蔬菜",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Eat your vegetables, please.",
+        "chinese": "请把你的蔬菜吃了。",
+        "scene": "让孩子吃蔬菜"
+      },
+      {
+        "level": "medium",
+        "english": "I planted tomatoes and lettuce in my garden, so I'll have fresh vegetables all summer long.",
+        "chinese": "我在园子里种了西红柿和生菜，这样整个夏天都有新鲜蔬菜吃了。",
+        "scene": "种菜"
+      },
+      {
+        "level": "long",
+        "english": "I wasn't a big fan of vegetables as a kid, but once I learned to roast them with olive oil and garlic, I realized I actually love the taste and texture.",
+        "chinese": "我小时候不太爱吃蔬菜，但当我学会用橄榄油和大蒜烤蔬菜后，才发现自己其实很喜欢那个味道和口感。",
+        "scene": "爱上蔬菜"
+      }
+    ]
+  },
+  {
+    "word": "healthy",
+    "phonetic": "/ˈhɛlθi/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "健康的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "An apple is a healthy snack.",
+        "chinese": "苹果是健康的零食。",
+        "scene": "健康零食"
+      },
+      {
+        "level": "medium",
+        "english": "I'm trying to keep my meals healthy, but these cookies are testing my willpower.",
+        "chinese": "我想保持健康饮食，但这些饼干正在考验我的意志力。",
+        "scene": "健康饮食挑战"
+      },
+      {
+        "level": "long",
+        "english": "It's important to find a balance between eating healthy food and enjoying the things you love, because life's too short to never eat pizza again.",
+        "chinese": "在吃健康食物和享受喜爱的东西之间找到平衡很重要，因为人生苦短，总不能永远不再吃披萨吧。",
+        "scene": "平衡饮食"
+      }
+    ]
+  },
+  {
+    "word": "plate",
+    "phonetic": "/pleɪt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "盘子；碟子",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Put it on the blue plate.",
+        "chinese": "把它放在蓝色盘子上。",
+        "scene": "摆放"
+      },
+      {
+        "level": "medium",
+        "english": "My plate was piled so high with food at the potluck that I could barely carry it.",
+        "chinese": "在百乐餐上，我盘子里的食物堆得太高了，差点都端不动。",
+        "scene": "自助餐"
+      },
+      {
+        "level": "long",
+        "english": "I dropped a plate while doing the dishes last night, and it shattered into a million pieces right as my dog ran through the kitchen, which gave me a heart attack.",
+        "chinese": "昨晚洗碗时我打碎了一个盘子，它碎成了无数片，恰好我家的狗从厨房跑过，把我吓得心脏都快停了。",
+        "scene": "打碎盘子"
+      }
+    ]
+  },
+  {
+    "word": "soup",
+    "phonetic": "/suːp/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "汤",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This soup is really hot.",
+        "chinese": "这汤真烫。",
+        "scene": "喝热汤"
+      },
+      {
+        "level": "medium",
+        "english": "I made a big pot of chicken soup for my neighbor because she's been feeling sick all week.",
+        "chinese": "我给邻居煮了一大锅鸡汤，因为她整整一周都在生病。",
+        "scene": "给邻居送汤"
+      },
+      {
+        "level": "long",
+        "english": "Nothing beats a warm bowl of soup on a cold rainy day, especially when you can hear the rain tapping against the window while you're wrapped in a blanket.",
+        "chinese": "冷雨天，什么也比不上一碗热汤，尤其是当你裹着毯子，还能听到雨点打在窗户上的声音。",
+        "scene": "雨天喝汤"
+      }
+    ]
+  },
+  {
+    "word": "fruit",
+    "phonetic": "/fruːt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "水果",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I need more fruit in my diet.",
+        "chinese": "我的饮食中需要更多水果。",
+        "scene": "多吃水果"
+      },
+      {
+        "level": "medium",
+        "english": "The fruit stand on the corner has the sweetest strawberries I've ever tasted in my life.",
+        "chinese": "街角的水果摊有我这辈子吃过最甜的草莓。",
+        "scene": "水果摊"
+      },
+      {
+        "level": "long",
+        "english": "For dessert, my mom always puts out a big bowl of fresh fruit, and even though it's not chocolate cake, we all end up eating the whole thing because it's just that good.",
+        "chinese": "甜点时间，我妈总会端出一大碗新鲜水果，虽然那不是巧克力蛋糕，但好吃得我们每次都会把它全部吃完。",
+        "scene": "水果当甜点"
+      }
+    ]
+  },
+  {
+    "word": "colourful",
+    "phonetic": "/ˈkʌlərfəl/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "色彩缤纷的；五彩缤纷的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Her dress is so colourful!",
+        "chinese": "她的裙子好鲜艳！",
+        "scene": "赞美衣着"
+      },
+      {
+        "level": "medium",
+        "english": "We painted the kids' room in bright, colourful colors to make it feel more cheerful.",
+        "chinese": "我们用明亮鲜艳的颜色粉刷了孩子的房间，让它感觉更欢快。",
+        "scene": "粉刷儿童房"
+      },
+      {
+        "level": "long",
+        "english": "The market was so colourful with all the fresh flowers, fruits, and handmade crafts that I couldn't stop taking photos even though my phone storage was almost full.",
+        "chinese": "市场上到处是鲜花、水果和手工艺品，五彩缤纷的，即使手机存储快满了，我还是忍不住一直拍照。",
+        "scene": "五彩缤纷的市场"
+      }
+    ]
+  },
+  {
+    "word": "candy",
+    "phonetic": "/ˈkændi/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "糖果",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "No candy before dinner.",
+        "chinese": "晚饭前不准吃糖。",
+        "scene": "妈妈的话"
+      },
+      {
+        "level": "medium",
+        "english": "My little brother traded his entire sandwich for a piece of candy at school today.",
+        "chinese": "我弟弟今天在学校用整个三明治换了一块糖。",
+        "scene": "学校交换食物"
+      },
+      {
+        "level": "long",
+        "english": "I still have a soft spot for the candy I used to eat as a kid, and sometimes when I see those colorful little packs at the checkout, I can't help throwing one in the cart.",
+        "chinese": "我依然对小时候吃的那种糖果情有独钟，有时在收银台看到那些彩色小包装，就忍不住往购物车里扔一包。",
+        "scene": "怀念童年糖果"
+      }
+    ]
+  },
+  {
+    "word": "yummy",
+    "phonetic": "/ˈjʌmi/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "好吃的；美味的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This pizza is so yummy!",
+        "chinese": "这个披萨好好吃！",
+        "scene": "吃披萨"
+      },
+      {
+        "level": "medium",
+        "english": "My grandma makes the yummiest chocolate chip cookies I've ever had in my entire life.",
+        "chinese": "我奶奶做的巧克力豆饼干是我这辈子吃过最好吃的。",
+        "scene": "奶奶的饼干"
+      },
+      {
+        "level": "long",
+        "english": "I tried this new ice cream flavor last night — it was called caramel brownie blast and it was so yummy that I nearly ate the whole pint in one sitting while watching my favorite show.",
+        "chinese": "昨晚我试了一款新口味的冰淇淋，叫焦糖布朗尼风暴，好吃到我看最爱剧集的时候差点一口气把整整一品脱全吃光了。",
+        "scene": "吃冰淇淋"
+      }
+    ]
+  }
+]

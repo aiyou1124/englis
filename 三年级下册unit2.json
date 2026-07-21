@@ -1,0 +1,626 @@
+[
+  {
+    "word": "has",
+    "phonetic": "/hæz/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "有（have的第三人称单数形式）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She has a new bike.",
+        "chinese": "她有一辆新自行车。",
+        "scene": "拥有"
+      },
+      {
+        "level": "medium",
+        "english": "My little brother has a loose tooth, and he keeps wiggling it all day long.",
+        "chinese": "我弟弟有颗牙松动了，他整天不停地摇它。",
+        "scene": "换牙"
+      },
+      {
+        "level": "long",
+        "english": "Our dog has this funny habit of hiding socks under the couch, and every time we clean the living room, we find at least five or six of them there.",
+        "chinese": "我们家狗有个有趣的习惯，就是把袜子藏在沙发底下，每次我们打扫客厅，都能在那里找到至少五六只袜子。",
+        "scene": "宠物趣事"
+      }
+    ]
+  },
+  {
+    "word": "long",
+    "phonetic": "/lɔːŋ/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "长的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She has long hair.",
+        "chinese": "她有一头长发。",
+        "scene": "描述外貌"
+      },
+      {
+        "level": "medium",
+        "english": "The line at the ice cream shop was really long, but it was totally worth the wait.",
+        "chinese": "冰淇淋店排的队真长，但完全值得等待。",
+        "scene": "排队"
+      },
+      {
+        "level": "long",
+        "english": "It's been a long week, and I'm looking forward to doing absolutely nothing this weekend except maybe sleeping in and watching old movies.",
+        "chinese": "这一周真漫长，我期待着这个周末什么都不做，或许就是睡个懒觉，看看老电影。",
+        "scene": "疲惫放松"
+      }
+    ]
+  },
+  {
+    "word": "body",
+    "phonetic": "/ˈbɑːdi/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "身体",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My body feels tired today.",
+        "chinese": "今天我的身体感觉很累。",
+        "scene": "身体感受"
+      },
+      {
+        "level": "medium",
+        "english": "It's amazing how our body heals itself after a cut or a bruise without us even thinking about it.",
+        "chinese": "我们的身体在割伤或瘀伤后能自行愈合，而我们甚至不用去想，这很神奇。",
+        "scene": "健康常识"
+      },
+      {
+        "level": "long",
+        "english": "I used to ignore what my body was telling me and push through the tiredness, but after getting sick last year, I learned to listen to it and rest when I need to.",
+        "chinese": "我以前常常忽视身体发出的信号，即使累了也硬撑，但去年生病之后，我学会了倾听身体，需要休息时就休息。",
+        "scene": "健康教训"
+      }
+    ]
+  },
+  {
+    "word": "short",
+    "phonetic": "/ʃɔːrt/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "短的；矮的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The movie was too short.",
+        "chinese": "那部电影太短了。",
+        "scene": "评价"
+      },
+      {
+        "level": "medium",
+        "english": "I'm a bit short on cash this week, so I'll have to skip eating out until payday.",
+        "chinese": "我这周手头有点紧，所以发工资前不能在外面吃饭了。",
+        "scene": "缺钱"
+      },
+      {
+        "level": "long",
+        "english": "Our lunch break always feels way too short, especially on days when the morning just drags on and you finally get a moment to sit down and eat.",
+        "chinese": "我们的午休时间总是感觉太短，尤其是在上午特别难熬，你终于有时间坐下来吃饭的那些日子。",
+        "scene": "午休感慨"
+      }
+    ]
+  },
+  {
+    "word": "leg",
+    "phonetic": "/leɡ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "腿",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "He broke his leg skiing.",
+        "chinese": "他滑雪时摔断了腿。",
+        "scene": "受伤"
+      },
+      {
+        "level": "medium",
+        "english": "My legs were so sore after hiking up that mountain that I could barely walk down the stairs the next day.",
+        "chinese": "爬完那座山后我的腿酸痛极了，第二天几乎没法走下楼梯。",
+        "scene": "运动后"
+      },
+      {
+        "level": "long",
+        "english": "I sat on my leg for too long while watching TV and when I stood up, I had that weird pins-and-needles feeling and almost fell over.",
+        "chinese": "我看电视时把腿坐麻了，站起来的时候感觉像针扎一样，差点摔倒。",
+        "scene": "脚麻"
+      }
+    ]
+  },
+  {
+    "word": "right",
+    "phonetic": "/raɪt/",
+    "part_of_speech": "adjective, adverb, noun",
+    "chinese_meaning": "正确的；右边；正好",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "You're right about that.",
+        "chinese": "那件事你是对的。",
+        "scene": "同意"
+      },
+      {
+        "level": "medium",
+        "english": "Turn right at the next corner, and you'll see the bookstore right next to the bakery.",
+        "chinese": "在下一个拐角右转，你就会看到书店就在面包店旁边。",
+        "scene": "指路"
+      },
+      {
+        "level": "long",
+        "english": "I wasn't sure if taking this job was the right move, but looking back now, I realize it was one of the best decisions I've ever made.",
+        "chinese": "我当时不确定接受这份工作是不是正确的选择，但现在回想起来，我意识到这是我做过的最好的决定之一。",
+        "scene": "人生选择"
+      }
+    ]
+  },
+  {
+    "word": "fat",
+    "phonetic": "/fæt/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "胖的；肥的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My cat is getting fat.",
+        "chinese": "我的猫正在变胖。",
+        "scene": "宠物"
+      },
+      {
+        "level": "medium",
+        "english": "We bought a really fat pumpkin from the farm to carve for Halloween this year.",
+        "chinese": "我们从农场买了一个特别胖的南瓜，今年万圣节用来雕刻。",
+        "scene": "南瓜"
+      },
+      {
+        "level": "long",
+        "english": "Our neighbor's cat is so fat that it can barely squeeze through the little door they cut out for it, but somehow it still catches birds in the yard.",
+        "chinese": "邻居的猫胖得几乎挤不过他们为它开的小门，但不知怎么它还是能在院子里抓到鸟。",
+        "scene": "胖猫趣事"
+      }
+    ]
+  },
+  {
+    "word": "thin",
+    "phonetic": "/θɪn/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "瘦的；薄的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The ice is too thin.",
+        "chinese": "冰太薄了。",
+        "scene": "安全提醒"
+      },
+      {
+        "level": "medium",
+        "english": "I need a thin jacket for spring, something light that I can wear when it's not too cold outside.",
+        "chinese": "我需要一件薄夹克春天穿，轻便的，外面不太冷的时候可以穿。",
+        "scene": "购物"
+      },
+      {
+        "level": "long",
+        "english": "My grandma always says that her cell phone is too thin and she's scared of breaking it, so she keeps it in a huge, thick case that barely fits in her purse.",
+        "chinese": "我奶奶总说她的手机太薄了，她怕弄坏，所以把它放在一个又大又厚的手机壳里，差点塞不进她的包。",
+        "scene": "老人与手机"
+      }
+    ]
+  },
+  {
+    "word": "slow",
+    "phonetic": "/sloʊ/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "慢的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The wifi is so slow.",
+        "chinese": "无线网太慢了。",
+        "scene": "抱怨"
+      },
+      {
+        "level": "medium",
+        "english": "Could you speak a little slower, please? I'm still learning English and I want to catch every word.",
+        "chinese": "请你说慢一点好吗？我还在学英语，想听清楚每一个词。",
+        "scene": "请求"
+      },
+      {
+        "level": "long",
+        "english": "On Sunday mornings, I love making a slow breakfast with pancakes and bacon, taking my time and not rushing through it like I do during the workweek.",
+        "chinese": "周日早上，我喜欢慢悠悠地做一顿有煎饼和培根的早餐，不慌不忙，不像工作日那样匆忙吃完。",
+        "scene": "悠闲周末"
+      }
+    ]
+  },
+  {
+    "word": "love",
+    "phonetic": "/lʌv/",
+    "part_of_speech": "verb, noun",
+    "chinese_meaning": "爱；热爱",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I love this song!",
+        "chinese": "我超爱这首歌！",
+        "scene": "听歌"
+      },
+      {
+        "level": "medium",
+        "english": "My mom loves gardening so much that she can spend all weekend outside pulling weeds and planting flowers.",
+        "chinese": "我妈妈非常热爱园艺，她可以整个周末都在外面拔草种花。",
+        "scene": "爱好"
+      },
+      {
+        "level": "long",
+        "english": "I fell in love with this little coffee shop not just because of their amazing lattes, but because it has this cozy corner where you can sit and read for hours without anyone bothering you.",
+        "chinese": "我爱上这家小咖啡店不仅因为他们的拿铁很棒，还因为它有个舒适的角落，你可以坐在那里读几个小时的书而没人打扰。",
+        "scene": "喜爱的地方"
+      }
+    ]
+  },
+  {
+    "word": "tail",
+    "phonetic": "/teɪl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "尾巴",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The dog wags its tail.",
+        "chinese": "那只狗摇着尾巴。",
+        "scene": "宠物"
+      },
+      {
+        "level": "medium",
+        "english": "Our cat chases its own tail all the time, which cracks up the kids every single time they see it.",
+        "chinese": "我们的猫总是追着自己的尾巴跑，孩子们每次看到都笑得前仰后合。",
+        "scene": "宠物趣事"
+      },
+      {
+        "level": "long",
+        "english": "I remember my old dog would start thumping his tail against the floor the moment he heard my car pull into the driveway, even before I opened the front door.",
+        "chinese": "我记得我的老狗一听到我的车开进车道，就开始把尾巴在地上敲得砰砰响，甚至在我打开前门之前就开始。",
+        "scene": "温馨回忆"
+      }
+    ]
+  },
+  {
+    "word": "her",
+    "phonetic": "/hɜːr/",
+    "part_of_speech": "pronoun, determiner",
+    "chinese_meaning": "她；她的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I gave her a flower.",
+        "chinese": "我给了她一朵花。",
+        "scene": "送花"
+      },
+      {
+        "level": "medium",
+        "english": "I can't find her phone anywhere, and she's starting to panic because all her photos are on it.",
+        "chinese": "我到处找不到她的手机，她开始慌了，因为她所有的照片都在里面。",
+        "scene": "找手机"
+      },
+      {
+        "level": "long",
+        "english": "I've known her since we were five years old, and even though we now live in different cities, we still talk on the phone every single week without fail.",
+        "chinese": "我从五岁起就认识她了，尽管我们现在住在不同的城市，我们仍然每周都通电话，从不间断。",
+        "scene": "友谊"
+      }
+    ]
+  },
+  {
+    "word": "gift",
+    "phonetic": "/ɡɪft/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "礼物",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Thank you for the gift!",
+        "chinese": "谢谢你的礼物！",
+        "scene": "道谢"
+      },
+      {
+        "level": "medium",
+        "english": "I have no idea what gift to get my dad for his birthday; he says he doesn't need anything every year.",
+        "chinese": "我不知道给我爸买什么生日礼物，他每年都说自己什么都不需要。",
+        "scene": "挑礼物"
+      },
+      {
+        "level": "long",
+        "english": "The best gift I ever received wasn't something expensive — it was a handwritten letter from my best friend on a day I was feeling really down, and I still keep it in my desk drawer.",
+        "chinese": "我收到过最好的礼物不是什么贵重物品，而是在我非常沮丧的一天，我最好的朋友手写的一封信，我至今还把它保存在我的书桌抽屉里。",
+        "scene": "最好的礼物"
+      }
+    ]
+  },
+  {
+    "word": "picture",
+    "phonetic": "/ˈpɪktʃər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "照片；图画",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's take a picture!",
+        "chinese": "我们来拍张照吧！",
+        "scene": "拍照"
+      },
+      {
+        "level": "medium",
+        "english": "I found an old picture of my grandparents when they were young, and they looked so happy together.",
+        "chinese": "我找到一张爷爷奶奶年轻时的老照片，他们在一起看起来好开心。",
+        "scene": "看老照片"
+      },
+      {
+        "level": "long",
+        "english": "My son drew a picture of our family that's now hanging on the fridge, and even though my head looks like a giant potato, it's my favorite piece of art in the whole house.",
+        "chinese": "我儿子画了一幅我们全家的画，现在挂在冰箱上，尽管我的头看起来像个大土豆，但这仍然是整间屋子里我最喜欢的艺术作品。",
+        "scene": "孩子的画"
+      }
+    ]
+  },
+  {
+    "word": "card",
+    "phonetic": "/kɑːrd/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "卡片；卡",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I sent her a birthday card.",
+        "chinese": "我寄给她一张生日卡片。",
+        "scene": "送卡"
+      },
+      {
+        "level": "medium",
+        "english": "I forgot my credit card at the restaurant last night, but luckily the waiter kept it safe for me.",
+        "chinese": "我昨晚把信用卡忘在餐厅了，但幸运的是服务员帮我保管好了。",
+        "scene": "丢卡"
+      },
+      {
+        "level": "long",
+        "english": "My little sister made me the funniest card for my graduation — she drew a stick figure wearing a cap and wrote 'Now you can buy me more snacks' inside, and I couldn't stop laughing.",
+        "chinese": "我小妹妹给我做了一张超搞笑的毕业贺卡，她画了一个戴着帽子的火柴人，里面写着“现在你可以给我买更多零食了”，我笑得停不下来。",
+        "scene": "搞笑贺卡"
+      }
+    ]
+  },
+  {
+    "word": "sing",
+    "phonetic": "/sɪŋ/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "唱；唱歌",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She loves to sing.",
+        "chinese": "她喜欢唱歌。",
+        "scene": "爱好"
+      },
+      {
+        "level": "medium",
+        "english": "My dad sings in the shower every morning, and honestly, he's not that bad at all.",
+        "chinese": "我爸每天早上都在浴室唱歌，老实说，他唱得还真不赖。",
+        "scene": "家庭日常"
+      },
+      {
+        "level": "long",
+        "english": "We were driving home late at night and all of a sudden our favorite song came on, so we rolled down the windows and sang at the top of our lungs like nobody was watching.",
+        "chinese": "我们深夜开车回家，突然播放到我们最喜欢的歌，于是我们摇下车窗，用最大的声音唱着，就像没人在看一样。",
+        "scene": "释放快乐"
+      }
+    ]
+  },
+  {
+    "word": "dance",
+    "phonetic": "/dæns/",
+    "part_of_speech": "verb, noun",
+    "chinese_meaning": "跳舞；舞蹈",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's dance!",
+        "chinese": "我们来跳舞吧！",
+        "scene": "邀请"
+      },
+      {
+        "level": "medium",
+        "english": "My daughter has her first school dance tonight, and she's been practicing her moves all week in front of the mirror.",
+        "chinese": "我女儿今晚要参加学校的第一个舞会，她整个星期都在镜子前练习舞步。",
+        "scene": "学校舞会"
+      },
+      {
+        "level": "long",
+        "english": "When our favorite song came on at the wedding, everyone rushed to the dance floor, even my grandpa who normally just sits in the corner, and he ended up dancing for like an hour straight.",
+        "chinese": "婚礼上我们最喜欢的歌曲响起时，所有人都冲进舞池，连我平时只坐在角落的爷爷也加入了进来，结果他接连跳了将近一个小时。",
+        "scene": "婚礼跳舞"
+      }
+    ]
+  },
+  {
+    "word": "talk",
+    "phonetic": "/tɔːk/",
+    "part_of_speech": "verb, noun",
+    "chinese_meaning": "说话；谈话",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's talk later.",
+        "chinese": "我们晚点再谈。",
+        "scene": "约定"
+      },
+      {
+        "level": "medium",
+        "english": "I need to talk to my boss about taking a few days off next month for a family thing.",
+        "chinese": "我需要和老板谈谈下个月因为家事请几天假的事。",
+        "scene": "请假"
+      },
+      {
+        "level": "long",
+        "english": "We stayed up until three in the morning talking about everything — our childhood memories, our biggest fears, our dumbest mistakes — and it felt like we'd known each other forever.",
+        "chinese": "我们聊到凌晨三点，什么都聊——童年的回忆、最大的恐惧、最蠢的错误——感觉好像我们已经认识了很久很久。",
+        "scene": "深夜长谈"
+      }
+    ]
+  },
+  {
+    "word": "face",
+    "phonetic": "/feɪs/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "脸；面孔",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Wash your face, please.",
+        "chinese": "请洗洗脸。",
+        "scene": "日常洗漱"
+      },
+      {
+        "level": "medium",
+        "english": "I knew something was wrong the moment I saw the look on her face when she walked in.",
+        "chinese": "看到她走进来时的表情，我就知道出事了。",
+        "scene": "察言观色"
+      },
+      {
+        "level": "long",
+        "english": "My nephew's face lit up like a Christmas tree when he saw the puppy we got him, and that moment was worth all the weeks we spent secretly planning this surprise.",
+        "chinese": "我侄子看到我们给他买的小狗时，脸像圣诞树一样亮了起来，那一刻，我们花了几周时间偷偷策划这个惊喜都值了。",
+        "scene": "惊喜反应"
+      }
+    ]
+  },
+  {
+    "word": "all",
+    "phonetic": "/ɔːl/",
+    "part_of_speech": "determiner, pronoun, adverb",
+    "chinese_meaning": "所有；全部；都",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "That's all for today.",
+        "chinese": "今天就到这儿吧。",
+        "scene": "结束"
+      },
+      {
+        "level": "medium",
+        "english": "I spent all morning cleaning the garage, and now I can finally park my car inside again.",
+        "chinese": "我花了整个上午打扫车库，现在终于又能把车停进去了。",
+        "scene": "家务"
+      },
+      {
+        "level": "long",
+        "english": "After all the stress and hard work that went into planning this trip, sitting on the beach watching the sunset with my family made every single difficult moment completely worth it.",
+        "chinese": "在经历了策划这次旅行的所有压力和辛苦之后，和家人一起坐在沙滩上看日落，让每一个艰难的时刻都变得完全值得。",
+        "scene": "苦尽甘来"
+      }
+    ]
+  },
+  {
+    "word": "song",
+    "phonetic": "/sɔːŋ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "歌曲",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This is my favorite song.",
+        "chinese": "这是我最喜欢的歌。",
+        "scene": "听歌"
+      },
+      {
+        "level": "medium",
+        "english": "Every time I hear that song, it reminds me of our road trip to the beach two summers ago.",
+        "chinese": "每次听到那首歌，都让我想起两年前夏天我们的那次海边公路旅行。",
+        "scene": "歌曲回忆"
+      },
+      {
+        "level": "long",
+        "english": "There's this one song my mom used to sing to me when I couldn't sleep, and even now as an adult, if I hum it to myself, I feel this wave of calm wash over me.",
+        "chinese": "有一首歌是我妈妈在我睡不着时唱给我听的，即使现在成年了，如果我自己哼唱这首歌，一股平静的感觉就会涌上心头。",
+        "scene": "温馨回忆"
+      }
+    ]
+  },
+  {
+    "word": "or",
+    "phonetic": "/ɔːr/",
+    "part_of_speech": "conjunction",
+    "chinese_meaning": "或者；还是",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Coffee or tea?",
+        "chinese": "咖啡还是茶？",
+        "scene": "选择"
+      },
+      {
+        "level": "medium",
+        "english": "We can either go to the movies or just stay home and order pizza, I'm happy either way.",
+        "chinese": "我们可以去看电影，或者就待在家点披萨，我怎么样都行。",
+        "scene": "做决定"
+      },
+      {
+        "level": "long",
+        "english": "I can't decide whether I should take the job offer in Seattle or stay here and finish my degree first, because both choices could lead to a completely different life.",
+        "chinese": "我无法决定是该接受西雅图的工作邀请，还是留在这里先完成学位，因为两种选择可能会走向完全不同的人生。",
+        "scene": "人生抉择"
+      }
+    ]
+  },
+  {
+    "word": "so",
+    "phonetic": "/soʊ/",
+    "part_of_speech": "adverb, conjunction",
+    "chinese_meaning": "那么；所以；如此",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'm so happy!",
+        "chinese": "我太高兴了！",
+        "scene": "心情"
+      },
+      {
+        "level": "medium",
+        "english": "The line at the store was so long that I just gave up and decided to come back tomorrow.",
+        "chinese": "商店排的队太长了，我就放弃直接决定明天再来。",
+        "scene": "排队放弃"
+      },
+      {
+        "level": "long",
+        "english": "I was so sure I had put my keys on the kitchen counter, but after looking for twenty minutes, I finally found them in the fridge next to the milk — don't ask me how they got there.",
+        "chinese": "我非常确信我把钥匙放在厨房台面上了，但在找了二十分钟后，我最后在冰箱里牛奶旁边找到了它们——别问我它们怎么到那儿去的。",
+        "scene": "找东西"
+      }
+    ]
+  },
+  {
+    "word": "much",
+    "phonetic": "/mʌtʃ/",
+    "part_of_speech": "determiner, pronoun, adverb",
+    "chinese_meaning": "许多；非常",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I love you so much.",
+        "chinese": "我非常爱你。",
+        "scene": "表达爱意"
+      },
+      {
+        "level": "medium",
+        "english": "How much sugar should I add to the cake mix? I don't want to make it too sweet.",
+        "chinese": "蛋糕粉里应该放多少糖？我不想弄得太甜。",
+        "scene": "烘焙"
+      },
+      {
+        "level": "long",
+        "english": "There isn't much time left before the concert starts, and we're still stuck in traffic, so I really hope we don't miss the opening act because I've been waiting to see them for months.",
+        "chinese": "离演唱会开始没多少时间了，我们还堵在路上，所以我真希望别错过开场表演，因为我等了好几个月要看他们。",
+        "scene": "赶时间"
+      }
+    ]
+  }
+]

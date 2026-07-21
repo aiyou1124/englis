@@ -1,0 +1,340 @@
+[
+  {
+    "word": "fifteen",
+    "phonetic": "/ˌfɪfˈtiːn/",
+    "part_of_speech": "number",
+    "chinese_meaning": "十五",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'll be there in fifteen minutes.",
+        "chinese": "我十五分钟后到。",
+        "scene": "约定时间"
+      },
+      {
+        "level": "medium",
+        "english": "My little sister just turned fifteen, and we threw her a surprise party with all her friends.",
+        "chinese": "我妹妹刚满十五岁，我们给她办了一个惊喜派对，请了她所有的朋友。",
+        "scene": "生日派对"
+      },
+      {
+        "level": "long",
+        "english": "When I was fifteen, I thought I knew everything about the world, but looking back now, I realize I was just a kid who had barely scratched the surface of anything.",
+        "chinese": "我十五岁的时候，以为自己对世界无所不知，但现在回头看，才意识到自己不过是个对什么都一知半解的孩子罢了。",
+        "scene": "回忆十五岁"
+      }
+    ]
+  },
+  {
+    "word": "twelve",
+    "phonetic": "/twɛlv/",
+    "part_of_speech": "number",
+    "chinese_meaning": "十二",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My son is twelve years old.",
+        "chinese": "我儿子十二岁了。",
+        "scene": "介绍年龄"
+      },
+      {
+        "level": "medium",
+        "english": "We need at least twelve cupcakes for the class party, but I bought fifteen just in case.",
+        "chinese": "班级派对至少需要十二个纸杯蛋糕，但我买了十五个以防万一。",
+        "scene": "准备派对食物"
+      },
+      {
+        "level": "long",
+        "english": "I remember when I was twelve, my biggest worry was whether I'd get picked for the school soccer team, and I'd give anything to have such simple problems again.",
+        "chinese": "记得十二岁时，我最大的烦恼就是能不能入选校足球队，我真希望能再次拥有那样简单的问题。",
+        "scene": "怀念童年"
+      }
+    ]
+  },
+  {
+    "word": "fourteen",
+    "phonetic": "/ˌfɔːrˈtiːn/",
+    "part_of_speech": "number",
+    "chinese_meaning": "十四",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She is fourteen years old.",
+        "chinese": "她十四岁了。",
+        "scene": "介绍年龄"
+      },
+      {
+        "level": "medium",
+        "english": "I babysat my neighbor's fourteen-year-old twins last night, and they taught me how to play their favorite video game.",
+        "chinese": "昨晚我帮邻居照看他们十四岁的双胞胎，他们教了我玩他们最喜欢的电子游戏。",
+        "scene": "照看孩子"
+      },
+      {
+        "level": "long",
+        "english": "At fourteen, I was so impatient to grow up, but now I'd happily trade places with my teenage self for just one weekend to have zero responsibilities again.",
+        "chinese": "十四岁时，我迫不及待想长大，但现在我宁愿用一天周末换回少年时代的无忧无虑。",
+        "scene": "感慨成长"
+      }
+    ]
+  },
+  {
+    "word": "thirteen",
+    "phonetic": "/ˌθɜːrˈtiːn/",
+    "part_of_speech": "number",
+    "chinese_meaning": "十三",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I counted thirteen birds outside.",
+        "chinese": "我数到外面有十三只鸟。",
+        "scene": "数数"
+      },
+      {
+        "level": "medium",
+        "english": "There were thirteen people at the dinner table, so we had to squeeze in an extra chair.",
+        "chinese": "餐桌旁坐了十三个人，我们只好硬挤进一把额外的椅子。",
+        "scene": "家庭聚餐"
+      },
+      {
+        "level": "long",
+        "english": "I'm not superstitious, but when the elevator stopped on the thirteenth floor and the lights flickered, I'll admit I held my breath for a second.",
+        "chinese": "我并不迷信，但当电梯停在十三楼，灯光闪了一下时，我承认我屏住呼吸了一秒钟。",
+        "scene": "电梯小插曲"
+      }
+    ]
+  },
+  {
+    "word": "eleven",
+    "phonetic": "/ɪˈlɛvən/",
+    "part_of_speech": "number",
+    "chinese_meaning": "十一",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The meeting starts at eleven.",
+        "chinese": "会议十一点开始。",
+        "scene": "通知时间"
+      },
+      {
+        "level": "medium",
+        "english": "I set my alarm for seven, but somehow slept until eleven and missed my morning class completely.",
+        "chinese": "我设了七点的闹钟，但不知怎的一觉睡到十一点，完全错过了上午的课。",
+        "scene": "睡过头"
+      },
+      {
+        "level": "long",
+        "english": "By eleven o'clock last night, I had finished all my homework and was about to go to bed when my friend called and we ended up talking for another two hours.",
+        "chinese": "昨晚十一点前，我做完了所有作业，正准备上床睡觉，朋友突然打来电话，我们最后又聊了两个小时。",
+        "scene": "深夜电话"
+      }
+    ]
+  },
+  {
+    "word": "twenty",
+    "phonetic": "/ˈtwɛnti/",
+    "part_of_speech": "number",
+    "chinese_meaning": "二十",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I only have twenty dollars left.",
+        "chinese": "我只剩二十美元了。",
+        "scene": "钱包见底"
+      },
+      {
+        "level": "medium",
+        "english": "There are about twenty people ahead of us in line, so we'll probably be waiting for a while.",
+        "chinese": "我们前面大概有二十个人在排队，所以可能得等一会儿。",
+        "scene": "排队"
+      },
+      {
+        "level": "long",
+        "english": "I remember my twentieth birthday clearly — I was in college, my roommates surprised me with a homemade cake, and we stayed up until three in the morning just laughing and telling stories.",
+        "chinese": "我清楚记得我的二十岁生日——当时我上大学，室友们用自制蛋糕给了我一个惊喜，我们说说笑笑一直熬到凌晨三点。",
+        "scene": "二十岁生日"
+      }
+    ]
+  },
+  {
+    "word": "seventeen",
+    "phonetic": "/ˌsɛvənˈtiːn/",
+    "part_of_speech": "number",
+    "chinese_meaning": "十七",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "He's seventeen and learning to drive.",
+        "chinese": "他十七岁，正在学开车。",
+        "scene": "学车年龄"
+      },
+      {
+        "level": "medium",
+        "english": "When I was seventeen, I got my first summer job scooping ice cream at a shop near the beach.",
+        "chinese": "我十七岁时，得到了第一份暑期工作，在海滩附近的一家冰淇淋店挖冰淇淋。",
+        "scene": "第一份工作"
+      },
+      {
+        "level": "long",
+        "english": "Being seventeen felt like being stuck between a kid and an adult — one day I was stressing about math tests, the next I was having deep conversations about life with my friends until midnight.",
+        "chinese": "十七岁感觉就像是卡在小孩和成人之间——今天还在为数学考试焦虑，明天就和朋友们进行关于人生的深夜长谈。",
+        "scene": "十七岁的感受"
+      }
+    ]
+  },
+  {
+    "word": "sixteen",
+    "phonetic": "/ˌsɪksˈtiːn/",
+    "part_of_speech": "number",
+    "chinese_meaning": "十六",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She got a car at sixteen.",
+        "chinese": "她十六岁时得到了一辆车。",
+        "scene": "拥有第一辆车"
+      },
+      {
+        "level": "medium",
+        "english": "I can't believe my daughter is sixteen already; it feels like she started kindergarten just yesterday.",
+        "chinese": "真不敢相信我女儿已经十六岁了，感觉她昨天才刚上幼儿园。",
+        "scene": "感叹时光"
+      },
+      {
+        "level": "long",
+        "english": "Turning sixteen felt like such a huge deal back then — I finally felt like I had some freedom, even if it just meant I could go to the mall without my mom dropping me off.",
+        "chinese": "当年满十六岁可是件天大的事——我终于觉得自己有了一点自由，哪怕只是不用妈妈开车送我去购物中心。",
+        "scene": "十六岁的自由"
+      }
+    ]
+  },
+  {
+    "word": "eighteen",
+    "phonetic": "/ˌeɪˈtiːn/",
+    "part_of_speech": "number",
+    "chinese_meaning": "十八",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I moved out at eighteen.",
+        "chinese": "我十八岁就搬出去住了。",
+        "scene": "独立生活"
+      },
+      {
+        "level": "medium",
+        "english": "The night before my eighteenth birthday, I couldn't sleep because I was so excited about finally being an adult.",
+        "chinese": "十八岁生日前一晚，我兴奋得睡不着，因为终于要成年了。",
+        "scene": "生日前夜"
+      },
+      {
+        "level": "long",
+        "english": "At eighteen, I thought I had my whole life figured out, but the truth is, I had no idea who I really was or what I wanted, and that's perfectly okay.",
+        "chinese": "十八岁时，我以为自己已经规划好了整个人生，但事实是，我根本不知道自己是谁、想要什么，而这完全没问题。",
+        "scene": "十八岁的感悟"
+      }
+    ]
+  },
+  {
+    "word": "nineteen",
+    "phonetic": "/ˌnaɪnˈtiːn/",
+    "part_of_speech": "number",
+    "chinese_meaning": "十九",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I was nineteen when we met.",
+        "chinese": "我们认识时我十九岁。",
+        "scene": "回忆相识"
+      },
+      {
+        "level": "medium",
+        "english": "Nineteen is a weird age because you're not a teenager anymore, but you still don't feel like a real adult.",
+        "chinese": "十九岁是个奇怪的年龄，因为不再是青少年了，但还是不觉得自己是真正的成年人。",
+        "scene": "成长的尴尬"
+      },
+      {
+        "level": "long",
+        "english": "The summer I was nineteen, I took a road trip with my two best friends, and we slept in the car, got lost multiple times, and made memories I still treasure to this day.",
+        "chinese": "我十九岁那年的夏天，和两个最好的朋友进行了一次公路旅行，我们睡在车里，迷路了好几次，创造了我至今仍然珍藏的回忆。",
+        "scene": "青春旅行"
+      }
+    ]
+  },
+  {
+    "word": "piggy bank",
+    "phonetic": "/ˈpɪɡi bæŋk/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "存钱罐",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My son loves his piggy bank.",
+        "chinese": "我儿子很喜欢他的存钱罐。",
+        "scene": "儿童理财"
+      },
+      {
+        "level": "medium",
+        "english": "I dropped all my spare change into my piggy bank for a year, and it added up to almost two hundred dollars.",
+        "chinese": "我把所有零钱都扔进存钱罐攒了一年，加起来差不多有二百美元。",
+        "scene": "攒零钱"
+      },
+      {
+        "level": "long",
+        "english": "I still have the piggy bank my grandmother gave me when I was five — it's a little ceramic pig with a chipped ear, but every time I see it on my shelf, it reminds me of her teaching me to save money for something special.",
+        "chinese": "我还留着我五岁时奶奶给我的存钱罐——那是一只缺了耳朵的小瓷猪，但每次在架子上看到它，就想起她教我为了特别的东西存钱的情景。",
+        "scene": "奶奶的礼物"
+      }
+    ]
+  },
+  {
+    "word": "pay",
+    "phonetic": "/peɪ/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "付款；支付",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'll pay for lunch.",
+        "chinese": "午饭我来付钱。",
+        "scene": "请客"
+      },
+      {
+        "level": "medium",
+        "english": "I need to pay my phone bill by Friday, or they'll cut off my service.",
+        "chinese": "我必须在周五前交电话费，否则他们就会停机。",
+        "scene": "缴费提醒"
+      },
+      {
+        "level": "long",
+        "english": "I was about to pay for my groceries when I realized I'd left my wallet at home, and I had to step aside while the cashier gave me that look and put my items to the side.",
+        "chinese": "我正准备付杂货钱时，突然发现把钱包忘在家里了，只好退到一边，收银员用那种眼神看着我，把我的东西放到了一旁。",
+        "scene": "付钱时的尴尬"
+      }
+    ]
+  },
+  {
+    "word": "back",
+    "phonetic": "/bæk/",
+    "part_of_speech": "adverb, noun",
+    "chinese_meaning": "回；向后；背部",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Call me back later.",
+        "chinese": "稍后给我回电话。",
+        "scene": "挂电话前"
+      },
+      {
+        "level": "medium",
+        "english": "I can't wait to get back home and sleep in my own bed after this long trip.",
+        "chinese": "这次长途旅行之后，我迫不及待想回到家，睡在我自己的床上。",
+        "scene": "想家"
+      },
+      {
+        "level": "long",
+        "english": "I pulled my back while trying to move the couch by myself, and now every time I bend over, there's this sharp pain that reminds me I should have asked for help.",
+        "chinese": "我一个人搬沙发时扭伤了背，现在每次弯腰都会一阵剧痛，提醒我本该叫人帮忙的。",
+        "scene": "背部受伤"
+      }
+    ]
+  }
+]

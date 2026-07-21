@@ -1,0 +1,522 @@
+[
+  {
+    "word": "eraser",
+    "phonetic": "/ɪˈreɪsər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "橡皮擦",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can I borrow your eraser?",
+        "chinese": "我能借你的橡皮擦吗？",
+        "scene": "课堂上借东西"
+      },
+      {
+        "level": "medium",
+        "english": "I made a few mistakes on my math homework, so I need an eraser to fix them.",
+        "chinese": "我数学作业上出了几处错，所以需要橡皮擦来修改。",
+        "scene": "做作业"
+      },
+      {
+        "level": "long",
+        "english": "I used to collect those cute little animal-shaped erasers when I was in elementary school, and they smelled so good I almost didn't want to use them.",
+        "chinese": "我上小学的时候喜欢收集那些可爱的动物形状橡皮擦，它们闻起来特别好闻，我几乎不舍得用。",
+        "scene": "童年收藏"
+      }
+    ]
+  },
+  {
+    "word": "find",
+    "phonetic": "/faɪnd/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "找到；发现",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I can't find my keys.",
+        "chinese": "我找不到钥匙了。",
+        "scene": "找东西"
+      },
+      {
+        "level": "medium",
+        "english": "Let me know if you find my phone; I think I left it in the car.",
+        "chinese": "如果你找到我的手机就告诉我，我想我把它落在车里了。",
+        "scene": "请求帮忙找"
+      },
+      {
+        "level": "long",
+        "english": "After searching the entire house, I finally found my wallet under the couch, right where my dog likes to hide his toys, so I have a pretty good idea who took it.",
+        "chinese": "找遍了整个屋子后，我最终在沙发底下找到了钱包，正好是我家狗喜欢藏玩具的地方，所以我大致知道是谁拿走了它。",
+        "scene": "找到被狗叼走的东西"
+      }
+    ]
+  },
+  {
+    "word": "ruler",
+    "phonetic": "/ˈruːlər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "尺子；直尺",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I need a ruler for math class.",
+        "chinese": "我数学课需要一把尺子。",
+        "scene": "准备学习用品"
+      },
+      {
+        "level": "medium",
+        "english": "My ruler slipped off the desk and broke in half, so I had to borrow one from my classmate.",
+        "chinese": "我的尺子从桌上滑下去摔成了两半，所以我只好向同学借了一把。",
+        "scene": "课堂小意外"
+      },
+      {
+        "level": "long",
+        "english": "When I was a kid, I loved using a ruler to draw straight lines and make little comic strips in my notebook during boring lessons.",
+        "chinese": "小时候，我喜欢在无聊的课上用尺子画直线，在笔记本上画小漫画。",
+        "scene": "童年回忆"
+      }
+    ]
+  },
+  {
+    "word": "pen",
+    "phonetic": "/pɛn/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "笔；钢笔",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Do you have a pen?",
+        "chinese": "你有笔吗？",
+        "scene": "借用"
+      },
+      {
+        "level": "medium",
+        "english": "I prefer writing with a pen rather than a pencil because it looks neater on the page.",
+        "chinese": "我更喜欢用钢笔写字而不是铅笔，因为写在纸上看起来更整洁。",
+        "scene": "学习偏好"
+      },
+      {
+        "level": "long",
+        "english": "My grandpa gave me an old fountain pen that he used when he was in school, and every time I write with it, I feel connected to a time long before cell phones and computers.",
+        "chinese": "我爷爷给了我一支他上学时用过的旧钢笔，每次我用它写字，都感觉与那个没有手机和电脑的时代产生了一种连结。",
+        "scene": "传承旧物"
+      }
+    ]
+  },
+  {
+    "word": "pencil",
+    "phonetic": "/ˈpɛnsəl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "铅笔",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My pencil broke again.",
+        "chinese": "我的铅笔又断了。",
+        "scene": "日常烦恼"
+      },
+      {
+        "level": "medium",
+        "english": "Can I borrow a pencil? I forgot my pencil case at home this morning.",
+        "chinese": "能借我一支铅笔吗？今天早上我把铅笔盒忘在家里了。",
+        "scene": "借学习用品"
+      },
+      {
+        "level": "long",
+        "english": "I still remember the smell of freshly sharpened pencils on the first day of school, and how excited I was to fill out brand new notebooks with neat handwriting.",
+        "chinese": "我仍然记得开学第一天刚削好的铅笔气味，以及我那时用整洁的笔迹写满崭新笔记本是多么兴奋。",
+        "scene": "开学回忆"
+      }
+    ]
+  },
+  {
+    "word": "book",
+    "phonetic": "/bʊk/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "书；书籍",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This book is really good.",
+        "chinese": "这本书真好看。",
+        "scene": "推荐"
+      },
+      {
+        "level": "medium",
+        "english": "I stayed up way too late finishing that book, and now I'm paying for it this morning.",
+        "chinese": "我熬夜太晚把那本书看完了，今天早上就遭报应了。",
+        "scene": "熬夜读书"
+      },
+      {
+        "level": "long",
+        "english": "There's a little free library box on my street where people leave books they've finished, and last week I found a mystery novel that kept me guessing until the very last page.",
+        "chinese": "我家那条街上有一个免费小图书馆，人们把看完的书留在那里，上周我找到一本悬疑小说，一直猜到最后几页才揭开谜底。",
+        "scene": "社区图书馆"
+      }
+    ]
+  },
+  {
+    "word": "bag",
+    "phonetic": "/bæɡ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "包；袋子",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My bag is too heavy.",
+        "chinese": "我的包太重了。",
+        "scene": "抱怨"
+      },
+      {
+        "level": "medium",
+        "english": "I packed my bag for the trip last night, but I have a feeling I forgot something.",
+        "chinese": "我昨晚为旅行收拾好了包，但总感觉忘了什么东西。",
+        "scene": "出行准备"
+      },
+      {
+        "level": "long",
+        "english": "I've been using the same backpack since college, and even though it has a few holes and the zipper gets stuck sometimes, I just can't bring myself to throw it away.",
+        "chinese": "我从大学起就一直在用同一个背包，虽然它有几个洞，拉链有时会卡住，但我就是舍不得扔掉。",
+        "scene": "旧物情怀"
+      }
+    ]
+  },
+  {
+    "word": "paper",
+    "phonetic": "/ˈpeɪpər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "纸；纸张",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can I have some paper?",
+        "chinese": "能给我一些纸吗？",
+        "scene": "请求"
+      },
+      {
+        "level": "medium",
+        "english": "The printer ran out of paper right in the middle of printing my boarding pass.",
+        "chinese": "打印机正好在打印我登机牌的时候没纸了。",
+        "scene": "紧急情况"
+      },
+      {
+        "level": "long",
+        "english": "My little sister covered the entire kitchen table with paper and started painting, and even though it was a huge mess to clean up, her artwork is now hanging on the fridge.",
+        "chinese": "我小妹妹用纸铺满了整个餐桌开始画画，虽然清理起来一大团糟，但她的作品现在贴在了冰箱上。",
+        "scene": "家庭艺术创作"
+      }
+    ]
+  },
+  {
+    "word": "these",
+    "phonetic": "/ðiːz/",
+    "part_of_speech": "determiner / pronoun",
+    "chinese_meaning": "这些",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "These are my friends.",
+        "chinese": "这些是我的朋友。",
+        "scene": "介绍"
+      },
+      {
+        "level": "medium",
+        "english": "Are these the cookies you baked yesterday? They look and smell amazing!",
+        "chinese": "这些是你昨天烤的饼干吗？看起来和闻起来都棒极了！",
+        "scene": "家中分享食物"
+      },
+      {
+        "level": "long",
+        "english": "I was going through a box of old photos and found these pictures from our trip to the lake — I had completely forgotten how much fun we had that day.",
+        "chinese": "我在翻一箱旧照片，找到了这些我们去湖边旅行的照片——我完全忘了那天我们玩得多开心。",
+        "scene": "翻看老照片"
+      }
+    ]
+  },
+  {
+    "word": "see",
+    "phonetic": "/siː/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "看见；看到",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I can't see anything.",
+        "chinese": "我什么都看不见。",
+        "scene": "黑暗中"
+      },
+      {
+        "level": "medium",
+        "english": "Did you see that huge dog? It was bigger than my bike!",
+        "chinese": "你看到那只大狗了吗？它比我的自行车还大！",
+        "scene": "惊讶"
+      },
+      {
+        "level": "long",
+        "english": "When I look out my window in the morning, I can see the mountains in the distance, and it reminds me why I moved to this part of the country.",
+        "chinese": "早上望向窗外，我能看到远处的山，这提醒了我为什么搬来这个地区。",
+        "scene": "窗外风景"
+      }
+    ]
+  },
+  {
+    "word": "smell",
+    "phonetic": "/smɛl/",
+    "part_of_speech": "verb / noun",
+    "chinese_meaning": "闻；气味",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This flower smells so good!",
+        "chinese": "这朵花闻起来真香！",
+        "scene": "闻花"
+      },
+      {
+        "level": "medium",
+        "english": "There's a strange smell coming from the kitchen; I hope it's not something burning.",
+        "chinese": "厨房传来一股怪味，希望不是什么烧焦了。",
+        "scene": "家中担忧"
+      },
+      {
+        "level": "long",
+        "english": "The smell of fresh bread always takes me back to my grandmother's house on Sunday mornings, where she would have a warm loaf waiting for us on the table.",
+        "chinese": "新鲜面包的香味总让我回到周日早上奶奶家，她总会在桌上放一条热乎乎的面包等着我们。",
+        "scene": "回忆的味道"
+      }
+    ]
+  },
+  {
+    "word": "taste",
+    "phonetic": "/teɪst/",
+    "part_of_speech": "verb / noun",
+    "chinese_meaning": "尝；味道",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Taste this soup, please.",
+        "chinese": "请尝尝这个汤。",
+        "scene": "请尝味道"
+      },
+      {
+        "level": "medium",
+        "english": "I love the taste of chocolate and peanut butter together; it's the best combination ever.",
+        "chinese": "我喜欢巧克力和花生酱混合的味道，那真是世上最棒的组合。",
+        "scene": "美食偏好"
+      },
+      {
+        "level": "long",
+        "english": "I made lemonade and added way too much sugar, so the taste was super sweet at first, but then you got this sour kick at the end that made my face scrunch up.",
+        "chinese": "我做了柠檬水但加了太多糖，所以味道一开始超甜，但最后会有一股酸劲冲上来，让我脸都皱成一团。",
+        "scene": "自制饮料"
+      }
+    ]
+  },
+  {
+    "word": "hear",
+    "phonetic": "/hɪr/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "听见；听到",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I can't hear you.",
+        "chinese": "我听不见你说话。",
+        "scene": "噪音或距离"
+      },
+      {
+        "level": "medium",
+        "english": "Did you hear that strange noise outside? It sounded like a cat or something.",
+        "chinese": "你听到外面那个奇怪的声音了吗？听起来像猫或者什么。",
+        "scene": "夜间响动"
+      },
+      {
+        "level": "long",
+        "english": "I love falling asleep to the sound of rain, but last night the thunder was so loud I could hear it even with my earplugs in and my pillow over my head.",
+        "chinese": "我喜欢听着雨声入睡，但昨晚雷声太响了，即使塞了耳塞、用枕头盖住头，我还是能听见。",
+        "scene": "暴风雨夜"
+      }
+    ]
+  },
+  {
+    "word": "touch",
+    "phonetic": "/tʌtʃ/",
+    "part_of_speech": "verb / noun",
+    "chinese_meaning": "触摸；接触",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Don't touch that, it's hot!",
+        "chinese": "别碰那个，很烫！",
+        "scene": "警告"
+      },
+      {
+        "level": "medium",
+        "english": "The moment I touched the water with my toe, I knew it was way too cold for swimming.",
+        "chinese": "我的脚趾一碰到水，就知道水太冷了，没法游泳。",
+        "scene": "试探水温"
+      },
+      {
+        "level": "long",
+        "english": "My cat hates it when strangers try to touch her, but with me, she'll curl up right next to my hand and gently push her head against my fingers asking for pets.",
+        "chinese": "我的猫不喜欢陌生人碰她，但和我在一起时，她会卷缩在我手边，轻轻用头顶我的手指要我摸她。",
+        "scene": "与宠物互动"
+      }
+    ]
+  },
+  {
+    "word": "nose",
+    "phonetic": "/noʊz/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "鼻子",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My nose is running.",
+        "chinese": "我流鼻涕了。",
+        "scene": "感冒症状"
+      },
+      {
+        "level": "medium",
+        "english": "My nose gets so stuffy in the spring because of all the pollen in the air.",
+        "chinese": "春天我鼻子堵得厉害，因为空气里全是花粉。",
+        "scene": "花粉过敏"
+      },
+      {
+        "level": "long",
+        "english": "I was holding my little nephew and he suddenly grabbed my nose and laughed like it was the funniest thing in the world.",
+        "chinese": "我抱着小侄子，他突然抓住我的鼻子，笑得像是世上最好笑的事一样。",
+        "scene": "亲子逗乐"
+      }
+    ]
+  },
+  {
+    "word": "tongue",
+    "phonetic": "/tʌŋ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "舌头",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I bit my tongue.",
+        "chinese": "我咬到了舌头。",
+        "scene": "小意外"
+      },
+      {
+        "level": "medium",
+        "english": "The soup was so hot that I burned my tongue, and now everything tastes weird.",
+        "chinese": "汤太烫了，我把舌头烫伤了，现在吃什么都觉得味道怪怪的。",
+        "scene": "被烫到"
+      },
+      {
+        "level": "long",
+        "english": "My friend tried to teach me a tongue twister in English, and I kept messing it up so badly that I ended up just sticking out my tongue and laughing at myself.",
+        "chinese": "朋友想教我一个英语绕口令，我总是说错，最后只好伸出舌头嘲笑自己。",
+        "scene": "学绕口令"
+      }
+    ]
+  },
+  {
+    "word": "class",
+    "phonetic": "/klæs/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "班级；课堂；课",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I have English class today.",
+        "chinese": "我今天有英语课。",
+        "scene": "课程安排"
+      },
+      {
+        "level": "medium",
+        "english": "Our class is putting on a little play at the end of the semester, and I got one of the main parts.",
+        "chinese": "我们班要在学期末演一出小话剧，我得到了其中一个主要角色。",
+        "scene": "班级活动"
+      },
+      {
+        "level": "long",
+        "english": "I remember falling asleep in history class once, and when I woke up, everyone was staring at me because the teacher had asked me a question I didn't hear.",
+        "chinese": "我记得有一次在历史课上睡着了，醒来时大家都盯着我看，因为老师问了我一个我没听到的问题。",
+        "scene": "课堂糗事"
+      }
+    ]
+  },
+  {
+    "word": "in",
+    "phonetic": "/ɪn/",
+    "part_of_speech": "preposition",
+    "chinese_meaning": "在……里面；在……之中",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The cat is in the box.",
+        "chinese": "猫在箱子里。",
+        "scene": "描述位置"
+      },
+      {
+        "level": "medium",
+        "english": "I left my wallet in the car again, so I have to run back and get it before we pay.",
+        "chinese": "我又把钱包落在车里了，得跑回去拿，趁还没付钱。",
+        "scene": "落东西"
+      },
+      {
+        "level": "long",
+        "english": "I was stuck in traffic for over an hour, and by the time I got home, the pizza had already been eaten, and everyone was just sitting in the living room watching TV like nothing happened.",
+        "chinese": "我在路上堵了一个多小时，到家时披萨已经吃完了，大家都坐在客厅里若无其事地看电视。",
+        "scene": "堵车晚归"
+      }
+    ]
+  },
+  {
+    "word": "computer",
+    "phonetic": "/kəmˈpjuːtər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "电脑；计算机",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My computer is so slow.",
+        "chinese": "我的电脑好慢。",
+        "scene": "抱怨设备"
+      },
+      {
+        "level": "medium",
+        "english": "I spent the whole afternoon in front of the computer trying to finish my project before the deadline.",
+        "chinese": "我整个下午都坐在电脑前，想在截止时间前完成项目。",
+        "scene": "赶作业或工作"
+      },
+      {
+        "level": "long",
+        "english": "I was working on an important document when my computer suddenly crashed, and I hadn't saved anything in two hours — I just sat there staring at the black screen in disbelief.",
+        "chinese": "我正在做一个重要的文件，电脑突然崩溃了，而我两小时没保存任何东西——我就坐在那儿，盯着黑屏，不敢相信。",
+        "scene": "电脑崩溃"
+      }
+    ]
+  },
+  {
+    "word": "learn",
+    "phonetic": "/lɜːrn/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "学习；学会",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I want to learn Spanish.",
+        "chinese": "我想学西班牙语。",
+        "scene": "学习愿望"
+      },
+      {
+        "level": "medium",
+        "english": "It took me a while to learn how to ride a bike, but once I got it, I never forgot.",
+        "chinese": "我学骑自行车花了一段时间，但一旦学会就再也没忘记。",
+        "scene": "学骑自行车"
+      },
+      {
+        "level": "long",
+        "english": "The best way to learn a language is to make lots of mistakes and not be afraid to sound silly, because that's exactly how I finally started speaking English more fluently.",
+        "chinese": "学一门语言最好的方法就是犯大量的错误，并且不怕自己听起来很傻，因为这正是我最终开始更流利地说英语的方式。",
+        "scene": "语言学习心得"
+      }
+    ]
+  }
+]

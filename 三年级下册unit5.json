@@ -1,0 +1,444 @@
+[
+  {
+    "word": "boat",
+    "phonetic": "/boʊt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "船；小船",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We went out on a boat.",
+        "chinese": "我们乘船出去了。",
+        "scene": "乘船游玩"
+      },
+      {
+        "level": "medium",
+        "english": "My uncle has a small fishing boat that he takes out on the lake every weekend.",
+        "chinese": "我叔叔有一艘小渔船，他每个周末都开到湖上去。",
+        "scene": "周末钓鱼"
+      },
+      {
+        "level": "long",
+        "english": "The last time I was on a boat, we got caught in a sudden rainstorm and everyone was laughing and screaming as we tried to get back to shore before we got completely soaked.",
+        "chinese": "我上次坐船的时候，我们突遇暴雨，大家一边笑一边尖叫，想在全身湿透前赶回岸边。",
+        "scene": "船上遇雨"
+      }
+    ]
+  },
+  {
+    "word": "cool",
+    "phonetic": "/kuːl/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "凉爽的；酷的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "That jacket looks really cool.",
+        "chinese": "那件夹克看起来很酷。",
+        "scene": "夸赞衣着"
+      },
+      {
+        "level": "medium",
+        "english": "It's finally starting to cool down outside after that long, hot summer we had.",
+        "chinese": "经历了漫长的酷暑之后，外面终于开始凉快下来了。",
+        "scene": "天气转凉"
+      },
+      {
+        "level": "long",
+        "english": "My older cousin taught me how to skateboard when I was ten, and I thought he was the coolest person in the world because he could do tricks without falling.",
+        "chinese": "我十岁时表哥教我玩滑板，我觉得他是世界上最酷的人，因为他能做各种技巧而不摔跤。",
+        "scene": "崇拜表哥"
+      }
+    ]
+  },
+  {
+    "word": "keep",
+    "phonetic": "/kiːp/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "保持；保留；继续",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Keep the change.",
+        "chinese": "零钱不用找了。",
+        "scene": "付钱"
+      },
+      {
+        "level": "medium",
+        "english": "I try to keep my desk clean, but by the end of the week, it's always a mess.",
+        "chinese": "我尽量保持桌面整洁，但到周末时总是一团糟。",
+        "scene": "整理书桌"
+      },
+      {
+        "level": "long",
+        "english": "My grandmother told me to always keep a little bit of money saved for emergencies, and that advice has helped me out of trouble more times than I can count.",
+        "chinese": "我奶奶告诉我要一直存点钱以备急用，这个建议已经帮我解围无数次了。",
+        "scene": "奶奶的忠告"
+      }
+    ]
+  },
+  {
+    "word": "at",
+    "phonetic": "/æt/",
+    "part_of_speech": "preposition",
+    "chinese_meaning": "在（某处）；在（某时间）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'll meet you at the park.",
+        "chinese": "我在公园等你。",
+        "scene": "约定地点"
+      },
+      {
+        "level": "medium",
+        "english": "She's really good at playing the guitar, even though she only started learning last year.",
+        "chinese": "她吉他弹得真好，尽管她去年才开始学。",
+        "scene": "擅长某事"
+      },
+      {
+        "level": "long",
+        "english": "I was standing at the bus stop for twenty minutes in the rain, and when the bus finally came, it was completely full and just drove right past me.",
+        "chinese": "我在雨中公交站站了二十分钟，车终于来了，却塞满了人，直接从我面前开走了。",
+        "scene": "等公交的烦恼"
+      }
+    ]
+  },
+  {
+    "word": "home",
+    "phonetic": "/hoʊm/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "家；家庭",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's go home.",
+        "chinese": "我们回家吧。",
+        "scene": "回家"
+      },
+      {
+        "level": "medium",
+        "english": "There's nothing better than coming home after a long trip and sleeping in your own bed.",
+        "chinese": "长途旅行后回到家，睡在自己的床上，没有比这更棒的事了。",
+        "scene": "回家真好"
+      },
+      {
+        "level": "long",
+        "english": "I never realized how much I missed the smell of my mom's cooking until I walked through the front door after my first semester of college and felt instantly at home again.",
+        "chinese": "直到我大学第一学期结束，走进前门，瞬间又有了家的感觉，我才意识到自己多么想念妈妈做饭的香味。",
+        "scene": "大学回家"
+      }
+    ]
+  },
+  {
+    "word": "ball",
+    "phonetic": "/bɔːl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "球",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Throw me the ball!",
+        "chinese": "把球扔给我！",
+        "scene": "玩球"
+      },
+      {
+        "level": "medium",
+        "english": "We lost our tennis ball in the bushes, so we had to stop the game and go look for it.",
+        "chinese": "我们把网球打进了灌木丛里，只好暂停比赛去找球。",
+        "scene": "找球"
+      },
+      {
+        "level": "long",
+        "english": "My dog is obsessed with this one squeaky ball that's falling apart, and if you even think about throwing it away, he gives you this look like you've broken his heart.",
+        "chinese": "我家的狗对这个快散架的吱吱球超级痴迷，你哪怕只是想想把它扔掉，它都会用一种你伤了它心的眼神看着你。",
+        "scene": "狗狗和球"
+      }
+    ]
+  },
+  {
+    "word": "doll",
+    "phonetic": "/dɑːl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "娃娃；玩偶",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She got a new doll.",
+        "chinese": "她得到了一个新娃娃。",
+        "scene": "新玩具"
+      },
+      {
+        "level": "medium",
+        "english": "My little sister takes her favorite doll everywhere, even to the dinner table.",
+        "chinese": "我妹妹无论去哪儿都带着她最爱的娃娃，连上饭桌也要带着。",
+        "scene": "妹妹的娃娃"
+      },
+      {
+        "level": "long",
+        "english": "I found my old doll from childhood in a box in the attic, and even though her hair was all tangled and her dress was torn, it brought back so many happy memories.",
+        "chinese": "我在阁楼的箱子里找到了童年时的旧娃娃，虽然她头发缠结、裙子破了，但勾起了许多快乐的回忆。",
+        "scene": "找到旧娃娃"
+      }
+    ]
+  },
+  {
+    "word": "car",
+    "phonetic": "/kɑːr/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "汽车",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's take the car today.",
+        "chinese": "今天我们开车去吧。",
+        "scene": "决定出行方式"
+      },
+      {
+        "level": "medium",
+        "english": "My car wouldn't start this morning, so I had to ask my neighbor for a jump.",
+        "chinese": "今天早上我的车发动不了，只好找邻居帮我搭电。",
+        "scene": "车坏了"
+      },
+      {
+        "level": "long",
+        "english": "I learned to drive in my dad's old car, the one that would make this terrible grinding sound whenever you shifted into third gear, but I still loved driving it.",
+        "chinese": "我是用我爸的旧车学会开车的，那辆车一挂三挡就会发出可怕的磨齿声，但我还是很喜欢开它。",
+        "scene": "学车回忆"
+      }
+    ]
+  },
+  {
+    "word": "on",
+    "phonetic": "/ɑːn/",
+    "part_of_speech": "preposition",
+    "chinese_meaning": "在……上面；关于",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Put it on the table.",
+        "chinese": "把它放在桌子上。",
+        "scene": "放置物品"
+      },
+      {
+        "level": "medium",
+        "english": "I have a small scar on my knee from when I fell off my bike as a kid.",
+        "chinese": "我膝盖上有一道小疤，是小孩子时从自行车上摔下来留下的。",
+        "scene": "膝盖上的疤"
+      },
+      {
+        "level": "long",
+        "english": "I love sitting on the porch in the evening with a cup of tea, listening to the crickets and watching the sky change colors as the sun goes down.",
+        "chinese": "我喜欢傍晚坐在门廊上，端杯茶，听蟋蟀叫，看着夕阳西下时天空变换色彩。",
+        "scene": "傍晚门廊"
+      }
+    ]
+  },
+  {
+    "word": "shelf",
+    "phonetic": "/ʃɛlf/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "架子；搁板",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The book is on the shelf.",
+        "chinese": "书在书架上。",
+        "scene": "找书"
+      },
+      {
+        "level": "medium",
+        "english": "I put up a new shelf in my room to hold all my board games and some plants.",
+        "chinese": "我在房间里装了个新架子，放我所有的桌游和一些植物。",
+        "scene": "安装架子"
+      },
+      {
+        "level": "long",
+        "english": "That shelf is where my mom kept all her favorite novels, and I remember spending rainy afternoons as a kid pulling them down one by one and reading the first page to decide which one to read next.",
+        "chinese": "那个架子上放着妈妈所有最喜欢的小说，我记得小时候在雨天的下午，我会把它们一本本拿下来读第一页，再决定接下来读哪一本。",
+        "scene": "书架与童年"
+      }
+    ]
+  },
+  {
+    "word": "in",
+    "phonetic": "/ɪn/",
+    "part_of_speech": "preposition",
+    "chinese_meaning": "在……里面；在……之中",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Come in, please.",
+        "chinese": "请进来吧。",
+        "scene": "邀请进屋"
+      },
+      {
+        "level": "medium",
+        "english": "I left my phone in the car, so I'll be right back after I go get it.",
+        "chinese": "我把手机落在车里了，我去拿一下，马上回来。",
+        "scene": "忘手机在车里"
+      },
+      {
+        "level": "long",
+        "english": "We were stuck in traffic for so long that we missed the beginning of the movie, and by the time we got there, the only seats left were in the very front row.",
+        "chinese": "我们在路上堵了太久，错过了电影开头，等我们到的时候，只剩最前排的座位了。",
+        "scene": "堵车错过开头"
+      }
+    ]
+  },
+  {
+    "word": "box",
+    "phonetic": "/bɑːks/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "盒子；箱子",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "What's in the box?",
+        "chinese": "盒子里有什么？",
+        "scene": "好奇"
+      },
+      {
+        "level": "medium",
+        "english": "I found an old shoe box full of letters my grandpa wrote to my grandma during the war.",
+        "chinese": "我找到了一个旧鞋盒，里面装满了我爷爷在战争期间写给奶奶的信。",
+        "scene": "发现旧书信"
+      },
+      {
+        "level": "long",
+        "english": "We ordered pizza and when the delivery guy handed me the box, it was so hot that I almost dropped it, and the smell filled the whole room instantly.",
+        "chinese": "我们点了披萨，当外卖员把盒子递给我时，盒子烫得我差点扔掉，香气瞬间充满了整个房间。",
+        "scene": "收披萨外卖"
+      }
+    ]
+  },
+  {
+    "word": "cap",
+    "phonetic": "/kæp/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "帽子；（瓶）盖",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I like your baseball cap.",
+        "chinese": "我喜欢你的棒球帽。",
+        "scene": "夸帽子"
+      },
+      {
+        "level": "medium",
+        "english": "I always lose the cap to my water bottle, so I just drink from it without one now.",
+        "chinese": "我总弄丢水瓶的盖子，所以现在就直接对嘴喝了。",
+        "scene": "丢瓶盖"
+      },
+      {
+        "level": "long",
+        "english": "My grandpa has this old cap that he's worn for years, and it's so faded and beat up that my grandma keeps trying to throw it away, but he says it's his lucky cap and won't give it up.",
+        "chinese": "我爷爷有一顶戴了好多年的旧帽子，已经褪色破损得不成样子，奶奶总想扔了它，但爷爷说那是他的幸运帽，说什么也不肯扔。",
+        "scene": "爷爷的幸运帽"
+      }
+    ]
+  },
+  {
+    "word": "map",
+    "phonetic": "/mæp/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "地图",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can I see the map?",
+        "chinese": "我能看看地图吗？",
+        "scene": "请求看地图"
+      },
+      {
+        "level": "medium",
+        "english": "We got lost in the middle of nowhere because our map was outdated and showed the wrong roads.",
+        "chinese": "我们在荒郊野外迷路了，因为地图过时了，显示的路都不对。",
+        "scene": "迷路"
+      },
+      {
+        "level": "long",
+        "english": "I remember my dad unfolding a giant paper map on the hood of the car during our road trips, trying to figure out where we were, and somehow we always made it to our destination.",
+        "chinese": "我记得在公路旅行时，爸爸会把一张巨大的纸质地图摊在汽车引擎盖上，试图找出我们在哪儿，神奇的是我们最后总能到达目的地。",
+        "scene": "童年的纸质地图"
+      }
+    ]
+  },
+  {
+    "word": "under",
+    "phonetic": "/ˈʌndər/",
+    "part_of_speech": "preposition",
+    "chinese_meaning": "在……下面",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The cat is under the bed.",
+        "chinese": "猫在床底下。",
+        "scene": "找猫"
+      },
+      {
+        "level": "medium",
+        "english": "I looked under the couch cushions and found enough loose change to buy a coffee.",
+        "chinese": "我在沙发垫下面翻了翻，找到了够买杯咖啡的零钱。",
+        "scene": "找零钱"
+      },
+      {
+        "level": "long",
+        "english": "During the thunderstorm, our dog hid under the kitchen table and wouldn't come out for anything, not even his favorite treats.",
+        "chinese": "雷雨期间，我家的狗躲在厨房桌子底下，拿什么都不肯出来，连它最喜欢的零食都不管用。",
+        "scene": "雷雨中的狗狗"
+      }
+    ]
+  },
+  {
+    "word": "still",
+    "phonetic": "/stɪl/",
+    "part_of_speech": "adverb",
+    "chinese_meaning": "仍然；还",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She is still sleeping.",
+        "chinese": "她还在睡觉。",
+        "scene": "描述状态"
+      },
+      {
+        "level": "medium",
+        "english": "It's been three years since we moved here, and I still get lost on the way to the grocery store sometimes.",
+        "chinese": "我们搬到这里三年了，我有时去杂货店的路上还会迷路。",
+        "scene": "搬家常事"
+      },
+      {
+        "level": "long",
+        "english": "Even though I've tried to learn guitar on and off for years, I still can't play anything more complicated than three chords, but I keep trying anyway.",
+        "chinese": "虽然我断断续续学了几年吉他，仍然弹不了比三个和弦更复杂的东西，但我反正还在坚持尝试。",
+        "scene": "坚持学吉他"
+      }
+    ]
+  },
+  {
+    "word": "put",
+    "phonetic": "/pʊt/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "放；放置",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Put your shoes on.",
+        "chinese": "把鞋穿上。",
+        "scene": "出门准备"
+      },
+      {
+        "level": "medium",
+        "english": "I put the milk back in the fridge, but now I can't remember if I already added it to my shopping list.",
+        "chinese": "我把牛奶放回冰箱了，但现在想不起来有没有把它加进购物清单。",
+        "scene": "健忘"
+      },
+      {
+        "level": "long",
+        "english": "I asked my son to put his toys away before dinner, and when I checked his room later, he had stuffed everything under his bed in a huge pile and called it 'clean.'",
+        "chinese": "我让儿子在晚饭前把玩具收好，之后我检查他房间时，发现他把所有东西塞在床底下的一大堆里，还称之为“干净了”。",
+        "scene": "孩子收玩具"
+      }
+    ]
+  }
+]

@@ -1,0 +1,626 @@
+[
+{
+"word": "where",
+"phonetic": "/wɛr/",
+"part_of_speech": "adverb",
+"chinese_meaning": "在哪里",
+"sentences": [
+{
+"level": "short",
+"english": "Where is my phone?",
+"chinese": "我的手机在哪里？",
+"scene": "找东西"
+},
+{
+"level": "medium",
+"english": "Do you know where the nearest coffee shop is?",
+"chinese": "你知道最近的咖啡店在哪里吗？",
+"scene": "问路"
+},
+{
+"level": "long",
+"english": "I can't remember where I put my keys last night, and I've been looking for them everywhere this morning.",
+"chinese": "我不记得昨晚把钥匙放哪儿了，今天早上我到处都找遍了。",
+"scene": "找钥匙"
+}
+]
+},
+{
+"word": "from",
+"phonetic": "/frʌm/",
+"part_of_speech": "preposition",
+"chinese_meaning": "来自；从",
+"sentences": [
+{
+"level": "short",
+"english": "I'm from New York.",
+"chinese": "我来自纽约。",
+"scene": "介绍籍贯"
+},
+{
+"level": "medium",
+"english": "This gift is from my grandmother; she sent it all the way from Florida.",
+"chinese": "这个礼物是我奶奶送的，她大老远从佛罗里达寄来的。",
+"scene": "收礼物"
+},
+{
+"level": "long",
+"english": "I just got back from a long trip, and I'm still feeling tired from the jet lag and all the walking we did every day.",
+"chinese": "我刚从一次长途旅行回来，还因为时差和每天走很多路而感到疲惫。",
+"scene": "旅行归来"
+}
+]
+},
+{
+"word": "about",
+"phonetic": "/əˈbaʊt/",
+"part_of_speech": "preposition",
+"chinese_meaning": "关于；大约",
+"sentences": [
+{
+"level": "short",
+"english": "What's that movie about?",
+"chinese": "那部电影是关于什么的？",
+"scene": "聊电影"
+},
+{
+"level": "medium",
+"english": "I read a really interesting article about how bees communicate with each other.",
+"chinese": "我读了一篇关于蜜蜂如何相互交流的有趣文章。",
+"scene": "分享阅读"
+},
+{
+"level": "long",
+"english": "I'm not exactly sure what I want to do after college, but I've been thinking a lot about maybe going into teaching or something related to environmental science.",
+"chinese": "我不确定大学毕业后想做什么，但最近我一直在考虑从事教学或环境科学相关的工作。",
+"scene": "谈论未来"
+}
+]
+},
+{
+"word": "today",
+"phonetic": "/təˈdeɪ/",
+"part_of_speech": "adverb",
+"chinese_meaning": "今天",
+"sentences": [
+{
+"level": "short",
+"english": "It's so cold today.",
+"chinese": "今天好冷啊。",
+"scene": "天气"
+},
+{
+"level": "medium",
+"english": "I have way too many meetings today, so I probably won't have time for lunch.",
+"chinese": "我今天会议太多了，可能没时间吃午饭。",
+"scene": "忙碌的工作日"
+},
+{
+"level": "long",
+"english": "Today was one of those days where everything seemed to go wrong, from spilling coffee on my shirt to getting stuck in traffic for an hour.",
+"chinese": "今天真是诸事不顺的一天，从把咖啡洒在衬衫上到堵车堵了一个小时。",
+"scene": "糟糕的一天"
+}
+]
+},
+{
+"word": "teacher",
+"phonetic": "/ˈtiːtʃər/",
+"part_of_speech": "noun",
+"chinese_meaning": "老师",
+"sentences": [
+{
+"level": "short",
+"english": "Our teacher is really nice.",
+"chinese": "我们的老师非常好。",
+"scene": "评价老师"
+},
+{
+"level": "medium",
+"english": "My math teacher gave us a pop quiz today, and I'm not sure I did very well.",
+"chinese": "今天数学老师突然给我们做测验，我不确定自己考得好不好。",
+"scene": "学校"
+},
+{
+"level": "long",
+"english": "I'll never forget my high school history teacher, who made every lesson feel like we were listening to an exciting story rather than just memorizing dates.",
+"chinese": "我永远忘不了我的高中历史老师，他让每节课都像是在听激动人心的故事，而不是死记日期。",
+"scene": "回忆老师"
+}
+]
+},
+{
+"word": "student",
+"phonetic": "/ˈstuːdənt/",
+"part_of_speech": "noun",
+"chinese_meaning": "学生",
+"sentences": [
+{
+"level": "short",
+"english": "She's a good student.",
+"chinese": "她是个好学生。",
+"scene": "评价"
+},
+{
+"level": "medium",
+"english": "As a college student, I try to balance my part-time job with my classes and still have some free time.",
+"chinese": "作为一名大学生，我努力在兼职工作和上课之间平衡，还要留点自由时间。",
+"scene": "大学生活"
+},
+{
+"level": "long",
+"english": "When I was a student, I used to study at this tiny coffee shop near campus every weekend, and the owner would always give me a free cookie if I stayed until closing time.",
+"chinese": "我当学生的时候，每个周末都去学校附近一家小咖啡店学习，如果我一直待到关门，老板总会给我一块免费饼干。",
+"scene": "回忆学生时代"
+}
+]
+},
+{
+"word": "after",
+"phonetic": "/ˈæftər/",
+"part_of_speech": "preposition",
+"chinese_meaning": "在……之后",
+"sentences": [
+{
+"level": "short",
+"english": "Let's go after school.",
+"chinese": "放学后我们去吧。",
+"scene": "约定"
+},
+{
+"level": "medium",
+"english": "I always feel so much better after a good workout, even if I'm tired at first.",
+"chinese": "好好锻炼之后我总是感觉好多了，即使一开始很累。",
+"scene": "健身后"
+},
+{
+"level": "long",
+"english": "After we finished dinner, we sat on the porch talking for hours about everything and nothing, and it reminded me how much I miss those simple moments with my family.",
+"chinese": "晚饭后，我们坐在门廊上聊了好几个小时，天南海北地聊，这让我想起自己多么怀念和家人在一起的简单时光。",
+"scene": "家庭时光"
+}
+]
+},
+{
+"word": "who",
+"phonetic": "/huː/",
+"part_of_speech": "pronoun",
+"chinese_meaning": "谁",
+"sentences": [
+{
+"level": "short",
+"english": "Who is that?",
+"chinese": "那是谁？",
+"scene": "询问"
+},
+{
+"level": "medium",
+"english": "Do you know who left this package on the front step? It's really heavy.",
+"chinese": "你知道谁把这个包裹放在门口的台阶上吗？它好重。",
+"scene": "发现包裹"
+},
+{
+"level": "long",
+"english": "I ran into someone at the grocery store who I haven't seen since elementary school, and we ended up talking for twenty minutes about our kids and jobs.",
+"chinese": "我在杂货店遇到一个从小学就没见过的人，我们最后聊了二十分钟关于孩子和工作的事。",
+"scene": "偶遇旧友"
+}
+]
+},
+{
+"word": "girl",
+"phonetic": "/ɡɜːrl/",
+"part_of_speech": "noun",
+"chinese_meaning": "女孩",
+"sentences": [
+{
+"level": "short",
+"english": "That little girl is so cute.",
+"chinese": "那个小女孩真可爱。",
+"scene": "看到孩子"
+},
+{
+"level": "medium",
+"english": "The girl sitting next to me on the bus was reading the same book I just finished.",
+"chinese": "公交车上坐我旁边的女孩在读我刚读完的那本书。",
+"scene": "公交上"
+},
+{
+"level": "long",
+"english": "When I was a little girl, my grandmother taught me how to bake her famous chocolate chip cookies, and to this day, the smell of them takes me right back to her kitchen.",
+"chinese": "当我还是个小女孩的时候，奶奶教我烤她著名的巧克力曲奇，直到今天，那种味道还能让我立刻回到她的厨房。",
+"scene": "童年回忆"
+}
+]
+},
+{
+"word": "neighbour",
+"phonetic": "/ˈneɪbər/",
+"part_of_speech": "noun",
+"chinese_meaning": "邻居",
+"sentences": [
+{
+"level": "short",
+"english": "Our neighbour has a cute dog.",
+"chinese": "我们的邻居有只可爱的狗。",
+"scene": "邻里"
+},
+{
+"level": "medium",
+"english": "I asked my neighbour to water my plants while I was away on vacation.",
+"chinese": "我请邻居在我度假时帮我浇花。",
+"scene": "帮忙"
+},
+{
+"level": "long",
+"english": "My next-door neighbour, who is in her eighties, still walks two miles every morning and always has the most amazing stories about growing up in this town.",
+"chinese": "我的隔壁邻居已经八十多岁了，她每天早上还走两英里，而且总有关于在这个小镇长大的最精彩的故事。",
+"scene": "描述邻居"
+}
+]
+},
+{
+"word": "boy",
+"phonetic": "/bɔɪ/",
+"part_of_speech": "noun",
+"chinese_meaning": "男孩",
+"sentences": [
+{
+"level": "short",
+"english": "The boy is playing outside.",
+"chinese": "那个男孩在外面玩。",
+"scene": "看见"
+},
+{
+"level": "medium",
+"english": "There's a boy in my son's class who can solve a Rubik's cube in under a minute.",
+"chinese": "我儿子班上有个男孩能在一分钟内还原魔方。",
+"scene": "学校见闻"
+},
+{
+"level": "long",
+"english": "I remember this one boy from summer camp who was terrified of swimming, but by the end of the week, he jumped off the dock with everyone else, laughing his head off.",
+"chinese": "我记得夏令营有个男孩特别怕水，但到了周末，他就和其他人一起从码头跳下去，笑得前仰后合。",
+"scene": "夏令营回忆"
+}
+]
+},
+{
+"word": "woman",
+"phonetic": "/ˈwʊmən/",
+"part_of_speech": "noun",
+"chinese_meaning": "女人，妇女",
+"sentences": [
+{
+"level": "short",
+"english": "A woman called for you earlier.",
+"chinese": "早些时候有个女人打电话找你。",
+"scene": "传话"
+},
+{
+"level": "medium",
+"english": "The woman at the checkout counter was so friendly that we ended up chatting about recipes.",
+"chinese": "收银台的那个女人特别友好，我们最后聊起了食谱。",
+"scene": "超市"
+},
+{
+"level": "long",
+"english": "I met a woman on the train who was traveling across the country by herself, and she told me that after her kids grew up, she finally decided to see all the places she'd always dreamed about.",
+"chinese": "我在火车上遇到一个女人，她独自穿越全国旅行，她告诉我，孩子们长大后，她终于决定去看看所有她一直梦想的地方。",
+"scene": "旅途遇见"
+}
+]
+},
+{
+"word": "man",
+"phonetic": "/mæn/",
+"part_of_speech": "noun",
+"chinese_meaning": "男人",
+"sentences": [
+{
+"level": "short",
+"english": "The man is waiting outside.",
+"chinese": "那个男人在外面等着。",
+"scene": "观察"
+},
+{
+"level": "medium",
+"english": "I saw a man walking his cat on a leash this morning, which is something you don't see every day.",
+"chinese": "今天早上我看到一个男人用绳子遛猫，这可不常见。",
+"scene": "趣事"
+},
+{
+"level": "long",
+"english": "There was an old man who used to sit on the bench by the lake every afternoon feeding the ducks, and my grandpa said he'd been doing that for as long as anyone could remember.",
+"chinese": "有一个老人，以前每天下午都坐在湖边的长椅上喂鸭子，我爷爷说，在人们的记忆里他一直都这么做。",
+"scene": "怀旧描述"
+}
+]
+},
+{
+"word": "Mr",
+"phonetic": "/ˈmɪstər/",
+"part_of_speech": "noun",
+"chinese_meaning": "先生",
+"sentences": [
+{
+"level": "short",
+"english": "Mr. Smith is my teacher.",
+"chinese": "史密斯先生是我的老师。",
+"scene": "学校"
+},
+{
+"level": "medium",
+"english": "Mr. Johnson, our next-door neighbour, always gives out the best Halloween candy on the block.",
+"chinese": "我们的隔壁邻居约翰逊先生总是在街区内发放最好的万圣节糖果。",
+"scene": "邻居"
+},
+{
+"level": "long",
+"english": "I'll never forget Mr. Davis, my middle school science teacher, who once brought a live snake to class to teach us about reptiles, and half the class screamed.",
+"chinese": "我永远忘不了戴维斯先生，我的初中科学老师，他有一次带了一条活蛇来课堂上讲爬行动物，结果半个班都尖叫起来。",
+"scene": "难忘的老师"
+}
+]
+},
+{
+"word": "classmate",
+"phonetic": "/ˈklæsmeɪt/",
+"part_of_speech": "noun",
+"chinese_meaning": "同学",
+"sentences": [
+{
+"level": "short",
+"english": "My classmate lent me a pencil.",
+"chinese": "我的同学借了我一支铅笔。",
+"scene": "教室"
+},
+{
+"level": "medium",
+"english": "I ran into an old classmate from high school at the grocery store yesterday, and we couldn't believe how much time had passed.",
+"chinese": "昨天在杂货店遇到一个高中老同学，我们都不敢相信时间过得这么快。",
+"scene": "偶遇"
+},
+{
+"level": "long",
+"english": "One of my classmates in college started a small online business from her dorm room, and by senior year, she was making enough money to pay her own tuition.",
+"chinese": "我大学时的一个同学从她的宿舍开始做小网上生意，到大四时，她赚的钱已经足够付自己的学费了。",
+"scene": "创业故事"
+}
+]
+},
+{
+"word": "he",
+"phonetic": "/hiː/",
+"part_of_speech": "pronoun",
+"chinese_meaning": "他",
+"sentences": [
+{
+"level": "short",
+"english": "He is my brother.",
+"chinese": "他是我的哥哥/弟弟。",
+"scene": "介绍"
+},
+{
+"level": "medium",
+"english": "He always forgets his keys, so I keep a spare one under the doormat for him.",
+"chinese": "他总是忘记带钥匙，所以我放了一把备用钥匙在门垫下给他。",
+"scene": "照顾"
+},
+{
+"level": "long",
+"english": "He said he would never move back to his hometown, but after ten years in the city, he finally realized that the slower pace of life there was exactly what he needed.",
+"chinese": "他说过他永远不会搬回家乡，但在城市生活了十年后，他终于意识到那里的慢节奏生活正是他所需要的。",
+"scene": "人生选择"
+}
+]
+},
+{
+"word": "also",
+"phonetic": "/ˈɔːlsoʊ/",
+"part_of_speech": "adverb",
+"chinese_meaning": "也，而且",
+"sentences": [
+{
+"level": "short",
+"english": "I also like pizza.",
+"chinese": "我也喜欢披萨。",
+"scene": "喜好"
+},
+{
+"level": "medium",
+"english": "We went to the beach and also visited the aquarium while we were there.",
+"chinese": "我们去了海滩，还在那里参观了水族馆。",
+"scene": "出游"
+},
+{
+"level": "long",
+"english": "I need to finish this report by Friday, and I also have to prepare a presentation for the Monday meeting, so this weekend is going to be all work and no play.",
+"chinese": "我需要在周五前完成这份报告，而且还得为周一的会议准备一个演示，所以这个周末将全是工作，没有娱乐。",
+"scene": "忙碌"
+}
+]
+},
+{
+"word": "English",
+"phonetic": "/ˈɪŋɡlɪʃ/",
+"part_of_speech": "noun",
+"chinese_meaning": "英语",
+"sentences": [
+{
+"level": "short",
+"english": "I study English every day.",
+"chinese": "我每天学英语。",
+"scene": "学习"
+},
+{
+"level": "medium",
+"english": "My English teacher is from Canada, so she has a very clear accent that's easy to understand.",
+"chinese": "我的英语老师来自加拿大，所以她的口音非常清晰易懂。",
+"scene": "英语课"
+},
+{
+"level": "long",
+"english": "I started learning English when I was ten, and even though I still make mistakes sometimes, being able to watch movies without subtitles feels like a huge achievement.",
+"chinese": "我十岁开始学英语，尽管有时还会犯错，但能够不看字幕看电影感觉是一个巨大的成就。",
+"scene": "学习经历"
+}
+]
+},
+{
+"word": "she",
+"phonetic": "/ʃiː/",
+"part_of_speech": "pronoun",
+"chinese_meaning": "她",
+"sentences": [
+{
+"level": "short",
+"english": "She loves ice cream.",
+"chinese": "她喜欢冰淇淋。",
+"scene": "喜好"
+},
+{
+"level": "medium",
+"english": "She always brings homemade cookies to our book club meetings, and they're absolutely delicious.",
+"chinese": "她总是带自制饼干来参加我们的读书会，而且非常好吃。",
+"scene": "聚会"
+},
+{
+"level": "long",
+"english": "She told me that she started running just to lose some weight, but over time, it became her favorite way to clear her mind after a stressful day at work.",
+"chinese": "她告诉我她开始跑步只是为了减肥，但久而久之，跑步成了她在压力大的一天工作后清空大脑最喜欢的方式。",
+"scene": "习惯养成"
+}
+]
+},
+{
+"word": "very",
+"phonetic": "/ˈveri/",
+"part_of_speech": "adverb",
+"chinese_meaning": "非常",
+"sentences": [
+{
+"level": "short",
+"english": "That's very kind of you.",
+"chinese": "你真是太好了。",
+"scene": "感谢"
+},
+{
+"level": "medium",
+"english": "I'm not very good at cooking, but I can make a pretty decent grilled cheese sandwich.",
+"chinese": "我不太擅长做饭，但能做出相当不错的烤芝士三明治。",
+"scene": "谦虚"
+},
+{
+"level": "long",
+"english": "It was very late when I finally got home, and I was so exhausted that I fell asleep on the couch without even taking off my shoes.",
+"chinese": "我到家时已经很晚了，我累坏了，连鞋都没脱就在沙发上睡着了。",
+"scene": "疲惫"
+}
+]
+},
+{
+"word": "UK",
+"phonetic": "/ˌjuː ˈkeɪ/",
+"part_of_speech": "noun",
+"chinese_meaning": "英国",
+"sentences": [
+{
+"level": "short",
+"english": "She's from the UK.",
+"chinese": "她来自英国。",
+"scene": "介绍"
+},
+{
+"level": "medium",
+"english": "My cousin moved to the UK for work, and she says the weather there takes some getting used to.",
+"chinese": "我表姐因为工作搬到了英国，她说那儿的天气需要适应一下。",
+"scene": "国外生活"
+},
+{
+"level": "long",
+"english": "I spent a year studying in the UK, and besides the academic stuff, what I really fell in love with was the pub culture and how friendly people were once you started chatting with them.",
+"chinese": "我在英国学习了一年，除了学术方面，我真正爱上的是那里的酒吧文化，以及你一旦和他们聊起天来人们是多么友好。",
+"scene": "留学经历"
+}
+]
+},
+{
+"word": "China",
+"phonetic": "/ˈtʃaɪnə/",
+"part_of_speech": "noun",
+"chinese_meaning": "中国",
+"sentences": [
+{
+"level": "short",
+"english": "I live in China.",
+"chinese": "我住在中国。",
+"scene": "居住地"
+},
+{
+"level": "medium",
+"english": "My best friend just got back from a trip to China and showed me the most amazing photos of the Great Wall.",
+"chinese": "我最好的朋友刚从中国旅行回来，给我看了长城最棒的照片。",
+"scene": "旅行见闻"
+},
+{
+"level": "long",
+"english": "I've always wanted to visit China, not just the big cities like Beijing and Shanghai, but also the small villages in the countryside where you can really see the traditions that go back thousands of years.",
+"chinese": "我一直想去中国看看，不光是北京和上海这样的大城市，还有乡间的小村庄，在那里你能真正看到延续了数千年的传统。",
+"scene": "旅行梦想"
+}
+]
+},
+{
+"word": "Canada",
+"phonetic": "/ˈkænədə/",
+"part_of_speech": "noun",
+"chinese_meaning": "加拿大",
+"sentences": [
+{
+"level": "short",
+"english": "My uncle lives in Canada.",
+"chinese": "我叔叔住在加拿大。",
+"scene": "家人"
+},
+{
+"level": "medium",
+"english": "We're planning a road trip across Canada next summer, starting in Vancouver and ending all the way out in Halifax.",
+"chinese": "我们正计划明年夏天自驾横穿加拿大，从温哥华开始，一路到哈利法克斯。",
+"scene": "旅行计划"
+},
+{
+"level": "long",
+"english": "When I think of Canada, I picture these huge, quiet lakes, endless forests, and the nicest people you'll ever meet who actually apologize when you accidentally step on their foot.",
+"chinese": "当我想到加拿大，我脑海中浮现的是巨大而安静的湖泊、无尽的森林，还有你遇到过的最友善的人，他们会在你不小心踩到他们的脚时反而向你道歉。",
+"scene": "印象"
+}
+]
+},
+{
+"word": "USA",
+"phonetic": "/ˌjuː ɛs ˈeɪ/",
+"part_of_speech": "noun",
+"chinese_meaning": "美国",
+"sentences": [
+{
+"level": "short",
+"english": "I want to visit the USA.",
+"chinese": "我想去美国旅游。",
+"scene": "愿望"
+},
+{
+"level": "medium",
+"english": "My cousin just got accepted to a university in the USA, so we're having a surprise party for her tonight.",
+"chinese": "我表妹刚被美国一所大学录取了，所以我们今晚要给她办个惊喜派对。",
+"scene": "庆祝"
+},
+{
+"level": "long",
+"english": "I've road-tripped across the USA twice, and what always amazes me is how different each state feels — from the deserts of Arizona to the forests of Oregon, it's like visiting several countries at once.",
+"chinese": "我已经自驾横穿美国两次了，让我始终感到惊讶的是每个州的感觉如此不同——从亚利桑那的沙漠到俄勒冈的森林，就像一次性游览了好几个国家。",
+"scene": "旅行体验"
+}
+]
+}
+]
