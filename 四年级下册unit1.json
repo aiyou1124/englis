@@ -1,6 +1,600 @@
-{
-  "grade": "四年级",
-  "term": "下册",
-  "unit": "unit1",
-  "words": []
-}
+[
+  {
+    "word": "sorry",
+    "phonetic": "/ˈsɑːri/",
+    "part_of_speech": "adjective, interjection",
+    "chinese_meaning": "对不起；抱歉；难过的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'm so sorry about that.",
+        "chinese": "那件事我真的很抱歉。",
+        "scene": "向朋友道歉"
+      },
+      {
+        "level": "medium",
+        "english": "I'm really sorry I forgot your birthday—I feel terrible about it.",
+        "chinese": "真对不起我忘了你的生日，我特别过意不去。",
+        "scene": "忘记朋友生日后真诚道歉"
+      },
+      {
+        "level": "long",
+        "english": "I wanted to say sorry for being late yesterday; I got stuck in traffic and my phone died so I couldn't call you.",
+        "chinese": "我想为昨天迟到道歉，我遇上堵车手机又没电了，没法给你打电话。",
+        "scene": "解释迟到原因并道歉"
+      }
+    ]
+  },
+  {
+    "word": "hurry up",
+    "phonetic": "/ˈhɜːri ʌp/",
+    "part_of_speech": "phrasal verb",
+    "chinese_meaning": "赶快；快点",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Hurry up, we are late!",
+        "chinese": "快点，我们迟到了！",
+        "scene": "催促同伴赶紧出门"
+      },
+      {
+        "level": "medium",
+        "english": "Can you hurry up in the bathroom? I really need to get ready too.",
+        "chinese": "你能快点用完卫生间吗？我也急着要梳洗呢。",
+        "scene": "早上和家人共用卫生间时催促"
+      },
+      {
+        "level": "long",
+        "english": "If we don't hurry up and buy the tickets now, they might sell out and we'll miss the concert.",
+        "chinese": "如果我们不赶快现在买票，票可能会卖光，我们就错过演唱会了。",
+        "scene": "提醒朋友抢票要快"
+      }
+    ]
+  },
+  {
+    "word": "late",
+    "phonetic": "/leɪt/",
+    "part_of_speech": "adjective, adverb",
+    "chinese_meaning": "迟到的；晚的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Don't be late for school.",
+        "chinese": "上学别迟到。",
+        "scene": "家长早上叮嘱孩子"
+      },
+      {
+        "level": "medium",
+        "english": "I stayed up too late watching movies and now I'm exhausted.",
+        "chinese": "我看电影熬夜到太晚，现在困死了。",
+        "scene": "抱怨熬夜的后遗症"
+      },
+      {
+        "level": "long",
+        "english": "Even though I left early, I was still late for the meeting because there was an accident on the highway.",
+        "chinese": "尽管我出门很早，但因为高速上出了事故，我开会还是迟到了。",
+        "scene": "解释不可抗力导致的迟到"
+      }
+    ]
+  },
+  {
+    "word": "class",
+    "phonetic": "/klæs/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "课；班级；课堂",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I have math class now.",
+        "chinese": "我现在有数学课。",
+        "scene": "告诉同学自己的课表"
+      },
+      {
+        "level": "medium",
+        "english": "Our class is going on a field trip to the science museum next week.",
+        "chinese": "我们班下周要去科学博物馆实地考察。",
+        "scene": "兴奋地分享班级活动"
+      },
+      {
+        "level": "long",
+        "english": "The best part of that class was when the teacher let us work in groups and we could actually talk.",
+        "chinese": "那堂课最棒的部分就是老师让我们分组合作，我们终于可以说说话了。",
+        "scene": "回忆一堂有趣的小组讨论课"
+      }
+    ]
+  },
+  {
+    "word": "ready",
+    "phonetic": "/ˈrɛdi/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "准备好的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Are you ready to go?",
+        "chinese": "你准备好走了吗？",
+        "scene": "出门前询问同伴"
+      },
+      {
+        "level": "medium",
+        "english": "Dinner will be ready in about ten minutes, so please set the table.",
+        "chinese": "晚饭大概十分钟后好，请摆一下桌子。",
+        "scene": "家长叫孩子帮忙准备开饭"
+      },
+      {
+        "level": "long",
+        "english": "I thought I was ready for the exam, but when I saw the first question, my mind went completely blank.",
+        "chinese": "我以为我考试准备得很好了，但看到第一道题时，脑子瞬间一片空白。",
+        "scene": "考场上过度紧张的经历"
+      }
+    ]
+  },
+  {
+    "word": "rule",
+    "phonetic": "/ruːl/",
+    "part_of_speech": "noun, verb",
+    "chinese_meaning": "规则；规章；统治",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Running is not allowed at school. It is a school rule.",
+        "chinese": "不准奔跑是学校的规定。",
+        "scene": "老师提醒学生遵守校规"
+      },
+      {
+        "level": "medium",
+        "english": "My parents have a rule that I have to finish my homework before I can play video games.",
+        "chinese": "我爸妈规定我必须先做完作业才能玩电子游戏。",
+        "scene": "向朋友吐槽家规"
+      },
+      {
+        "level": "long",
+        "english": "One important rule in our house is that we all eat dinner together without any phones at the table.",
+        "chinese": "我们家一条重要的规矩是大家要一起吃晚饭，饭桌上不许看手机。",
+        "scene": "介绍自己家的温馨家规"
+      }
+    ]
+  },
+  {
+    "word": "classroom",
+    "phonetic": "/ˈklæsruːm/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "教室",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The classroom is very quiet.",
+        "chinese": "教室非常安静。",
+        "scene": "进入自习室时的观察"
+      },
+      {
+        "level": "medium",
+        "english": "We decorated the classroom for the holiday party with balloons and streamers.",
+        "chinese": "我们为节日派对用气球和彩带装饰了教室。",
+        "scene": "布置教室迎接节日"
+      },
+      {
+        "level": "long",
+        "english": "I forgot my textbook in the classroom, so I had to go back to school after everyone had already left.",
+        "chinese": "我把课本忘在教室里了，只好在大家都走后回学校去拿。",
+        "scene": "放学后忘东西跑回教室"
+      }
+    ]
+  },
+  {
+    "word": "turn off",
+    "phonetic": "/tɜːrn ɔːf/",
+    "part_of_speech": "phrasal verb",
+    "chinese_meaning": "关掉（电器、灯等）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Please turn off the lights.",
+        "chinese": "请把灯关掉。",
+        "scene": "离开房间时提醒关灯"
+      },
+      {
+        "level": "medium",
+        "english": "Can you turn off the TV? I'm trying to study and it's distracting me.",
+        "chinese": "你能把电视关掉吗？我在学习，它让我分心。",
+        "scene": "学习时被电视声打扰"
+      },
+      {
+        "level": "long",
+        "english": "Before we go to bed, I always double-check that I turned off the stove and locked the doors.",
+        "chinese": "睡觉前，我总是会反复检查我关了炉子、锁了门没有。",
+        "scene": "睡前安全检查的习惯"
+      }
+    ]
+  },
+  {
+    "word": "light",
+    "phonetic": "/laɪt/",
+    "part_of_speech": "noun, adjective, verb",
+    "chinese_meaning": "灯；光；轻的；浅色的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Turn on the light, please.",
+        "chinese": "请开一下灯。",
+        "scene": "天黑时请人帮忙开灯"
+      },
+      {
+        "level": "medium",
+        "english": "The light in the hallway flickers sometimes, so the bulb probably needs to be replaced.",
+        "chinese": "走廊的灯有时会闪，灯泡可能该换了。",
+        "scene": "提醒家人换灯泡"
+      },
+      {
+        "level": "long",
+        "english": "I love the soft morning light that comes through my bedroom window; it makes waking up much easier.",
+        "chinese": "我喜欢清晨透过卧室窗户洒进来的柔和光线，这让起床变得容易多了。",
+        "scene": "享受早晨的自然光"
+      }
+    ]
+  },
+  {
+    "word": "blackboard",
+    "phonetic": "/ˈblækbɔːrd/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "黑板",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Write your name on the blackboard.",
+        "chinese": "把你的名字写在黑板上。",
+        "scene": "老师让学生到黑板前写名字"
+      },
+      {
+        "level": "medium",
+        "english": "The teacher wrote today's homework on the blackboard before the bell rang.",
+        "chinese": "老师在下课铃响前把今天的作业写在了黑板上。",
+        "scene": "下课前的教室场景"
+      },
+      {
+        "level": "long",
+        "english": "When I was in elementary school, my favorite job was cleaning the blackboard after class with the erasers.",
+        "chinese": "我上小学时，最喜欢干的事就是课后用板擦清理黑板。",
+        "scene": "回忆童年当值日生的乐趣"
+      }
+    ]
+  },
+  {
+    "word": "desk",
+    "phonetic": "/dɛsk/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "书桌；办公桌",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My desk is a mess.",
+        "chinese": "我的书桌一团糟。",
+        "scene": "看到凌乱书桌时的感慨"
+      },
+      {
+        "level": "medium",
+        "english": "I keep a picture of my family on my desk so I can see them while I work.",
+        "chinese": "我在书桌上放了张全家福，这样工作的时候就能看到他们。",
+        "scene": "介绍自己办公桌上的温馨摆设"
+      },
+      {
+        "level": "long",
+        "english": "I found a note from my little sister tucked under my desk lamp saying I love you, and it made my day.",
+        "chinese": "我在台灯下发现妹妹塞的一张纸条，上面写着“我爱你”，那让我一整天都很开心。",
+        "scene": "意外收到家人暖心小纸条"
+      }
+    ]
+  },
+  {
+    "word": "chair",
+    "phonetic": "/tʃɛr/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "椅子",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Pull up a chair and sit down.",
+        "chinese": "拉把椅子过来坐下。",
+        "scene": "热情招呼客人入座"
+      },
+      {
+        "level": "medium",
+        "english": "I need a new office chair because my back hurts after sitting all day.",
+        "chinese": "我需要一把新的办公椅，坐一整天我背很疼。",
+        "scene": "考虑更换不舒服的办公椅"
+      },
+      {
+        "level": "long",
+        "english": "We had to bring extra chairs from the basement when more guests showed up than we expected.",
+        "chinese": "来的客人比我们预想的多，我们只好从地下室搬来额外的椅子。",
+        "scene": "家庭聚会时人多椅子不够"
+      }
+    ]
+  },
+  {
+    "word": "tidy",
+    "phonetic": "/ˈtaɪdi/",
+    "part_of_speech": "adjective, verb",
+    "chinese_meaning": "整洁的；整理",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Your room looks very tidy.",
+        "chinese": "你的房间看起来很整洁。",
+        "scene": "妈妈夸奖孩子房间干净"
+      },
+      {
+        "level": "medium",
+        "english": "I need to tidy up the living room before our guests arrive.",
+        "chinese": "我得在客人来之前把客厅整理一下。",
+        "scene": "客人到访前的匆忙收拾"
+      },
+      {
+        "level": "long",
+        "english": "I always feel so much more relaxed and focused when my desk is tidy and everything is in its place.",
+        "chinese": "当书桌整整齐齐、所有东西各就各位时，我总是觉得更放松也更专注。",
+        "scene": "分享整洁环境带来的好状态"
+      }
+    ]
+  },
+  {
+    "word": "music",
+    "phonetic": "/ˈmjuːzɪk/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "音乐",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I love listening to music.",
+        "chinese": "我喜欢听音乐。",
+        "scene": "表达对音乐的喜爱"
+      },
+      {
+        "level": "medium",
+        "english": "Can you turn the music down a little? I'm on the phone.",
+        "chinese": "你能把音乐关小声一点吗？我在打电话。",
+        "scene": "接电话时请人调低音量"
+      },
+      {
+        "level": "long",
+        "english": "Putting on my favorite music while I cook dinner turns a boring chore into something I actually look forward to.",
+        "chinese": "做晚饭时放上我最喜欢的音乐，能把无聊的家务变成我真正期待的事情。",
+        "scene": "边听音乐边做饭的享受"
+      }
+    ]
+  },
+  {
+    "word": "door",
+    "phonetic": "/dɔːr/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "门",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Close the door, it's cold.",
+        "chinese": "关上门，好冷。",
+        "scene": "冬天提醒家人关门保暖"
+      },
+      {
+        "level": "medium",
+        "english": "Someone knocked on the door, but when I opened it, nobody was there.",
+        "chinese": "有人敲门，但等我打开门，外面却没人。",
+        "scene": "遇到恶作剧按门铃的奇怪经历"
+      },
+      {
+        "level": "long",
+        "english": "I always leave my keys by the door so I don't panic looking for them when I'm already late.",
+        "chinese": "我总把钥匙放在门边，这样即便已经迟到了，也不会因为找钥匙而抓狂。",
+        "scene": "养成固定放钥匙的习惯"
+      }
+    ]
+  },
+  {
+    "word": "window",
+    "phonetic": "/ˈwɪndoʊ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "窗户",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Open the window. It's stuffy.",
+        "chinese": "把窗户打开，太闷了。",
+        "scene": "房间里闷热时请求通风"
+      },
+      {
+        "level": "medium",
+        "english": "I like to sit by the window on the bus and watch the city go by.",
+        "chinese": "坐公交车时我喜欢靠窗坐，看着城市从眼前掠过。",
+        "scene": "描述乘公交时的小喜好"
+      },
+      {
+        "level": "long",
+        "english": "During the storm, the wind was so strong that a tree branch broke our living room window.",
+        "chinese": "暴风雨时风太大了，一根树枝把我们家客厅的窗户打破了。",
+        "scene": "讲述暴风雨造成的意外破坏"
+      }
+    ]
+  },
+  {
+    "word": "fan",
+    "phonetic": "/fæn/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "风扇；迷（粉丝）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Turn on the fan, it's hot.",
+        "chinese": "开风扇吧，好热。",
+        "scene": "夏天在家热得受不了"
+      },
+      {
+        "level": "medium",
+        "english": "I'm a huge fan of that band, and I've been to five of their concerts.",
+        "chinese": "我是那个乐队的铁杆粉丝，我去过他们五场演唱会了。",
+        "scene": "表达对乐队的狂热喜爱"
+      },
+      {
+        "level": "long",
+        "english": "The ceiling fan in my bedroom makes a clicking noise all night, but I've gotten so used to it that I can't sleep without it.",
+        "chinese": "我卧室的吊扇整晚咔嗒作响，但我早就习惯了，没有这声音反而睡不着。",
+        "scene": "习惯了风扇噪音的独特助眠方式"
+      }
+    ]
+  },
+  {
+    "word": "when",
+    "phonetic": "/wɛn/",
+    "part_of_speech": "adverb, conjunction",
+    "chinese_meaning": "什么时候；当…时",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "When does the movie start?",
+        "chinese": "电影什么时候开始？",
+        "scene": "和朋友确认电影开场时间"
+      },
+      {
+        "level": "medium",
+        "english": "I was about to leave the house when I realized I forgot my wallet.",
+        "chinese": "我刚要出门，突然发现忘带钱包了。",
+        "scene": "临出门时发现忘带重要物品"
+      },
+      {
+        "level": "long",
+        "english": "When I look back at my childhood photos, I remember how much fun we had just playing in the backyard.",
+        "chinese": "当我翻看童年照片时，就想起我们在后院玩耍时有多开心。",
+        "scene": "翻看老照片引发美好回忆"
+      }
+    ]
+  },
+  {
+    "word": "understand",
+    "phonetic": "/ˌʌndərˈstænd/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "理解；明白",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I don't understand this question.",
+        "chinese": "我不懂这个问题。",
+        "scene": "做作业时向人求助"
+      },
+      {
+        "level": "medium",
+        "english": "Could you please repeat that? I didn't quite understand what you said.",
+        "chinese": "你能重复一遍吗？我没太听明白你说的话。",
+        "scene": "没听清对方讲话时礼貌请求"
+      },
+      {
+        "level": "long",
+        "english": "It took me a long time to understand why my parents were so strict, but now I realize they just wanted to protect me.",
+        "chinese": "我花了很长时间才理解为什么爸妈那么严格，现在我明白了他们只是想保护我。",
+        "scene": "长大后对父母严厉教育的感悟"
+      }
+    ]
+  },
+  {
+    "word": "wall",
+    "phonetic": "/wɔːl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "墙；墙壁",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "There's a picture on the wall.",
+        "chinese": "墙上有一幅画。",
+        "scene": "向人介绍房间装饰"
+      },
+      {
+        "level": "medium",
+        "english": "We painted the kitchen wall light yellow to make the room feel brighter.",
+        "chinese": "我们把厨房的墙刷成了浅黄色，让房间感觉更明亮。",
+        "scene": "家庭装修后的分享"
+      },
+      {
+        "level": "long",
+        "english": "The walls in our apartment are so thin that I can hear my neighbors talking as if they're in the same room.",
+        "chinese": "我们公寓的墙薄得不行，我能听到邻居说话，就像他们在同一个房间里似的。",
+        "scene": "抱怨公寓隔音太差"
+      }
+    ]
+  },
+  {
+    "word": "newspaper",
+    "phonetic": "/ˈnuːzpeɪpər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "报纸",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My dad reads the newspaper every morning.",
+        "chinese": "我爸爸每天早上看报纸。",
+        "scene": "描述爸爸的晨间习惯"
+      },
+      {
+        "level": "medium",
+        "english": "I saw your photo in the local newspaper for winning the spelling competition!",
+        "chinese": "我在本地报纸上看到你赢了拼字比赛的照片了！",
+        "scene": "朋友在报上看到熟人照片很惊喜"
+      },
+      {
+        "level": "long",
+        "english": "Even though most people get their news online, my grandfather still walks to the corner store every Sunday to buy the newspaper.",
+        "chinese": "虽然大多数人都在网上看新闻，但我爷爷还是每个星期天都走到街角商店去买报纸。",
+        "scene": "老一辈坚持传统读报习惯"
+      }
+    ]
+  },
+  {
+    "word": "hand out",
+    "phonetic": "/hænd aʊt/",
+    "part_of_speech": "phrasal verb",
+    "chinese_meaning": "分发；发放",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Please hand out these papers.",
+        "chinese": "请把这些卷子发下去。",
+        "scene": "老师请学生帮忙发资料"
+      },
+      {
+        "level": "medium",
+        "english": "The teacher asked me to hand out the test sheets while she set up the projector.",
+        "chinese": "老师让我在她调投影仪的时候把试卷发下去。",
+        "scene": "帮忙发考卷的课堂日常"
+      },
+      {
+        "level": "long",
+        "english": "At the end of the party, we handed out little gift bags to all the kids as they left with their parents.",
+        "chinese": "派对结束时，孩子们跟着家长离开时，我们给所有小孩分发了小礼品袋。",
+        "scene": "派对结束后分发伴手礼"
+      }
+    ]
+  },
+  {
+    "word": "workbook",
+    "phonetic": "/ˈwɜːrkbʊk/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "练习册；工作簿",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Open your workbook to page 20.",
+        "chinese": "把练习册翻到第20页。",
+        "scene": "老师在课堂上指示"
+      },
+      {
+        "level": "medium",
+        "english": "I finished all the math problems in my workbook before class ended.",
+        "chinese": "我在下课之前做完了练习册上所有的数学题。",
+        "scene": "高效完成课堂作业"
+      },
+      {
+        "level": "long",
+        "english": "My handwriting was so messy in my workbook that the teacher wrote a note asking me to slow down and write more neatly.",
+        "chinese": "我练习册上的字迹太潦草了，老师写了条评语让我放慢速度、写工整些。",
+        "scene": "老师对作业书写提出要求"
+      }
+    ]
+  }
+]

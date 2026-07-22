@@ -1,0 +1,496 @@
+[
+  {
+    "word": "PE",
+    "phonetic": "/ˌpiː ˈiː/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "体育课",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We have PE class on Fridays.",
+        "chinese": "我们星期五有体育课。",
+        "scene": "学生谈论课表"
+      },
+      {
+        "level": "medium",
+        "english": "I forgot my gym clothes, so I can't join PE today.",
+        "chinese": "我忘了带运动服，所以今天没法上体育课了。",
+        "scene": "在学校向老师解释原因"
+      },
+      {
+        "level": "long",
+        "english": "When I was in elementary school, PE was always my favorite subject because I loved running around and playing dodgeball with my friends, even though I wasn't very good at it.",
+        "chinese": "我上小学时，体育课一直是我最喜欢的科目，因为我喜欢和朋友们到处跑、玩躲避球，虽然我玩得不太好。",
+        "scene": "回忆学生时代的快乐"
+      }
+    ]
+  },
+  {
+    "word": "job",
+    "phonetic": "/dʒɑːb/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "工作；职业",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I love my new job.",
+        "chinese": "我热爱我的新工作。",
+        "scene": "和朋友聊天谈工作"
+      },
+      {
+        "level": "medium",
+        "english": "She's looking for a part-time job at a coffee shop near campus.",
+        "chinese": "她正在校园附近的一家咖啡店找兼职工作。",
+        "scene": "大学生兼职打工"
+      },
+      {
+        "level": "long",
+        "english": "My dad told me that finding a job you truly enjoy is more important than just making a lot of money, because you spend most of your day at work and it really affects your whole life.",
+        "chinese": "我爸爸跟我说，找到一份你真正喜欢的工作比只挣大钱更重要，因为你一天大部分时间都在工作，它真的会影响你的整个生活。",
+        "scene": "父亲给子女的人生建议"
+      }
+    ]
+  },
+  {
+    "word": "doctor",
+    "phonetic": "/ˈdɑːktər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "医生",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The doctor will see you now.",
+        "chinese": "医生现在可以看你了。",
+        "scene": "护士请病人进诊室"
+      },
+      {
+        "level": "medium",
+        "english": "I need to make an appointment with my doctor for a check-up next week.",
+        "chinese": "我需要预约我的医生下周做个检查。",
+        "scene": "在电话里预约医生"
+      },
+      {
+        "level": "long",
+        "english": "Ever since I was little, I've always wanted to become a doctor so I could help sick people feel better, just like the doctors who took care of my grandmother when she was in the hospital.",
+        "chinese": "我从小就一直想当医生，这样就能帮助生病的人好起来，就像我奶奶住院时照顾她的那些医生一样。",
+        "scene": "讲述自己想当医生的梦想起源"
+      }
+    ]
+  },
+  {
+    "word": "farmer",
+    "phonetic": "/ˈfɑːrmər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "农民；农场主",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The farmer grows corn and tomatoes.",
+        "chinese": "那个农民种玉米和西红柿。",
+        "scene": "路过农田时的简单描述"
+      },
+      {
+        "level": "medium",
+        "english": "We buy fresh eggs every Saturday from a farmer at the local market.",
+        "chinese": "我们每个星期六都会在本地市场从一位农民那里买新鲜鸡蛋。",
+        "scene": "周末赶集购买农产品"
+      },
+      {
+        "level": "long",
+        "english": "My uncle is a farmer in Iowa, and he always says that farming is not just a job—it's a way of life, because you have to wake up early every single day, no matter the weather, to take care of the animals and the land.",
+        "chinese": "我叔叔是爱荷华州的一位农民，他总是说务农不只是份工作，而是一种生活方式，因为不管你愿不愿意，每一天都得早起照顾动物和土地，风雨无阻。",
+        "scene": "介绍亲戚的职业与生活感悟"
+      }
+    ]
+  },
+  {
+    "word": "nurse",
+    "phonetic": "/nɜːrs/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "护士",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The nurse took my temperature.",
+        "chinese": "护士量了我的体温。",
+        "scene": "在医院看病时的简单陈述"
+      },
+      {
+        "level": "medium",
+        "english": "After the surgery, a kind nurse helped me walk down the hallway for the first time.",
+        "chinese": "手术后，一位好心的护士第一次扶着我在走廊里走路。",
+        "scene": "术后康复的亲身经历"
+      },
+      {
+        "level": "long",
+        "english": "My sister works as a nurse in the emergency room, and even though her shifts are really long and exhausting, she always says that seeing a patient smile after they feel better makes everything worth it.",
+        "chinese": "我姐姐在急诊室当护士，虽然她的班次很长又累人，但她总是说，看到病人好转后的笑容，一切就都值了。",
+        "scene": "讲述护士姐姐的工作辛苦与动力"
+      }
+    ]
+  },
+  {
+    "word": "office worker",
+    "phonetic": "/ˈɔːfɪs ˈwɜːrkər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "办公室职员；上班族",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Most office workers here take the subway.",
+        "chinese": "这里大多数上班族都坐地铁。",
+        "scene": "早高峰观察通勤方式"
+      },
+      {
+        "level": "medium",
+        "english": "As an office worker, I spend most of my day sitting in front of a computer.",
+        "chinese": "作为一名办公室职员，我一天大部分时间都坐在电脑前。",
+        "scene": "介绍自己的日常工作状态"
+      },
+      {
+        "level": "long",
+        "english": "A lot of office workers in big cities struggle to find a good work-life balance because they often have to stay late to finish projects, answer emails even on weekends, and still find time for their family and friends.",
+        "chinese": "大城市的很多上班族都很难找到工作和生活的平衡，因为他们经常得加班赶项目，周末还得回邮件，同时还要挤出时间陪家人和朋友。",
+        "scene": "讨论城市上班族的普遍困境"
+      }
+    ]
+  },
+  {
+    "word": "factory worker",
+    "phonetic": "/ˈfæktəri ˈwɜːrkər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "工厂工人",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The factory workers start their shift at 6 a.m.",
+        "chinese": "工厂工人早上6点开始轮班。",
+        "scene": "介绍工厂作息"
+      },
+      {
+        "level": "medium",
+        "english": "My grandfather was a factory worker who made car parts for thirty years.",
+        "chinese": "我爷爷曾是一名工厂工人，做了三十年的汽车零件。",
+        "scene": "讲述家族长辈的职业"
+      },
+      {
+        "level": "long",
+        "english": "Many factory workers do the same repetitive task for hours every day, and while it can be physically demanding and pretty boring, some of them take real pride in making products that people all over the country use.",
+        "chinese": "许多工厂工人每天好几个小时都在做同样的重复性工作，虽然体力上很累、也很枯燥，但他们中的一些人真的很自豪能制造出全国人民都在使用的产品。",
+        "scene": "客观描述工厂工人的工作与成就感"
+      }
+    ]
+  },
+  {
+    "word": "busy",
+    "phonetic": "/ˈbɪzi/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "忙碌的；热闹的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Mom is busy in the kitchen.",
+        "chinese": "妈妈在厨房里忙着呢。",
+        "scene": "孩子看到妈妈在做饭"
+      },
+      {
+        "level": "medium",
+        "english": "Sorry, I can't talk right now—I'm super busy with homework.",
+        "chinese": "抱歉，我现在没法聊天，作业多得忙死了。",
+        "scene": "朋友打电话过来时解释"
+      },
+      {
+        "level": "long",
+        "english": "This week has been so busy that I haven't even had time to eat lunch properly, because I've got three exams to study for, two papers to write, and my part-time job on top of all that.",
+        "chinese": "这周忙得我连好好吃顿午饭的时间都没有，因为我有三门考试要复习，两篇论文要写，除此之外还有兼职工作。",
+        "scene": "向朋友抱怨极其忙碌的一周"
+      }
+    ]
+  },
+  {
+    "word": "tired",
+    "phonetic": "/ˈtaɪərd/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "疲倦的；累的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'm so tired after work.",
+        "chinese": "下班后我累坏了。",
+        "scene": "下班回家对家人说的话"
+      },
+      {
+        "level": "medium",
+        "english": "The kids were really tired after playing at the park all afternoon.",
+        "chinese": "孩子们在公园玩了一下午，都累坏了。",
+        "scene": "家长带小孩回家路上"
+      },
+      {
+        "level": "long",
+        "english": "Even though I was physically tired from moving boxes all day, I felt mentally awake and happy because we finally finished moving into our new apartment, and it already started to feel like home.",
+        "chinese": "尽管搬了一整天的箱子身体很累，但精神上却很清醒、很开心，因为我们终于搬进新公寓了，而且这里已经开始有家的感觉了。",
+        "scene": "搬家后的疲惫与喜悦交织"
+      }
+    ]
+  },
+  {
+    "word": "chore",
+    "phonetic": "/tʃɔːr/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "家务活；日常琐事",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Washing dishes is my least favorite chore.",
+        "chinese": "洗碗是我最不喜欢的家务。",
+        "scene": "家人分配家务时的抱怨"
+      },
+      {
+        "level": "medium",
+        "english": "My parents give me a few dollars every week for doing my chores.",
+        "chinese": "我爸妈每个星期给我几块钱作为做家务的零花钱。",
+        "scene": "孩子通过做家务赚零花钱"
+      },
+      {
+        "level": "long",
+        "english": "I used to hate doing chores like folding laundry and sweeping the floor, but now I actually find it kind of relaxing, especially when I put on my favorite music and just focus on one simple task at a time.",
+        "chinese": "我以前很讨厌叠衣服、扫地之类的家务活，但现在我反而觉得做这些挺放松的，特别是当我放着最喜欢的音乐，一次只专注于一件简单的事的时候。",
+        "scene": "分享对做家务看法的转变"
+      }
+    ]
+  },
+  {
+    "word": "cook",
+    "phonetic": "/kʊk/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "做饭；烹饪",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can you cook dinner tonight?",
+        "chinese": "今晚你能做晚饭吗？",
+        "scene": "家人之间商量做饭任务"
+      },
+      {
+        "level": "medium",
+        "english": "I learned how to cook spaghetti from watching videos online.",
+        "chinese": "我从网上看视频学会了做意大利面。",
+        "scene": "年轻人在家自学烹饪"
+      },
+      {
+        "level": "long",
+        "english": "When I first moved out, I could barely cook an egg, but now I actually enjoy inviting friends over and cooking a big meal for them because it's a fun way to spend time together and try out new recipes.",
+        "chinese": "我刚搬出来住的时候几乎连鸡蛋都不会煮，但现在我却很喜欢邀请朋友来家里给他们做一顿大餐，因为这样一起热闹地尝试新菜谱特别有意思。",
+        "scene": "讲述自己从不会做饭到热爱下厨的转变"
+      }
+    ]
+  },
+  {
+    "word": "clean",
+    "phonetic": "/kliːn/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "打扫；清洁",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Please clean your room before you go out.",
+        "chinese": "出去之前请把你的房间打扫干净。",
+        "scene": "家长出门前叮嘱孩子"
+      },
+      {
+        "level": "medium",
+        "english": "We spent the whole Saturday morning cleaning the garage together.",
+        "chinese": "我们花了整个星期六上午一起打扫车库。",
+        "scene": "家庭周末大扫除"
+      },
+      {
+        "level": "long",
+        "english": "I always feel so much better after I clean my apartment and everything smells fresh, because a messy space really makes my mind feel messy too, and I can't focus on anything important.",
+        "chinese": "每次我把公寓打扫干净、到处都闻起来清清爽爽之后，感觉就好多了，因为乱糟糟的环境真的会让我的脑子也乱糟糟的，没法集中精力做重要的事情。",
+        "scene": "分享打扫卫生对心理状态的积极影响"
+      }
+    ]
+  },
+  {
+    "word": "room",
+    "phonetic": "/ruːm/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "房间",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My room has a big window.",
+        "chinese": "我的房间有一扇大窗户。",
+        "scene": "向朋友简单介绍自己的房间"
+      },
+      {
+        "level": "medium",
+        "english": "We're turning the extra room downstairs into a home office.",
+        "chinese": "我们打算把楼下那间多余的房间改成家庭办公室。",
+        "scene": "家人讨论房屋改造计划"
+      },
+      {
+        "level": "long",
+        "english": "When I was a teenager, my room was my little world—I had posters of my favorite bands all over the walls, a messy desk full of half-finished drawings, and I would spend hours just lying on my bed listening to music.",
+        "chinese": "我十几岁的时候，我的房间就是我的小世界——墙上贴满了我最爱乐队的海报，乱糟糟的书桌上堆满了画了一半的画，我可以躺在床上听音乐一听就是好几个小时。",
+        "scene": "回忆青春期充满个性的房间"
+      }
+    ]
+  },
+  {
+    "word": "look after",
+    "phonetic": "/lʊk ˈæftər/",
+    "part_of_speech": "phrasal verb",
+    "chinese_meaning": "照顾；照看",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can you look after my cat this weekend?",
+        "chinese": "这个周末你能帮我照看一下猫吗？",
+        "scene": "拜托邻居或朋友帮忙照顾宠物"
+      },
+      {
+        "level": "medium",
+        "english": "My older sister used to look after me when our parents were at work.",
+        "chinese": "爸爸妈妈上班的时候，我姐姐常常在家照顾我。",
+        "scene": "回忆童年由哥哥姐姐照看"
+      },
+      {
+        "level": "long",
+        "english": "Since our grandmother moved in with us, we all take turns looking after her—I usually make her breakfast, my mom helps her with her medicine, and my dad takes her to the park for a short walk every afternoon.",
+        "chinese": "自从奶奶搬来和我们一起住，我们都轮流照顾她——我通常给她做早饭，妈妈帮她弄药，爸爸每天下午带她去公园散一小会儿步。",
+        "scene": "全家分工合作照顾老人"
+      }
+    ]
+  },
+  {
+    "word": "sweep",
+    "phonetic": "/swiːp/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "打扫；清扫",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Please sweep the kitchen floor after dinner.",
+        "chinese": "晚饭后请把厨房的地扫一下。",
+        "scene": "饭后家长布置任务"
+      },
+      {
+        "level": "medium",
+        "english": "I broke a glass in the living room and had to sweep up all the tiny pieces.",
+        "chinese": "我在客厅打碎了一个玻璃杯，不得不把所有小碎片扫干净。",
+        "scene": "处理不小心打碎的玻璃杯"
+      },
+      {
+        "level": "long",
+        "english": "Every autumn, our front yard gets completely covered in golden leaves, and as a kid, I actually enjoyed helping my dad sweep them into a big pile that I could jump into afterward.",
+        "chinese": "每年秋天，我家前院都会落满金色的叶子，小时候我其实很喜欢帮爸爸把它们扫成一大堆，之后我就能跳进去玩。",
+        "scene": "回忆童年秋天扫落叶的快乐"
+      }
+    ]
+  },
+  {
+    "word": "floor",
+    "phonetic": "/flɔːr/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "地板；地面",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Don't leave your socks on the floor.",
+        "chinese": "别把袜子扔在地板上。",
+        "scene": "家长提醒孩子保持整洁"
+      },
+      {
+        "level": "medium",
+        "english": "The floor in the kitchen is so cold in the morning without slippers.",
+        "chinese": "早上不穿拖鞋的话，厨房的地板可真凉。",
+        "scene": "冬天早晨的切身感受"
+      },
+      {
+        "level": "long",
+        "english": "After the party, the living room floor was covered in confetti and spilled drinks, so we all had to stay up pretty late to mop and scrub it before our parents came home the next day.",
+        "chinese": "派对结束后，客厅地板上满是彩纸屑和洒出来的饮料，所以我们不得不熬夜拖地擦洗，赶在爸妈第二天回家前弄干净。",
+        "scene": "派对后狼狈打扫现场"
+      }
+    ]
+  },
+  {
+    "word": "together",
+    "phonetic": "/təˈɡeðər/",
+    "part_of_speech": "adverb",
+    "chinese_meaning": "一起；共同",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's have lunch together tomorrow.",
+        "chinese": "明天我们一起吃午饭吧。",
+        "scene": "同事或朋友之间邀约"
+      },
+      {
+        "level": "medium",
+        "english": "We put the puzzle together in just one afternoon.",
+        "chinese": "我们一个下午就把拼图一起拼好了。",
+        "scene": "家人或朋友合作完成拼图"
+      },
+      {
+        "level": "long",
+        "english": "Even though we live far apart now, we still make time to video chat every Sunday and sometimes even watch a movie together online, just to keep that feeling of being connected and doing things together.",
+        "chinese": "虽然我们现在住得很远，但我们仍然每周日抽出时间视频聊天，有时候甚至在网上一起看一部电影，就是为了保持那种彼此相连、一起做事的感觉。",
+        "scene": "远距离朋友或家人维持亲密感"
+      }
+    ]
+  },
+  {
+    "word": "people",
+    "phonetic": "/ˈpiːpəl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "人们；人",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "There were so many people at the park.",
+        "chinese": "公园里人特别多。",
+        "scene": "从公园回家后描述"
+      },
+      {
+        "level": "medium",
+        "english": "I love meeting new people when I travel to different places.",
+        "chinese": "我去不同地方旅行的时候很喜欢认识新的人。",
+        "scene": "谈论旅行的乐趣"
+      },
+      {
+        "level": "long",
+        "english": "Some people think that big cities are too crowded and noisy, but I actually love that feeling of being surrounded by so many people, each with their own story and their own little life happening all around you.",
+        "chinese": "有些人觉得大城市太拥挤、太吵闹，但我其实很喜欢那种被许多人包围着的感觉，每个人都有自己的故事，都在你身边过着自己小小的生活。",
+        "scene": "表达对城市人群的个人感受"
+      }
+    ]
+  },
+  {
+    "word": "child",
+    "phonetic": "/tʃaɪld/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "孩子；儿童",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She is a very shy child.",
+        "chinese": "她是一个非常害羞的孩子。",
+        "scene": "向别人介绍一个小孩的性格"
+      },
+      {
+        "level": "medium",
+        "english": "Reading bedtime stories to my child is my favorite part of the day.",
+        "chinese": "给我的孩子读睡前故事是我一天中最喜欢的时光。",
+        "scene": "家长分享亲子温馨时刻"
+      },
+      {
+        "level": "long",
+        "english": "As a child, I used to believe that the moon followed our car everywhere we drove at night, and my parents never tried to correct me because they thought it was such a sweet and innocent idea.",
+        "chinese": "我小时候一直以为，晚上我们开车去哪里，月亮就会跟到哪里，而我爸妈从没纠正过我，因为他们觉得这个想法太天真可爱了。",
+        "scene": "回忆童年时的纯真想象"
+      }
+    ]
+  }
+]

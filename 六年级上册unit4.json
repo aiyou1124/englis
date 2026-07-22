@@ -1,6 +1,366 @@
-{
-  "grade": "六年级",
-  "term": "上册",
-  "unit": "unit4",
-  "words": []
-}
+[
+  {
+    "word": "studies",
+    "phonetic": "/ˈstʌdiz/",
+    "part_of_speech": "noun (plural)",
+    "chinese_meaning": "学业；研究",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I need to focus on my studies.",
+        "chinese": "我需要集中精力在学业上。",
+        "scene": "朋友叫你出去玩，你看着桌上的作业本无奈婉拒。"
+      },
+      {
+        "level": "medium",
+        "english": "She's been so busy with her studies that she rarely goes out on weekends.",
+        "chinese": "她一直忙于学业，周末都很少出门。",
+        "scene": "你和朋友聊起班里那个特别努力的学霸。"
+      },
+      {
+        "level": "long",
+        "english": "Balancing my part-time job and my studies has been really tough this semester, but I know all this hard work will pay off in the end.",
+        "chinese": "这学期平衡兼职和学业真的很辛苦，但我知道这些努力最终都会有回报的。",
+        "scene": "深夜在图书馆外，你喝着咖啡跟好友倾诉，虽然累但眼里有光。"
+      }
+    ]
+  },
+  {
+    "word": "puzzle",
+    "phonetic": "/ˈpʌzl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "拼图；谜",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I love this jigsaw puzzle.",
+        "chinese": "我喜欢这个拼图。",
+        "scene": "你趴在地板上，看着刚完成一半的拼图，满心欢喜。"
+      },
+      {
+        "level": "medium",
+        "english": "We spent the whole rainy afternoon working on a 1000-piece puzzle.",
+        "chinese": "我们花了整个下雨的下午拼一幅1000块的拼图。",
+        "scene": "窗外雨声淅沥，你和家人围坐在客厅茶几旁，专注地找着每一块碎片。"
+      },
+      {
+        "level": "long",
+        "english": "My grandfather does the crossword puzzle in the newspaper every morning without fail. He says it keeps his brain sharp and it's his favorite way to start the day.",
+        "chinese": "我祖父每天早上必做报纸上的填字游戏。他说这能让头脑保持敏锐，也是他最喜欢的一天开始的方式。",
+        "scene": "清晨，爷爷坐在老藤椅上，戴着老花镜，拿笔认真琢磨着报纸上的方块。"
+      }
+    ]
+  },
+  {
+    "word": "hiking",
+    "phonetic": "/ˈhaɪkɪŋ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "徒步旅行",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's go hiking this weekend.",
+        "chinese": "这周末我们去徒步吧。",
+        "scene": "周五晚上，你看着天气预报的好天气，兴奋地向室友提议。"
+      },
+      {
+        "level": "medium",
+        "english": "I bought a new pair of boots for our hiking trip to the mountains.",
+        "chinese": "我为我们的山地徒步旅行买了一双新靴子。",
+        "scene": "你在镜子前试穿新买的登山鞋，开心地发照片给同行的伙伴。"
+      },
+      {
+        "level": "long",
+        "english": "Hiking along that trail with the view of the waterfall was exhausting but absolutely worth it. I've never felt so connected to nature.",
+        "chinese": "沿着那条能看到瀑布的小径徒步累死人了，但绝对值得。我从没感觉与自然如此亲近。",
+        "scene": "你站在瀑布前的水雾中，虽然汗流浃背，却张开双臂享受这份凉爽与壮阔。"
+      }
+    ]
+  },
+  {
+    "word": "pen pal",
+    "phonetic": "/ˈpen pæl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "笔友",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I have a pen pal in Japan.",
+        "chinese": "我有一个日本的笔友。",
+        "scene": "课堂上老师让大家分享国际交流经历，你略带自豪地说。"
+      },
+      {
+        "level": "medium",
+        "english": "My pen pal and I have been writing letters to each other for over five years.",
+        "chinese": "我和我的笔友互相写信已经超过五年了。",
+        "scene": "你打开一个装满信件的铁盒，拿出一封贴着异国邮票的信，向朋友展示这段漫长的友谊。"
+      },
+      {
+        "level": "long",
+        "english": "When I was ten, my teacher connected us with pen pals from France. Those handwritten letters taught me so much about a different culture and even improved my French.",
+        "chinese": "十岁时，老师帮我们联系了来自法国的笔友。那些手写的信让我学到了很多不同文化的东西，甚至还提高了我的法语水平。",
+        "scene": "你在阁楼整理旧物，翻到一沓泛黄的法语信件，微笑着回忆童年那段奇妙的缘分。"
+      }
+    ]
+  },
+  {
+    "word": "hobby",
+    "phonetic": "/ˈhɑːbi/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "爱好",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My hobby is reading.",
+        "chinese": "我的爱好是阅读。",
+        "scene": "新同学问你课余时间喜欢做什么，你晃了晃手里的书笑着回答。"
+      },
+      {
+        "level": "medium",
+        "english": "Collecting vintage stamps is an unusual hobby, but I find it relaxing.",
+        "chinese": "收集老邮票是个不寻常的爱好，但我觉得很放松。",
+        "scene": "你小心翼翼地用镊子夹起一枚旧邮票，向好奇的朋友介绍其中的乐趣。"
+      },
+      {
+        "level": "long",
+        "english": "I never thought knitting would become my favorite hobby, but now I spend my evenings making scarves for friends, and it's incredibly satisfying.",
+        "chinese": "我从没想过编织会变成我最爱的爱好，但现在我晚上都在给朋友织围巾，特别有满足感。",
+        "scene": "你坐在沙发上，身边是一团团毛线，一边看剧一边熟练地织着，成品快要堆成小山了。"
+      }
+    ]
+  },
+  {
+    "word": "jasmine",
+    "phonetic": "/ˈdʒæzmɪn/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "茉莉花",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The jasmine smells so sweet.",
+        "chinese": "茉莉花闻起来真香。",
+        "scene": "夏夜路过邻居家的院子，你忍不住停下脚步，深深吸了一口气。"
+      },
+      {
+        "level": "medium",
+        "english": "My grandmother always keeps a pot of jasmine on her balcony.",
+        "chinese": "我奶奶总是在阳台上放一盆茉莉花。",
+        "scene": "去奶奶家吃饭，你帮忙浇花，看着阳台上那盆茂盛的茉莉，熟悉的味道扑面而来。"
+      },
+      {
+        "level": "long",
+        "english": "In the evenings, the scent of jasmine drifts through our open window, and it instantly makes me feel calm after a long day.",
+        "chinese": "傍晚时分，茉莉花的香味从敞开的窗户飘进来，漫长的一天过后，它立刻让我感到平静。",
+        "scene": "你刚下班回到家瘫在沙发上，一阵晚风送来的花香带走了满身的疲惫。"
+      }
+    ]
+  },
+  {
+    "word": "idea",
+    "phonetic": "/aɪˈdiːə/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "想法；主意",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "That's a great idea!",
+        "chinese": "那是个好主意！",
+        "scene": "朋友提议周末去海边露营，你眼睛一亮，拍着大腿表示赞同。"
+      },
+      {
+        "level": "medium",
+        "english": "I had no idea you were such a good cook. This pasta is delicious!",
+        "chinese": "我不知道你做饭这么好吃，这意面太棒了！",
+        "scene": "在朋友家做客，你尝了一口她亲手做的意面，惊讶地睁大眼睛。"
+      },
+      {
+        "level": "long",
+        "english": "The idea of starting my own business scared me at first, but after a lot of planning, I finally took the leap and I've never been happier.",
+        "chinese": "自己创业的想法起初让我害怕，但经过大量规划，我终于迈出了那一步，而且从没这么快乐过。",
+        "scene": "在你刚开业的小店里，你端着一杯咖啡，对前来祝贺的老友感慨地分享心路历程。"
+      }
+    ]
+  },
+  {
+    "word": "Canberra",
+    "phonetic": "/ˈkænbərə/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "堪培拉（澳大利亚首都）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Canberra is the capital of Australia.",
+        "chinese": "堪培拉是澳大利亚的首都。",
+        "scene": "看着智力竞答节目，你脱口而出正确答案，家人都投来赞许的目光。"
+      },
+      {
+        "level": "medium",
+        "english": "I have a friend who lives in Canberra, and she says it's a very peaceful city.",
+        "chinese": "我有一个朋友住在堪培拉，她说那是个非常宁静的城市。",
+        "scene": "聚会上大家聊起澳洲的城市，你想起那位常发来公园和湖泊照片的朋友。"
+      },
+      {
+        "level": "long",
+        "english": "Last year, I spent a week in Canberra visiting the national museums and galleries. It's often overlooked, but I found it to be a charming city with so much to offer.",
+        "chinese": "去年，我在堪培拉待了一周，参观了国家博物馆和美术馆。它常被忽视，但我发现它是个迷人的城市，有很多可看的东西。",
+        "scene": "你翻着手机里在堪培拉国会大厦前拍的照片，跟朋友推荐这个被低估的旅行目的地。"
+      }
+    ]
+  },
+  {
+    "word": "amazing",
+    "phonetic": "/əˈmeɪzɪŋ/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "惊人的；了不起的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The view is amazing!",
+        "chinese": "景色太美了！",
+        "scene": "你终于爬到了山顶，看着脚下连绵的云海，情不自禁地欢呼。"
+      },
+      {
+        "level": "medium",
+        "english": "That concert was amazing! The band played all my favorite songs.",
+        "chinese": "那场音乐会太棒了！乐队演奏了所有我最喜欢的歌。",
+        "scene": "散场后，你意犹未尽地摇着朋友的胳膊，声音都因为跟唱而有点沙哑。"
+      },
+      {
+        "level": "long",
+        "english": "My grandmother is an amazing person. She learned to use a smartphone at 80 and now she sends me funny cat videos every day.",
+        "chinese": "我奶奶是个了不起的人。她80岁学会用智能手机，现在每天给我发搞笑的猫咪视频。",
+        "scene": "你笑着点开奶奶刚发来的一个猫咪表情包，向身边的同事展示这位潮人奶奶。"
+      }
+    ]
+  },
+  {
+    "word": "shall",
+    "phonetic": "/ʃæl/",
+    "part_of_speech": "modal verb",
+    "chinese_meaning": "将要；应该；…好吗（表建议）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Shall we dance?",
+        "chinese": "我们跳舞好吗？",
+        "scene": "婚礼上响起慢歌，你绅士地伸出手，微笑着向面前的人发出邀请。"
+      },
+      {
+        "level": "medium",
+        "english": "Shall I open the window? It's getting a bit stuffy in here.",
+        "chinese": "我把窗户打开好吗？这里有点闷。",
+        "scene": "会议室里大家因为缺氧都有些昏昏欲睡，你指了指窗户，轻声征求大家的意见。"
+      },
+      {
+        "level": "long",
+        "english": "We were thinking about going out for ice cream. Shall we all go together? My treat!",
+        "chinese": "我们在想出去吃冰淇淋。我们一起去好吗？我请客！",
+        "scene": "炎炎夏日，你从沙发上坐起来，拿着车钥匙，兴奋地鼓动全家人出门。"
+      }
+    ]
+  },
+  {
+    "word": "goal",
+    "phonetic": "/ɡoʊl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "目标；进球",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My goal is to run a marathon.",
+        "chinese": "我的目标是跑一场马拉松。",
+        "scene": "健身教练问你为什么来锻炼，你看着跑道，坚定地说出心里话。"
+      },
+      {
+        "level": "medium",
+        "english": "He scored the winning goal in the last minute of the match! It was incredible.",
+        "chinese": "他在比赛最后一分钟打进了制胜球！太不可思议了。",
+        "scene": "酒吧里所有人都在尖叫，你把手里的爆米花都撒了，激动地向没看比赛的朋友还原现场。"
+      },
+      {
+        "level": "long",
+        "english": "For me, the main goal of traveling isn't just to see new places, but to understand different ways of life and challenge my own assumptions.",
+        "chinese": "对我来说，旅行的主要目标不仅仅是看新地方，更是理解不同的生活方式并挑战我自己的假设。",
+        "scene": "你在异乡的青旅和背包客们围着火炉夜谈，分享各自的旅行哲学。"
+      }
+    ]
+  },
+  {
+    "word": "join",
+    "phonetic": "/dʒɔɪn/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "加入；连接",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can I join you?",
+        "chinese": "我能加入你们吗？",
+        "scene": "午休时看到同事们围在一起吃炸鸡，你端着饭盒小心翼翼地凑过去问。"
+      },
+      {
+        "level": "medium",
+        "english": "I decided to join the photography club at school to meet people with similar interests.",
+        "chinese": "我决定加入学校的摄影社，好认识有共同兴趣的人。",
+        "scene": "社团招新那天，你在五花八门的摊位前逛了一圈，最终在摄影社的报名表上签了名。"
+      },
+      {
+        "level": "long",
+        "english": "We're going to play basketball after work. You should join us! It's a great way to relieve stress and just have fun.",
+        "chinese": "我们下班后要去打篮球。你应该加入我们！这是解压和找乐子的好方法。",
+        "scene": "同事看你在工位上愁眉苦脸，拍了拍你肩膀，热情地发出邀请。"
+      }
+    ]
+  },
+  {
+    "word": "club",
+    "phonetic": "/klʌb/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "俱乐部；社团",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'm in the chess club.",
+        "chinese": "我参加了国际象棋社团。",
+        "scene": "和新朋友聊起课后活动，你指着自己印有棋盘图案的笔记本说。"
+      },
+      {
+        "level": "medium",
+        "english": "The book club meets once a month to discuss the chosen novel, and it's a fantastic way to discover books you'd never pick up otherwise.",
+        "chinese": "读书俱乐部每月聚一次讨论选中的小说，这是发现你原本不会读的书的好方式。",
+        "scene": "你端着一杯红酒，在聚会上向刚搬来的邻居安利这个俱乐部。"
+      },
+      {
+        "level": "long",
+        "english": "Starting a cooking club with my neighbors was the best decision ever. We take turns hosting, share recipes, and it's turned strangers on our street into real friends.",
+        "chinese": "和邻居们成立一个烹饪俱乐部是我做过的最好的决定。我们轮流做东，分享菜谱，把街上的陌生人变成了真正的朋友。",
+        "scene": "你家厨房里热闹非凡，大家挤在一起包饺子，欢声笑语中拉近了彼此的距离。"
+      }
+    ]
+  },
+  {
+    "word": "share",
+    "phonetic": "/ʃer/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "分享；分担",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's share the pizza.",
+        "chinese": "我们分着吃这个比萨吧。",
+        "scene": "看着端上来的12寸大比萨，你觉得一个人吃不完，把盘子往中间推了推。"
+      },
+      {
+        "level": "medium",
+        "english": "My roommate and I share the rent and the household chores.",
+        "chinese": "我和室友分担房租和家务。",
+        "scene": "你们俩正拿着拖把和抹布大扫除，相视一笑，庆幸有个好搭档。"
+      },
+      {
+        "level": "long",
+        "english": "I love using social media to share my photography, but I also make sure to share my worries with my close friends because being open helps us connect in a real way.",
+        "chinese": "我喜欢用社交媒体分享我的摄影作品，但我也确保和密友分享我的不安，因为坦诚能帮助我们在更深层次上建立联系。",
+        "scene": "深夜你刚发完一组美图，转头就拨通了闺蜜的电话，开始聊最近的一些小烦恼。"
+      }
+    ]
+  }
+]

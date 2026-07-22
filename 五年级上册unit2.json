@@ -1,6 +1,730 @@
-{
-  "grade": "五年级",
-  "term": "上册",
-  "unit": "unit2",
-  "words": []
-}
+[
+  {
+    "word": "Monday",
+    "phonetic": "/ˈmʌndeɪ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "星期一",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "See you on Monday!",
+        "chinese": "星期一见！",
+        "scene": "周末告别时约定"
+      },
+      {
+        "level": "medium",
+        "english": "I hate Monday mornings because I have to wake up early again.",
+        "chinese": "我讨厌星期一早晨，因为又得早起了。",
+        "scene": "抱怨周一的到来"
+      },
+      {
+        "level": "long",
+        "english": "Last Monday was so rainy that the traffic was terrible and I was almost an hour late for work.",
+        "chinese": "上周一下大雨，交通一塌糊涂，我上班迟到了快一个小时。",
+        "scene": "讲述糟糕的周一通勤"
+      }
+    ]
+  },
+  {
+    "word": "Tuesday",
+    "phonetic": "/ˈtuːzdeɪ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "星期二",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We have art class on Tuesday.",
+        "chinese": "我们星期二有美术课。",
+        "scene": "查看课程表"
+      },
+      {
+        "level": "medium",
+        "english": "I'll meet you at the library next Tuesday after school.",
+        "chinese": "我下周二放学后在图书馆等你。",
+        "scene": "约朋友一起学习"
+      },
+      {
+        "level": "long",
+        "english": "Every Tuesday evening, my family orders pizza and we all sit in the living room to catch up on our week.",
+        "chinese": "每周二晚上，我们家都会点披萨，然后坐在客厅聊聊这一周发生的事。",
+        "scene": "家庭固定聚餐日"
+      }
+    ]
+  },
+  {
+    "word": "Wednesday",
+    "phonetic": "/ˈwɛnzdeɪ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "星期三",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "It's Wednesday already!",
+        "chinese": "已经星期三了！",
+        "scene": "感叹一周过得快"
+      },
+      {
+        "level": "medium",
+        "english": "We have a math test on Wednesday, so I'm studying all evening.",
+        "chinese": "我们星期三有数学考试，我整晚都在复习。",
+        "scene": "为考试做准备"
+      },
+      {
+        "level": "long",
+        "english": "On Wednesday mornings, the office provides free bagels and coffee, and that's honestly the only reason I get out of bed on time.",
+        "chinese": "周三早上办公室有免费百吉饼和咖啡，说实话这是唯一能让我准时起床的理由。",
+        "scene": "办公室福利让人期待周三"
+      }
+    ]
+  },
+  {
+    "word": "Thursday",
+    "phonetic": "/ˈθɜːrzdeɪ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "星期四",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My piano lesson is on Thursday.",
+        "chinese": "我星期四有钢琴课。",
+        "scene": "告知活动安排"
+      },
+      {
+        "level": "medium",
+        "english": "Let's have dinner together this Thursday at that new Italian place.",
+        "chinese": "这个周四我们一起去那家新开的意大利餐厅吃饭吧。",
+        "scene": "提议外出就餐"
+      },
+      {
+        "level": "long",
+        "english": "I always feel hopeful on Thursday because the weekend is almost here, and I can finally relax.",
+        "chinese": "周四我总是充满希望，因为周末快到了，终于可以放松了。",
+        "scene": "临近周末的期盼"
+      }
+    ]
+  },
+  {
+    "word": "Friday",
+    "phonetic": "/ˈfraɪdeɪ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "星期五",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Thank God it's Friday!",
+        "chinese": "谢天谢地，星期五了！",
+        "scene": "周五的欢呼"
+      },
+      {
+        "level": "medium",
+        "english": "We usually go out for a movie and burgers on Friday night.",
+        "chinese": "我们周五晚上通常会出去看电影吃汉堡。",
+        "scene": "周末夜晚的娱乐"
+      },
+      {
+        "level": "long",
+        "english": "Last Friday, we stayed up late playing board games and laughing so hard that our neighbors knocked on the wall.",
+        "chinese": "上周五我们熬夜玩桌游，笑得前仰后合，邻居都敲墙抗议了。",
+        "scene": "欢乐的周末聚会"
+      }
+    ]
+  },
+  {
+    "word": "Saturday",
+    "phonetic": "/ˈsætərdeɪ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "星期六",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I sleep in on Saturday.",
+        "chinese": "我星期六睡懒觉。",
+        "scene": "享受周末懒觉"
+      },
+      {
+        "level": "medium",
+        "english": "On Saturday, we're taking the kids to the zoo for the first time.",
+        "chinese": "星期六我们要第一次带孩子们去动物园。",
+        "scene": "家庭周末出游计划"
+      },
+      {
+        "level": "long",
+        "english": "My perfect Saturday starts with a big pancake breakfast, then a long walk in the park, and finishes with a movie night at home.",
+        "chinese": "我完美的周六从丰盛的煎饼早餐开始，然后在公园里长时间散步，最后以家庭电影之夜结束。",
+        "scene": "描述理想的周末生活"
+      }
+    ]
+  },
+  {
+    "word": "Sunday",
+    "phonetic": "/ˈsʌndeɪ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "星期日",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Sunday is a day of rest.",
+        "chinese": "周日是休息日。",
+        "scene": "表达周日放松的愿望"
+      },
+      {
+        "level": "medium",
+        "english": "On Sunday afternoons, we visit my grandparents and have tea together.",
+        "chinese": "周日下午我们会去看望爷爷奶奶，一起喝茶。",
+        "scene": "家庭探访传统"
+      },
+      {
+        "level": "long",
+        "english": "I always get a little sad on Sunday evenings because the weekend is over and I have to go back to work the next morning.",
+        "chinese": "周日晚上我总会有点难过，因为周末结束了，第二天一早又要上班。",
+        "scene": "周日夜晚的惆怅"
+      }
+    ]
+  },
+  {
+    "word": "weekend",
+    "phonetic": "/ˈwiːkɛnd/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "周末",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Have a great weekend!",
+        "chinese": "祝你周末愉快！",
+        "scene": "周五下班时的告别"
+      },
+      {
+        "level": "medium",
+        "english": "We're planning a camping trip in the mountains next weekend.",
+        "chinese": "下个周末我们计划去山里露营。",
+        "scene": "计划户外活动"
+      },
+      {
+        "level": "long",
+        "english": "I love the weekend because I don't have to set an alarm, and I can just do whatever I feel like doing.",
+        "chinese": "我喜欢周末，因为不用设闹钟，想干什么就干什么。",
+        "scene": "享受周末的自由"
+      }
+    ]
+  },
+  {
+    "word": "wash",
+    "phonetic": "/wɑːʃ/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "洗；洗涤",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Wash your hands before dinner.",
+        "chinese": "饭前要洗手。",
+        "scene": "餐前提醒"
+      },
+      {
+        "level": "medium",
+        "english": "I need to wash the car tomorrow; it's covered in dust.",
+        "chinese": "我明天得洗车，车上全是灰。",
+        "scene": "计划周末洗车"
+      },
+      {
+        "level": "long",
+        "english": "After painting the fence, it took me forever to wash all the green paint off my hands and arms.",
+        "chinese": "刷完栅栏后，我花了超长时间才把手上和胳膊上的绿漆洗掉。",
+        "scene": "干完活费力清洗"
+      }
+    ]
+  },
+  {
+    "word": "wash my clothes",
+    "phonetic": "/wɑːʃ maɪ kloʊðz/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "洗我的衣服",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I need to wash my clothes.",
+        "chinese": "我需要洗衣服了。",
+        "scene": "发现脏衣服堆积"
+      },
+      {
+        "level": "medium",
+        "english": "I usually wash my clothes on Sunday afternoon while listening to music.",
+        "chinese": "我通常在周日下午边听音乐边洗衣服。",
+        "scene": "洗衣日常"
+      },
+      {
+        "level": "long",
+        "english": "I forgot to wash my clothes, so I had to wear a slightly wrinkled shirt to the meeting and hope nobody noticed.",
+        "chinese": "我忘了洗衣服，只好穿了件有点皱的衬衫去开会，希望没人注意到。",
+        "scene": "忘洗衣的窘境"
+      }
+    ]
+  },
+  {
+    "word": "watch",
+    "phonetic": "/wɑːtʃ/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "看；观看",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's watch a movie tonight.",
+        "chinese": "我们今晚看电影吧。",
+        "scene": "提议娱乐活动"
+      },
+      {
+        "level": "medium",
+        "english": "I love to watch the sunset from my balcony; it's so peaceful.",
+        "chinese": "我喜欢在阳台看日落，太宁静了。",
+        "scene": "享受独自时光"
+      },
+      {
+        "level": "long",
+        "english": "When I was a kid, I used to watch cartoons every Saturday morning while my parents slept in.",
+        "chinese": "我小时候每个星期六早上都会看动画片，爸妈还在睡懒觉。",
+        "scene": "童年周末的快乐回忆"
+      }
+    ]
+  },
+  {
+    "word": "watch TV",
+    "phonetic": "/wɑːtʃ ˌtiː ˈviː/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "看电视",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Don't watch too much TV.",
+        "chinese": "别看太多电视。",
+        "scene": "家长提醒孩子"
+      },
+      {
+        "level": "medium",
+        "english": "After a long day, I just want to watch TV and relax on the couch.",
+        "chinese": "漫长的一天后，我只想看电视，在沙发上放松。",
+        "scene": "下班后的放松"
+      },
+      {
+        "level": "long",
+        "english": "We used to watch TV together as a family every evening, but now everyone just stares at their own screens.",
+        "chinese": "我们以前每晚全家一起看电视，但现在每个人都只盯着自己的屏幕。",
+        "scene": "家庭习惯的改变"
+      }
+    ]
+  },
+  {
+    "word": "do",
+    "phonetic": "/duː/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "做；干",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "What do you do?",
+        "chinese": "你是做什么工作的？",
+        "scene": "社交场合询问职业"
+      },
+      {
+        "level": "medium",
+        "english": "I have so much work to do before the deadline.",
+        "chinese": "截止日期前我有好多工作要做。",
+        "scene": "面对工作压力"
+      },
+      {
+        "level": "long",
+        "english": "If you don't know what to do with your free time, try learning something new—you might discover a hidden talent.",
+        "chinese": "如果你不知道空闲时间做什么，试试学点新东西——你可能会发现隐藏的天赋。",
+        "scene": "给朋友建议"
+      }
+    ]
+  },
+  {
+    "word": "do homework",
+    "phonetic": "/duː ˈhoʊmwɜːrk/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "做家庭作业",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I have to do homework.",
+        "chinese": "我得做作业了。",
+        "scene": "放学回家后告知"
+      },
+      {
+        "level": "medium",
+        "english": "I usually do homework right after dinner so I can relax later.",
+        "chinese": "我通常晚饭后就做作业，这样晚点就能放松了。",
+        "scene": "学习习惯"
+      },
+      {
+        "level": "long",
+        "english": "My little brother always tries to find excuses not to do his homework, like saying the dog ate his pencil.",
+        "chinese": "我弟弟总是找借口不做作业，比如说狗吃了他的铅笔。",
+        "scene": "弟弟的滑稽借口"
+      }
+    ]
+  },
+  {
+    "word": "read",
+    "phonetic": "/riːd/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "阅读；读",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I love to read before bed.",
+        "chinese": "我喜欢睡前看书。",
+        "scene": "睡前习惯"
+      },
+      {
+        "level": "medium",
+        "english": "Can you read this paragraph and tell me what you think?",
+        "chinese": "你能读一下这段然后告诉我你的想法吗？",
+        "scene": "请人阅读并给予反馈"
+      },
+      {
+        "level": "long",
+        "english": "When I was on vacation, I read three novels in a week because I had nothing else to do on the beach.",
+        "chinese": "度假时我一周读了三本小说，因为在海滩上无事可做。",
+        "scene": "假期阅读的享受"
+      }
+    ]
+  },
+  {
+    "word": "read books",
+    "phonetic": "/riːd bʊks/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "读书；看书",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I like to read books.",
+        "chinese": "我喜欢读书。",
+        "scene": "表达爱好"
+      },
+      {
+        "level": "medium",
+        "english": "She reads books to her younger brother every night before bed.",
+        "chinese": "她每晚睡前都给弟弟读书。",
+        "scene": "姐姐的温馨举动"
+      },
+      {
+        "level": "long",
+        "english": "My goal this year is to read at least 20 books, and I'm already halfway there by March.",
+        "chinese": "我今年的目标是至少读20本书，三月份我已经读了一半了。",
+        "scene": "分享年度阅读目标"
+      }
+    ]
+  },
+  {
+    "word": "play",
+    "phonetic": "/pleɪ/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "玩；演奏；播放",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's play outside!",
+        "chinese": "我们去外面玩吧！",
+        "scene": "孩子们提议玩耍"
+      },
+      {
+        "level": "medium",
+        "english": "I learned to play the guitar when I was in high school.",
+        "chinese": "我高中时学会了弹吉他。",
+        "scene": "讲述音乐技能"
+      },
+      {
+        "level": "long",
+        "english": "The kids were playing so loudly in the backyard that I couldn't concentrate, but their laughter made me smile anyway.",
+        "chinese": "孩子们在后院玩得太大声，我无法专心，但他们的笑声还是让我笑了。",
+        "scene": "被孩子的快乐感染"
+      }
+    ]
+  },
+  {
+    "word": "play football",
+    "phonetic": "/pleɪ ˈfʊtbɔːl/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "踢足球；打橄榄球",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's play football after school.",
+        "chinese": "放学后我们去踢足球吧。",
+        "scene": "约同学运动"
+      },
+      {
+        "level": "medium",
+        "english": "Every Saturday, we play football in the park with our neighbors.",
+        "chinese": "每周六我们都和邻居在公园踢足球。",
+        "scene": "社区活动"
+      },
+      {
+        "level": "long",
+        "english": "When it snows, we still play football outside, but it's more like slipping and sliding than actually running.",
+        "chinese": "下雪时我们还在外面踢足球，但与其说是在跑，不如说是在滑来滑去。",
+        "scene": "雪中踢球的乐趣"
+      }
+    ]
+  },
+  {
+    "word": "cooking",
+    "phonetic": "/ˈkʊkɪŋ/",
+    "part_of_speech": "noun (gerund)",
+    "chinese_meaning": "烹饪；做饭",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I love Italian cooking.",
+        "chinese": "我喜欢意大利菜。",
+        "scene": "表达对美食的喜好"
+      },
+      {
+        "level": "medium",
+        "english": "Cooking together is a great way to spend time with friends.",
+        "chinese": "一起做饭是和朋友相处的好方式。",
+        "scene": "社交烹饪的乐趣"
+      },
+      {
+        "level": "long",
+        "english": "I used to find cooking stressful, but now I put on music and treat it like a relaxing experiment.",
+        "chinese": "我以前觉得做饭压力很大，但现在我会放着音乐，把它当成放松的实验。",
+        "scene": "烹饪心态的转变"
+      }
+    ]
+  },
+  {
+    "word": "often",
+    "phonetic": "/ˈɔːfən/",
+    "part_of_speech": "adverb",
+    "chinese_meaning": "经常；常常",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I often walk to school.",
+        "chinese": "我经常走路上学。",
+        "scene": "描述日常习惯"
+      },
+      {
+        "level": "medium",
+        "english": "How often do you visit your grandparents?",
+        "chinese": "你多久去看一次爷爷奶奶？",
+        "scene": "询问探亲频率"
+      },
+      {
+        "level": "long",
+        "english": "I often find myself thinking about that vacation we took two years ago because it was the most relaxing time of my life.",
+        "chinese": "我经常回想起两年前我们度过的那个假期，那是我一生中最放松的时光。",
+        "scene": "怀念美好回忆"
+      }
+    ]
+  },
+  {
+    "word": "park",
+    "phonetic": "/pɑːrk/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "公园",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's go to the park.",
+        "chinese": "我们去公园吧。",
+        "scene": "提议户外活动"
+      },
+      {
+        "level": "medium",
+        "english": "The park near my house has a beautiful lake where we can feed ducks.",
+        "chinese": "我家附近的公园有个美丽的湖，可以喂鸭子。",
+        "scene": "介绍社区环境"
+      },
+      {
+        "level": "long",
+        "english": "When I was a child, my dad would take me to the park every Sunday and push me on the swings for hours.",
+        "chinese": "小时候爸爸每个周日都带我去公园，推着我荡秋千好几个小时。",
+        "scene": "温馨的童年回忆"
+      }
+    ]
+  },
+  {
+    "word": "tired",
+    "phonetic": "/ˈtaɪərd/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "疲倦的；累的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'm so tired today.",
+        "chinese": "今天我好累。",
+        "scene": "表达疲劳"
+      },
+      {
+        "level": "medium",
+        "english": "After staying up late to finish the project, I woke up feeling more tired than before.",
+        "chinese": "熬夜完成项目后，我醒来觉得比之前还累。",
+        "scene": "熬夜的后遗症"
+      },
+      {
+        "level": "long",
+        "english": "Even though I was tired from the long hike, the view from the top of the mountain made every step worth it.",
+        "chinese": "虽然长途徒步让我很累，但山顶的景色让每一步都值得。",
+        "scene": "登山后的满足感"
+      }
+    ]
+  },
+  {
+    "word": "sport",
+    "phonetic": "/spɔːrt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "运动",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "What's your favorite sport?",
+        "chinese": "你最喜欢的运动是什么？",
+        "scene": "闲聊运动话题"
+      },
+      {
+        "level": "medium",
+        "english": "Playing a sport regularly helps you stay healthy and make friends.",
+        "chinese": "定期做运动有助于保持健康和交朋友。",
+        "scene": "运动的好处"
+      },
+      {
+        "level": "long",
+        "english": "I was never good at any sport as a kid, but now I enjoy running just for the fresh air and the time alone.",
+        "chinese": "我小时候什么运动都不擅长，但现在我喜欢跑步，只是为了呼吸新鲜空气和独处时光。",
+        "scene": "个人运动方式的转变"
+      }
+    ]
+  },
+  {
+    "word": "play sports",
+    "phonetic": "/pleɪ spɔːrts/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "做运动；进行体育活动",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I play sports every afternoon.",
+        "chinese": "我每天下午都做运动。",
+        "scene": "说明日常习惯"
+      },
+      {
+        "level": "medium",
+        "english": "My doctor said I need to play sports more often to stay healthy.",
+        "chinese": "医生说我需要经常运动来保持健康。",
+        "scene": "听从医嘱"
+      },
+      {
+        "level": "long",
+        "english": "Even when it's cold outside, I try to play sports indoors like badminton or volleyball to keep myself active.",
+        "chinese": "即使外面很冷，我也会在室内做做羽毛球、排球之类的运动，让自己保持活力。",
+        "scene": "冬天坚持运动"
+      }
+    ]
+  },
+  {
+    "word": "should",
+    "phonetic": "/ʃʊd/",
+    "part_of_speech": "modal verb",
+    "chinese_meaning": "应该",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "You should try it.",
+        "chinese": "你应该试试。",
+        "scene": "推荐某物"
+      },
+      {
+        "level": "medium",
+        "english": "I think we should leave early to avoid the traffic jam.",
+        "chinese": "我觉得我们应该早点走，避开堵车。",
+        "scene": "出行建议"
+      },
+      {
+        "level": "long",
+        "english": "When you feel overwhelmed, you should take a step back and do something you enjoy for a while.",
+        "chinese": "当你感到不堪重负时，应该退一步，做点喜欢的事情缓一缓。",
+        "scene": "给处于压力中的朋友建议"
+      }
+    ]
+  },
+  {
+    "word": "every",
+    "phonetic": "/ˈɛvri/",
+    "part_of_speech": "determiner",
+    "chinese_meaning": "每个；每一",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Every student passed the test.",
+        "chinese": "每个学生都通过了考试。",
+        "scene": "宣布好消息"
+      },
+      {
+        "level": "medium",
+        "english": "I check my email every morning before I even have breakfast.",
+        "chinese": "我每天早上吃早饭前都会查看邮件。",
+        "scene": "现代人的习惯"
+      },
+      {
+        "level": "long",
+        "english": "Every time I hear that song, it reminds me of our road trip across the country.",
+        "chinese": "每次听到那首歌，我都会想起我们的自驾横跨全国之旅。",
+        "scene": "音乐与记忆的联系"
+      }
+    ]
+  },
+  {
+    "word": "day",
+    "phonetic": "/deɪ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "天；白天；日子",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Have a nice day!",
+        "chinese": "祝你今天愉快！",
+        "scene": "日常礼貌道别"
+      },
+      {
+        "level": "medium",
+        "english": "I spent the whole day organizing my closet and now I'm exhausted.",
+        "chinese": "我花了一整天整理衣柜，现在累坏了。",
+        "scene": "家务日的辛劳"
+      },
+      {
+        "level": "long",
+        "english": "Some days everything goes wrong, but you just have to believe that the next day will be better.",
+        "chinese": "有些日子诸事不顺，但你得相信明天会更好。",
+        "scene": "生活中的小哲理"
+      }
+    ]
+  },
+  {
+    "word": "schedule",
+    "phonetic": "/ˈskɛdʒuːl/",
+    "part_of_speech": "noun, verb",
+    "chinese_meaning": "时间表；日程安排；安排",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "What's on the schedule today?",
+        "chinese": "今天有什么安排？",
+        "scene": "查看日程"
+      },
+      {
+        "level": "medium",
+        "english": "My schedule is so packed that I barely have time for lunch.",
+        "chinese": "我的日程太满了，几乎没时间吃午饭。",
+        "scene": "忙碌的职场人"
+      },
+      {
+        "level": "long",
+        "english": "I like to schedule my workouts in the morning because it sets a positive tone for the rest of the day.",
+        "chinese": "我喜欢把锻炼安排在早上，因为这会给一天剩下时间定下积极的基调。",
+        "scene": "高效利用时间的习惯"
+      }
+    ]
+  }
+]

@@ -1,6 +1,366 @@
-{
-  "grade": "四年级",
-  "term": "下册",
-  "unit": "unit3",
-  "words": []
-}
+[
+  {
+    "word": "over",
+    "phonetic": "/ˈoʊvər/",
+    "part_of_speech": "preposition, adverb",
+    "chinese_meaning": "在…上方；越过；结束",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The game is over.",
+        "chinese": "比赛结束了。",
+        "scene": "观看比赛结束时宣布"
+      },
+      {
+        "level": "medium",
+        "english": "Can you come over to my house after school?",
+        "chinese": "放学后你能来我家吗？",
+        "scene": "邀请朋友放学后来玩"
+      },
+      {
+        "level": "long",
+        "english": "I knocked over a glass of water and it spilled all over my notebook, so I had to rewrite my homework.",
+        "chinese": "我打翻了一杯水，洒得笔记本上到处都是，只好重写作业。",
+        "scene": "不小心打翻水的尴尬经历"
+      }
+    ]
+  },
+  {
+    "word": "kid",
+    "phonetic": "/kɪd/",
+    "part_of_speech": "noun, verb",
+    "chinese_meaning": "小孩；开玩笑",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The kid is playing outside.",
+        "chinese": "那个小孩在外面玩。",
+        "scene": "看到邻居小孩在玩耍"
+      },
+      {
+        "level": "medium",
+        "english": "When I was a kid, I used to climb trees all the time.",
+        "chinese": "我小时候经常爬树。",
+        "scene": "回忆童年爬树的乐趣"
+      },
+      {
+        "level": "long",
+        "english": "My little brother is such a funny kid; he told me a joke today that made me laugh so hard I almost cried.",
+        "chinese": "我弟弟是个特别搞笑的小孩，今天他给我讲了个笑话，笑得我眼泪都快出来了。",
+        "scene": "被弟弟的笑话逗得前仰后合"
+      }
+    ]
+  },
+  {
+    "word": "dinner",
+    "phonetic": "/ˈdɪnər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "晚餐；正餐",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "What's for dinner tonight?",
+        "chinese": "今晚吃什么？",
+        "scene": "孩子放学后问家长"
+      },
+      {
+        "level": "medium",
+        "english": "We usually have dinner around seven o'clock when Dad gets home.",
+        "chinese": "我们通常在爸爸到家后七点左右吃晚饭。",
+        "scene": "描述家庭用餐习惯"
+      },
+      {
+        "level": "long",
+        "english": "For my birthday dinner, I asked my mom to make her famous lasagna, and she even let me help layer the cheese.",
+        "chinese": "生日晚餐我让妈妈做了她拿手的千层面，她还让我帮忙铺奶酪。",
+        "scene": "生日时和家人一起准备特别晚餐"
+      }
+    ]
+  },
+  {
+    "word": "art",
+    "phonetic": "/ɑːrt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "艺术；美术",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I love art class.",
+        "chinese": "我喜欢美术课。",
+        "scene": "表达对美术课的喜爱"
+      },
+      {
+        "level": "medium",
+        "english": "My sister is really good at art; she can draw anything.",
+        "chinese": "我姐姐很擅长美术，她什么都能画。",
+        "scene": "称赞姐姐的绘画才能"
+      },
+      {
+        "level": "long",
+        "english": "I never thought I was any good at art until my teacher showed me how to use watercolors, and now it's my favorite hobby.",
+        "chinese": "我以前从没觉得自己会画画，直到老师教我用水彩，现在它成了我最喜欢的爱好。",
+        "scene": "发现绘画天赋并爱上水彩"
+      }
+    ]
+  },
+  {
+    "word": "lunch",
+    "phonetic": "/lʌntʃ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "午餐",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's have lunch together.",
+        "chinese": "我们一起吃午饭吧。",
+        "scene": "邀请朋友一起吃午餐"
+      },
+      {
+        "level": "medium",
+        "english": "I packed a sandwich and an apple for lunch today.",
+        "chinese": "我今天午餐带了三明治和一个苹果。",
+        "scene": "展示自己带的便当"
+      },
+      {
+        "level": "long",
+        "english": "During lunch break, we always sit under the big tree in the schoolyard and share snacks while complaining about homework.",
+        "chinese": "午休时，我们总是坐在学校操场的大树下，一边分享零食一边抱怨作业。",
+        "scene": "校园午餐时光的固定聚会"
+      }
+    ]
+  },
+  {
+    "word": "maths",
+    "phonetic": "/mæθs/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "数学",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I have maths class next.",
+        "chinese": "我下一节是数学课。",
+        "scene": "查看课表时告知同学"
+      },
+      {
+        "level": "medium",
+        "english": "Maths is difficult for me, but my dad helps me with my homework.",
+        "chinese": "数学对我来说很难，但我爸爸会辅导我作业。",
+        "scene": "表达数学难但有家人帮助"
+      },
+      {
+        "level": "long",
+        "english": "I used to hate maths, but after my teacher explained fractions using pizza slices, it suddenly made sense.",
+        "chinese": "我以前讨厌数学，但老师用披萨片解释了分数后，我突然就懂了。",
+        "scene": "通过生动例子爱上数学"
+      }
+    ]
+  },
+  {
+    "word": "get up",
+    "phonetic": "/ɡɛt ʌp/",
+    "part_of_speech": "phrasal verb",
+    "chinese_meaning": "起床",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I get up at seven.",
+        "chinese": "我七点起床。",
+        "scene": "介绍自己的起床时间"
+      },
+      {
+        "level": "medium",
+        "english": "It's hard to get up early on cold winter mornings.",
+        "chinese": "在寒冷的冬天早晨很难早起。",
+        "scene": "冬天赖床的普遍感受"
+      },
+      {
+        "level": "long",
+        "english": "My alarm didn't go off, so I didn't get up until my mom came in and said I was going to miss the bus.",
+        "chinese": "我的闹钟没响，直到妈妈进来说我赶不上校车了，我才起床。",
+        "scene": "闹钟没响差点睡过头"
+      }
+    ]
+  },
+  {
+    "word": "go to school",
+    "phonetic": "/ɡoʊ tə skuːl/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "上学",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I go to school by bus.",
+        "chinese": "我坐公交车上学。",
+        "scene": "说明上学交通方式"
+      },
+      {
+        "level": "medium",
+        "english": "Do you go to school on foot or by bike?",
+        "chinese": "你走路还是骑自行车上学？",
+        "scene": "询问朋友的上学方式"
+      },
+      {
+        "level": "long",
+        "english": "Every morning, I go to school with my older brother, and he always buys me a donut from the bakery on the way.",
+        "chinese": "每天早上我和哥哥一起去上学，他总会在路上面包店给我买一个甜甜圈。",
+        "scene": "和哥哥一起上学的温馨习惯"
+      }
+    ]
+  },
+  {
+    "word": "go home",
+    "phonetic": "/ɡoʊ hoʊm/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "回家",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's go home now.",
+        "chinese": "我们现在回家吧。",
+        "scene": "活动结束后提议回家"
+      },
+      {
+        "level": "medium",
+        "english": "After the movie, we walked home together in the dark.",
+        "chinese": "看完电影，我们摸黑一起走回家。",
+        "scene": "电影散场后结伴回家"
+      },
+      {
+        "level": "long",
+        "english": "I was so tired after the long practice that all I wanted was to go home, take a hot shower, and crawl into bed.",
+        "chinese": "长时间训练后我累坏了，只想回家冲个热水澡，爬上床睡觉。",
+        "scene": "疲惫训练后渴望回家的舒适"
+      }
+    ]
+  },
+  {
+    "word": "go to bed",
+    "phonetic": "/ɡoʊ tə bɛd/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "上床睡觉",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "It's time to go to bed.",
+        "chinese": "该睡觉了。",
+        "scene": "家长催促孩子睡觉"
+      },
+      {
+        "level": "medium",
+        "english": "I usually go to bed at ten, but tonight I can stay up late.",
+        "chinese": "我通常十点睡觉，但今晚可以熬夜。",
+        "scene": "因特殊原因被允许晚睡"
+      },
+      {
+        "level": "long",
+        "english": "When I was little, my dad would read me a story before I went to bed, and I'd always ask for one more chapter.",
+        "chinese": "我小时候，爸爸总在睡前给我读故事，我总会要求再读一章。",
+        "scene": "回忆睡前故事的温馨时光"
+      }
+    ]
+  },
+  {
+    "word": "want",
+    "phonetic": "/wɑːnt/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "想要",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I want a puppy.",
+        "chinese": "我想要一只小狗。",
+        "scene": "向父母表达养宠物的愿望"
+      },
+      {
+        "level": "medium",
+        "english": "Do you want to come to the park with us later?",
+        "chinese": "你待会儿想和我们一起去公园吗？",
+        "scene": "邀请朋友一起去公园"
+      },
+      {
+        "level": "long",
+        "english": "I really want to learn how to play the piano, so I'm going to ask my parents for lessons for my birthday.",
+        "chinese": "我真的很想学弹钢琴，所以打算生日时求爸妈让我上钢琴课。",
+        "scene": "计划生日请求学琴"
+      }
+    ]
+  },
+  {
+    "word": "clock",
+    "phonetic": "/klɑːk/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "时钟",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The clock on the wall is broken.",
+        "chinese": "墙上的钟坏了。",
+        "scene": "注意到时钟不走了"
+      },
+      {
+        "level": "medium",
+        "english": "I kept looking at the clock during the meeting because it was so boring.",
+        "chinese": "会议太无聊了，我不停地看时钟。",
+        "scene": "在无聊会议中期盼结束"
+      },
+      {
+        "level": "long",
+        "english": "My grandmother has an old grandfather clock that chimes every hour, and I love the sound because it reminds me of her house.",
+        "chinese": "我奶奶有一座老式落地钟，每小时都会敲响，我喜欢那声音，因为它让我想起她的家。",
+        "scene": "奶奶家的钟声唤起温暖回忆"
+      }
+    ]
+  },
+  {
+    "word": "just",
+    "phonetic": "/dʒʌst/",
+    "part_of_speech": "adverb",
+    "chinese_meaning": "只是；刚刚；仅仅",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I just got home.",
+        "chinese": "我刚到家。",
+        "scene": "进门时向家人报告"
+      },
+      {
+        "level": "medium",
+        "english": "Can you wait a moment? I just need to grab my jacket.",
+        "chinese": "你能等一会儿吗？我只是去拿件外套。",
+        "scene": "准备出门时发现忘带外套"
+      },
+      {
+        "level": "long",
+        "english": "I wasn't really angry; I was just tired and hungry, and I said some things I didn't mean.",
+        "chinese": "我不是真的生气，我只是又累又饿，说了一些无心的话。",
+        "scene": "事后解释之前情绪不好的原因"
+      }
+    ]
+  },
+  {
+    "word": "minute",
+    "phonetic": "/ˈmɪnɪt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "分钟",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Wait a minute, please.",
+        "chinese": "请稍等片刻。",
+        "scene": "需要短暂等待时请对方稍候"
+      },
+      {
+        "level": "medium",
+        "english": "I'll be ready in a minute; I'm almost done with my hair.",
+        "chinese": "我马上就好，头发快弄完了。",
+        "scene": "出门前在卫生间回应催促"
+      },
+      {
+        "level": "long",
+        "english": "The train will arrive in five minutes, so we have just enough time to grab a coffee from the station café.",
+        "chinese": "火车五分钟后到站，所以我们的时间刚好够在车站咖啡店买杯咖啡。",
+        "scene": "赶车前抓紧时间买咖啡"
+      }
+    ]
+  }
+]

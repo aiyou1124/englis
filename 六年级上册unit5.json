@@ -1,6 +1,548 @@
-{
-  "grade": "六年级",
-  "term": "上册",
-  "unit": "unit5",
-  "words": []
-}
+[
+  {
+    "word": "factory",
+    "phonetic": "/ˈfæktəri/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "工厂",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My dad works in that factory.",
+        "chinese": "我爸爸在那家工厂工作。",
+        "scene": "路过城郊的工业区，你指着远处一栋灰色的建筑告诉同学。"
+      },
+      {
+        "level": "medium",
+        "english": "The chocolate factory downtown gives free tours on Saturdays, and the samples are amazing.",
+        "chinese": "市中心那家巧克力工厂每周六提供免费参观，试吃品特别棒。",
+        "scene": "你在手机日历上标记好周末行程，兴奋地跟室友分享这个好消息。"
+      },
+      {
+        "level": "long",
+        "english": "When I was a kid, my school was near a bread factory, and every afternoon at three, the smell of fresh bread would drift over the playground and make us all instantly hungry.",
+        "chinese": "我小时候学校在一家面包厂旁边，每天下午三点，新鲜面包的香气就会飘到操场上，让我们全都立刻饿了。",
+        "scene": "路过母校，闻到空气中的甜香，你忍不住跟身边的朋友回忆起童年那个馋嘴的时刻。"
+      }
+    ]
+  },
+  {
+    "word": "worker",
+    "phonetic": "/ˈwɜːrkər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "工人",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The workers are taking a break now.",
+        "chinese": "工人们现在正在休息。",
+        "scene": "中午路过一个建筑工地，看到工人们坐在路边阴凉处喝水聊天。"
+      },
+      {
+        "level": "medium",
+        "english": "My uncle is a construction worker, and he comes home covered in dust but always smiling.",
+        "chinese": "我叔叔是个建筑工人，他回家时总是一身灰，但脸上总带着笑。",
+        "scene": "家庭聚会上，你向新认识的女朋友介绍自己那位朴实的叔叔。"
+      },
+      {
+        "level": "long",
+        "english": "The factory hired fifty new workers last month, and the whole town feels more alive because it means families can stay together instead of moving away for jobs.",
+        "chinese": "上个月工厂招了五十名新工人，整个小镇都更有生气了，因为这意味着许多家庭不用为了工作而搬走，可以守在一起。",
+        "scene": "在镇上的咖啡馆里，你听着周围人热烈地讨论着新变化，心头一暖。"
+      }
+    ]
+  },
+  {
+    "word": "postman",
+    "phonetic": "/ˈpoʊstmən/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "邮递员",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The postman left a box at the door.",
+        "chinese": "邮递员在门口留了一个盒子。",
+        "scene": "你打开家门，差点被脚下的快递盒绊倒，回头对屋里的人喊道。"
+      },
+      {
+        "level": "medium",
+        "english": "Our regular postman is so friendly. He knows everyone's name and always stops to pet our dog.",
+        "chinese": "我们那固定的邮递员特别友好，他知道每个人的名字，还总会停下来摸摸我家的狗。",
+        "scene": "透过窗户看到邮递员来，你家狗狗已经摇着尾巴等在门口了。"
+      },
+      {
+        "level": "long",
+        "english": "Even though we mostly get emails and bills now, I still look forward to seeing the postman because my grandma in the countryside insists on sending me handwritten letters twice a month.",
+        "chinese": "尽管现在我们收到的大多是电子邮件和账单，但我依然盼着见到邮递员，因为在乡下的奶奶坚持每月给我寄来两封手写的信。",
+        "scene": "你拿着一封刚收到的信，坐在沙发上小心翼翼地拆开，满脸欣喜。"
+      }
+    ]
+  },
+  {
+    "word": "businessman",
+    "phonetic": "/ˈbɪznəsmæn/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "商人",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "He dresses like a successful businessman.",
+        "chinese": "他穿得像个成功的商人。",
+        "scene": "在酒店大堂，你看到一位西装笔挺、拉着高档行李箱的男士，悄悄对同伴耳语。"
+      },
+      {
+        "level": "medium",
+        "english": "The businessman across the hall travels so much that I rarely see his light on at night.",
+        "chinese": "对面那个商人经常出差，我晚上很少见他家亮着灯。",
+        "scene": "在电梯里碰到许久未见的邻居，你随口和伴侣谈起他。"
+      },
+      {
+        "level": "long",
+        "english": "My father was a businessman who spent more time on airplanes than at home, but he never once forgot to bring back a little snow globe from every city he visited.",
+        "chinese": "我父亲是个商人，在飞机上的时间比在家都多，但他从没忘记从去过的每个城市给我带回来一个小小的雪花玻璃球。",
+        "scene": "你整理书架时拿起一个落灰的玻璃球，跟来访的老友说起这些收藏背后的故事。"
+      }
+    ]
+  },
+  {
+    "word": "police officer",
+    "phonetic": "/pəˈliːs ˈɔːfɪsər/",
+    "part_of_speech": "noun phrase",
+    "chinese_meaning": "警察",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The police officer helped the lost girl.",
+        "chinese": "那位警察帮助了迷路的女孩。",
+        "scene": "在商场里，看到一位女警蹲下身子温柔地安慰一个哭泣的孩子，你心里涌起一阵感动。"
+      },
+      {
+        "level": "medium",
+        "english": "We invited a police officer to give a talk at school about staying safe online.",
+        "chinese": "我们邀请了一位警察来学校做关于网络安全的知识讲座。",
+        "scene": "班会课上，穿着制服的警官在讲台上放PPT，同学们都听得很认真。"
+      },
+      {
+        "level": "long",
+        "english": "When my wallet was stolen at the airport, a police officer not only helped me file the report but also bought me a cup of coffee because he could see I was completely panicked and exhausted.",
+        "chinese": "我的钱包在机场被偷时，一位警察不仅帮我做了笔录，还给我买了杯咖啡，因为他看得出我当时完全慌了神而且筋疲力尽。",
+        "scene": "你在异国他乡遭遇意外，那位好心警察的举动让你在无助时感受到了莫大的温暖。"
+      }
+    ]
+  },
+  {
+    "word": "fisherman",
+    "phonetic": "/ˈfɪʃərmən/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "渔民",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The old fisherman gets up at dawn.",
+        "chinese": "那位老渔民天刚亮就起床。",
+        "scene": "清晨你在海边散步，看见渔船已经亮起了灯，准备出海。"
+      },
+      {
+        "level": "medium",
+        "english": "I bought these crabs straight from a fisherman at the dock. They're so fresh they're still moving!",
+        "chinese": "这些螃蟹是我在码头直接从渔民手里买的，新鲜得还在动呢！",
+        "scene": "你费力地拎着一袋子螃蟹回家，兴奋地给妈妈看，螃蟹在袋子里窸窣作响。"
+      },
+      {
+        "level": "long",
+        "english": "Growing up as a fisherman's son, I learned to read the weather by the color of the sky at sunrise. Those quiet mornings on the boat with my dad were the best classroom I ever had.",
+        "chinese": "作为渔民的兒子，我学会了通过日出时天空的颜色来判断天气。和父亲在船上度过的那些安静的清晨，是我这辈子最好的课堂。",
+        "scene": "如今已是一名气象学家的你，看着窗外的朝霞，跟同事讲起这份最初的启蒙。"
+      }
+    ]
+  },
+  {
+    "word": "scientist",
+    "phonetic": "/ˈsaɪəntɪst/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "科学家",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My cousin is a scientist in a lab.",
+        "chinese": "我表哥是一个在实验室工作的科学家。",
+        "scene": "亲戚聚会时，你略带骄傲地回答长辈关于表哥工作的询问。"
+      },
+      {
+        "level": "medium",
+        "english": "The scientist on the documentary explained why leaves change color in the fall, and it was fascinating.",
+        "chinese": "纪录片里那位科学家解释了秋天树叶为什么会变色，特别有意思。",
+        "scene": "周末午后窝在沙发里看电视，你推了推旁边打瞌睡的伙伴，让他赶紧看这一段。"
+      },
+      {
+        "level": "long",
+        "english": "When I was little, I thought all scientists wore white coats, but then I met a scientist who studies monkeys in the jungle, and she told me her office is a treehouse. That changed everything.",
+        "chinese": "小时候我以为所有的科学家都穿白大褂，但后来我遇到一位在丛林里研究猴子的科学家，她告诉我她的办公室是一个树屋。这一下子改变了我所有的认知。",
+        "scene": "在学校的职业分享日，你听着台上一位生物学家的传奇经历，回来后和好朋友叽叽喳喳地聊个不停。"
+      }
+    ]
+  },
+  {
+    "word": "pilot",
+    "phonetic": "/ˈpaɪlət/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "飞行员",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The pilot's uniform is really cool.",
+        "chinese": "飞行员的制服真帅。",
+        "scene": "在登机口，一个小朋友拉着妈妈的手，盯着路过的机长看得目不转睛。"
+      },
+      {
+        "level": "medium",
+        "english": "My sister just became a commercial pilot, and our whole family went to the airport to surprise her on her first flight.",
+        "chinese": "我姐姐刚成为一名民航飞行员，她首飞那天我们全家都去机场给她惊喜。",
+        "scene": "你们举着牌子藏在到达口，等她出来时一起尖叫，周围的人也被感染了。"
+      },
+      {
+        "level": "long",
+        "english": "During a really bumpy flight last winter, the pilot came on the intercom with the calmest voice and explained everything that was happening. His confidence made the whole cabin relax.",
+        "chinese": "去年冬天的一次飞行中，飞机颠簸得特别厉害，飞行员用非常镇定的声音广播，解释了发生的事情。他的自信让整个客舱的人都安心了。",
+        "scene": "飞机顺利降落后，你长舒一口气，对身旁紧张的乘客夸赞这位飞行员。"
+      }
+    ]
+  },
+  {
+    "word": "coach",
+    "phonetic": "/koʊtʃ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "教练",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Listen to the coach, kids.",
+        "chinese": "孩子们，听教练的话。",
+        "scene": "足球场上，一群小家伙叽叽喳喳，场边的妈妈们忍不住提醒。"
+      },
+      {
+        "level": "medium",
+        "english": "My swimming coach taught me that it's not always about being the fastest, but about having a strong and steady rhythm.",
+        "chinese": "我的游泳教练教我，并不总是关于游得最快，而是要保持有力且稳定的节奏。",
+        "scene": "游泳课后，你坐在泳池边喘气，教练蹲下来跟你分析刚才的动作。"
+      },
+      {
+        "level": "long",
+        "english": "Coach Miller was the first person who ever believed I could be a good basketball player. He spent extra time after practice just teaching me how to shoot, and that changed everything for me.",
+        "chinese": "米勒教练是第一个相信我能够成为一名好篮球手的人。他会在训练后额外花时间专门教我投篮，那改变了我的一切。",
+        "scene": "在高中篮球赛夺冠后，你对着记者的镜头，红着眼眶感谢那位改变你一生的教练。"
+      }
+    ]
+  },
+  {
+    "word": "country",
+    "phonetic": "/ˈkʌntri/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "国家；乡村",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Which country are you from?",
+        "chinese": "你来自哪个国家？",
+        "scene": "国际青年旅舍的大厅里，你和新认识的背包客交换着各自的护照故事。"
+      },
+      {
+        "level": "medium",
+        "english": "My grandparents live way out in the country, and we love visiting them to get away from the city noise.",
+        "chinese": "我爷爷奶奶住在很远的乡下，我们喜欢去看他们，以摆脱城市的喧嚣。",
+        "scene": "周末，你摇下车窗，乡间清新的空气灌进来，你对身旁的朋友大喊：“闻到了吗？这才是生活！”"
+      },
+      {
+        "level": "long",
+        "english": "After spending most of my adult life in a concrete jungle, I decided to move to the country and start a small farm. It was the hardest and also the most peaceful thing I've ever done.",
+        "chinese": "成年后大部分时间都生活在水泥森林里，我决定搬去乡下，经营一个小农场。这是我做过最艰难、也最平静的事情。",
+        "scene": "你戴着草帽在地里拔萝卜，通过视频电话给城里的老同事展示你满是泥巴的双手和灿烂的笑容。"
+      }
+    ]
+  },
+  {
+    "word": "head teacher",
+    "phonetic": "/ˌhed ˈtiːtʃər/",
+    "part_of_speech": "noun phrase",
+    "chinese_meaning": "校长",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Our head teacher is very strict but fair.",
+        "chinese": "我们校长虽然很严格，但很公平。",
+        "scene": "开学典礼结束后，新生们在走廊里窃窃私语，你向新来的插班生介绍道。"
+      },
+      {
+        "level": "medium",
+        "english": "The head teacher announced at the assembly that we're finally getting a new playground, and everyone just went wild.",
+        "chinese": "校长在晨会上宣布我们终于要有新操场了，全场都沸腾了。",
+        "scene": "操场上响起震耳欲聋的欢呼声，你和朋友们激动地互相拍打着后背。"
+      },
+      {
+        "level": "long",
+        "english": "When I got blamed for something I didn't do, it was the head teacher who sat me down, listened to my side of the story, and helped clear my name. I'll never forget that kindness.",
+        "chinese": "当我被冤枉时，是校长让我坐下来，听我讲了事情的经过，帮我洗刷了冤屈。我永远不会忘记那份善意。",
+        "scene": "毕业多年后在街上偶遇已退休的老校长，你走上前去，深深地鞠了一躬。"
+      }
+    ]
+  },
+  {
+    "word": "sea",
+    "phonetic": "/siː/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "海",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's swim in the sea!",
+        "chinese": "我们去海里游泳吧！",
+        "scene": "炎炎夏日，你把毛巾一扔，拉着男朋友的手冲向海浪。"
+      },
+      {
+        "level": "medium",
+        "english": "We just sat on the cliff for hours, watching the sun slowly disappear into the sea.",
+        "chinese": "我们就在悬崖上坐了几个小时，看着太阳慢慢沉入大海。",
+        "scene": "假期的最后一个黄昏，你和伴侣静静地靠在一起，谁也不想说话，生怕打破这美景。"
+      },
+      {
+        "level": "long",
+        "english": "Every time I stand by the sea, I feel so small, but in a good way. It's like all my worries just get washed away by the sound of the waves crashing on the shore.",
+        "chinese": "每次站在海边，我都感觉自己很渺小，但这感觉很好。好像我所有的烦恼都被海浪拍岸的声音冲走了。",
+        "scene": "休假时你一个人来到海边，脱了鞋走在沙滩上，给远方的闺蜜发了一条长长的语音。"
+      }
+    ]
+  },
+  {
+    "word": "stay",
+    "phonetic": "/steɪ/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "停留；保持；暂住",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Stay here. I'll be right back.",
+        "chinese": "待在这里，我马上回来。",
+        "scene": "在超市门口，你对牵着的小狗做了一个“坐下”的手势，然后急忙跑进去买水。"
+      },
+      {
+        "level": "medium",
+        "english": "Instead of a big hotel, we decided to stay at a cozy little guesthouse run by a lovely old couple.",
+        "chinese": "我们没住大酒店，而是决定住在一家由一对可爱的老夫妇经营的温馨小旅馆里。",
+        "scene": "旅行中，你翻着手机里的照片，跟朋友推荐这次住宿的意外之喜。"
+      },
+      {
+        "level": "long",
+        "english": "Whenever life gets too overwhelming, I go and stay with my grandparents for a few days. Their house is my safe place, and my grandma's soup can fix almost anything.",
+        "chinese": "每当生活让人喘不过气，我就会去爷爷奶奶家住几天。他们家就是我的避风港，奶奶的汤几乎能治愈一切。",
+        "scene": "周末傍晚，你窝在奶奶家的旧沙发上喝着热汤，感觉满血复活。"
+      }
+    ]
+  },
+  {
+    "word": "university",
+    "phonetic": "/ˌjuːnɪˈvɜːrsəti/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "大学",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My brother is at university now.",
+        "chinese": "我哥哥现在在上大学。",
+        "scene": "邻居阿姨问你哥哥怎么好久没见，你解释说他在外地念书。"
+      },
+      {
+        "level": "medium",
+        "english": "On my first day at university, I was so nervous I walked into the wrong lecture hall and sat there for ten minutes.",
+        "chinese": "上大学第一天，我紧张得要命，以至于走错了阶梯教室，还在里面坐了十分钟。",
+        "scene": "迎新会上，你和刚认识的室友分享这个糗事，两人笑得直不起腰。"
+      },
+      {
+        "level": "long",
+        "english": "Studying at university in a different country taught me not just academic skills but also how to cook, how to budget, and how to make friends with people from completely different cultures.",
+        "chinese": "在国外上大学教会我的不仅是学术技能，还有如何做饭、如何规划开销，以及如何和来自完全不同文化的人交朋友。",
+        "scene": "毕业典礼结束，和远道而来的父母聚餐时，你感慨万千地举起了酒杯。"
+      }
+    ]
+  },
+  {
+    "word": "gym",
+    "phonetic": "/dʒɪm/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "健身房；体育馆",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'm heading to the gym now.",
+        "chinese": "我现在要去健身房了。",
+        "scene": "下班时间到了，你换好运动服，提着运动包跟同事们打了个招呼。"
+      },
+      {
+        "level": "medium",
+        "english": "The new gym near the office has a rock climbing wall and a juice bar. I'm totally signing up.",
+        "chinese": "公司附近新开的健身房有攀岩墙和果汁吧。我绝对要报名。",
+        "scene": "午休时看到传单，你立刻拍照发到家里的群聊里，拉伴侣一起去。"
+      },
+      {
+        "level": "long",
+        "english": "I used to hate going to the gym, but now it's my favorite part of the day. I put on my headphones, block out the world, and just focus on getting stronger, both physically and mentally.",
+        "chinese": "我以前很讨厌去健身房，但现在它是我一天中最喜欢的时刻。我戴上耳机，屏蔽世界，专注于让身心都变得更强。",
+        "scene": "你刚跑完五公里，满头大汗却精神焕发，在更衣室和熟悉的健友击掌。"
+      }
+    ]
+  },
+  {
+    "word": "if",
+    "phonetic": "/ɪf/",
+    "part_of_speech": "conjunction",
+    "chinese_meaning": "如果；是否",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let me know if you're free tomorrow.",
+        "chinese": "如果你明天有空，告诉我一声。",
+        "scene": "临睡前，你发了条微信给好久没见的老同学。"
+      },
+      {
+        "level": "medium",
+        "english": "If it rains on Saturday, we'll just have a movie marathon at home instead of going hiking.",
+        "chinese": "如果周六下雨，我们就在家来个电影马拉松，不去远足了。",
+        "scene": "看着天气预报上显示有雨，你和朋友商量着备选方案。"
+      },
+      {
+        "level": "long",
+        "english": "Sometimes I wonder if my life would be completely different if I had said yes to that job offer in Paris. But then I look at my kids playing in the yard, and I know I wouldn't trade this for anything.",
+        "chinese": "有时我会想，如果当初接受了巴黎的工作，我的生活会不会完全不同。但当我看着孩子们在院子里玩耍时，我知道拿什么我都不换。",
+        "scene": "傍晚，你端着茶站在窗边，看着外面嬉闹的家人，心中浮起一阵知足的温暖。"
+      }
+    ]
+  },
+  {
+    "word": "reporter",
+    "phonetic": "/rɪˈpɔːrtər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "记者",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The reporter asked a really tough question.",
+        "chinese": "那位记者问了一个非常尖锐的问题。",
+        "scene": "发布会结束后，你在走廊里听到工作人员小声嘀咕刚才的紧张时刻。"
+      },
+      {
+        "level": "medium",
+        "english": "My dream is to become a sports reporter so I can interview my favorite athletes.",
+        "chinese": "我的梦想是成为一名体育记者，这样就能采访我最喜欢的运动员了。",
+        "scene": "职业规划课上，你眼神发亮地对导师描述未来的自己。"
+      },
+      {
+        "level": "long",
+        "english": "As a young reporter, I was sent to cover a flood in a small town. The stories of neighbors helping neighbors taught me that journalism isn't just about facts, it's about humanity.",
+        "chinese": "当我还是一名年轻记者时，被派去报道一个小镇的洪水。邻里互助的故事教会我，新闻不仅仅是关于事实，更是关于人性。",
+        "scene": "几年后在母校的新闻系讲座上，你向台下的学弟学妹分享这个改变你职业观的瞬间。"
+      }
+    ]
+  },
+  {
+    "word": "use",
+    "phonetic": "/juːz/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "使用",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can I use your pen, please?",
+        "chinese": "请问我能用一下你的笔吗？",
+        "scene": "考试前你发现笔没水了，急得赶紧拍了拍前桌的肩膀。"
+      },
+      {
+        "level": "medium",
+        "english": "I'm trying to use up all the vegetables in the fridge before they go bad, so tonight's dinner is a mystery stir-fry!",
+        "chinese": "我正想办法在冰箱里的菜坏掉之前把它们都用完，所以今晚的晚餐是一道“神秘乱炒”！",
+        "scene": "你系着围裙，从冰箱里掏出一堆零散的蔬菜，对好奇地探头进来的家人开玩笑。"
+      },
+      {
+        "level": "long",
+        "english": "My grandpa refuses to use GPS when he drives. He says he prefers to use his memory and a paper map because it keeps his brain sharp. And honestly, he never gets lost.",
+        "chinese": "我爷爷开车时拒绝使用导航。他说他更喜欢用脑子和纸质地图，因为这样能保持思维敏捷。而且老实说，他从不迷路。",
+        "scene": "坐在爷爷的副驾驶座上，你看着他摊开一张旧地图，在繁忙的车流中从容不迫地找路，心里满是佩服。"
+      }
+    ]
+  },
+  {
+    "word": "type",
+    "phonetic": "/taɪp/",
+    "part_of_speech": "noun, verb",
+    "chinese_meaning": "类型；打字",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "What type of movies do you like?",
+        "chinese": "你喜欢什么类型的电影？",
+        "scene": "第一次约会，有点冷场，你赶紧找了个话题。"
+      },
+      {
+        "level": "medium",
+        "english": "For this project, you'll need to type up a short summary of our findings and email it to the team.",
+        "chinese": "这个项目需要你把我们的发现打出一份简短总结，然后邮件发给团队。",
+        "scene": "会议快结束时，老板给你分配任务，你赶紧在记事本上写下几个关键词。"
+      },
+      {
+        "level": "long",
+        "english": "I'm the type of person who loves routine. I wake up, make coffee, and then type out my to-do list for the day. It might sound boring, but this little habit helps me feel in control.",
+        "chinese": "我是那种喜欢按部就班的人。起床，煮咖啡，然后打出当天待办清单。听起来可能很无聊，但这个小习惯让我觉得一切尽在掌控。",
+        "scene": "清晨，你坐在整洁的书桌前，手指在键盘上轻快地敲击，享受着属于自己的一刻宁静。"
+      }
+    ]
+  },
+  {
+    "word": "quickly",
+    "phonetic": "/ˈkwɪkli/",
+    "part_of_speech": "adverb",
+    "chinese_meaning": "迅速地；很快地",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Come here quickly! There's a huge rainbow!",
+        "chinese": "快过来！有好大一道彩虹！",
+        "scene": "雨后初晴，你站在阳台上，激动地朝着屋里大喊。"
+      },
+      {
+        "level": "medium",
+        "english": "I quickly packed my suitcase and ran out the door, but I still missed the last train by about thirty seconds.",
+        "chinese": "我飞快地收拾好行李箱冲出门，但还是晚了大约三十秒，错过了末班车。",
+        "scene": "你气喘吁吁地站在空荡荡的站台上，看着火车尾灯渐行渐远，哭笑不得。"
+      },
+      {
+        "level": "long",
+        "english": "When the fire alarm went off in our apartment building, everyone acted quickly but calmly. We grabbed the pets and made it outside in just a few minutes, and I was really proud of our neighbors.",
+        "chinese": "我们公寓楼的火灾警报响起时，每个人都行动迅速但很冷静。我们抓上宠物，几分钟内就到了外面，我为我的邻居们感到骄傲。",
+        "scene": "站在楼下安全地带，你一边安抚着怀里的猫，一边和同样惊魂未定的邻居们点头示意。"
+      }
+    ]
+  },
+  {
+    "word": "secretary",
+    "phonetic": "/ˈsekrəteri/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "秘书",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Please give these forms to the secretary.",
+        "chinese": "请把这些表格交给秘书。",
+        "scene": "在诊所前台，护士小姐指了指旁边的办公室，对你说。"
+      },
+      {
+        "level": "medium",
+        "english": "Our school secretary knows every student's name and even asks about your last soccer game.",
+        "chinese": "我们学校的秘书知道每个学生的名字，甚至还会问你上次足球赛踢得怎么样。",
+        "scene": "你因脚伤一瘸一拐走进办公室，秘书阿姨立刻关心地叫住了你。"
+      },
+      {
+        "level": "long",
+        "english": "Starting as a secretary right after college was the best thing that happened to me. I learned how the whole industry works just by organizing meetings and talking to different departments every day.",
+        "chinese": "大学毕业后从秘书做起，是我遇到的最好的事情。仅仅通过安排会议和每天与不同部门沟通，我就学会了整个行业的运作方式。",
+        "scene": "如今已经升职做主管的你，在给新来的实习生分享职场心得时，总会提起那段经历。"
+      }
+    ]
+  }
+]

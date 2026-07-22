@@ -1,6 +1,340 @@
-{
-  "grade": "四年级",
-  "term": "下册",
-  "unit": "unit5",
-  "words": []
-}
+[
+  {
+    "word": "cow",
+    "phonetic": "/kaʊ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "奶牛；母牛",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The cow is eating grass.",
+        "chinese": "那头牛在吃草。",
+        "scene": "在乡下看到牛群时的简单描述"
+      },
+      {
+        "level": "medium",
+        "english": "We saw a black and white cow on the farm.",
+        "chinese": "我们在农场看到一头黑白花的奶牛。",
+        "scene": "参观农场时向朋友分享所见"
+      },
+      {
+        "level": "long",
+        "english": "Every morning, the farmer milks the cows before sunrise, and the fresh milk is delivered to the local store.",
+        "chinese": "每天清晨，农夫天没亮就起来挤牛奶，新鲜的牛奶会被送到当地的商店。",
+        "scene": "描述农场清晨的日常工作"
+      }
+    ]
+  },
+  {
+    "word": "horse",
+    "phonetic": "/hɔːrs/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "马",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I want to ride a horse.",
+        "chinese": "我想骑马。",
+        "scene": "表达尝试骑马的愿望"
+      },
+      {
+        "level": "medium",
+        "english": "My uncle has a beautiful brown horse on his ranch.",
+        "chinese": "我叔叔的牧场里有一匹漂亮的棕色骏马。",
+        "scene": "介绍亲戚养的动物"
+      },
+      {
+        "level": "long",
+        "english": "When I was little, I was scared of horses, but after taking riding lessons, I now love galloping through the fields.",
+        "chinese": "我小时候很怕马，但上了几次骑术课之后，我现在特别喜欢在田野里策马奔腾。",
+        "scene": "从怕马到爱上骑马的转变"
+      }
+    ]
+  },
+  {
+    "word": "sheep",
+    "phonetic": "/ʃiːp/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "羊；绵羊",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The sheep is white and fluffy.",
+        "chinese": "那只绵羊又白又蓬松。",
+        "scene": "指着羊圈里的羊说"
+      },
+      {
+        "level": "medium",
+        "english": "There are many sheep grazing on the hillside.",
+        "chinese": "山坡上有许多羊在吃草。",
+        "scene": "车窗外的田园风光"
+      },
+      {
+        "level": "long",
+        "english": "During our trip to New Zealand, we visited a sheep farm and watched the farmer shear the wool off a sheep, and it was fascinating.",
+        "chinese": "我们去新西兰旅行的时候，参观了一家绵羊农场，还看了农夫给羊剪羊毛，真是太有意思了。",
+        "scene": "旅行中参观剪羊毛"
+      }
+    ]
+  },
+  {
+    "word": "pig",
+    "phonetic": "/pɪɡ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "猪",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The pig is sleeping in the mud.",
+        "chinese": "那头猪在泥里睡觉。",
+        "scene": "在农场看到猪打滚"
+      },
+      {
+        "level": "medium",
+        "english": "Pigs are actually very smart animals.",
+        "chinese": "猪其实是非常聪明的动物。",
+        "scene": "和朋友科普动物知识"
+      },
+      {
+        "level": "long",
+        "english": "My grandma used to raise a pig in her backyard, and I remember feeding it leftover vegetables every evening.",
+        "chinese": "我奶奶以前在后院养过一头猪，我记得每天晚上都拿剩菜叶去喂它。",
+        "scene": "回忆乡下奶奶家的养猪趣事"
+      }
+    ]
+  },
+  {
+    "word": "chicken",
+    "phonetic": "/ˈtʃɪkɪn/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "鸡；鸡肉",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We have chicken for dinner.",
+        "chinese": "我们晚饭吃鸡肉。",
+        "scene": "家里告知晚餐菜单"
+      },
+      {
+        "level": "medium",
+        "english": "The chickens are running around in the yard.",
+        "chinese": "那些鸡在院子里到处乱跑。",
+        "scene": "看到农家院里的热闹景象"
+      },
+      {
+        "level": "long",
+        "english": "When I visited the farm, a chicken chased me all the way to the gate, and I've been a little afraid of them ever since.",
+        "chinese": "我去农场玩的时候，一只鸡一直追我追到大门口，从此以后我就对鸡有点心理阴影了。",
+        "scene": "被鸡追的童年糗事"
+      }
+    ]
+  },
+  {
+    "word": "tomato",
+    "phonetic": "/təˈmeɪtoʊ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "番茄；西红柿",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I like fresh tomatoes in my salad.",
+        "chinese": "我喜欢在沙拉里放新鲜的西红柿。",
+        "scene": "准备食物时表达口味偏好"
+      },
+      {
+        "level": "medium",
+        "english": "My mom grows tomatoes in our garden every summer.",
+        "chinese": "每年夏天我妈妈都会在花园里种西红柿。",
+        "scene": "介绍自家的夏季菜园"
+      },
+      {
+        "level": "long",
+        "english": "I tried to make homemade pasta sauce, but I added too many tomatoes and it ended up way too sour.",
+        "chinese": "我试着自己做意面酱，但西红柿加多了，结果做出来太酸了。",
+        "scene": "下厨做菜的一次失败经历"
+      }
+    ]
+  },
+  {
+    "word": "bee",
+    "phonetic": "/biː/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "蜜蜂",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Look, there's a bee on the flower!",
+        "chinese": "看，花上有只蜜蜂！",
+        "scene": "在花园里发现蜜蜂"
+      },
+      {
+        "level": "medium",
+        "english": "A bee stung my finger when I was playing outside.",
+        "chinese": "我在外面玩的时候一只蜜蜂蜇了我的手指。",
+        "scene": "户外玩耍被蜜蜂蜇到"
+      },
+      {
+        "level": "long",
+        "english": "Bees are so important for our environment because they help plants grow by carrying pollen from flower to flower.",
+        "chinese": "蜜蜂对我们的环境非常重要，因为它们通过传播花粉来帮助植物生长。",
+        "scene": "谈论蜜蜂对生态的贡献"
+      }
+    ]
+  },
+  {
+    "word": "mouse",
+    "phonetic": "/maʊs/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "老鼠；鼠标",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I saw a mouse in the kitchen.",
+        "chinese": "我在厨房看到一只老鼠。",
+        "scene": "慌张地告诉家人"
+      },
+      {
+        "level": "medium",
+        "english": "My computer mouse stopped working, so I need a new one.",
+        "chinese": "我的电脑鼠标坏了，我得买个新的。",
+        "scene": "工作时鼠标突然失灵"
+      },
+      {
+        "level": "long",
+        "english": "We had a mouse in the house, and my dad set up a humane trap to catch it and release it in the field.",
+        "chinese": "我们家进了一只老鼠，我爸设了一个人道捕鼠笼把它捉住，然后放归到了野地里。",
+        "scene": "处理家里老鼠的温和方式"
+      }
+    ]
+  },
+  {
+    "word": "carrot",
+    "phonetic": "/ˈkærət/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "胡萝卜",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Rabbits love carrots.",
+        "chinese": "兔子爱吃胡萝卜。",
+        "scene": "喂兔子时的童谣式对话"
+      },
+      {
+        "level": "medium",
+        "english": "I chopped some carrots and added them to the soup.",
+        "chinese": "我切了些胡萝卜放进汤里。",
+        "scene": "在厨房准备晚餐食材"
+      },
+      {
+        "level": "long",
+        "english": "I'm not a big fan of cooked carrots, but I love snacking on raw carrot sticks with ranch dressing.",
+        "chinese": "我不太喜欢吃煮熟的胡萝卜，但我超级喜欢蘸着田园沙拉酱生吃胡萝卜条。",
+        "scene": "分享零食偏好"
+      }
+    ]
+  },
+  {
+    "word": "potato",
+    "phonetic": "/pəˈteɪtoʊ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "土豆",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I want baked potatoes for lunch.",
+        "chinese": "我午饭想吃烤土豆。",
+        "scene": "向父母点菜"
+      },
+      {
+        "level": "medium",
+        "english": "We need to buy a bag of potatoes from the store.",
+        "chinese": "我们得去商店买一袋土豆。",
+        "scene": "查看购物清单时提醒"
+      },
+      {
+        "level": "long",
+        "english": "My favorite comfort food is mashed potatoes with lots of butter and gravy.",
+        "chinese": "我最爱的治愈美食就是加了大量黄油和肉汁的土豆泥。",
+        "scene": "谈论最能抚慰心灵的食物"
+      }
+    ]
+  },
+  {
+    "word": "green bean",
+    "phonetic": "/ɡriːn biːn/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "四季豆；青豆",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I don't like green beans.",
+        "chinese": "我不喜欢四季豆。",
+        "scene": "小孩对蔬菜的直言不讳"
+      },
+      {
+        "level": "medium",
+        "english": "My mom steamed some fresh green beans with garlic.",
+        "chinese": "我妈妈蒸了一些新鲜的四季豆，放了蒜。",
+        "scene": "描述妈妈做的健康菜"
+      },
+      {
+        "level": "long",
+        "english": "At Thanksgiving dinner, the green bean casserole with crispy onions on top is always the first dish to disappear.",
+        "chinese": "感恩节晚餐时，那种上面有脆洋葱的四季豆焙盘菜总是头一个被抢光的。",
+        "scene": "感恩节家庭聚餐上的抢手菜"
+      }
+    ]
+  },
+  {
+    "word": "can",
+    "phonetic": "/kæn/",
+    "part_of_speech": "modal verb, noun",
+    "chinese_meaning": "可以；罐头",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can I have some water?",
+        "chinese": "我可以喝点水吗？",
+        "scene": "礼貌地提出请求"
+      },
+      {
+        "level": "medium",
+        "english": "She can speak three languages fluently.",
+        "chinese": "她能流利地说三种语言。",
+        "scene": "谈论某人的语言天赋"
+      },
+      {
+        "level": "long",
+        "english": "I found an old can of peaches in the back of the pantry from three years ago, and I'm not sure if it's still safe to eat.",
+        "chinese": "我在储藏柜最里头找到一罐三年前的黄桃罐头，我不确定还能不能吃。",
+        "scene": "清理柜子发现过期罐头"
+      }
+    ]
+  },
+  {
+    "word": "a box of",
+    "phonetic": "/ə bɑːks ʌv/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "一盒",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I bought a box of chocolates.",
+        "chinese": "我买了一盒巧克力。",
+        "scene": "展示刚买的礼物"
+      },
+      {
+        "level": "medium",
+        "english": "We need a box of crayons for the art project.",
+        "chinese": "我们做美术作业需要一盒蜡笔。",
+        "scene": "准备手工材料时的对话"
+      },
+      {
+        "level": "long",
+        "english": "My grandmother keeps a box of old letters and photos under her bed, and she takes it out whenever I visit.",
+        "chinese": "我奶奶床底下藏了一盒旧信件和老照片，每次我去看她她都会拿出来。",
+        "scene": "翻看奶奶珍藏的记忆盒子"
+      }
+    ]
+  }
+]

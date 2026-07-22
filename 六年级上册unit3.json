@@ -1,6 +1,704 @@
-{
-  "grade": "六年级",
-  "term": "上册",
-  "unit": "unit3",
-  "words": []
-}
+[
+  {
+    "word": "visit",
+    "phonetic": "/ˈvɪzɪt/",
+    "part_of_speech": "verb, noun",
+    "chinese_meaning": "拜访；参观",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's visit Grandma this Sunday.",
+        "chinese": "这个星期天我们去看奶奶吧。",
+        "scene": "周末家庭计划时，你向家人提议。"
+      },
+      {
+        "level": "medium",
+        "english": "We're going to visit the science museum on our next school trip.",
+        "chinese": "我们下次学校旅行要去参观科学博物馆。",
+        "scene": "同学们围在一起兴奋地讨论即将到来的行程。"
+      },
+      {
+        "level": "long",
+        "english": "I try to visit my hometown at least once a year, even if it's just for a weekend, because nothing beats my mom's cooking and walking down those old familiar streets.",
+        "chinese": "我尽量每年至少回老家一次，哪怕只是一个周末，因为没有比得上妈妈做的饭和走在那些熟悉的旧街道上的感觉了。",
+        "scene": "和朋友聊起思乡之情，你解释自己雷打不动的回乡计划。"
+      }
+    ]
+  },
+  {
+    "word": "film",
+    "phonetic": "/fɪlm/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "电影",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "That film was really funny.",
+        "chinese": "那部电影真好笑。",
+        "scene": "走出电影院，你笑着对同伴说。"
+      },
+      {
+        "level": "medium",
+        "english": "We watched a horror film last night, and I couldn't sleep at all.",
+        "chinese": "昨晚我们看了一部恐怖片，我一整夜都没睡着。",
+        "scene": "早上顶着黑眼圈，你向同事抱怨昨晚的错误选择。"
+      },
+      {
+        "level": "long",
+        "english": "I saw an independent film at a tiny theater downtown that completely changed the way I think about friendship. It was so raw and honest that I sat through the credits in silence.",
+        "chinese": "我在市中心一家小电影院看了一部独立电影，彻底改变了我对友谊的看法。它如此真实坦率，以致于我在沉默中看完了片尾字幕。",
+        "scene": "你向朋友极力推荐这部冷门佳片，描述当时被震撼的感受。"
+      }
+    ]
+  },
+  {
+    "word": "see a film",
+    "phonetic": "/siː ə fɪlm/",
+    "part_of_speech": "verb phrase",
+    "chinese_meaning": "看电影",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's see a film tonight.",
+        "chinese": "咱们今晚去看场电影吧。",
+        "scene": "晚饭时，你滑动手机上的排片表，向家人提议。"
+      },
+      {
+        "level": "medium",
+        "english": "I haven't seen a film in a theater since the baby was born.",
+        "chinese": "自从孩子出生，我就没进电影院看过电影了。",
+        "scene": "和朋友聊起带娃生活，你感叹失去了去电影院的自由。"
+      },
+      {
+        "level": "long",
+        "english": "My friends and I have a summer tradition where we see a film at the old drive-in theater. Sitting under the stars with the sound coming through the car radio feels wonderfully nostalgic.",
+        "chinese": "我和朋友们有个夏季传统，去那家老汽车影院看场电影。坐在星空下，声音通过汽车收音机传来，那种感觉怀旧又美好。",
+        "scene": "你翻看照片，回忆起每年夏天和朋友们一起在汽车影院的欢乐时光。"
+      }
+    ]
+  },
+  {
+    "word": "trip",
+    "phonetic": "/trɪp/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "旅行；旅程",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Have a safe trip!",
+        "chinese": "一路平安！",
+        "scene": "在机场送别好友，你挥手道别。"
+      },
+      {
+        "level": "medium",
+        "english": "Our camping trip got canceled because of the heavy rain warning.",
+        "chinese": "因为暴雨预警，我们的露营旅行取消了。",
+        "scene": "你沮丧地发消息告诉同伴，原本期待的周末泡汤了。"
+      },
+      {
+        "level": "long",
+        "english": "The best trip I ever took was a spontaneous road trip with my college roommates. We had no real plan, just a map, some snacks, and a shared sense of adventure that led us to the most amazing hidden waterfalls.",
+        "chinese": "我最棒的一次旅行是和大学室友的一次说走就走的公路之旅。我们没什么具体计划，只有一张地图、一些零食和一股共同的冒险精神，这股劲带我们找到了最神奇的隐秘瀑布。",
+        "scene": "翻到旧照片，你笑着向伴侣讲述那段疯狂的青春旅程。"
+      }
+    ]
+  },
+  {
+    "word": "take a trip",
+    "phonetic": "/teɪk ə trɪp/",
+    "part_of_speech": "verb phrase",
+    "chinese_meaning": "去旅行",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We want to take a trip to Japan.",
+        "chinese": "我们想去日本旅行。",
+        "scene": "你和伴侣看着旅游杂志，兴奋地讨论明年的假期。"
+      },
+      {
+        "level": "medium",
+        "english": "My parents are planning to take a trip to Europe for their 30th anniversary.",
+        "chinese": "我父母正计划去欧洲旅行，庆祝他们结婚30周年。",
+        "scene": "家庭聚餐时，爸妈宣布了这个令人开心的计划。"
+      },
+      {
+        "level": "long",
+        "english": "If I could take a trip anywhere right now, I would choose a quiet little coastal village in Italy, where I could just eat pasta, swim in the sea, and forget about all my deadlines.",
+        "chinese": "如果我现在能去任何地方旅行，我会选意大利一个安静的海边小村，在那儿就只吃意面、在海里游泳，忘掉所有截止日期。",
+        "scene": "面对堆积如山的工作，你对着电脑屏幕做起了白日梦。"
+      }
+    ]
+  },
+  {
+    "word": "supermarket",
+    "phonetic": "/ˈsuːpərˌmɑːrkɪt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "超市",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'm going to the supermarket.",
+        "chinese": "我去趟超市。",
+        "scene": "你拿起购物袋，对沙发上的室友说了一声。"
+      },
+      {
+        "level": "medium",
+        "english": "Can you grab some milk at the supermarket on your way home?",
+        "chinese": "你回家路上能顺便去超市买点牛奶吗？",
+        "scene": "快下班时，你收到伴侣发来的语音消息。"
+      },
+      {
+        "level": "long",
+        "english": "I actually love shopping at the big Asian supermarket on weekends. Finding all the ingredients for my mom's recipes not only fills my fridge but also reminds me of home.",
+        "chinese": "我其实很爱周末去那家大亚洲超市采购。找到妈妈菜谱里所需的所有食材，不仅填满了冰箱，也让我想起了家。",
+        "scene": "你推着满满一购物车，兴奋地跟同行的朋友分享这份乡愁。"
+      }
+    ]
+  },
+  {
+    "word": "evening",
+    "phonetic": "/ˈiːvnɪŋ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "晚上；傍晚",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Good evening, everyone.",
+        "chinese": "大家晚上好。",
+        "scene": "晚宴开始，主持人热情地向来宾打招呼。"
+      },
+      {
+        "level": "medium",
+        "english": "We usually go for a walk in the park in the evening after dinner.",
+        "chinese": "我们通常晚饭后傍晚去公园散步。",
+        "scene": "你向新邻居介绍你们一家的日常习惯。"
+      },
+      {
+        "level": "long",
+        "english": "I love the calm of a summer evening, sitting on the porch with no phone, just watching the fireflies start to blink and the sky turn from pink to a deep purple.",
+        "chinese": "我爱夏日傍晚的宁静，坐在门廊上，不看手机，只看萤火虫开始闪烁，天空由粉变紫。",
+        "scene": "你端着冰茶，沉浸在城市里难得的慢时光中。"
+      }
+    ]
+  },
+  {
+    "word": "tonight",
+    "phonetic": "/təˈnaɪt/",
+    "part_of_speech": "adverb, noun",
+    "chinese_meaning": "今晚",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "See you tonight!",
+        "chinese": "今晚见！",
+        "scene": "在咖啡店门口和朋友分手，你们约好晚上再聚。"
+      },
+      {
+        "level": "medium",
+        "english": "Are you free tonight? There's a new Italian place I'd love to try.",
+        "chinese": "你今晚有空吗？有家新开的意大利餐厅我想去尝尝。",
+        "scene": "下午摸鱼时，你给好朋友发了一条约饭信息。"
+      },
+      {
+        "level": "long",
+        "english": "I have to finish this report tonight, no matter what. But to make it less painful, I'm going to put on my favorite playlist and order some sushi to keep me going.",
+        "chinese": "我今晚无论如何得完成这份报告。但为了不那么痛苦，我打算放上最喜欢的歌单，再点些寿司犒劳自己。",
+        "scene": "看着桌上一堆文件，你给自己打气，准备熬夜奋战。"
+      }
+    ]
+  },
+  {
+    "word": "tomorrow",
+    "phonetic": "/təˈmɔːroʊ/",
+    "part_of_speech": "adverb, noun",
+    "chinese_meaning": "明天",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Tomorrow is Monday again.",
+        "chinese": "明天又是周一了。",
+        "scene": "周日晚上，你窝在沙发里发出一声无奈的叹息。"
+      },
+      {
+        "level": "medium",
+        "english": "Let's not stress about it now. We can deal with it tomorrow.",
+        "chinese": "我们现在别为这事焦虑了，明天再处理吧。",
+        "scene": "朋友因为工作上的麻烦而烦恼，你试图安慰她。"
+      },
+      {
+        "level": "long",
+        "english": "Every night I tell myself I'll start exercising tomorrow, but then the alarm goes off and I just hit snooze. One day I'll actually do it.",
+        "chinese": "每晚我都告诉自己明天开始锻炼，但闹钟一响我就按下贪睡。总有一天我会真去做的。",
+        "scene": "你躺在床上刷到健身视频，又一次在内心上演了积极的自我欺骗。"
+      }
+    ]
+  },
+  {
+    "word": "next week",
+    "phonetic": "/nekst wiːk/",
+    "part_of_speech": "adverbial phrase",
+    "chinese_meaning": "下周",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The exam is next week.",
+        "chinese": "考试在下周。",
+        "scene": "老师在放学前提醒大家抓紧时间复习。"
+      },
+      {
+        "level": "medium",
+        "english": "I'll send you the final files next week. I'm just waiting for one more approval.",
+        "chinese": "我下周把最终文件发给你，就差最后一个审批了。",
+        "scene": "项目合作中，你跟对接的同事交代进度。"
+      },
+      {
+        "level": "long",
+        "english": "Next week I'm starting a new job, and I'm honestly a mix of excited and nervous. I just hope my new team is friendly and the coffee machine doesn't break on my first day.",
+        "chinese": "下周我就要开始新工作了，说实话我既兴奋又紧张。只希望新团队友好，还有咖啡机别在第一天就坏掉。",
+        "scene": "周末和朋友聚餐，你坦白地说出对新工作的期待和小小焦虑。"
+      }
+    ]
+  },
+  {
+    "word": "dictionary",
+    "phonetic": "/ˈdɪkʃəneri/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "字典；词典",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Look it up in the dictionary.",
+        "chinese": "在字典里查一下。",
+        "scene": "孩子问一个生词的意思，你指了指书架上的词典。"
+      },
+      {
+        "level": "medium",
+        "english": "My grandmother gave me her old English dictionary, and it still smells like vanilla.",
+        "chinese": "奶奶把她那本旧英语词典给了我，闻起来还有香草味。",
+        "scene": "你小心翼翼地翻阅泛黄的书页，向朋友展示这份特殊的礼物。"
+      },
+      {
+        "level": "long",
+        "english": "I still prefer using a paper dictionary when I study. Looking up a word without getting distracted by notifications feels almost meditative, and I remember the words better.",
+        "chinese": "我学习时还是偏爱用纸质词典。查词时不被打扰的通知分心，几乎有种冥想的感觉，而且单词记得更牢。",
+        "scene": "你在图书馆里摊开一本厚重的词典，和邻座的同学分享自己的学习方法。"
+      }
+    ]
+  },
+  {
+    "word": "comic",
+    "phonetic": "/ˈkɑːmɪk/",
+    "part_of_speech": "noun, adjective",
+    "chinese_meaning": "漫画；滑稽的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I love reading comics.",
+        "chinese": "我喜欢看漫画。",
+        "scene": "课间，你从书包里掏出一本漫画书，同桌凑了过来。"
+      },
+      {
+        "level": "medium",
+        "english": "My younger brother draws his own comic strips, and they're actually hilarious.",
+        "chinese": "我弟弟自己画四格漫画，而且真的特别搞笑。",
+        "scene": "你拿起弟弟的涂鸦本，一边翻看一边笑出了声。"
+      },
+      {
+        "level": "long",
+        "english": "When I was a kid, I spent every bit of my allowance on comic books. My parents thought they were a waste of time, but those stories taught me more about courage and friendship than any textbook.",
+        "chinese": "小时候，我把所有零花钱都花在了漫画书上。我爸妈觉得是浪费时间，但那些故事教给我的勇气和友谊比任何课本都多。",
+        "scene": "你在整理旧物时翻出一箱泛黄的漫画，回忆涌上心头。"
+      }
+    ]
+  },
+  {
+    "word": "comic book",
+    "phonetic": "/ˈkɑːmɪk bʊk/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "漫画书",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This comic book is mine.",
+        "chinese": "这本漫画书是我的。",
+        "scene": "在教室里，几个同学争相翻阅一本漫画，你赶紧声明主权。"
+      },
+      {
+        "level": "medium",
+        "english": "I found a rare comic book at a garage sale for just fifty cents.",
+        "chinese": "我在一个后院拍卖会上花五毛钱淘到了一本罕见的漫画书。",
+        "scene": "你兴奋地向朋友炫耀这个周末捡到的大便宜。"
+      },
+      {
+        "level": "long",
+        "english": "My uncle passed down his entire collection of vintage comic books from the 1980s to me. They might be worth something now, but I'd never sell them because they're like a time machine to his childhood.",
+        "chinese": "我叔叔把他80年代收藏的所有老漫画书都传给了我。它们现在也许值点钱，但我绝不会卖，因为它们就像一台通往他童年的时光机。",
+        "scene": "你小心地给漫画书包上塑料封套，心中满是珍视。"
+      }
+    ]
+  },
+  {
+    "word": "word",
+    "phonetic": "/wɜːrd/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "单词；话",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "What does this word mean?",
+        "chinese": "这个词是什么意思？",
+        "scene": "阅读时被难住，你抬起头问旁边的老师。"
+      },
+      {
+        "level": "medium",
+        "english": "I can't think of the right word to describe this feeling. It's more than just happy.",
+        "chinese": "我想不出一个恰当的词来形容这种感觉，不只是开心。",
+        "scene": "你尝试向朋友描述看到极光的感受，一时间词穷。"
+      },
+      {
+        "level": "long",
+        "english": "A kind word can really turn someone's day around. I still remember a stranger telling me I had a nice smile five years ago, and that memory still makes me happy.",
+        "chinese": "一句善意的话语真的能扭转某人的一天。我至今记得五年前有个陌生人说我笑起来很好看，那记忆现在还能让我开心。",
+        "scene": "在咖啡店，你对面色疲惫的服务员说了一句赞美，分享这份感悟。"
+      }
+    ]
+  },
+  {
+    "word": "word book",
+    "phonetic": "/wɜːrd bʊk/",
+    "part_of_speech": "noun phrase",
+    "chinese_meaning": "单词书；词汇手册",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I bought a new word book today.",
+        "chinese": "我今天买了一本新的单词书。",
+        "scene": "放学后，你向妈妈展示在书店挑选的新宝贝。"
+      },
+      {
+        "level": "medium",
+        "english": "My English teacher suggested we each keep a word book for new vocabulary.",
+        "chinese": "英语老师建议我们每人准备一个单词本记生词。",
+        "scene": "班会上，老师分享了这个学习小窍门，你认真地记了下来。"
+      },
+      {
+        "level": "long",
+        "english": "I've been filling a little word book with slang phrases I hear in American movies. It's like my secret weapon for understanding real conversations, and it's way more fun than a textbook.",
+        "chinese": "我一直在往一个小单词本里记我在美国电影里听到的俚语。这就像我理解真实对话的秘密武器，而且比课本有趣多了。",
+        "scene": "朋友惊讶于你的口语进步，你得意地拿出那本记得密密麻麻的小本子。"
+      }
+    ]
+  },
+  {
+    "word": "postcard",
+    "phonetic": "/ˈpoʊstkɑːrd/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "明信片",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Send me a postcard from Paris!",
+        "chinese": "从巴黎给我寄张明信片吧！",
+        "scene": "朋友出发去旅行前，你拉着她的手请求。"
+      },
+      {
+        "level": "medium",
+        "english": "I found a box of old postcards in my grandpa's attic, all from different countries.",
+        "chinese": "我在爷爷的阁楼发现一盒旧明信片，来自不同国家。",
+        "scene": "你小心翼翼地翻看这些泛黄的卡片，想象爷爷当年的旅程。"
+      },
+      {
+        "level": "long",
+        "english": "Even in the age of instant messages, I still send postcards when I travel. Taking a moment to handwrite a note and mail it from a foreign country feels so personal and special.",
+        "chinese": "即使在即时消息的时代，我旅行时还是会寄明信片。花点时间手写几句话，然后从异国他乡寄出，感觉非常个人且特别。",
+        "scene": "你在异国的小邮局里，认真地在明信片上贴上邮票，寄给远方的家人。"
+      }
+    ]
+  },
+  {
+    "word": "lesson",
+    "phonetic": "/ˈlesn/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "课；教训",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I have a piano lesson today.",
+        "chinese": "我今天有钢琴课。",
+        "scene": "放学后，你匆匆收拾书包，跟同学解释没法一起玩了。"
+      },
+      {
+        "level": "medium",
+        "english": "The biggest lesson I learned from that failed project is to always communicate clearly.",
+        "chinese": "从那个失败的项目中我得到最大的教训就是要始终保持清晰沟通。",
+        "scene": "团队总结会上，你分享了自己的反思。"
+      },
+      {
+        "level": "long",
+        "english": "My dad taught me a life lesson that I carry with me every day: it's perfectly okay to fail, as long as you learn something from it and never give up. That advice has gotten me through some really tough times.",
+        "chinese": "我爸教给我一个我每天都会想起的人生教训：失败完全没关系，只要你能从中学到东西而且永不放弃。这个建议帮我熬过了一些非常艰难的时刻。",
+        "scene": "看着年轻同事因犯错而沮丧，你安慰他时，讲起了父亲的话。"
+      }
+    ]
+  },
+  {
+    "word": "space",
+    "phonetic": "/speɪs/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "空间；太空",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "There's no space for the box.",
+        "chinese": "没地方放这个箱子了。",
+        "scene": "你在堆满杂物的储物间里踮脚环顾，无奈地说。"
+      },
+      {
+        "level": "medium",
+        "english": "I just need some space to clear my head. Can we talk later?",
+        "chinese": "我只是需要一点空间静一静。我们晚点再谈好吗？",
+        "scene": "和伴侣争吵后，你努力保持平静，请求独处一会儿。"
+      },
+      {
+        "level": "long",
+        "english": "Ever since I was a kid watching astronauts float on the moon, I've been fascinated by outer space. I even bought a telescope just to look at the craters on the moon on clear nights.",
+        "chinese": "自从小时候在电视上看宇航员在月球上飘浮，我就对太空着迷了。我甚至买了一台望远镜，只为在晴朗的夜晚看月亮上的环形山。",
+        "scene": "你在阳台上调试着新望远镜，兴奋地招呼朋友过来一起看星空。"
+      }
+    ]
+  },
+  {
+    "word": "travel",
+    "phonetic": "/ˈtrævl/",
+    "part_of_speech": "verb, noun",
+    "chinese_meaning": "旅行",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I love to travel.",
+        "chinese": "我热爱旅行。",
+        "scene": "面试时被问到爱好，你眼睛一亮回答道。"
+      },
+      {
+        "level": "medium",
+        "english": "I dream of traveling to all seven continents someday. Antarctica is at the top of my list.",
+        "chinese": "我梦想有一天能去遍七大洲。南极洲排在我清单的第一位。",
+        "scene": "和朋友聊起未来的旅行计划，你指着地球仪上的白色大陆说。"
+      },
+      {
+        "level": "long",
+        "english": "Traveling solo for the first time taught me to be truly independent and open to new experiences. Some of the most interesting people I know are travelers I met in hostels all around the world.",
+        "chinese": "第一次独自旅行教会了我真正独立，并拥抱新体验。我认识的一些最有趣的人，就是我在世界各地青年旅社遇到的旅行者。",
+        "scene": "你在青旅的公共区和一群新朋友聊天，分享各自的故事。"
+      }
+    ]
+  },
+  {
+    "word": "half",
+    "phonetic": "/hæf/",
+    "part_of_speech": "noun, adjective, adverb",
+    "chinese_meaning": "一半",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Cut the sandwich in half, please.",
+        "chinese": "请把三明治切成两半。",
+        "scene": "你和朋友分享午餐，请店家帮忙切开。"
+      },
+      {
+        "level": "medium",
+        "english": "I'm only half sure this is the right direction. We'd better check the map.",
+        "chinese": "我对这个方向只有一半的把握。我们最好查一下地图。",
+        "scene": "在陌生的城市街道上，你停下来，不自信地对同伴说。"
+      },
+      {
+        "level": "long",
+        "english": "I was so exhausted this morning that I only managed half of my usual workout before calling it quits. But I figured half is definitely better than nothing, right?",
+        "chinese": "今天早上我累坏了，只做了平时一半的运动就放弃了。但我想一半总比什么都不做要好，对吧？",
+        "scene": "你气喘吁吁地从跑步机上下来，自我安慰地发了条动态。"
+      }
+    ]
+  },
+  {
+    "word": "price",
+    "phonetic": "/praɪs/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "价格；代价",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The price seems too high.",
+        "chinese": "这个价格看起来太高了。",
+        "scene": "你在农贸市场拿着一个手工艺品，小声对同伴嘀咕。"
+      },
+      {
+        "level": "medium",
+        "english": "Could you tell me the price of this laptop? I don't see a tag anywhere.",
+        "chinese": "你能告诉我这台笔记本电脑的价格吗？我哪里都没看到价签。",
+        "scene": "在电子商店，你招手请店员过来咨询。"
+      },
+      {
+        "level": "long",
+        "english": "Success always comes with a price. For my dad, building his business meant missing a lot of my childhood. I understand it now, but I still wish he had been around a bit more for the small moments.",
+        "chinese": "成功总是有代价的。对我爸来说，创建他的事业意味着错过了我童年很多时光。我现在懂了，但仍希望那些细小的瞬间他能多在场一些。",
+        "scene": "你看着父亲年轻时的照片，和母亲聊起对人生的理解。"
+      }
+    ]
+  },
+  {
+    "word": "Mid-Autumn Festival",
+    "phonetic": "/mɪd ˈɔːtəm ˈfestɪvl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "中秋节",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Happy Mid-Autumn Festival!",
+        "chinese": "中秋节快乐！",
+        "scene": "你给远方的朋友发去一张精美的电子贺卡。"
+      },
+      {
+        "level": "medium",
+        "english": "In my family, we always get together to eat mooncakes on the Mid-Autumn Festival.",
+        "chinese": "在我家，中秋节我们总会聚在一起吃月饼。",
+        "scene": "你向外国朋友解释窗户上贴的剪纸和桌上的月饼。"
+      },
+      {
+        "level": "long",
+        "english": "Last Mid-Autumn Festival was the first one I spent away from home for college. I video-called my family, and we all looked at the same full moon together. It was bittersweet, but it made me feel connected to them.",
+        "chinese": "去年中秋节是我上大学后第一个没在家过的。我和家人视频，我们一起看着同一轮满月。那种感觉又甜又酸，但让我觉得和他们紧紧相连。",
+        "scene": "宿舍阳台，你挂断电话后，独自望着月亮，心中充满温暖。"
+      }
+    ]
+  },
+  {
+    "word": "together",
+    "phonetic": "/təˈɡeðər/",
+    "part_of_speech": "adverb",
+    "chinese_meaning": "一起",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's go together.",
+        "chinese": "我们一起去吧。",
+        "scene": "看到外面下起了小雨，你拿起一把大伞，向室友提议。"
+      },
+      {
+        "level": "medium",
+        "english": "We've been through so much together, and she's still my closest friend.",
+        "chinese": "我们一起经历了这么多，她依然是我最亲密的朋友。",
+        "scene": "看着手机里和闺蜜多年前的合照，你感慨地对旁人说道。"
+      },
+      {
+        "level": "long",
+        "english": "Cooking Sunday breakfast together has become our little family tradition. The kitchen gets incredibly messy with flour everywhere, but all the laughter and the delicious food make the cleanup totally worth it.",
+        "chinese": "一起做周日早餐已经成为我们家的小传统。厨房里乱得一塌糊涂，到处都是面粉，但所有的欢笑声和美味的食物让之后的清理完全值得。",
+        "scene": "你系着围裙手忙脚乱，孩子在旁边捣乱，伴侣在煎培根，一片温馨的混乱。"
+      }
+    ]
+  },
+  {
+    "word": "get together",
+    "phonetic": "/ɡet təˈɡeðər/",
+    "part_of_speech": "phrasal verb, noun",
+    "chinese_meaning": "聚会；相聚",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "When should we get together again?",
+        "chinese": "我们什么时候再聚？",
+        "scene": "聚会结束，在门口依依不舍地送别朋友。"
+      },
+      {
+        "level": "medium",
+        "english": "My old college buddies and I try to get together at least once a year.",
+        "chinese": "我和大学的老朋友们尽量每年至少聚一次。",
+        "scene": "你在群里发起聚会接龙，大家七嘴八舌讨论日期。"
+      },
+      {
+        "level": "long",
+        "english": "It's been way too long since our whole extended family had a proper get-together. Life just gets in the way, but I'm determined to host a big barbecue this summer and get everyone under one roof again.",
+        "chinese": "我们家已经好久没有像样地聚一聚了。总是被生活琐事耽误，但我下定决心今年夏天办一场大型烧烤，把大家再次聚在一起。",
+        "scene": "你翻开通讯录，开始兴致勃勃地筹划一场热闹的家庭聚会。"
+      }
+    ]
+  },
+  {
+    "word": "mooncake",
+    "phonetic": "/ˈmuːnkeɪk/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "月饼",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Do you like mooncakes?",
+        "chinese": "你喜欢吃月饼吗？",
+        "scene": "中秋节前夕，你拿着一盒精美的月饼问新来的同事。"
+      },
+      {
+        "level": "medium",
+        "english": "I brought some homemade snow skin mooncakes for everyone to try.",
+        "chinese": "我带了一些自制的冰皮月饼给大家尝尝。",
+        "scene": "午饭时间，你把饭盒打开，办公室里飘来一阵香甜。"
+      },
+      {
+        "level": "long",
+        "english": "Honestly, I never liked traditional mooncakes as a kid because I found them too heavy. But now I've started to appreciate the craft and the meaning behind them, especially the ones with salted egg yolk.",
+        "chinese": "说实话，我小时候从不喜欢传统月饼，觉得太腻了。但现在我开始欣赏背后的手艺和寓意，尤其是那些带咸蛋黄的。",
+        "scene": "你咬了一口月饼，笑着回忆自己口味的变化，感叹长大真好。"
+      }
+    ]
+  },
+  {
+    "word": "poem",
+    "phonetic": "/ˈpoʊəm/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "诗",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She wrote a beautiful poem.",
+        "chinese": "她写了一首优美的诗。",
+        "scene": "语文课上，老师朗读了同学的优秀作品。"
+      },
+      {
+        "level": "medium",
+        "english": "My grandfather used to read me a short poem every night before bed.",
+        "chinese": "我爷爷过去每晚睡前都会给我读一首短诗。",
+        "scene": "睡前翻到一本旧诗集，你想起爷爷温柔的声音。"
+      },
+      {
+        "level": "long",
+        "english": "For our English presentation, we had to memorize and recite a poem. I chose a funny one by Shel Silverstein, and I was so nervous, but the class actually laughed at all the right places.",
+        "chinese": "英语课上做展示，我们必须背诵并朗诵一首诗。我选了谢尔·希尔弗斯坦的一首有趣的诗，紧张得要命，但同学们居然在笑点处都笑了。",
+        "scene": "你在全班面前表演完，长舒一口气，心里有点小得意。"
+      }
+    ]
+  },
+  {
+    "word": "moon",
+    "phonetic": "/muːn/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "月亮",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Look at the moon!",
+        "chinese": "看月亮！",
+        "scene": "你牵着孩子的手走在小区里，突然抬头惊喜地指给他看。"
+      },
+      {
+        "level": "medium",
+        "english": "The full moon is so bright tonight that we don't even need a flashlight to walk.",
+        "chinese": "今晚的满月真亮，我们散步连手电筒都不用。",
+        "scene": "你们在乡间小路上借着月光前行，周围万籁俱寂。"
+      },
+      {
+        "level": "long",
+        "english": "When I was little, I truly believed the moon was following our car wherever we went. Every long drive, I would press my face against the window and stare at it, thinking it was my own personal night light in the sky.",
+        "chinese": "我小时候真的相信月亮无论我们去哪儿都跟着我们的车。每次长途开车，我都把脸贴在车窗上盯着它，觉得那是我自己私人的夜空小夜灯。",
+        "scene": "夜晚开车回家，后座的孩子天真地问你月亮为什么跟着我们，你笑着讲起童年的自己。"
+      }
+    ]
+  }
+]

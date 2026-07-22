@@ -1,6 +1,756 @@
-{
-  "grade": "六年级",
-  "term": "上册",
-  "unit": "unit2",
-  "words": []
-}
+[
+  {
+    "word": "on foot",
+    "phonetic": "/ɑːn fʊt/",
+    "part_of_speech": "adverb phrase",
+    "chinese_meaning": "步行",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I usually go on foot.",
+        "chinese": "我通常步行去。",
+        "scene": "朋友问你怎么去附近的超市，你指指自己的运动鞋。"
+      },
+      {
+        "level": "medium",
+        "english": "It's such a beautiful evening; let's go to the restaurant on foot.",
+        "chinese": "今晚天气真好，我们步行去那家餐厅吧。",
+        "scene": "晚饭后，你不想开车，拉着伴侣的手提议散步过去。"
+      },
+      {
+        "level": "long",
+        "english": "Since the bus was late and the sun was finally out, we decided to go to the office on foot. It took longer, but we passed a lovely bakery and got fresh croissants.",
+        "chinese": "因为公交车迟迟不来，太阳又终于出来了，我们决定步行去公司。虽然花的时间更长，但路过一家可爱的面包店，还买了新鲜的可颂。",
+        "scene": "在公交站等车等得不耐烦，干脆走路，意外收获了小确幸。"
+      }
+    ]
+  },
+  {
+    "word": "by",
+    "phonetic": "/baɪ/",
+    "part_of_speech": "preposition",
+    "chinese_meaning": "通过；乘坐；在…旁边",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I go to school by bus.",
+        "chinese": "我乘公交车去上学。",
+        "scene": "开学第一天，老师让大家轮流介绍出行方式。"
+      },
+      {
+        "level": "medium",
+        "english": "Would you rather travel by train or by plane?",
+        "chinese": "你想坐火车还是坐飞机旅行？",
+        "scene": "规划假期时，你拿着两个方案跟旅伴商量。"
+      },
+      {
+        "level": "long",
+        "english": "When I lived in New York, I went everywhere by subway because driving was way too slow and finding a parking spot was a total nightmare.",
+        "chinese": "我住在纽约的时候，去哪儿都坐地铁，因为开车实在太慢了，找个停车位简直是噩梦。",
+        "scene": "和朋友聊起大城市的生活体验，回忆起被停车支配的恐惧。"
+      }
+    ]
+  },
+  {
+    "word": "bus",
+    "phonetic": "/bʌs/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "公共汽车，巴士",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The bus is late again.",
+        "chinese": "公交车又晚点了。",
+        "scene": "你站在站台上看手表，无奈地对旁边的乘客抱怨。"
+      },
+      {
+        "level": "medium",
+        "english": "I missed the bus this morning and had to run all the way to work.",
+        "chinese": "我今天早上没赶上公交，只能一路跑到公司。",
+        "scene": "你气喘吁吁地冲进办公室，跟同事解释为什么满头大汗。"
+      },
+      {
+        "level": "long",
+        "english": "On the bus ride home, I sat next to an old man who started telling me stories about his childhood. It was the most interesting conversation I've ever had on a bus.",
+        "chinese": "在回家的公交车上，我坐在一位老人旁边，他开始给我讲他童年的故事。这是我在公交车上最有趣的一次对话。",
+        "scene": "你原本打算刷手机，却被邻座老人的故事深深吸引，一直听到到站。"
+      }
+    ]
+  },
+  {
+    "word": "plane",
+    "phonetic": "/pleɪn/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "飞机",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The plane takes off at six.",
+        "chinese": "飞机六点起飞。",
+        "scene": "你看着登机牌上的时间，提醒同伴别逛免税店了。"
+      },
+      {
+        "level": "medium",
+        "english": "I'm a little nervous about flying. This is my first time on a plane.",
+        "chinese": "我对坐飞机有点紧张。这是我第一次。",
+        "scene": "在候机厅，你紧握着扶手，小声告诉旁边的朋友。"
+      },
+      {
+        "level": "long",
+        "english": "The plane was shaking a bit because of the storm, and I was totally scared. But the flight attendant was so calm that it helped me relax, and we landed safely.",
+        "chinese": "因为暴风雨，飞机有点颠簸，我吓坏了。但乘务员非常冷静，这帮我放松了下来，最后我们安全降落了。",
+        "scene": "遭遇气流，你吓得抓紧座位，看到乘务员微笑的表情才松了口气。"
+      }
+    ]
+  },
+  {
+    "word": "taxi",
+    "phonetic": "/ˈtæksi/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "出租车",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's take a taxi home.",
+        "chinese": "我们打车回家吧。",
+        "scene": "看完演唱会出来夜深了，你招手拦了一辆车。"
+      },
+      {
+        "level": "medium",
+        "english": "I called a taxi, but it's stuck in traffic. We might be late.",
+        "chinese": "我叫了辆出租车，但它堵在路上了。我们可能会迟到。",
+        "scene": "你焦急地看着打车软件上原地不动的车辆图标，对朋友说。"
+      },
+      {
+        "level": "long",
+        "english": "The taxi driver was so friendly and funny. He told us jokes the whole ride, and by the time we got to the hotel, I was in such a great mood.",
+        "chinese": "那位出租车司机既友好又风趣。他一路上都在给我们讲笑话，等到了酒店时，我的心情超级好。",
+        "scene": "旅行第一天，遇到一个特别能侃的的哥，让原本疲惫的行程变得开心。"
+      }
+    ]
+  },
+  {
+    "word": "ship",
+    "phonetic": "/ʃɪp/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "船；舰",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The ship is really big.",
+        "chinese": "这艘船真大。",
+        "scene": "你站在码头上，抬头仰望面前巨大的邮轮，发出惊叹。"
+      },
+      {
+        "level": "medium",
+        "english": "We took a ship to the island for our vacation. The weather was perfect.",
+        "chinese": "我们乘船去那个岛上度假。天气完美极了。",
+        "scene": "你站在甲板上吹着海风，看着渐渐靠近的小岛，兴奋地拍照。"
+      },
+      {
+        "level": "long",
+        "english": "My grandfather worked on a ship for many years. He told me stories about sailing through storms and visiting countries I can only dream of.",
+        "chinese": "我的祖父在船上工作了很多年。他给我讲在暴风雨中航行、去那些我梦寐以求的国家的故事。",
+        "scene": "客厅里，祖父翻出泛黄的老照片，你坐在他脚边听得入迷。"
+      }
+    ]
+  },
+  {
+    "word": "subway",
+    "phonetic": "/ˈsʌbweɪ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "地铁",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I take the subway to work.",
+        "chinese": "我坐地铁去上班。",
+        "scene": "早上在电梯里，邻居问你通勤方式，你随口回答。"
+      },
+      {
+        "level": "medium",
+        "english": "The subway is usually faster than the bus during rush hour.",
+        "chinese": "高峰时段，地铁通常比公交车快。",
+        "scene": "朋友犹豫坐什么车，你果断拉着他往地铁站走。"
+      },
+      {
+        "level": "long",
+        "english": "I love people-watching on the subway. You see all kinds of people — students, business people, musicians — and it reminds me that everyone has their own story.",
+        "chinese": "我喜欢在地铁上观察人群。你能看到形形色色的人——学生、上班族、音乐家——这提醒我每个人都有自己的故事。",
+        "scene": "你靠在车厢角落里，看着来来往往的乘客，思绪万千。"
+      }
+    ]
+  },
+  {
+    "word": "train",
+    "phonetic": "/treɪn/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "火车",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I like traveling by train.",
+        "chinese": "我喜欢坐火车旅行。",
+        "scene": "和朋友讨论假期怎么去远方，你表达了对火车窗景的热爱。"
+      },
+      {
+        "level": "medium",
+        "english": "The train leaves at 7 a.m., so we need to get up really early.",
+        "chinese": "火车早上7点出发，所以我们得特别早起床。",
+        "scene": "睡前你设定闹钟，提醒同伴明天可不能赖床。"
+      },
+      {
+        "level": "long",
+        "english": "Taking the overnight train saved us money on a hotel, and waking up to see the sun rising over the mountains was absolutely breathtaking.",
+        "chinese": "坐夜班火车省下了住酒店的钱，而且醒来时看到日出在山峦上方升起，真是美得令人窒息。",
+        "scene": "你拉开卧铺窗帘，眼前的美景让你瞬间清醒，觉得这个选择太明智了。"
+      }
+    ]
+  },
+  {
+    "word": "slow",
+    "phonetic": "/sloʊ/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "慢的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The internet is slow today.",
+        "chinese": "今天网速很慢。",
+        "scene": "视频会议卡住了，你烦躁地刷新网页，自言自语。"
+      },
+      {
+        "level": "medium",
+        "english": "The service at this restaurant is really slow. We've been waiting for 30 minutes.",
+        "chinese": "这家餐厅上菜可真慢。我们已经等了30分钟了。",
+        "scene": "你看着空空的桌子，招手催服务员，然后跟同伴吐槽。"
+      },
+      {
+        "level": "long",
+        "english": "I'm a slow reader, so it takes me forever to finish a novel. But I enjoy taking my time and really imagining the story in my head.",
+        "chinese": "我读书很慢，所以花好长时间才能看完一本小说。但我享受慢慢读，在大脑里好好想象故事情节。",
+        "scene": "朋友惊讶你一本书读那么久，你解释自己的阅读习惯。"
+      }
+    ]
+  },
+  {
+    "word": "down",
+    "phonetic": "/daʊn/",
+    "part_of_speech": "adverb, preposition",
+    "chinese_meaning": "向下；沿着",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "He walked down the stairs.",
+        "chinese": "他走下了楼梯。",
+        "scene": "你听到脚步声，抬头看到室友慢慢走下楼来。"
+      },
+      {
+        "level": "medium",
+        "english": "Can you write down your phone number for me?",
+        "chinese": "你能把你的电话号码写下来给我吗？",
+        "scene": "在聚会上认识新朋友，你掏出手机让他输入号码。"
+      },
+      {
+        "level": "long",
+        "english": "I was walking down the street when I found a lost puppy. It looked so scared that I sat down on the sidewalk, and it came right to me.",
+        "chinese": "我正沿着街走，突然发现一只走失的小狗。它看起来很害怕，于是我坐在人行道上，它立刻朝我跑来了。",
+        "scene": "傍晚散步，你偶然捡到一只小狗，温柔地安抚它。"
+      }
+    ]
+  },
+  {
+    "word": "slow down",
+    "phonetic": "/sloʊ daʊn/",
+    "part_of_speech": "phrasal verb",
+    "chinese_meaning": "减速；放慢",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Slow down, you're driving too fast.",
+        "chinese": "慢一点，你开得太快了。",
+        "scene": "坐在副驾驶的家人紧张地抓着扶手，提醒司机。"
+      },
+      {
+        "level": "medium",
+        "english": "My doctor told me to slow down and not work so hard.",
+        "chinese": "医生叫我放慢节奏，别那么拼命工作。",
+        "scene": "体检后，你向朋友转述医生的忠告，思考如何平衡生活。"
+      },
+      {
+        "level": "long",
+        "english": "I used to rush through my meals, but recently I've been trying to slow down and actually taste my food. It's amazing how much better everything seems.",
+        "chinese": "我以前总狼吞虎咽，但最近我试着放慢速度，真正去品尝食物。这样做好像一切都变得更美好了，真的很神奇。",
+        "scene": "你慢慢嚼着一口菜，跟对面的朋友分享这个改变带来的惊喜。"
+      }
+    ]
+  },
+  {
+    "word": "stop",
+    "phonetic": "/stɑːp/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "停止；停车",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Please stop the car here.",
+        "chinese": "请在这里停车。",
+        "scene": "到了超市门口，你拍拍司机的肩膀示意靠边停下。"
+      },
+      {
+        "level": "medium",
+        "english": "I really need to stop staying up so late on work nights.",
+        "chinese": "我真的不能再在工作日晚上熬夜了。",
+        "scene": "早上对着镜子看黑眼圈，你发誓今晚一定要早睡。"
+      },
+      {
+        "level": "long",
+        "english": "It took me a while to realize that nobody is perfect. Once I stopped being so hard on myself, I started enjoying life a lot more.",
+        "chinese": "我花了好一阵子才明白人无完人。一旦我不再那么苛责自己，我就开始更享受生活了。",
+        "scene": "和朋友聊起曾经的完美主义，你感叹释怀后的轻松。"
+      }
+    ]
+  },
+  {
+    "word": "Mrs",
+    "phonetic": "/ˈmɪsɪz/",
+    "part_of_speech": "noun (title)",
+    "chinese_meaning": "夫人，太太",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Mrs. Smith is my English teacher.",
+        "chinese": "史密斯太太是我的英语老师。",
+        "scene": "开学自我介绍，你提到最喜欢的老师。"
+      },
+      {
+        "level": "medium",
+        "english": "Our next-door neighbor, Mrs. Johnson, has the most beautiful garden on the street.",
+        "chinese": "我们的隔壁邻居，约翰逊太太，有这条街上最漂亮的花园。",
+        "scene": "你趴在篱笆上看邻居阿姨在修剪玫瑰，跟家人赞叹。"
+      },
+      {
+        "level": "long",
+        "english": "When I was a kid, there was a kind lady named Mrs. Davis who ran the local library. She always remembered which books I liked and would save them for me.",
+        "chinese": "我小时候，有一位名叫戴维斯太太的善良女士经营着本地图书馆。她总记得我喜欢什么书，会特地留给我。",
+        "scene": "你回到老家，路过旧图书馆，回忆起那位温暖的管理员。"
+      }
+    ]
+  },
+  {
+    "word": "early",
+    "phonetic": "/ˈɜːrli/",
+    "part_of_speech": "adverb, adjective",
+    "chinese_meaning": "早地；早的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I woke up early today.",
+        "chinese": "我今天醒得很早。",
+        "scene": "你伸着懒腰走进厨房，爸妈惊讶你怎么起这么早。"
+      },
+      {
+        "level": "medium",
+        "english": "Let's leave early to avoid the morning traffic.",
+        "chinese": "我们早点出发，避开早高峰。",
+        "scene": "看着窗外开始堵车的迹象，你提议马上动身。"
+      },
+      {
+        "level": "long",
+        "english": "I'm not normally an early riser, but there's something special about getting up early on vacation — the city is so quiet, and you have the whole day ahead of you.",
+        "chinese": "我通常不喜欢早起，但度假时早起有种特别的感觉——城市很安静，而且一整天都等着你去享受。",
+        "scene": "旅行时，你穿着睡衣站在阳台上，看着还没睡醒的街道，心情大好。"
+      }
+    ]
+  },
+  {
+    "word": "helmet",
+    "phonetic": "/ˈhelmɪt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "头盔",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Wear your helmet when biking.",
+        "chinese": "骑自行车要戴头盔。",
+        "scene": "孩子冲出家门要骑车，妈妈在后面大声叮嘱。"
+      },
+      {
+        "level": "medium",
+        "english": "My dad bought me a cool new bike helmet for my birthday.",
+        "chinese": "爸爸给我买了一个很酷的新自行车头盔作为生日礼物。",
+        "scene": "你拆开礼物，开心地把头盔戴在头上，尺寸刚刚好。"
+      },
+      {
+        "level": "long",
+        "english": "I had a bike accident last year, and my helmet literally saved my life. Ever since then, I never ride without it, no matter how short the trip is.",
+        "chinese": "我去年骑车出了事故，我的头盔真的救了我一命。从那以后，不管路程多短，我骑车一定会戴它。",
+        "scene": "你指着旧头盔上的裂痕，严肃地告诫刚学骑车的小表弟。"
+      }
+    ]
+  },
+  {
+    "word": "must",
+    "phonetic": "/mʌst/",
+    "part_of_speech": "modal verb",
+    "chinese_meaning": "必须",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "You must wear a seatbelt.",
+        "chinese": "你必须系好安全带。",
+        "scene": "一上车，你就提醒后座的朋友，安全第一。"
+      },
+      {
+        "level": "medium",
+        "english": "We must finish this report by Friday, or the boss will be very unhappy.",
+        "chinese": "我们必须周五前完成这份报告，不然老板会很不高兴的。",
+        "scene": "小组会议上，组长严肃地看着大家，强调了最后期限。"
+      },
+      {
+        "level": "long",
+        "english": "When I was in school, I thought I must become a doctor or a lawyer to be successful. Now I know that you must find a path that makes you happy, not just rich.",
+        "chinese": "上学时，我以为必须成为医生或律师才算成功。现在我知道，你必须找到一条让你幸福的路，而不只是挣钱的路。",
+        "scene": "深夜和老友聊天，你感慨过去对成功的误解。"
+      }
+    ]
+  },
+  {
+    "word": "wear",
+    "phonetic": "/wer/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "穿；戴",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "What should I wear today?",
+        "chinese": "我今天该穿什么？",
+        "scene": "你盯着衣柜发愁，向室友求助。"
+      },
+      {
+        "level": "medium",
+        "english": "I always wear comfortable shoes when I travel, because you walk a lot.",
+        "chinese": "我旅行时总是穿舒适的鞋子，因为要走很多路。",
+        "scene": "打包行李时，你果断放弃了那双好看但磨脚的新鞋。"
+      },
+      {
+        "level": "long",
+        "english": "For the interview, I decided to wear my lucky blue shirt. I know it sounds silly, but it gave me confidence, and I ended up getting the job.",
+        "chinese": "面试时，我决定穿上我的幸运蓝衬衫。我知道这听起来傻傻的，但它给了我信心，最后我拿到了那份工作。",
+        "scene": "你整理着衣领，跟朋友分享这个小迷信，脸上洋溢着成功的喜悦。"
+      }
+    ]
+  },
+  {
+    "word": "attention",
+    "phonetic": "/əˈtenʃən/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "注意力；关注",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "May I have your attention, please?",
+        "chinese": "请大家注意一下。",
+        "scene": "婚礼主持人敲了敲酒杯，示意宾客安静。"
+      },
+      {
+        "level": "medium",
+        "english": "The teacher asked for our attention before she started the math lesson.",
+        "chinese": "老师开始上数学课前，让大家集中注意力。",
+        "scene": "闹哄哄的教室里，老师拍了拍手，大家立刻安静下来。"
+      },
+      {
+        "level": "long",
+        "english": "My cat does the funniest thing to get my attention when I'm working — she jumps onto the keyboard and just sits there, staring at me until I pet her.",
+        "chinese": "我工作时，我家猫为了引起我的注意，会做出最好笑的事——跳到键盘上，就坐在那儿盯着我，直到我摸摸它。",
+        "scene": "你对着电脑屏幕加班，主子突然趴在你手边求关注。"
+      }
+    ]
+  },
+  {
+    "word": "pay attention to",
+    "phonetic": "/peɪ əˈtenʃən tu/",
+    "part_of_speech": "verb phrase",
+    "chinese_meaning": "注意；关注",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Pay attention to the road, please.",
+        "chinese": "请注意看路。",
+        "scene": "你开车时看了眼手机，旁边的朋友立刻提醒你。"
+      },
+      {
+        "level": "medium",
+        "english": "You should really pay attention to what the tour guide is saying. It's very interesting.",
+        "chinese": "你真的应该认真听导游在讲什么。特别有意思。",
+        "scene": "大家都在听讲解，就你在自拍，同伴用胳膊肘捅了捅你。"
+      },
+      {
+        "level": "long",
+        "english": "Growing up, my mom always told me to pay attention to the little things in life, like a beautiful sunset or a stranger's smile, because they can brighten your whole day.",
+        "chinese": "从小到大，妈妈总告诉我要留意生活中的小事，比如美丽的夕阳或陌生人的微笑，因为这些能点亮你的一整天。",
+        "scene": "你看着天边的晚霞，给朋友发消息分享妈妈的这句人生哲理。"
+      }
+    ]
+  },
+  {
+    "word": "traffic",
+    "phonetic": "/ˈtræfɪk/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "交通；车流",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The traffic is really bad today.",
+        "chinese": "今天的交通真是太堵了。",
+        "scene": "你堵在高架桥上纹丝不动，打电话给家人说要晚点到。"
+      },
+      {
+        "level": "medium",
+        "english": "I'm always late for work because of the heavy traffic on the freeway.",
+        "chinese": "我总是因为高速公路堵车而上班迟到。",
+        "scene": "你垂头丧气地溜进工位，跟同事解释又是堵车惹的祸。"
+      },
+      {
+        "level": "long",
+        "english": "I left two hours early, but the traffic was so insane that I nearly missed my flight. I was the last person on the plane, sweating and out of breath.",
+        "chinese": "我提前两小时就出门了，但交通堵得一塌糊涂，差点误了飞机。我是最后一个登机的，满头大汗，气喘吁吁。",
+        "scene": "你瘫坐在座位上，回想刚才在机场一路狂奔的惊险时刻。"
+      }
+    ]
+  },
+  {
+    "word": "traffic lights",
+    "phonetic": "/ˈtræfɪk laɪts/",
+    "part_of_speech": "noun phrase",
+    "chinese_meaning": "红绿灯",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The traffic lights aren't working.",
+        "chinese": "红绿灯坏了。",
+        "scene": "你看着路口闪烁的黄灯，提醒过马路的同伴小心。"
+      },
+      {
+        "level": "medium",
+        "english": "Turn left at the next traffic lights, and you'll see the store.",
+        "chinese": "在下一个红绿灯左转，你就能看到那家店了。",
+        "scene": "你电话指挥开车迷路的朋友，描述明显的标志。"
+      },
+      {
+        "level": "long",
+        "english": "I was rushing to a meeting when the traffic lights turned red. While waiting, I saw a little girl helping an old lady cross the street, and it totally made my day.",
+        "chinese": "我赶着去开会，红绿灯变红了。在等的时候，我看到一个小女孩扶着老奶奶过马路，那一幕完全点亮了我的一天。",
+        "scene": "你坐在车里等红灯，看到窗外暖心的一幕，会也不觉得急了。"
+      }
+    ]
+  },
+  {
+    "word": "Munich",
+    "phonetic": "/ˈmjuːnɪk/",
+    "part_of_speech": "noun (city)",
+    "chinese_meaning": "慕尼黑",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I want to visit Munich someday.",
+        "chinese": "我希望有一天能去慕尼黑。",
+        "scene": "你翻着旅游杂志，指着慕尼黑啤酒节的照片对朋友说。"
+      },
+      {
+        "level": "medium",
+        "english": "My cousin is studying engineering in Munich this semester.",
+        "chinese": "我表哥这学期在慕尼黑读工程学。",
+        "scene": "家人聚会上，你向大家汇报这位留学生的近况。"
+      },
+      {
+        "level": "long",
+        "english": "We spent Christmas in Munich last year, walking through the snowy markets with mugs of hot chocolate. It felt like being inside a holiday movie.",
+        "chinese": "去年我们在慕尼黑过的圣诞，端着热巧克力在雪中逛集市。感觉就像活在一部节日电影里。",
+        "scene": "你看着照片里灯火璀璨的木屋和雪花，回味那个童话般的假期。"
+      }
+    ]
+  },
+  {
+    "word": "Germany",
+    "phonetic": "/ˈdʒɜːrməni/",
+    "part_of_speech": "noun (country)",
+    "chinese_meaning": "德国",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She moved to Germany last year.",
+        "chinese": "她去年搬去德国了。",
+        "scene": "翻看朋友圈，你告诉旁边的朋友一位老同学的去向。"
+      },
+      {
+        "level": "medium",
+        "english": "I tried real German bread when I was in Germany, and it was so different.",
+        "chinese": "我在德国时尝了真正的德国面包，跟这里的太不一样了。",
+        "scene": "在一家德式面包店里，你回忆旅程，跟店员夸赞。"
+      },
+      {
+        "level": "long",
+        "english": "My dream is to drive through the countryside in Germany, stopping at small villages and castles along the way. I've heard the views are absolutely stunning.",
+        "chinese": "我的梦想是在德国的乡间驾车，沿途在那些小村庄和城堡停留。听说那里的景色美得惊人。",
+        "scene": "你盯着电脑壁纸上的新天鹅堡，跟室友描绘心中的完美旅行。"
+      }
+    ]
+  },
+  {
+    "word": "Alaska",
+    "phonetic": "/əˈlæskə/",
+    "part_of_speech": "noun (state)",
+    "chinese_meaning": "阿拉斯加",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Alaska is very cold in winter.",
+        "chinese": "阿拉斯加冬天非常冷。",
+        "scene": "电视里播放阿拉斯加冰天雪地的画面，你裹紧毯子感叹。"
+      },
+      {
+        "level": "medium",
+        "english": "We went to Alaska to see the Northern Lights. It was a magical experience.",
+        "chinese": "我们去阿拉斯加看北极光了。那是一次不可思议的体验。",
+        "scene": "你向同事展示手机里绚烂的极光照片，对方羡慕不已。"
+      },
+      {
+        "level": "long",
+        "english": "Living in Alaska taught me to appreciate nature in a completely new way. The summer days are so long, and the silence of the snowy forests is something you can't find anywhere else.",
+        "chinese": "在阿拉斯加生活让我学会了用一种全新的方式欣赏大自然。夏天的白昼很长，雪林中那份宁静在别处找不到。",
+        "scene": "与远方的老友视频，你聊起在那里的生活如何改变了你。"
+      }
+    ]
+  },
+  {
+    "word": "sled",
+    "phonetic": "/sled/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "雪橇",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The kids love the new sled.",
+        "chinese": "孩子们很喜欢这个新雪橇。",
+        "scene": "你看着孩子们在雪地里拖着新玩具，兴奋地尖叫。"
+      },
+      {
+        "level": "medium",
+        "english": "We took the sled to the top of the hill and slid down laughing.",
+        "chinese": "我们把雪橇拉到山顶，然后大笑着滑下来。",
+        "scene": "雪后初晴，你和朋友们在公园的山坡上来回奔跑滑雪橇。"
+      },
+      {
+        "level": "long",
+        "english": "On snow days, my dad would pull my sister and me on the sled through our neighborhood. I still remember holding on tight and the sound of his boots crunching in the snow.",
+        "chinese": "下雪天，爸爸会拉着雪橇带我妹妹和我在小区里走。我至今记得紧紧抓着雪橇，耳边是爸爸靴子踩雪的嘎吱声。",
+        "scene": "看着窗外飘雪，你回忆起童年时父亲在雪中拉雪橇的温馨画面。"
+      }
+    ]
+  },
+  {
+    "word": "fast",
+    "phonetic": "/fæst/",
+    "part_of_speech": "adjective, adverb",
+    "chinese_meaning": "快的；快地",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The train goes really fast.",
+        "chinese": "这列火车开得真快。",
+        "scene": "你坐在靠窗的座位，看着窗外的景物飞速后退。"
+      },
+      {
+        "level": "medium",
+        "english": "She types so fast that I can hardly keep up with what she's saying.",
+        "chinese": "她打字太快了，我几乎跟不上她在说什么。",
+        "scene": "开线上会议，看同事敲键盘的速度，你在屏幕这边目瞪口呆。"
+      },
+      {
+        "level": "long",
+        "english": "Childhood goes by so fast. One moment you're teaching them to walk, and the next they're packing bags for college. It really makes you want to enjoy every moment.",
+        "chinese": "童年过得太快了。刚刚还在教他们走路，一转眼他们就打包准备上大学了。这真的让你想珍惜每一刻。",
+        "scene": "翻到孩子小时候的照片，你眼眶微红，对另一半感慨时光飞逝。"
+      }
+    ]
+  },
+  {
+    "word": "ferry",
+    "phonetic": "/ˈferi/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "渡轮",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We took the ferry to the island.",
+        "chinese": "我们坐渡轮去了岛上。",
+        "scene": "你站在码头上，指着远处缓缓靠岸的白色大船。"
+      },
+      {
+        "level": "medium",
+        "english": "The ferry ride was so beautiful. The wind was perfect, and we saw dolphins.",
+        "chinese": "坐渡轮的过程真美。风恰到好处，我们还看到了海豚。",
+        "scene": "你在甲板上兴奋地指着跃出水面的海豚，让大家快看。"
+      },
+      {
+        "level": "long",
+        "english": "I used to take the ferry to work every morning when I lived on the coast. It was such a calm way to start the day, just standing on deck with a cup of coffee watching the water.",
+        "chinese": "住在海岸时，我以前每天早上坐渡轮上班。那是一种非常平静的开启一天的方式，就站在甲板上，端着一杯咖啡看着水面。",
+        "scene": "虽然早已搬离，但看到渡轮的照片，那段通勤时光的美好仍然记忆犹新。"
+      }
+    ]
+  },
+  {
+    "word": "Papa Westray",
+    "phonetic": "/ˌpɑːpə ˈwestreɪ/",
+    "part_of_speech": "noun (place)",
+    "chinese_meaning": "帕帕韦斯特雷岛",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Papa Westray is a tiny island in Scotland.",
+        "chinese": "帕帕韦斯特雷是苏格兰的一个小岛。",
+        "scene": "你看着地图上几乎看不见的小点，好奇地向同伴指出来。"
+      },
+      {
+        "level": "medium",
+        "english": "Have you heard of Papa Westray? It's famous for the world's shortest flight.",
+        "chinese": "你听说过帕帕韦斯特雷岛吗？它以世界上最短的飞行闻名。",
+        "scene": "在酒吧和朋友聊冷知识，你打开手机查这个奇怪的地名。"
+      },
+      {
+        "level": "long",
+        "english": "Last summer, I actually went to Papa Westray. The flight was less than two minutes, and the island was so peaceful — just green hills, cliffs, and the sound of the sea.",
+        "chinese": "去年夏天，我真去了帕帕韦斯特雷岛。飞行时间不到两分钟，岛上特别宁静——只有绿色的山丘、悬崖和海浪声。",
+        "scene": "你翻着相册里岛上空旷的美景，给朋友看那趟独特的旅行记录。"
+      }
+    ]
+  },
+  {
+    "word": "Scotland",
+    "phonetic": "/ˈskɑːtlənd/",
+    "part_of_speech": "noun (country)",
+    "chinese_meaning": "苏格兰",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Scotland is famous for its castles.",
+        "chinese": "苏格兰以城堡闻名。",
+        "scene": "电视上出现一座古堡，你随口说出这句话。"
+      },
+      {
+        "level": "medium",
+        "english": "We visited Scotland last summer and fell in love with the highlands.",
+        "chinese": "去年夏天我们去了苏格兰，并爱上了那里的高地风光。",
+        "scene": "你向朋友展示在苏格兰高地拍的连绵山脉和湖泊的照片。"
+      },
+      {
+        "level": "long",
+        "english": "My grandmother was from Scotland, and she used to tell us stories about growing up near Loch Lomond. Her tales made me want to visit so badly, and when I finally went, it felt like coming home.",
+        "chinese": "我祖母是苏格兰人，她常给我们讲她在洛蒙德湖附近长大的故事。她的故事让我特别想去，当我终于去了，感觉就像回家一样。",
+        "scene": "你站在湖边，想象祖母小时候也在同一个地方玩耍，内心充满感动。"
+      }
+    ]
+  }
+]

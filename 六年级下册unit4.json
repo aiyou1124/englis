@@ -1,6 +1,574 @@
-{
-  "grade": "六年级",
-  "term": "下册",
-  "unit": "unit4",
-  "words": []
-}
+[
+  {
+    "word": "dining hall",
+    "phonetic": "/ˈdaɪnɪŋ hɔːl/",
+    "part_of_speech": "noun phrase",
+    "chinese_meaning": "食堂；餐厅",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's meet at the dining hall for lunch.",
+        "chinese": "我们食堂见，一起吃午饭。",
+        "scene": "下课铃响，你收拾书包对同桌说。"
+      },
+      {
+        "level": "medium",
+        "english": "The dining hall is always crowded at noon, so we usually go a bit later to avoid the long lines.",
+        "chinese": "食堂中午总是挤满了人，所以我们通常晚一点去，避开长队。",
+        "scene": "你和朋友在走廊上商量吃饭时间。"
+      },
+      {
+        "level": "long",
+        "english": "On my first day at university, I got lost looking for the dining hall and ended up in the library basement. A kind senior walked me all the way there and even treated me to a cup of coffee.",
+        "chinese": "大学第一天，我找食堂迷了路，走到了图书馆地下室。一位好心的学姐一路带我过去，还请我喝了杯咖啡。",
+        "scene": "你在食堂里和新认识的学姐边吃边聊，回忆起刚才的窘态。"
+      }
+    ]
+  },
+  {
+    "word": "grass",
+    "phonetic": "/ɡræs/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "草；草地",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Don't walk on the grass, please.",
+        "chinese": "请不要踩踏草地。",
+        "scene": "在公园里你指着一块写有“请勿践踏”的牌子，对想抄近道的孩子说。"
+      },
+      {
+        "level": "medium",
+        "english": "We laid a blanket on the soft grass and watched the clouds drift by for hours.",
+        "chinese": "我们把毯子铺在柔软的草地上，一连几个小时看云彩飘过。",
+        "scene": "午后你枕着手臂对同伴感叹，这是一个月来最放松的时光。"
+      },
+      {
+        "level": "long",
+        "english": "The smell of freshly mown grass always brings me back to my childhood summers, when my brother and I would run through the sprinklers barefoot and then collapse on the lawn, breathless and happy.",
+        "chinese": "刚修剪过的草坪的气味总把我带回童年的夏天，那时我和弟弟光着脚在洒水器下跑，然后倒在草坪上，气喘吁吁却开心无比。",
+        "scene": "你坐在庭院里闭上眼，深吸一口气，向身旁的朋友描述那些画面。"
+      }
+    ]
+  },
+  {
+    "word": "gym",
+    "phonetic": "/dʒɪm/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "健身房；体育馆",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'm going to the gym after work.",
+        "chinese": "下班后我要去健身房。",
+        "scene": "你拎起运动包，对同事挥挥手。"
+      },
+      {
+        "level": "medium",
+        "english": "Our school gym was turned into a vaccination center, so we had PE classes outside for a whole semester.",
+        "chinese": "我们学校的体育馆被改成了疫苗接种点，所以我们一整个学期都在外面上体育课。",
+        "scene": "你在教室里跟新来的转学生解释为什么操场那么拥挤。"
+      },
+      {
+        "level": "long",
+        "english": "I never thought I'd be the type to enjoy the gym, but after a stressful month, I gave it a try and found that lifting weights helps me clear my mind in a way nothing else does.",
+        "chinese": "我从没想过自己是那种喜欢健身房的人，但在一个充满压力的月份过后，我试了试，发现举铁比其他任何事情都更能让我理清思绪。",
+        "scene": "你在更衣室里边换衣服边跟刚认识的健友分享感受。"
+      }
+    ]
+  },
+  {
+    "word": "ago",
+    "phonetic": "/əˈɡoʊ/",
+    "part_of_speech": "adverb",
+    "chinese_meaning": "以前；之前",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She left ten minutes ago.",
+        "chinese": "她十分钟前走了。",
+        "scene": "你追到门口，室友摊摊手说。"
+      },
+      {
+        "level": "medium",
+        "english": "I saw that movie a long time ago, so I only remember the ending vaguely.",
+        "chinese": "那部电影我很久以前看的，所以只模糊记得结局。",
+        "scene": "朋友问起一部老电影，你皱着眉努力回忆。"
+      },
+      {
+        "level": "long",
+        "english": "Years ago, I wrote a letter to my future self as a school project. I found it last week in my old desk, and it was full of dreams I'd completely forgotten about—some came true, others I've outgrown.",
+        "chinese": "多年前，我在学校作业里给未来的自己写了一封信。上周我在旧书桌里找到它，里面全是我早已忘记的梦想——有些成真了，另一些我早已放下。",
+        "scene": "你拿着那封信对家人感慨，时间过得真快。"
+      }
+    ]
+  },
+  {
+    "word": "cycling",
+    "phonetic": "/ˈsaɪklɪŋ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "骑自行车运动；骑行",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I love cycling in the park.",
+        "chinese": "我喜欢在公园里骑自行车。",
+        "scene": "你戴着新头盔，扶着车把对朋友说。"
+      },
+      {
+        "level": "medium",
+        "english": "Cycling to work not only saves me money on gas but also wakes me up better than coffee ever could.",
+        "chinese": "骑自行车上班不仅省了油钱，还比咖啡更能让我清醒。",
+        "scene": "你把自行车锁在车棚，对走过来的同事说着今早的风。"
+      },
+      {
+        "level": "long",
+        "english": "Last summer I went cycling through the countryside in France. The lavender fields, the tiny bakeries in every village, and the feeling of the warm wind made it the best trip I've ever taken.",
+        "chinese": "去年夏天我在法国乡间骑行。薰衣草田、每个小村庄的面包店，还有那暖风的感觉，让这成为我最好的一次旅行。",
+        "scene": "你在照片分享会上，指着一张麦田骑行的照片对朋友们描述。"
+      }
+    ]
+  },
+  {
+    "word": "go cycling",
+    "phonetic": "/ɡoʊ ˈsaɪklɪŋ/",
+    "part_of_speech": "verb phrase",
+    "chinese_meaning": "去骑自行车；去骑行",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's go cycling this Sunday!",
+        "chinese": "这个星期天我们去骑自行车吧！",
+        "scene": "你指着窗外晴好的天气，对趴在沙发上的室友喊道。"
+      },
+      {
+        "level": "medium",
+        "english": "If the weather is nice, we could go cycling along the river and stop for a picnic.",
+        "chinese": "如果天气好，我们可以沿河骑行，然后停下来野餐。",
+        "scene": "你在群里发消息，征求大家的意见。"
+      },
+      {
+        "level": "long",
+        "english": "When my dad and I go cycling together, he always tells me stories about how he used to deliver newspapers on his bike at dawn. Those rides have become my favorite way to catch up with him.",
+        "chinese": "爸爸和我一起骑行的时候，他总讲起以前天不亮就骑车送报纸的故事。那些骑行时光成了我和他畅聊的最喜爱方式。",
+        "scene": "你推着车和爸爸并肩骑着，对他说起这份小小的幸福感。"
+      }
+    ]
+  },
+  {
+    "word": "ice-skate",
+    "phonetic": "/ˈaɪs skeɪt/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "滑冰；溜冰",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can you ice-skate?",
+        "chinese": "你会滑冰吗？",
+        "scene": "在溜冰场入口，你扶着栏杆问身边第一次来体验的朋友。"
+      },
+      {
+        "level": "medium",
+        "english": "I tried to ice-skate for the first time last winter, and I spent more time on the ice than on my feet.",
+        "chinese": "去年冬天我第一次尝试滑冰，我在冰面上坐着的时间比站着的时间还长。",
+        "scene": "你揉着摔疼的屁股对扶你的同伴哭笑不得。"
+      },
+      {
+        "level": "long",
+        "english": "Every winter, the city sets up an outdoor rink, and families come to ice-skate under the string lights. I go there with my little cousins and we hold hands, forming a wobbly chain that always ends in laughter and hot chocolate.",
+        "chinese": "每年冬天，城市都会搭起户外冰场，一家人在串灯下滑冰。我和小表弟表妹们一起去，我们手拉手，形成一串摇摇晃晃的队伍，最后总是以笑声和热巧克力收场。",
+        "scene": "你在冰场边捧着热饮，向朋友描述每年这个小小的传统。"
+      }
+    ]
+  },
+  {
+    "word": "badminton",
+    "phonetic": "/ˈbædmɪntən/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "羽毛球",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We played badminton in the backyard.",
+        "chinese": "我们在后院打了羽毛球。",
+        "scene": "你拿着拍子进厨房找水喝，对妈妈说道。"
+      },
+      {
+        "level": "medium",
+        "english": "Badminton seems easy, but once you play with someone who really knows how to smash, it's a completely different game.",
+        "chinese": "羽毛球看起来简单，但一旦和真正会扣杀的人打，就完全是另一回事了。",
+        "scene": "你擦着汗对搭档感慨，刚才的扣球让你完全接不住。"
+      },
+      {
+        "level": "long",
+        "english": "In our neighborhood, badminton isn't just a sport; it's a way to make friends. We set up a net in the park every Saturday, and anyone who walks by is welcome to join.",
+        "chinese": "在我们这个街区，羽毛球不仅仅是一项运动，更是交朋友的方式。每周六我们在公园支起球网，路过的人都可以加入。",
+        "scene": "你递球拍给一个看热闹的女孩，鼓励她试试。"
+      }
+    ]
+  },
+  {
+    "word": "star",
+    "phonetic": "/stɑːr/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "星星；明星",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Look at that bright star!",
+        "chinese": "看那颗明亮的星星！",
+        "scene": "夜里在阳台上，你指着夜空对伴侣轻呼。"
+      },
+      {
+        "level": "medium",
+        "english": "As a kid, I used to wish on the first star I saw every night, and most of my wishes were for a puppy.",
+        "chinese": "小时候，我每晚看到第一颗星都会许愿，大部分愿望都是想要一只小狗。",
+        "scene": "你在遛狗时对邻居笑着回忆，狗儿摇着尾巴。"
+      },
+      {
+        "level": "long",
+        "english": "Seeing a real shooting star during a meteor shower with my best friends on a dark beach is one of those moments I'll remember forever. We all gasped and then just lay there in silence, completely amazed.",
+        "chinese": "在漆黑的海滩上和最好的朋友们一起看流星雨，见到一颗真正的流星，这是我会永远铭记的时刻。我们都倒吸一口气，然后静静地躺在那里，完全被震撼了。",
+        "scene": "你在和朋友视频时提起那次旅行，眼睛里依然闪着光。"
+      }
+    ]
+  },
+  {
+    "word": "easy",
+    "phonetic": "/ˈiːzi/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "容易的；简单的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This math problem is so easy!",
+        "chinese": "这道数学题真简单！",
+        "scene": "你秒算出答案，对皱着眉的同桌说。"
+      },
+      {
+        "level": "medium",
+        "english": "It's not easy learning a new language, but talking to native speakers helps a lot.",
+        "chinese": "学习一门新语言并不容易，但和母语者交谈有很大帮助。",
+        "scene": "在语言交换活动上，你对刚认识的朋友分享心得。"
+      },
+      {
+        "level": "long",
+        "english": "People often think taking photos is easy because everyone has a phone, but understanding light, composition, and timing takes years of practice. Yet, when you capture that perfect moment, it feels effortless.",
+        "chinese": "人们常认为拍照很简单，因为人人都有手机，但理解光线、构图和时机需要多年练习。不过，当你捕捉到完美瞬间时，那感觉却毫不费力。",
+        "scene": "你在摄影展上向参观者解释自己的作品。"
+      }
+    ]
+  },
+  {
+    "word": "look up",
+    "phonetic": "/lʊk ʌp/",
+    "part_of_speech": "phrasal verb",
+    "chinese_meaning": "查阅；向上看；好转",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Look up the word in the dictionary.",
+        "chinese": "在词典里查一下这个单词。",
+        "scene": "孩子问生词，你指了指书架。"
+      },
+      {
+        "level": "medium",
+        "english": "I'll look up the showtimes online before we head to the cinema.",
+        "chinese": "我们去电影院之前，我会在网上查一下场次。",
+        "scene": "你拿出手机，对正在穿鞋的朋友说。"
+      },
+      {
+        "level": "long",
+        "english": "When I travel, instead of planning every minute, I like to just walk around and look up interesting spots on my phone as I go. That's how I found a tiny jazz bar in an alley that became my favorite place in the city.",
+        "chinese": "我旅行时不喜欢把每分钟都计划好，而是喜欢随意走，边走边用手机查有趣的地方。就这样我在巷子里找到一家小爵士酒吧，成了我在那个城市最爱的地方。",
+        "scene": "你在酒吧里喝着鸡尾酒，对邻座的游客分享这个窍门。"
+      }
+    ]
+  },
+  {
+    "word": "Internet",
+    "phonetic": "/ˈɪntərnet/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "互联网；因特网",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The Internet is slow again today.",
+        "chinese": "今天网络又很慢。",
+        "scene": "你刷新半天网页，无奈地对着屏幕抱怨。"
+      },
+      {
+        "level": "medium",
+        "english": "I learned how to fix my sink from a video on the Internet. It saved me a lot of money.",
+        "chinese": "我从网上的一个视频学会了如何修水槽，省了一大笔钱。",
+        "scene": "你擦干手，得意地对下班回来的伴侣宣布。"
+      },
+      {
+        "level": "long",
+        "english": "When my grandparents were young, they couldn't have imagined the Internet. Now my grandma video-calls her sister in another country every Sunday, and she says it's like magic that makes the world feel smaller.",
+        "chinese": "我祖父母年轻时，根本想象不到互联网。现在我奶奶每周日和远在国外的姐姐视频通话，她说这就像魔法，让世界变得更小了。",
+        "scene": "你帮奶奶接通视频，她对着屏幕开心地挥手，你在旁微笑。"
+      }
+    ]
+  },
+  {
+    "word": "different",
+    "phonetic": "/ˈdɪfərənt/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "不同的；有差异的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This tastes different from the last one.",
+        "chinese": "这个尝起来和上一个不一样。",
+        "scene": "你皱眉又咬一口新买的包子，对朋友比较道。"
+      },
+      {
+        "level": "medium",
+        "english": "Living abroad makes you realize how many different ways there are to do simple things, like greeting someone or eating lunch.",
+        "chinese": "在国外生活让你意识到，做简单的事情，比如打招呼或吃午饭，可以有这么多不同的方式。",
+        "scene": "你在聚会上和同样留过学的新朋友交流趣事。"
+      },
+      {
+        "level": "long",
+        "english": "We are all so different, but when my son's bike broke, neighbors from three different countries came out to help fix it. That moment taught me that kindness is a language everyone understands.",
+        "chinese": "我们都如此不同，但当我儿子的自行车坏掉时，来自三个不同国家的邻居都出来帮忙修。那一刻教会我，善良是每个人都能懂的语言。",
+        "scene": "你看着儿子骑上修好的车，向妻子描述刚才暖心的场景。"
+      }
+    ]
+  },
+  {
+    "word": "active",
+    "phonetic": "/ˈæktɪv/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "活跃的；积极的；好动的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My dog is very active in the morning.",
+        "chinese": "我的狗在早上特别活跃。",
+        "scene": "你打着哈欠，看着在客厅跑来跑去的狗对刚起床的家人说。"
+      },
+      {
+        "level": "medium",
+        "english": "Staying active doesn't mean you have to go to the gym; dancing in your kitchen counts too.",
+        "chinese": "保持活跃并不意味你必须去健身房，在厨房跳舞也算。",
+        "scene": "你边做饭边扭动，对笑着看你的室友说道。"
+      },
+      {
+        "level": "long",
+        "english": "My grandfather is over 80 but still very active in his community garden. He says digging in the dirt and watching things grow keeps him feeling young and connected to life.",
+        "chinese": "我祖父八十多岁了，但在他那个社区花园里依然很活跃。他说在泥土里挖掘，看着植物生长，让他感觉年轻，与生活紧紧相连。",
+        "scene": "你提着一袋自家种的蔬菜回家，对妈妈转述爷爷的话。"
+      }
+    ]
+  },
+  {
+    "word": "race",
+    "phonetic": "/reɪs/",
+    "part_of_speech": "noun, verb",
+    "chinese_meaning": "赛跑；比赛；人种",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I won the race at school today!",
+        "chinese": "我今天在学校赛跑赢了！",
+        "scene": "放学一进门你就举着奖状对妈妈喊道。"
+      },
+      {
+        "level": "medium",
+        "english": "We had a three-legged race at the family picnic, and my uncle and I fell over right at the finish line.",
+        "chinese": "在家庭野餐上我们玩两人三足比赛，我叔叔和我在终点线前摔倒了。",
+        "scene": "你坐在地上大笑，指着叔叔满是草叶的头发。"
+      },
+      {
+        "level": "long",
+        "english": "Life often feels like a race, but the best advice I ever got was from my high school coach: 'It's not about who finishes first; it's about who helps someone else cross the line.' I try to live by that.",
+        "chinese": "人生经常像一场赛跑，但我得到过的最好的忠告来自高中教练：“重要的不是谁最先到达终点，而是谁帮助别人越过那条线。” 我试着依此生活。",
+        "scene": "你在比赛现场对一个即将退赛的跑者转述这句话，扶着他一起慢慢跑到终点。"
+      }
+    ]
+  },
+  {
+    "word": "nothing",
+    "phonetic": "/ˈnʌθɪŋ/",
+    "part_of_speech": "pronoun",
+    "chinese_meaning": "没有什么；没有东西",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "There's nothing in the fridge.",
+        "chinese": "冰箱里什么都没有。",
+        "scene": "你打开冰箱门，转身对想吃宵夜的室友摊手。"
+      },
+      {
+        "level": "medium",
+        "english": "I heard a loud noise, but when I checked, nothing seemed to be broken. Still, I couldn't sleep the rest of the night.",
+        "chinese": "我听到一声巨响，但查看后，似乎什么也没坏。尽管如此，后半夜我还是没睡着。",
+        "scene": "早上你和邻居提起，他一脸茫然说没听到。"
+      },
+      {
+        "level": "long",
+        "english": "There's nothing quite like the feeling of finishing a good book and just sitting in silence for a few minutes, letting the story settle in your heart before you move on with your day.",
+        "chinese": "没有什么比读完一本好书后，在沉默中坐几分钟，让故事在心底沉淀，然后再开始新的一天更美妙的感觉了。",
+        "scene": "你合上书本，长舒一口气，对走进门的家人分享这份满足。"
+      }
+    ]
+  },
+  {
+    "word": "thought",
+    "phonetic": "/θɔːt/",
+    "part_of_speech": "verb (past tense of think), noun",
+    "chinese_meaning": "想；认为（think的过去式）；想法",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I thought you were sleeping.",
+        "chinese": "我以为你在睡觉。",
+        "scene": "你拿着零食蹑手蹑脚走进客厅，看到朋友醒着，有点意外。"
+      },
+      {
+        "level": "medium",
+        "english": "I never thought I'd enjoy classical music, but after that concert, I completely changed my mind.",
+        "chinese": "我从没想过会喜欢古典音乐，但那场音乐会后，我彻底改观了。",
+        "scene": "你在地铁上戴着耳机，向朋友分享手机里的新播放列表。"
+      },
+      {
+        "level": "long",
+        "english": "When I first moved here, I thought I'd never fit in. But after joining a local volunteer group, I met the most welcoming people, and now this city feels like home.",
+        "chinese": "刚搬来时，我以为自己永远融不进去。但加入本地志愿者团后，我遇到了最热情的人，现在这个城市感觉就像家了。",
+        "scene": "你在社区活动上对新人分享心路历程。"
+      }
+    ]
+  },
+  {
+    "word": "felt",
+    "phonetic": "/felt/",
+    "part_of_speech": "verb (past tense of feel)",
+    "chinese_meaning": "感觉；觉得（feel的过去式）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I felt tired after the long walk.",
+        "chinese": "长途步行后我感觉很累。",
+        "scene": "你瘫进沙发，对递来一杯水的家人说。"
+      },
+      {
+        "level": "medium",
+        "english": "The moment I walked into the old house, I felt like I had come back to a place I had only seen in dreams.",
+        "chinese": "一走进那栋老房子，我就感觉回到了一个只在梦中见过的地方。",
+        "scene": "你在参观祖宅时，好奇地触摸旧家具，对身旁的兄弟低语。"
+      },
+      {
+        "level": "long",
+        "english": "I still remember the first time I held my baby niece in my arms. She was so tiny and warm, and I felt an overwhelming sense of love and protectiveness I had never experienced before.",
+        "chinese": "我仍记得第一次把刚出生的小侄女抱在怀里的感觉。她是那么小，那么温暖，我感到一阵前所未有的爱与保护欲将我淹没。",
+        "scene": "你在侄女生日时对她讲起这个，她笑着看你。"
+      }
+    ]
+  },
+  {
+    "word": "cheetah",
+    "phonetic": "/ˈtʃiːtə/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "猎豹",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The cheetah can run very fast.",
+        "chinese": "猎豹能跑得非常快。",
+        "scene": "你在看动物纪录片，扭头对弟弟说。"
+      },
+      {
+        "level": "medium",
+        "english": "At the wildlife park, we saw a cheetah up close for the first time. Its eyes were so intense.",
+        "chinese": "在野生动物园，我们第一次近距离看到猎豹。它的眼神特别犀利。",
+        "scene": "你透过车窗拍了好多照片，兴奋地对同伴展示。"
+      },
+      {
+        "level": "long",
+        "english": "During the safari, our guide pointed to a cheetah resting under a tree. He explained that cheetahs are so fragile after a sprint that they need to rest for half an hour before eating. Nature is full of surprising compromises.",
+        "chinese": "游猎时，向导指着一只正在树下休息的猎豹。他解释说，猎豹冲刺后非常脆弱，需要休息半小时才能进食。大自然充满了惊人的妥协。",
+        "scene": "晚上在帐篷里，你在日记里记下这次奇遇。"
+      }
+    ]
+  },
+  {
+    "word": "trip",
+    "phonetic": "/trɪp/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "旅行；旅程；绊倒",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We're planning a trip to Italy.",
+        "chinese": "我们正计划去意大利旅行。",
+        "scene": "你在咖啡桌上摊开地图，对坐下来的朋友兴奋地说。"
+      },
+      {
+        "level": "medium",
+        "english": "I tripped on the stairs and dropped all my books. A stranger helped me pick them up.",
+        "chinese": "我在楼梯上绊倒了，书掉了一地。一个陌生人帮我捡了起来。",
+        "scene": "你揉着膝盖，向同学讲述刚才的窘迫和暖心。"
+      },
+      {
+        "level": "long",
+        "english": "That trip to the mountains was full of unexpected moments: a flat tire, getting lost on a trail, and finding the most beautiful waterfall we'd ever seen. It reminded me that the best adventures aren't perfectly planned.",
+        "chinese": "那次去山里的旅行充满意外时刻：爆胎，在小径迷路，然后发现了我们见过最美的瀑布。它提醒我，最棒的冒险并非完美计划出来的。",
+        "scene": "你在相框里放入那张瀑布前的合影，对来访的朋友讲述。"
+      }
+    ]
+  },
+  {
+    "word": "woke",
+    "phonetic": "/woʊk/",
+    "part_of_speech": "verb (past tense of wake)",
+    "chinese_meaning": "醒来；唤醒（wake的过去式）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I woke up very early today.",
+        "chinese": "我今天醒得很早。",
+        "scene": "你端着咖啡站在阳台上，对正在练太极拳的爷爷说。"
+      },
+      {
+        "level": "medium",
+        "english": "I woke to the smell of pancakes and bacon, which was the best way to start a Saturday.",
+        "chinese": "我醒来闻到煎饼和培根的香味，这是开启周六最好的方式。",
+        "scene": "你穿着睡衣走进厨房，对正在做饭的妈妈感激地说。"
+      },
+      {
+        "level": "long",
+        "english": "The loud crash outside my window woke me up at 3 a.m. At first I was annoyed, but then I looked out and saw a family of deer crossing the street under the streetlight, and it felt like a secret gift from the night.",
+        "chinese": "窗外一声巨响让我凌晨三点醒来。起初我很恼火，但向外望去，看到路灯下一家子鹿正在过马路，感觉就像是黑夜送来的秘密礼物。",
+        "scene": "早餐时你对家人讲起这个，手机里还拍了模糊的照片。"
+      }
+    ]
+  },
+  {
+    "word": "dream",
+    "phonetic": "/driːm/",
+    "part_of_speech": "noun, verb",
+    "chinese_meaning": "梦；梦想；做梦",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I had a strange dream last night.",
+        "chinese": "我昨晚做了一个奇怪的梦。",
+        "scene": "你揉着眼睛对正在吃早餐的室友说。"
+      },
+      {
+        "level": "medium",
+        "english": "Her dream is to open a small bakery by the sea, where she can bake bread and watch the waves every morning.",
+        "chinese": "她的梦想是在海边开一家小面包店，每天早上烤面包、看海浪。",
+        "scene": "你指着杂志上的海边小屋，对朋友说起姐姐的心愿。"
+      },
+      {
+        "level": "long",
+        "english": "I used to think dreams were things you only chased when you were young. But my dad started learning the violin at 55, and now he plays in a community orchestra. He taught me that it's never too late to follow a dream.",
+        "chinese": "我曾以为梦想是只属于年轻时追逐的东西。但我爸爸在55岁开始学小提琴，现在在社区乐团演奏。他教会我，追梦永远不晚。",
+        "scene": "你在台下看着爸爸演出，激动地对旁边的妈妈耳语。"
+      }
+    ]
+  }
+]

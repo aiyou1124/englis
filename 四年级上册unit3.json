@@ -1,0 +1,470 @@
+[
+  {
+    "word": "afternoon",
+    "phonetic": "/ˌæftərˈnuːn/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "下午",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "See you tomorrow afternoon!",
+        "chinese": "明天下午见！",
+        "scene": "和朋友告别时约好见面"
+      },
+      {
+        "level": "medium",
+        "english": "I usually take a short nap in the afternoon if I have time.",
+        "chinese": "如果有时间，我下午通常会小睡一会儿。",
+        "scene": "日常作息的描述"
+      },
+      {
+        "level": "long",
+        "english": "That lazy Sunday afternoon, we just sat on the porch, drinking iced tea and watching the clouds drift by, and I remember thinking that life doesn't get much better than this.",
+        "chinese": "那个慵懒的周日午后，我们就坐在门廊上喝着冰茶，看着云朵飘过，我还记得当时心想，日子再好也不过如此了。",
+        "scene": "回忆悠闲惬意的周末时光"
+      }
+    ]
+  },
+  {
+    "word": "there",
+    "phonetic": "/ðer/",
+    "part_of_speech": "adverb",
+    "chinese_meaning": "在那里；到那里",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Put the books over there.",
+        "chinese": "把书放到那边去。",
+        "scene": "请人把东西放到指定位置"
+      },
+      {
+        "level": "medium",
+        "english": "Is there a supermarket near here? I need to buy some milk.",
+        "chinese": "这附近有超市吗？我要买点牛奶。",
+        "scene": "问路寻找商店"
+      },
+      {
+        "level": "long",
+        "english": "When I got there, the party had already started and people were dancing, so I just slipped in quietly and tried to find someone I knew.",
+        "chinese": "我到那儿的时候，派对已经开始了，大家都在跳舞，我就悄悄溜了进去，想找找有没有认识的人。",
+        "scene": "描述到达派对现场时的情形"
+      }
+    ]
+  },
+  {
+    "word": "playground",
+    "phonetic": "/ˈpleɪɡraʊnd/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "操场；游乐场",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The kids are at the playground.",
+        "chinese": "孩子们在游乐场呢。",
+        "scene": "告知家人孩子在哪"
+      },
+      {
+        "level": "medium",
+        "english": "Our school just built a new playground with swings and a big slide.",
+        "chinese": "我们学校刚建了一个新操场，有秋千和一个大滑梯。",
+        "scene": "兴奋地分享学校的新设施"
+      },
+      {
+        "level": "long",
+        "english": "I still remember the old wooden playground near my grandmother's house; we would climb to the very top and pretend it was a pirate ship sailing across the ocean.",
+        "chinese": "我至今还记得奶奶家附近那个老旧的木头游乐场，我们会爬到最高处，假装那是一艘航行在海上的海盗船。",
+        "scene": "回忆童年充满想象力的游戏"
+      }
+    ]
+  },
+  {
+    "word": "park",
+    "phonetic": "/pɑːrk/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "公园",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's go to the park.",
+        "chinese": "我们去公园吧。",
+        "scene": "提议去公园散步或玩耍"
+      },
+      {
+        "level": "medium",
+        "english": "I like to run in the park early in the morning before work.",
+        "chinese": "我喜欢上班前一大早去公园跑步。",
+        "scene": "谈论晨跑的习惯"
+      },
+      {
+        "level": "long",
+        "english": "Every spring, the park near my house fills up with cherry blossoms, and people come from all over just to take pictures and have picnics under the trees.",
+        "chinese": "每年春天，我家附近的公园就开满了樱花，人们从四面八方赶来，就为了在树下拍拍照、野野餐。",
+        "scene": "描述公园的春日美景"
+      }
+    ]
+  },
+  {
+    "word": "over",
+    "phonetic": "/ˈoʊvər/",
+    "part_of_speech": "preposition, adverb",
+    "chinese_meaning": "在…上方；越过；结束",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The show is over.",
+        "chinese": "演出结束了。",
+        "scene": "看完表演后简单告知"
+      },
+      {
+        "level": "medium",
+        "english": "Can you jump over that puddle without getting wet?",
+        "chinese": "你能跳过那个水坑又不弄湿吗？",
+        "scene": "雨天挑战朋友跳过水坑"
+      },
+      {
+        "level": "long",
+        "english": "After the long trip was finally over, all I wanted to do was go home, take a hot shower, and sleep in my own bed.",
+        "chinese": "漫长的旅行终于结束后，我唯一想做的就是回家洗个热水澡，然后睡在自己的床上。",
+        "scene": "旅行结束后渴望回家的舒适"
+      }
+    ]
+  },
+  {
+    "word": "hospital",
+    "phonetic": "/ˈhɑːspɪtl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "医院",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "He is still in the hospital.",
+        "chinese": "他还在住院。",
+        "scene": "向亲友更新病人的情况"
+      },
+      {
+        "level": "medium",
+        "english": "My mom had to go to the hospital because she broke her arm.",
+        "chinese": "我妈妈因为摔断了胳膊，不得不去了医院。",
+        "scene": "解释家人去医院的紧急原因"
+      },
+      {
+        "level": "long",
+        "english": "The doctors and nurses at the children's hospital were so patient and kind that even though I was scared, they made me feel safe and taken care of.",
+        "chinese": "儿童医院的医生和护士都非常耐心又和善，尽管我当时很害怕，但他们让我感觉安全和被照顾着。",
+        "scene": "回忆童年住院的温暖感受"
+      }
+    ]
+  },
+  {
+    "word": "shop",
+    "phonetic": "/ʃɑːp/",
+    "part_of_speech": "noun, verb",
+    "chinese_meaning": "商店；购物",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I need to shop for shoes.",
+        "chinese": "我需要去买鞋。",
+        "scene": "告知购物需求"
+      },
+      {
+        "level": "medium",
+        "english": "That little coffee shop on the corner makes the best hot chocolate.",
+        "chinese": "街角那家小咖啡店的热巧克力最好喝了。",
+        "scene": "推荐一家小店的美味饮品"
+      },
+      {
+        "level": "long",
+        "english": "I love to shop at the farmers' market on weekends because I can talk to the growers, taste fresh fruit, and find really unique things I'd never see in a regular store.",
+        "chinese": "我喜欢周末去农夫市场采购，因为可以跟种植者聊天、品尝新鲜水果，还能发现一些在普通商店里从来见不到的独特东西。",
+        "scene": "分享在特色市场的购物体验"
+      }
+    ]
+  },
+  {
+    "word": "toilet",
+    "phonetic": "/ˈtɔɪlət/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "厕所；马桶",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Where is the toilet, please?",
+        "chinese": "请问卫生间在哪里？",
+        "scene": "在公共场合礼貌询问"
+      },
+      {
+        "level": "medium",
+        "english": "Excuse me, I need to use the toilet before we go.",
+        "chinese": "不好意思，我们走之前我得去下洗手间。",
+        "scene": "出发前请求去厕所"
+      },
+      {
+        "level": "long",
+        "english": "On our road trip, we had to stop at a gas station every hour because my little brother always said he needed to find a toilet, even when he probably didn't.",
+        "chinese": "我们自驾游的时候，每小时都得在加油站停一次，因为我弟弟老说他得找厕所，尽管有时候他可能根本不用。",
+        "scene": "家庭旅行中被频繁如厕需求打断"
+      }
+    ]
+  },
+  {
+    "word": "bus stop",
+    "phonetic": "/ˈbʌs stɑːp/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "公交车站",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Wait for me at the bus stop.",
+        "chinese": "在公交车站等我。",
+        "scene": "约好见面地点"
+      },
+      {
+        "level": "medium",
+        "english": "There's a bus stop right outside my apartment, so it's super convenient.",
+        "chinese": "我公寓门口就有一个公交站，所以特别方便。",
+        "scene": "描述方便的公共交通"
+      },
+      {
+        "level": "long",
+        "english": "Every morning, you can see the same group of people at the bus stop, some reading, some checking their phones, all waiting for the 7:30 bus to take them to work.",
+        "chinese": "每天早晨，你都能在公交站看到同一群人，有的在看书，有的在看手机，大家都等着七点半那班车去上班。",
+        "scene": "描写清晨公交站的日常景象"
+      }
+    ]
+  },
+  {
+    "word": "library",
+    "phonetic": "/ˈlaɪbreri/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "图书馆",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I study at the library after school.",
+        "chinese": "我放学后在图书馆学习。",
+        "scene": "介绍自己的学习地点"
+      },
+      {
+        "level": "medium",
+        "english": "You can borrow up to ten books from the library with your card.",
+        "chinese": "用你的图书卡最多能从图书馆借十本书。",
+        "scene": "向新用户说明借阅规则"
+      },
+      {
+        "level": "long",
+        "english": "The library was always my safe space growing up; I would wander through the shelves and pick out random books, and that's how I discovered my love for mystery novels.",
+        "chinese": "从小图书馆就是我的安全港湾，我会在书架间漫步，随意抽出书来，就是这样我发现了我对侦探小说的热爱。",
+        "scene": "回忆在图书馆培养出阅读兴趣"
+      }
+    ]
+  },
+  {
+    "word": "sport",
+    "phonetic": "/spɔːrt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "运动",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "What's your favorite sport?",
+        "chinese": "你最喜欢什么运动？",
+        "scene": "和朋友开启运动话题"
+      },
+      {
+        "level": "medium",
+        "english": "Playing a sport is a great way to make friends and stay healthy.",
+        "chinese": "进行一项运动是交朋友和保持健康的好方法。",
+        "scene": "分享运动的好处"
+      },
+      {
+        "level": "long",
+        "english": "I've never been very good at any sport, but I still enjoy running by myself because it clears my mind and I don't have to worry about letting a team down.",
+        "chinese": "我从来都不太擅长任何运动，但我还是喜欢一个人跑步，因为它能让我头脑清醒，而且不用担心拖累团队。",
+        "scene": "表达对独自运动的喜爱"
+      }
+    ]
+  },
+  {
+    "word": "walk",
+    "phonetic": "/wɔːk/",
+    "part_of_speech": "verb, noun",
+    "chinese_meaning": "走；步行；散步",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's walk to school.",
+        "chinese": "我们走路去学校吧。",
+        "scene": "提议步行上学"
+      },
+      {
+        "level": "medium",
+        "english": "I like to take a walk around the neighborhood after dinner.",
+        "chinese": "我喜欢晚饭后在小区附近散散步。",
+        "scene": "分享饭后散步习惯"
+      },
+      {
+        "level": "long",
+        "english": "Last weekend, we took a long walk along the beach, collecting seashells and talking about everything and nothing, and it was the best part of my whole week.",
+        "chinese": "上周末，我们沿着海滩走了很久，一边捡贝壳，一边东拉西扯地聊天，那是我整周最美好的时光。",
+        "scene": "回忆海边漫步的美好体验"
+      }
+    ]
+  },
+  {
+    "word": "community",
+    "phonetic": "/kəˈmjuːnəti/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "社区；团体",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Our community is very friendly.",
+        "chinese": "我们社区的人都很友好。",
+        "scene": "评价居住的小区氛围"
+      },
+      {
+        "level": "medium",
+        "english": "The community center offers free language classes on weekends.",
+        "chinese": "社区中心周末有免费的语言课程。",
+        "scene": "介绍社区提供的福利活动"
+      },
+      {
+        "level": "long",
+        "english": "When the storm hit, the whole community came together to help clean up the streets and share food with those who had lost power, and it showed me how strong we are when we help each other.",
+        "chinese": "暴风雨来袭后，整个社区都动员起来，一起清理街道，给停电的家庭送去食物，这让我看到大家互相帮助时有多强大。",
+        "scene": "讲述灾难后社区的互助精神"
+      }
+    ]
+  },
+  {
+    "word": "favourite",
+    "phonetic": "/ˈfeɪvərɪt/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "最喜欢的（人或物）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Blue is my favourite color.",
+        "chinese": "蓝色是我最喜欢的颜色。",
+        "scene": "表达颜色偏好"
+      },
+      {
+        "level": "medium",
+        "english": "This song is my favourite, so please don't skip it!",
+        "chinese": "这首歌是我的最爱，别跳过它！",
+        "scene": "和朋友分享音乐时的请求"
+      },
+      {
+        "level": "long",
+        "english": "Out of all the places I've traveled to, my favourite is still the quiet little village where my grandparents live, because it's full of happy childhood memories and the best homemade food.",
+        "chinese": "在我去过的所有地方里，我最爱的还是爷爷奶奶住的那个宁静的小村子，那里充满了快乐的童年回忆和最好吃的家常菜。",
+        "scene": "分享最爱的旅行目的地和原因"
+      }
+    ]
+  },
+  {
+    "word": "place",
+    "phonetic": "/pleɪs/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "地方；场所",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This place is beautiful.",
+        "chinese": "这个地方真美。",
+        "scene": "到达某处时的赞叹"
+      },
+      {
+        "level": "medium",
+        "english": "Can you save a place for me in line? I'll be right back.",
+        "chinese": "你能帮我排着这个位置吗？我马上回来。",
+        "scene": "排队时请求别人帮忙占位"
+      },
+      {
+        "level": "long",
+        "english": "When I need to get away from all the noise, I have a secret place by the river where nobody goes, and I just sit there and listen to the water.",
+        "chinese": "当我需要远离喧嚣时，我有一个河边的秘密基地，没人会去那里，我就坐在那儿，听水流的声音。",
+        "scene": "介绍自己的秘密放松地点"
+      }
+    ]
+  },
+  {
+    "word": "photo",
+    "phonetic": "/ˈfoʊtoʊ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "照片",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can I see that photo?",
+        "chinese": "我能看看那张照片吗？",
+        "scene": "好奇别人拍的照片"
+      },
+      {
+        "level": "medium",
+        "english": "I took a really nice photo of the sunset from my window.",
+        "chinese": "我从窗口拍了一张很美的日落照片。",
+        "scene": "分享自己拍的满意照片"
+      },
+      {
+        "level": "long",
+        "english": "My mom has an old photo album full of pictures from her childhood, and I love sitting with her while she tells me the stories behind each photo.",
+        "chinese": "我妈妈有一本老相册，里面全是她童年的照片，我喜欢坐在她旁边，听她讲每张照片背后的故事。",
+        "scene": "亲子共享怀旧照片时光"
+      }
+    ]
+  },
+  {
+    "word": "story",
+    "phonetic": "/ˈstɔːri/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "故事；小说",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Tell me a bedtime story.",
+        "chinese": "给我讲个睡前故事吧。",
+        "scene": "孩子睡前请求父母"
+      },
+      {
+        "level": "medium",
+        "english": "That's a really interesting story—I can't believe it really happened!",
+        "chinese": "那个故事真有意思，真不敢相信那是真的！",
+        "scene": "听完他人经历后的反应"
+      },
+      {
+        "level": "long",
+        "english": "My grandfather used to tell us the funniest stories about growing up on a farm, like the time a goat chased him up a tree and he had to stay there until dinner.",
+        "chinese": "我爷爷以前经常给我们讲他在农场长大的趣事，比如有一次一只山羊追着他爬上了树，他只好一直待到吃晚饭才下来。",
+        "scene": "回忆祖辈讲述的幽默往事"
+      }
+    ]
+  },
+  {
+    "word": "buy",
+    "phonetic": "/baɪ/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "买",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I want to buy a gift.",
+        "chinese": "我想买个礼物。",
+        "scene": "表达购物意图"
+      },
+      {
+        "level": "medium",
+        "english": "Where did you buy that jacket? It looks great on you!",
+        "chinese": "你这件夹克在哪儿买的？你穿真好看！",
+        "scene": "夸赞并询问朋友的购物信息"
+      },
+      {
+        "level": "long",
+        "english": "I've been saving up for months to buy a new bike, and when I finally walked into the store and paid for it with my own money, it felt like the most amazing thing ever.",
+        "chinese": "我攒了好几个月的钱想买一辆新自行车，当我终于走进店里用自己攒的钱付了款时，那感觉简直棒极了。",
+        "scene": "描述用自己积蓄买东西的成就感"
+      }
+    ]
+  }
+]

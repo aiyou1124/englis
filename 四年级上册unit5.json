@@ -1,0 +1,626 @@
+[
+  {
+    "word": "speak",
+    "phonetic": "/spiːk/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "说话；讲（某种语言）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can you speak English?",
+        "chinese": "你会说英语吗？",
+        "scene": "询问语言能力"
+      },
+      {
+        "level": "medium",
+        "english": "I need to speak with you about something important after class.",
+        "chinese": "下课后我需要和你谈件重要的事。",
+        "scene": "约谈同学或同事"
+      },
+      {
+        "level": "long",
+        "english": "When I first moved here, I was too shy to speak to anyone, but now I can speak English well enough to make friends and even tell jokes.",
+        "chinese": "我刚搬来的时候太害羞，不敢和任何人说话，但现在我的英语足够好，能交朋友甚至开玩笑了。",
+        "scene": "讲述语言进步带来的改变"
+      }
+    ]
+  },
+  {
+    "word": "weather",
+    "phonetic": "/ˈwɛðər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "天气",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The weather is nice today.",
+        "chinese": "今天天气很好。",
+        "scene": "简单谈论天气"
+      },
+      {
+        "level": "medium",
+        "english": "Let's check the weather before we go hiking this weekend.",
+        "chinese": "我们这个周末去远足之前先看看天气吧。",
+        "scene": "计划户外活动前查看天气"
+      },
+      {
+        "level": "long",
+        "english": "I love the weather in fall, when it's cool enough for a sweater but still sunny enough to sit outside and read a book.",
+        "chinese": "我喜欢秋天的天气，凉快得可以穿毛衣，但阳光还足以坐在外面看书。",
+        "scene": "描述最爱的秋季天气"
+      }
+    ]
+  },
+  {
+    "word": "sunny",
+    "phonetic": "/ˈsʌni/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "晴朗的；阳光充足的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "It's sunny outside.",
+        "chinese": "外面是晴天。",
+        "scene": "望向窗外随口说出"
+      },
+      {
+        "level": "medium",
+        "english": "We should go to the beach since it's so sunny today.",
+        "chinese": "今天阳光这么好，我们应该去海滩。",
+        "scene": "提议趁好天气去海滩"
+      },
+      {
+        "level": "long",
+        "english": "I always feel more energetic on sunny days because I can open all the windows, let the sunshine in, and just enjoy the brightness.",
+        "chinese": "晴朗的日子里我总是觉得更有活力，因为我可以打开所有窗户，让阳光进来，享受那份明亮。",
+        "scene": "描述晴天带来的好心情"
+      }
+    ]
+  },
+  {
+    "word": "hot",
+    "phonetic": "/hɑːt/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "热的；炎热的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This soup is very hot.",
+        "chinese": "这汤很烫。",
+        "scene": "提醒小心烫嘴"
+      },
+      {
+        "level": "medium",
+        "english": "It's so hot today that I don't want to move at all.",
+        "chinese": "今天热得我完全不想动。",
+        "scene": "酷暑下的抱怨"
+      },
+      {
+        "level": "long",
+        "english": "Last summer was the hottest I can remember, and our air conditioner broke down twice, so we practically lived in the basement for a week.",
+        "chinese": "去年夏天是我记忆中最热的，我们空调坏了两次，所以几乎在地下室住了一周。",
+        "scene": "回忆极端炎热的夏天"
+      }
+    ]
+  },
+  {
+    "word": "bad",
+    "phonetic": "/bæd/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "坏的；糟糕的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "That's a bad idea.",
+        "chinese": "那是个坏主意。",
+        "scene": "否定朋友的危险提议"
+      },
+      {
+        "level": "medium",
+        "english": "I had a bad day at work, so I just want to relax at home.",
+        "chinese": "我今天上班很糟糕，所以只想在家放松。",
+        "scene": "下班回家后解释情绪"
+      },
+      {
+        "level": "long",
+        "english": "The traffic was so bad this morning that I was almost an hour late for the meeting, and my boss was not happy about it at all.",
+        "chinese": "今天早上交通太糟糕了，我开会迟到了快一个小时，我老板对此很不高兴。",
+        "scene": "讲述因交通糟糕而迟到"
+      }
+    ]
+  },
+  {
+    "word": "cold",
+    "phonetic": "/koʊld/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "冷的；寒冷；感冒",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "It's very cold outside.",
+        "chinese": "外面很冷。",
+        "scene": "提醒家人多穿衣服"
+      },
+      {
+        "level": "medium",
+        "english": "I caught a cold last week and had to stay home from school.",
+        "chinese": "上周我感冒了，只好请假在家。",
+        "scene": "解释缺课原因"
+      },
+      {
+        "level": "long",
+        "english": "Even though it was freezing cold, we still went ice skating on the lake because it's our favorite winter tradition.",
+        "chinese": "尽管天寒地冻，我们还是去湖上滑冰了，因为那是我们最爱的冬季传统。",
+        "scene": "不惧严寒进行冬季活动"
+      }
+    ]
+  },
+  {
+    "word": "windy",
+    "phonetic": "/ˈwɪndi/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "多风的；刮风的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "It's windy today.",
+        "chinese": "今天刮风。",
+        "scene": "出门前的观察"
+      },
+      {
+        "level": "medium",
+        "english": "It was so windy that my umbrella turned inside out.",
+        "chinese": "风太大了，我的伞都被吹翻了。",
+        "scene": "描述大风的窘境"
+      },
+      {
+        "level": "long",
+        "english": "I love flying kites on windy days because you don't have to run at all; you just let out the string and the wind does all the work.",
+        "chinese": "我喜欢在刮风天放风筝，因为根本不用跑，放出线，风就帮你把一切搞定了。",
+        "scene": "享受放风筝的轻松乐趣"
+      }
+    ]
+  },
+  {
+    "word": "cloudy",
+    "phonetic": "/ˈklaʊdi/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "多云的；阴天的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The sky is cloudy.",
+        "chinese": "天空多云。",
+        "scene": "抬头看天随口说"
+      },
+      {
+        "level": "medium",
+        "english": "It looks cloudy, so you should bring an umbrella just in case.",
+        "chinese": "天看起来阴阴的，你最好带把伞以防万一。",
+        "scene": "出门前对家人的提醒"
+      },
+      {
+        "level": "long",
+        "english": "The picnic wasn't as bad as we thought it would be; even though it was cloudy all day, at least it didn't rain and the temperature was perfect.",
+        "chinese": "野餐并没有我们想的那么糟，虽然整天阴天，但至少没下雨，温度也刚刚好。",
+        "scene": "阴天野餐后的感受"
+      }
+    ]
+  },
+  {
+    "word": "rainy",
+    "phonetic": "/ˈreɪni/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "下雨的；多雨的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I love rainy days.",
+        "chinese": "我喜欢下雨天。",
+        "scene": "表达对雨天的偏爱"
+      },
+      {
+        "level": "medium",
+        "english": "The streets get really muddy on rainy days, so wear your boots.",
+        "chinese": "下雨天街道会变得很泥泞，穿上你的靴子。",
+        "scene": "提醒孩子雨天穿鞋"
+      },
+      {
+        "level": "long",
+        "english": "On rainy weekends, I like to stay in bed with a good book and listen to the rain tapping against the window; it's the most relaxing thing ever.",
+        "chinese": "下雨的周末，我喜欢赖在床上看一本好书，听着雨点敲打窗户的声音，那真是最放松的事了。",
+        "scene": "享受雨天的慵懒放松"
+      }
+    ]
+  },
+  {
+    "word": "snowy",
+    "phonetic": "/ˈsnoʊi/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "下雪的；多雪的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "It's snowy outside.",
+        "chinese": "外面在下雪。",
+        "scene": "看向窗外发现下雪"
+      },
+      {
+        "level": "medium",
+        "english": "The roads are very slippery when it's snowy, so drive carefully.",
+        "chinese": "下雪天路面很滑，开车要小心。",
+        "scene": "提醒家人雪天驾驶安全"
+      },
+      {
+        "level": "long",
+        "english": "I'll never forget that snowy Christmas morning when we woke up to find the whole yard covered in thick white snow, and we spent the whole day building a snow fort.",
+        "chinese": "我永远忘不了那个下雪的圣诞节早晨，我们醒来发现整个院子盖满了厚厚的白雪，我们花了一整天建了一个雪堡。",
+        "scene": "回忆童年下雪圣诞节的快乐"
+      }
+    ]
+  },
+  {
+    "word": "cool",
+    "phonetic": "/kuːl/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "凉爽的；酷的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This jacket looks cool.",
+        "chinese": "这件夹克看起来很酷。",
+        "scene": "和妈妈逛街时夸衣服"
+      },
+      {
+        "level": "medium",
+        "english": "The evenings here are nice and cool, perfect for a walk.",
+        "chinese": "这里的夜晚凉爽宜人，很适合散步。",
+        "scene": "赞美宜人的晚风"
+      },
+      {
+        "level": "long",
+        "english": "My older brother taught me how to skateboard, and I thought he was the coolest person ever when he landed that trick without falling.",
+        "chinese": "我哥哥教我玩滑板，当他成功做出那个动作还没摔倒时，我觉得他简直酷毙了。",
+        "scene": "崇拜哥哥的滑板技巧"
+      }
+    ]
+  },
+  {
+    "word": "warm",
+    "phonetic": "/wɔːrm/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "温暖的；暖和的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The soup keeps me warm.",
+        "chinese": "这汤让我暖和。",
+        "scene": "喝汤时满足地说"
+      },
+      {
+        "level": "medium",
+        "english": "Make sure to dress warm because it's supposed to get colder tonight.",
+        "chinese": "穿暖和点，今晚会更冷。",
+        "scene": "妈妈叮嘱孩子多穿衣服"
+      },
+      {
+        "level": "long",
+        "english": "I love the feeling of coming into a warm house after walking in the snow, smelling hot chocolate and taking off my wet gloves.",
+        "chinese": "我喜欢在雪中行走后走进温暖的房子，闻到热巧克力的香味，脱下湿手套的那种感觉。",
+        "scene": "描述冬日进屋的温暖时刻"
+      }
+    ]
+  },
+  {
+    "word": "tomorrow",
+    "phonetic": "/təˈmɑːroʊ/",
+    "part_of_speech": "adverb, noun",
+    "chinese_meaning": "明天",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "See you tomorrow!",
+        "chinese": "明天见！",
+        "scene": "和朋友放学告别"
+      },
+      {
+        "level": "medium",
+        "english": "I have a big exam tomorrow, so I need to study tonight.",
+        "chinese": "我明天有个大考，今晚必须复习。",
+        "scene": "拒绝出门邀请的原因"
+      },
+      {
+        "level": "long",
+        "english": "Let's not worry about all these problems today; we can deal with them tomorrow when we're fresh and have a clear mind.",
+        "chinese": "我们今天别担心这些问题了，明天精力充沛、头脑清醒时再处理吧。",
+        "scene": "提议推迟解决烦恼"
+      }
+    ]
+  },
+  {
+    "word": "rain",
+    "phonetic": "/reɪn/",
+    "part_of_speech": "noun, verb",
+    "chinese_meaning": "雨；下雨",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "It might rain later.",
+        "chinese": "过会儿可能会下雨。",
+        "scene": "看天色预测降雨"
+      },
+      {
+        "level": "medium",
+        "english": "We got caught in the rain without umbrellas and had to run all the way home.",
+        "chinese": "我们没带伞被雨淋了，只好一路跑回家。",
+        "scene": "讲述突遇降雨的狼狈"
+      },
+      {
+        "level": "long",
+        "english": "The farmers were so happy when it finally started to rain after weeks of dry weather, because their crops were really starting to suffer.",
+        "chinese": "干旱了好几周后终于下雨了，农民们高兴极了，因为他们的庄稼真的快撑不住了。",
+        "scene": "久旱逢甘霖的欣喜"
+      }
+    ]
+  },
+  {
+    "word": "closed",
+    "phonetic": "/kloʊzd/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "关闭的；不营业的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The store is closed now.",
+        "chinese": "商店现在关门了。",
+        "scene": "看到商店关门告知同伴"
+      },
+      {
+        "level": "medium",
+        "english": "I tried to go to the museum, but it was closed on Mondays.",
+        "chinese": "我本来想去博物馆，但周一闭馆。",
+        "scene": "解释参观计划落空"
+      },
+      {
+        "level": "long",
+        "english": "We drove all the way to the beach, but when we got there, the gate was closed because of a storm warning, so we had to turn around and go home.",
+        "chinese": "我们开了很远的路到海边，但到了却发现因为暴风雨预警大门关着，只好掉头回家。",
+        "scene": "远道而来却扫兴而归"
+      }
+    ]
+  },
+  {
+    "word": "film",
+    "phonetic": "/fɪlm/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "电影；影片",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's watch a film tonight.",
+        "chinese": "今晚我们看个电影吧。",
+        "scene": "晚饭后提议看电影"
+      },
+      {
+        "level": "medium",
+        "english": "Have you seen that new film about the space adventure? It looks amazing.",
+        "chinese": "你看那部新的太空冒险电影了吗？看起来很精彩。",
+        "scene": "和朋友讨论新上映电影"
+      },
+      {
+        "level": "long",
+        "english": "When I was little, my dad would set up a projector in the backyard and we'd watch old films under the stars, and that's how I fell in love with movies.",
+        "chinese": "我小时候，爸爸会在后院支起投影仪，我们在星空下看老电影，我就是这样爱上电影的。",
+        "scene": "回忆童年露天观影的经历"
+      }
+    ]
+  },
+  {
+    "word": "idea",
+    "phonetic": "/aɪˈdiːə/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "想法；主意",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Good idea!",
+        "chinese": "好主意！",
+        "scene": "赞同朋友的提议"
+      },
+      {
+        "level": "medium",
+        "english": "I have no idea what to get my mom for her birthday.",
+        "chinese": "我完全不知道给我妈妈买什么生日礼物。",
+        "scene": "为选礼物而发愁"
+      },
+      {
+        "level": "long",
+        "english": "The idea of traveling around the world seemed impossible at first, but after saving for three years and planning carefully, we finally made it happen.",
+        "chinese": "环游世界的想法一开始看似不可能，但经过三年攒钱和仔细规划，我们终于实现了。",
+        "scene": "实现最初看似不可能的梦想"
+      }
+    ]
+  },
+  {
+    "word": "fly",
+    "phonetic": "/flaɪ/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "飞；飞行；放(风筝)",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Birds can fly.",
+        "chinese": "鸟会飞。",
+        "scene": "孩子指着天空说"
+      },
+      {
+        "level": "medium",
+        "english": "I'm going to fly to San Francisco to visit my cousin next week.",
+        "chinese": "我下周要飞旧金山去看我表姐。",
+        "scene": "分享旅行计划"
+      },
+      {
+        "level": "long",
+        "english": "Every time I see a plane fly overhead, I think about how amazing it is that humans figured out how to fly across oceans in just a few hours.",
+        "chinese": "每次看到飞机飞过头顶，我都会想，人类能想出办法在几个小时内飞越大洋，真是太了不起了。",
+        "scene": "仰望飞机时的感慨"
+      }
+    ]
+  },
+  {
+    "word": "kite",
+    "phonetic": "/kaɪt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "风筝",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's fly a kite!",
+        "chinese": "我们去放风筝吧！",
+        "scene": "提议户外活动"
+      },
+      {
+        "level": "medium",
+        "english": "The kite got stuck in a tree, and we had to climb up to get it.",
+        "chinese": "风筝挂在树上了，我们只好爬上去拿。",
+        "scene": "放风筝时的小意外"
+      },
+      {
+        "level": "long",
+        "english": "My grandpa made me a kite out of newspaper and sticks, and even though it wasn't fancy, it flew higher than any of the store-bought ones.",
+        "chinese": "我爷爷用报纸和棍子给我做了个风筝，虽然不花哨，但它飞得比任何店里买的都高。",
+        "scene": "爷爷手工风筝带来的骄傲"
+      }
+    ]
+  },
+  {
+    "word": "snowman",
+    "phonetic": "/ˈsnoʊmæn/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "雪人",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's build a snowman!",
+        "chinese": "我们来堆雪人吧！",
+        "scene": "下雪后兴奋地提议"
+      },
+      {
+        "level": "medium",
+        "english": "The snowman we built yesterday already melted because the sun came out.",
+        "chinese": "我们昨天堆的雪人已经化了，因为太阳出来了。",
+        "scene": "雪后晴天看到雪人融化"
+      },
+      {
+        "level": "long",
+        "english": "Every winter, my family has a snowman-building competition, and my dad always tries to make his snowman look like a famous person, which cracks us all up.",
+        "chinese": "每年冬天我家都有堆雪人大赛，我爸总是想把他的雪人做成名人样，逗得我们哈哈大笑。",
+        "scene": "家庭趣味堆雪人比赛"
+      }
+    ]
+  },
+  {
+    "word": "fun",
+    "phonetic": "/fʌn/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "有趣的；乐趣",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "That was fun!",
+        "chinese": "那真好玩！",
+        "scene": "游乐设施结束后感叹"
+      },
+      {
+        "level": "medium",
+        "english": "The party was so much fun that we didn't want to leave.",
+        "chinese": "派对太好玩了，我们都不想走。",
+        "scene": "派对结束后的意犹未尽"
+      },
+      {
+        "level": "long",
+        "english": "We had so much fun learning to surf that we've already booked another lesson for next weekend.",
+        "chinese": "我们学冲浪玩得太开心了，已经预约了下周末的另一次课。",
+        "scene": "初次冲浪的快乐延续"
+      }
+    ]
+  },
+  {
+    "word": "their",
+    "phonetic": "/ðer/",
+    "part_of_speech": "determiner",
+    "chinese_meaning": "他们的；她们的；它们的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "That's their car.",
+        "chinese": "那是他们的车。",
+        "scene": "指认邻居家的车"
+      },
+      {
+        "level": "medium",
+        "english": "The kids left their toys all over the living room floor again.",
+        "chinese": "孩子们又把玩具扔得客厅满地都是。",
+        "scene": "家长收拾房间时的抱怨"
+      },
+      {
+        "level": "long",
+        "english": "My neighbors are so noisy; their dog barks all night and their kids practice the drums every morning before school.",
+        "chinese": "我的邻居真吵；他们的狗整夜叫，他们的孩子每天早上上学前还练鼓。",
+        "scene": "吐槽邻居的各种噪音"
+      }
+    ]
+  },
+  {
+    "word": "swim",
+    "phonetic": "/swɪm/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "游泳",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I can't swim.",
+        "chinese": "我不会游泳。",
+        "scene": "在泳池边告知同伴"
+      },
+      {
+        "level": "medium",
+        "english": "Let's go to the pool and swim some laps this afternoon.",
+        "chinese": "今天下午我们去游泳池游几个来回吧。",
+        "scene": "约朋友去锻炼"
+      },
+      {
+        "level": "long",
+        "english": "When we went to Hawaii, we got to swim with sea turtles in the ocean, and it was one of the most amazing experiences of my life.",
+        "chinese": "我们去夏威夷的时候，在海里和海龟一起游了泳，那是我人生中最神奇的经历之一。",
+        "scene": "分享与海龟同游的难忘旅程"
+      }
+    ]
+  },
+  {
+    "word": "Sydney",
+    "phonetic": "/ˈsɪdni/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "悉尼（澳大利亚城市）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I want to visit Sydney someday.",
+        "chinese": "我想有一天去悉尼旅游。",
+        "scene": "表达对悉尼的向往"
+      },
+      {
+        "level": "medium",
+        "english": "My cousin lives in Sydney, and she says the beaches there are incredible.",
+        "chinese": "我表姐住在悉尼，她说那里的海滩棒极了。",
+        "scene": "听亲戚介绍悉尼的海滩"
+      },
+      {
+        "level": "long",
+        "english": "Last year, I spent two weeks in Sydney, and I fell in love with the city the moment I saw the Opera House and the Harbour Bridge all lit up at night.",
+        "chinese": "去年我在悉尼待了两周，当我看到夜晚灯火通明的歌剧院和海港大桥时，瞬间就爱上了这座城市。",
+        "scene": "悉尼夜景带来的震撼与喜爱"
+      }
+    ]
+  }
+]

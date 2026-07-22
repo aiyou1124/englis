@@ -1,6 +1,574 @@
-{
-  "grade": "四年级",
-  "term": "下册",
-  "unit": "unit2",
-  "words": []
-}
+[
+  {
+    "word": "watch",
+    "phonetic": "/wɑːtʃ/",
+    "part_of_speech": "verb, noun",
+    "chinese_meaning": "看；手表",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's watch a movie tonight.",
+        "chinese": "今晚我们看个电影吧。",
+        "scene": "晚饭后提议一起看电影"
+      },
+      {
+        "level": "medium",
+        "english": "I love to watch the sunset from my balcony; the colors are amazing.",
+        "chinese": "我喜欢在阳台上看日落，颜色美极了。",
+        "scene": "分享傍晚看夕阳的小确幸"
+      },
+      {
+        "level": "long",
+        "english": "When I was a kid, I used to watch cartoons every Saturday morning while eating a big bowl of cereal in my pajamas.",
+        "chinese": "小时候，每个星期六早上我都穿着睡衣，一边吃一大碗麦片一边看动画片。",
+        "scene": "回忆童年周末看动画的快乐时光"
+      }
+    ]
+  },
+  {
+    "word": "TV",
+    "phonetic": "/ˌtiː ˈviː/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "电视",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Don't watch too much TV.",
+        "chinese": "别看太多电视。",
+        "scene": "家长提醒孩子注意用眼"
+      },
+      {
+        "level": "medium",
+        "english": "We bought a new TV for the living room, and the picture is super clear.",
+        "chinese": "我们给客厅买了台新电视，画面特别清晰。",
+        "scene": "家庭添置新家电后的兴奋"
+      },
+      {
+        "level": "long",
+        "english": "I usually just leave the TV on for background noise when I'm home alone, even if I'm not really watching anything.",
+        "chinese": "我一个人在家时，通常就把电视开着当背景音，哪怕其实根本没在看。",
+        "scene": "独处时用电视声音作伴的习惯"
+      }
+    ]
+  },
+  {
+    "word": "homework",
+    "phonetic": "/ˈhoʊmwɜːrk/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "家庭作业",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I have a lot of homework today.",
+        "chinese": "我今天有很多作业。",
+        "scene": "放学后向朋友抱怨"
+      },
+      {
+        "level": "medium",
+        "english": "I can't go out until I finish my math homework, so give me an hour.",
+        "chinese": "没做完数学作业我不能出去，等我一个小时。",
+        "scene": "拒绝邀约时说明要先完成作业"
+      },
+      {
+        "level": "long",
+        "english": "My little brother always tries to get the dog to eat his homework, but the dog is too smart and just sniffs it and walks away.",
+        "chinese": "我弟弟总想让狗吃掉他的作业，但狗狗太聪明了，只是闻一闻就走开了。",
+        "scene": "讲弟弟逃避作业的搞笑借口"
+      }
+    ]
+  },
+  {
+    "word": "first",
+    "phonetic": "/fɜːrst/",
+    "part_of_speech": "adjective, adverb, noun",
+    "chinese_meaning": "第一的；首先",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I got first place in the race.",
+        "chinese": "我在赛跑中得了第一名。",
+        "scene": "兴奋地分享比赛成绩"
+      },
+      {
+        "level": "medium",
+        "english": "First, wash your hands, and then you can have a snack.",
+        "chinese": "先洗手，然后你就可以吃点心。",
+        "scene": "妈妈给孩子吃东西前立规矩"
+      },
+      {
+        "level": "long",
+        "english": "The first time I tried to ride a bike without training wheels, I fell straight into a bush and my dad had to pull me out.",
+        "chinese": "我第一次尝试不用辅助轮骑自行车，直接摔进了灌木丛，爸爸只好把我拽出来。",
+        "scene": "回忆学骑车的滑稽初次尝试"
+      }
+    ]
+  },
+  {
+    "word": "wet",
+    "phonetic": "/wɛt/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "湿的；潮湿的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My shoes are all wet.",
+        "chinese": "我的鞋子全湿了。",
+        "scene": "踩到水坑后抱怨"
+      },
+      {
+        "level": "medium",
+        "english": "Be careful, the floor is wet because I just mopped it.",
+        "chinese": "小心，地板是湿的，我刚拖过。",
+        "scene": "提醒家人注意刚拖过的地面"
+      },
+      {
+        "level": "long",
+        "english": "We got caught in the rain without umbrellas and our clothes were so wet that we had to change as soon as we got home.",
+        "chinese": "我们没带伞被雨淋了，衣服湿透了，一回家就得赶紧换掉。",
+        "scene": "突遇暴雨的狼狈经历"
+      }
+    ]
+  },
+  {
+    "word": "run",
+    "phonetic": "/rʌn/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "跑；跑步",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I run every morning before breakfast.",
+        "chinese": "我每天早饭前都跑步。",
+        "scene": "谈论晨跑习惯"
+      },
+      {
+        "level": "medium",
+        "english": "We had to run to catch the bus, but we missed it by just a few seconds.",
+        "chinese": "我们不得不跑着去赶公交，结果还是差几秒没赶上。",
+        "scene": "赶公交的日常遗憾"
+      },
+      {
+        "level": "long",
+        "english": "When the fire alarm went off, everyone started to run toward the exit, but we had to stay calm and walk quickly instead.",
+        "chinese": "火警响起时，大家开始朝出口跑，但我们必须保持冷静，改为快速行走。",
+        "scene": "紧急疏散时的正确做法"
+      }
+    ]
+  },
+  {
+    "word": "living room",
+    "phonetic": "/ˈlɪvɪŋ ruːm/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "客厅；起居室",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We watch TV in the living room.",
+        "chinese": "我们在客厅看电视。",
+        "scene": "介绍家庭公共区域的功能"
+      },
+      {
+        "level": "medium",
+        "english": "The living room looks so cozy with the new rug and the soft pillows.",
+        "chinese": "加了新地毯和软抱枕后，客厅看起来好温馨。",
+        "scene": "布置后欣赏客厅的新面貌"
+      },
+      {
+        "level": "long",
+        "english": "Every Christmas, we all gather in the living room around the fireplace, drink hot chocolate, and open presents together.",
+        "chinese": "每年圣诞节，我们全家都聚在客厅壁炉旁，喝着热巧克力，一起拆礼物。",
+        "scene": "家庭圣诞团聚的温馨时刻"
+      }
+    ]
+  },
+  {
+    "word": "safe",
+    "phonetic": "/seɪf/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "安全的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Is it safe to cross the street?",
+        "chinese": "过马路安全吗？",
+        "scene": "孩子问家长是否可以过街"
+      },
+      {
+        "level": "medium",
+        "english": "Please put your seatbelt on; I want to make sure everyone is safe.",
+        "chinese": "请系好安全带，我要确保每个人都安全。",
+        "scene": "开车前提醒乘客系安全带"
+      },
+      {
+        "level": "long",
+        "english": "When I got lost at the mall as a child, a security guard helped me find my mom, and he told me to always remember that stores are safe places to ask for help.",
+        "chinese": "小时候在商场走丢时，一个保安帮我找到了妈妈，他告诉我一定要记住商店是可以求助的安全地方。",
+        "scene": "走失后得到安全建议的童年经历"
+      }
+    ]
+  },
+  {
+    "word": "word",
+    "phonetic": "/wɜːrd/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "单词；词；话",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "What does this word mean?",
+        "chinese": "这个单词是什么意思？",
+        "scene": "阅读时碰到生词询问"
+      },
+      {
+        "level": "medium",
+        "english": "I can't remember the English word for that tool; it's on the tip of my tongue.",
+        "chinese": "我记不起那个工具的英文单词了，就在嘴边上。",
+        "scene": "努力回忆某个单词"
+      },
+      {
+        "level": "long",
+        "english": "My grandmother always says that a kind word costs nothing but can change someone's whole day.",
+        "chinese": "我奶奶总说，一句善意的话不花一分钱，却可能改变某人的一整天。",
+        "scene": "奶奶分享的人生智慧"
+      }
+    ]
+  },
+  {
+    "word": "wash",
+    "phonetic": "/wɑːʃ/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "洗；洗涤",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Wash your hands before dinner.",
+        "chinese": "晚饭前洗洗手。",
+        "scene": "饭前家长提醒"
+      },
+      {
+        "level": "medium",
+        "english": "I need to wash the car this weekend; it's covered in dust and bird droppings.",
+        "chinese": "这周末我得洗车，车上全是灰和鸟粪。",
+        "scene": "看着脏车决定周末清洗"
+      },
+      {
+        "level": "long",
+        "english": "After painting the fence, it took me forever to wash all the green paint off my hands and arms.",
+        "chinese": "刷完栅栏后，我花了超长时间才把手上和胳膊上的绿漆洗掉。",
+        "scene": "干完粉刷活后费力清洗"
+      }
+    ]
+  },
+  {
+    "word": "helpful",
+    "phonetic": "/ˈhɛlpfəl/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "有帮助的；有用的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Thank you, that was very helpful.",
+        "chinese": "谢谢你，那非常有帮助。",
+        "scene": "对别人的帮助表示感谢"
+      },
+      {
+        "level": "medium",
+        "english": "The lady at the information desk was so helpful and gave us a map.",
+        "chinese": "咨询台的那位女士特别热心，给了我们一张地图。",
+        "scene": "在陌生地方得到热心的指引"
+      },
+      {
+        "level": "long",
+        "english": "I found a really helpful video online that explained the math problem step by step, and it finally made sense to me.",
+        "chinese": "我在网上找到了一个超有用的视频，一步步讲解了那道数学题，我终于弄明白了。",
+        "scene": "通过视频讲解攻克学习难题"
+      }
+    ]
+  },
+  {
+    "word": "loud",
+    "phonetic": "/laʊd/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "大声的；响亮的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The music is too loud.",
+        "chinese": "音乐太大声了。",
+        "scene": "觉得噪音扰人时抱怨"
+      },
+      {
+        "level": "medium",
+        "english": "My neighbors are having a loud party again, and I can't get any sleep.",
+        "chinese": "我的邻居又在办吵闹的派对，我根本睡不着。",
+        "scene": "被派对噪音干扰睡眠"
+      },
+      {
+        "level": "long",
+        "english": "The thunder was so loud last night that it woke up our dog, who then jumped on my bed and hid under the blanket.",
+        "chinese": "昨晚雷声太响了，把我家狗吵醒了，它跳上床躲进了被子底下。",
+        "scene": "雷声吓到宠物的有趣场景"
+      }
+    ]
+  },
+  {
+    "word": "sleep",
+    "phonetic": "/sliːp/",
+    "part_of_speech": "verb, noun",
+    "chinese_meaning": "睡觉；睡眠",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I need more sleep.",
+        "chinese": "我需要多睡会儿。",
+        "scene": "早晨赖床时的感叹"
+      },
+      {
+        "level": "medium",
+        "english": "I usually go to sleep around 11, but last night I stayed up until 2.",
+        "chinese": "我通常11点左右睡觉，但昨晚熬到了两点。",
+        "scene": "和朋友聊睡眠习惯"
+      },
+      {
+        "level": "long",
+        "english": "I tried to sleep on the plane, but the baby behind me kept crying and the seat was so uncomfortable that I just gave up.",
+        "chinese": "我试图在飞机上睡觉，但身后的婴儿一直哭，座位又很不舒服，我干脆放弃了。",
+        "scene": "长途飞行中难以入眠的遭遇"
+      }
+    ]
+  },
+  {
+    "word": "bedroom",
+    "phonetic": "/ˈbɛdruːm/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "卧室",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Go to your bedroom now.",
+        "chinese": "现在回你的卧室去。",
+        "scene": "家长让孩子回自己房间"
+      },
+      {
+        "level": "medium",
+        "english": "I painted my bedroom walls light blue to make it feel more peaceful.",
+        "chinese": "我把卧室墙刷成了浅蓝色，让它感觉更宁静。",
+        "scene": "分享卧室的改造效果"
+      },
+      {
+        "level": "long",
+        "english": "My bedroom is my favorite place in the house because I can just close the door, lie on my bed, and read or listen to music without anyone bothering me.",
+        "chinese": "我的卧室是我在家最喜欢的地方，因为我可以关上门，躺在床上看看书、听听音乐，没人打扰。",
+        "scene": "描述卧室作为个人避风港的感受"
+      }
+    ]
+  },
+  {
+    "word": "kitchen",
+    "phonetic": "/ˈkɪtʃɪn/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "厨房",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Mom is cooking in the kitchen.",
+        "chinese": "妈妈正在厨房做饭。",
+        "scene": "孩子向爸爸汇报妈妈的动向"
+      },
+      {
+        "level": "medium",
+        "english": "The kitchen smells amazing because my grandma is baking cookies.",
+        "chinese": "厨房闻起来香极了，因为我奶奶正在烤饼干。",
+        "scene": "被烘焙香味吸引到厨房"
+      },
+      {
+        "level": "long",
+        "english": "Our kitchen is always the busiest room in the house during the holidays because everyone is helping cook, sneaking bites, and telling stories.",
+        "chinese": "过节时，我家厨房总是最热闹的房间，因为每个人都帮忙做饭、偷吃、讲故事。",
+        "scene": "假日厨房里全家的忙碌与欢乐"
+      }
+    ]
+  },
+  {
+    "word": "study",
+    "phonetic": "/ˈstʌdi/",
+    "part_of_speech": "verb, noun",
+    "chinese_meaning": "学习；书房",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I need to study for the test.",
+        "chinese": "我需要为考试复习。",
+        "scene": "拒绝出去玩时说明理由"
+      },
+      {
+        "level": "medium",
+        "english": "My dad turned the spare room into a study so he can work from home.",
+        "chinese": "我爸把空闲房间改成了书房，这样他就能在家办公了。",
+        "scene": "介绍家中的新书房"
+      },
+      {
+        "level": "long",
+        "english": "I can't study with any noise around, so I always go to the library where it's dead silent and I can actually focus.",
+        "chinese": "周围有声音我就没法学习，所以我总是去图书馆，那里安静极了，我能真正集中注意力。",
+        "scene": "分享自己需要绝对安静的学习环境"
+      }
+    ]
+  },
+  {
+    "word": "bathroom",
+    "phonetic": "/ˈbæθruːm/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "浴室；卫生间",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The bathroom is down the hall.",
+        "chinese": "卫生间在走廊那头。",
+        "scene": "给客人指路"
+      },
+      {
+        "level": "medium",
+        "english": "Someone is in the bathroom, so I'll have to wait to take a shower.",
+        "chinese": "有人在用卫生间，所以我得等一会儿才能洗澡。",
+        "scene": "早上排队用卫生间的日常"
+      },
+      {
+        "level": "long",
+        "english": "I accidentally locked myself in the bathroom when I was a kid, and my dad had to use a screwdriver to get me out.",
+        "chinese": "我小时候不小心把自己锁在卫生间里了，我爸只好用螺丝刀把我弄出来。",
+        "scene": "童年被困卫生间的搞笑回忆"
+      }
+    ]
+  },
+  {
+    "word": "think",
+    "phonetic": "/θɪŋk/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "想；认为；思考",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I think so.",
+        "chinese": "我想是的。",
+        "scene": "表示同意的简短回答"
+      },
+      {
+        "level": "medium",
+        "english": "What do you think about this new restaurant? Should we try it?",
+        "chinese": "你觉得这家新餐厅怎么样？我们要不要试试？",
+        "scene": "征求朋友对餐厅的意见"
+      },
+      {
+        "level": "long",
+        "english": "I've been thinking about changing my major, but I'm not sure if it's the right move yet.",
+        "chinese": "我一直在想要不要换专业，但还不确定这是不是正确的选择。",
+        "scene": "和朋友聊人生规划的犹豫"
+      }
+    ]
+  },
+  {
+    "word": "work",
+    "phonetic": "/wɜːrk/",
+    "part_of_speech": "verb, noun",
+    "chinese_meaning": "工作；劳动；奏效",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I have to work late tonight.",
+        "chinese": "我今晚得加班。",
+        "scene": "回家路上电话告知家人"
+      },
+      {
+        "level": "medium",
+        "english": "My phone isn't working properly; the screen keeps freezing.",
+        "chinese": "我手机出毛病了，屏幕老卡住。",
+        "scene": "跟朋友抱怨手机故障"
+      },
+      {
+        "level": "long",
+        "english": "It took a lot of hard work to fix up our old house, but now it feels exactly like home.",
+        "chinese": "翻修我们的老房子花了很多心血，但现在它完全有了家的感觉。",
+        "scene": "谈论翻修房子付出后的满足感"
+      }
+    ]
+  },
+  {
+    "word": "hard",
+    "phonetic": "/hɑːrd/",
+    "part_of_speech": "adjective, adverb",
+    "chinese_meaning": "困难的；努力地；坚硬的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This chair is too hard.",
+        "chinese": "这把椅子太硬了。",
+        "scene": "抱怨坐得不舒服"
+      },
+      {
+        "level": "medium",
+        "english": "I studied really hard for the exam, so I hope I do well.",
+        "chinese": "我为考试非常努力地复习了，希望能考好。",
+        "scene": "表达对考试结果的期待"
+      },
+      {
+        "level": "long",
+        "english": "Learning to play the guitar was really hard at first, but after months of practice, I can finally play a whole song without messing up.",
+        "chinese": "刚学弹吉他时真的很难，但经过几个月的练习，我终于能完整弹一首曲子了，一点不出错。",
+        "scene": "分享学乐器由难到易的进步"
+      }
+    ]
+  },
+  {
+    "word": "follow",
+    "phonetic": "/ˈfɑːloʊ/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "跟随；听从；理解",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Follow me, please.",
+        "chinese": "请跟我来。",
+        "scene": "引导客人去房间"
+      },
+      {
+        "level": "medium",
+        "english": "I didn't quite follow the instructions; can you explain it again?",
+        "chinese": "我没太听懂那些说明，你能再解释一遍吗？",
+        "scene": "没理解步骤时请求重复"
+      },
+      {
+        "level": "long",
+        "english": "My dog follows me everywhere I go in the house, from the kitchen to the bathroom, and waits outside the door until I come out.",
+        "chinese": "我在家里走到哪，狗狗就跟到哪，从厨房跟到卫生间，然后蹲在门外等我出来。",
+        "scene": "描述忠诚的宠物寸步不离的可爱习惯"
+      }
+    ]
+  },
+  {
+    "word": "feel",
+    "phonetic": "/fiːl/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "感觉；觉得；触摸",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I feel tired today.",
+        "chinese": "我今天觉得累。",
+        "scene": "和朋友说起自己的状态"
+      },
+      {
+        "level": "medium",
+        "english": "Feel this fabric—it's so soft! I think I'll buy the shirt.",
+        "chinese": "你摸摸这布料，好软！我想买这件衬衫。",
+        "scene": "购物时触摸面料做决定"
+      },
+      {
+        "level": "long",
+        "english": "After being sick for a whole week, I finally feel well enough to go outside and get some fresh air.",
+        "chinese": "病了一整周后，我终于感觉好到可以出门呼吸点新鲜空气了。",
+        "scene": "病愈后初次外出的舒畅感"
+      }
+    ]
+  }
+]

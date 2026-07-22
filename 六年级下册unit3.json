@@ -1,6 +1,600 @@
-{
-  "grade": "六年级",
-  "term": "下册",
-  "unit": "unit3",
-  "words": []
-}
+[
+  {
+    "word": "went",
+    "phonetic": "/went/",
+    "part_of_speech": "verb (past tense of go)",
+    "chinese_meaning": "去（go的过去式）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We went to the park yesterday.",
+        "chinese": "我们昨天去了公园。",
+        "scene": "朋友问起昨天的安排，你一边收起野餐垫一边回答。"
+      },
+      {
+        "level": "medium",
+        "english": "I went to the new bakery on Main Street, and their croissants were still warm from the oven.",
+        "chinese": "我去了主街上新开的面包店，他们的可颂还带着烤箱的温热。",
+        "scene": "你把纸袋放在桌上，对凑过来的同事推荐。"
+      },
+      {
+        "level": "long",
+        "english": "After we went to the concert, we just walked around the city for hours, talking about our favorite songs and stopping for late-night pizza. It was one of those nights you never want to end.",
+        "chinese": "我们听完音乐会后，就在城里逛了好几个小时，聊着最喜欢的歌，停下来吃深夜披萨。那是一个你永远不想结束的夜晚。",
+        "scene": "第二天早上你对着镜子刷牙，回忆时忍不住微笑。"
+      }
+    ]
+  },
+  {
+    "word": "camp",
+    "phonetic": "/kæmp/",
+    "part_of_speech": "noun, verb",
+    "chinese_meaning": "营地；露营",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We set up camp near the lake.",
+        "chinese": "我们在湖边搭了营地。",
+        "scene": "你一边拍打帐篷的支架，一边对抱来睡袋的同伴说。"
+      },
+      {
+        "level": "medium",
+        "english": "The summer camp was full of fun activities like canoeing, archery, and making s'mores around the campfire.",
+        "chinese": "夏令营充满了有趣的活动，比如划独木舟、射箭，还有在篝火旁烤棉花糖夹心饼干。",
+        "scene": "翻看夏令营相册，你兴奋地给妈妈指每张照片。"
+      },
+      {
+        "level": "long",
+        "english": "We found the perfect spot to camp, right by a stream with a view of the mountains. That night, we cooked dinner over a small fire and listened to the owls, and I don't think I've ever slept so peacefully.",
+        "chinese": "我们找到了完美露营地点，就在一条小溪旁，能望见群山。那晚，我们生了小火做饭，听着猫头鹰叫，我从来没睡得那么安稳过。",
+        "scene": "回忆假期，你在办公室里指着手机上的营火照片给同事看。"
+      }
+    ]
+  },
+  {
+    "word": "went camping",
+    "phonetic": "/went ˈkæmpɪŋ/",
+    "part_of_speech": "verb phrase (past tense)",
+    "chinese_meaning": "去露营了",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We went camping last weekend.",
+        "chinese": "我们上周末去露营了。",
+        "scene": "周一早上同事看到你晒黑的脸，你笑着解释。"
+      },
+      {
+        "level": "medium",
+        "english": "We went camping in the forest and woke up to the sound of birds instead of an alarm clock.",
+        "chinese": "我们在森林里露营，早上是被鸟叫声唤醒的，而不是闹钟。",
+        "scene": "你端着一杯热茶站在帐篷外，对刚钻出来的同伴感慨。"
+      },
+      {
+        "level": "long",
+        "english": "The first time I went camping with my dad, I was so scared of the dark that he stayed up telling me stories about the stars until I fell asleep. Now camping is my favorite way to disconnect from everything.",
+        "chinese": "第一次跟爸爸去露营时，我怕黑怕得要命，他就熬夜给我讲星星的故事，直到我睡着。现在露营是我最喜欢的放空方式。",
+        "scene": "在篝火旁，你给自己的孩子讲起爷爷当年的故事。"
+      }
+    ]
+  },
+  {
+    "word": "fish",
+    "phonetic": "/fɪʃ/",
+    "part_of_speech": "noun, verb",
+    "chinese_meaning": "鱼；钓鱼",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I caught a big fish today!",
+        "chinese": "我今天钓到一条大鱼！",
+        "scene": "你举起还在扑腾的鱼，对岸边的爷爷喊道。"
+      },
+      {
+        "level": "medium",
+        "english": "We bought fresh fish from the market and cooked it with lemon and herbs for dinner.",
+        "chinese": "我们从市场买了鲜鱼，晚餐用柠檬和香草做了。",
+        "scene": "在厨房里，你给打下手的朋友分配任务，鱼香飘满了屋子。"
+      },
+      {
+        "level": "long",
+        "english": "My grandfather taught me how to fish when I was barely tall enough to hold the rod. He always said fishing isn't about catching fish, it's about sitting still and letting the world slow down for a while.",
+        "chinese": "我还没鱼竿高的时候，爷爷就教我钓鱼了。他总说钓鱼不是为了捉鱼，而是静静坐着，让世界慢下来一会儿。",
+        "scene": "你在湖边安静握着鱼竿，向同行的朋友复述爷爷的智慧。"
+      }
+    ]
+  },
+  {
+    "word": "went fishing",
+    "phonetic": "/went ˈfɪʃɪŋ/",
+    "part_of_speech": "verb phrase (past tense)",
+    "chinese_meaning": "去钓鱼了",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "They went fishing early this morning.",
+        "chinese": "他们今天一大早就去钓鱼了。",
+        "scene": "你指着空空的码头，向刚醒来的伙伴解释其他人的去向。"
+      },
+      {
+        "level": "medium",
+        "english": "We went fishing at the pier, but all we caught was an old boot and a tiny crab.",
+        "chinese": "我们去码头钓鱼，结果只钓到一只旧靴子和一只小螃蟹。",
+        "scene": "你哭笑不得地把螃蟹放回海里，对朋友开玩笑说今天至少没空手。"
+      },
+      {
+        "level": "long",
+        "english": "Last summer, my uncle and I went fishing in a little boat on a misty lake. We didn't catch a single thing all morning, but we talked about life and laughed so much that it didn't matter at all.",
+        "chinese": "去年夏天，舅舅和我在雾蒙蒙的湖上划着小船去钓鱼。一早上什么也没钓着，但我们聊人生、大笑了好几回，钓没钓到鱼根本无所谓。",
+        "scene": "午餐时你给表弟表妹们讲这段，他们听得津津有味。"
+      }
+    ]
+  },
+  {
+    "word": "rode",
+    "phonetic": "/roʊd/",
+    "part_of_speech": "verb (past tense of ride)",
+    "chinese_meaning": "骑；乘（ride的过去式）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She rode her bike to school.",
+        "chinese": "她骑自行车去上学。",
+        "scene": "你指着门口湿淋淋的单车，向妈妈解释为什么来晚了。"
+      },
+      {
+        "level": "medium",
+        "english": "We rode the cable car up the mountain and the view was absolutely breathtaking.",
+        "chinese": "我们坐缆车上山，那景色真是令人叹为观止。",
+        "scene": "你隔着玻璃拍照，对晃动的车厢里的同伴惊叫。"
+      },
+      {
+        "level": "long",
+        "english": "I still remember the first time I rode a horse. It was a gentle old mare named Daisy, and I was terrified, but by the end of the ride, I felt like a cowboy in one of those old western movies.",
+        "chinese": "我还记得第一次骑马。那是一匹叫黛西的温和老母马，我吓坏了，但骑完的时候，我感觉自己就像西部老电影里的牛仔。",
+        "scene": "翻看童年的骑马照片，你笑着对身边的侄女说起。"
+      }
+    ]
+  },
+  {
+    "word": "hurt",
+    "phonetic": "/hɜːrt/",
+    "part_of_speech": "verb (past tense of hurt), adjective",
+    "chinese_meaning": "使受伤；感到疼痛",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My knee hurts a little.",
+        "chinese": "我的膝盖有点疼。",
+        "scene": "你坐在场边，揉着膝盖对走过来的教练说。"
+      },
+      {
+        "level": "medium",
+        "english": "He hurt his wrist playing volleyball, but he didn't want to stop until the game was over.",
+        "chinese": "他打排球时伤了手腕，但直到比赛结束都不肯停下来。",
+        "scene": "你边给他冰敷边数落他太拼。"
+      },
+      {
+        "level": "long",
+        "english": "When I fell off the ladder last year, I hurt my back quite badly. It took months of gentle stretching and patience, but now I'm back to gardening and feeling stronger than before.",
+        "chinese": "去年我从梯子上摔下来，伤得挺重。花了几个月慢慢做伸展和耐心恢复，但现在我又能整理花园了，比之前还结实。",
+        "scene": "邻居看到你在院子里干活，你拄着铲子和他聊起恢复历程。"
+      }
+    ]
+  },
+  {
+    "word": "ate",
+    "phonetic": "/eɪt/",
+    "part_of_speech": "verb (past tense of eat)",
+    "chinese_meaning": "吃（eat的过去式）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We ate dinner very late last night.",
+        "chinese": "昨晚我们很晚才吃晚饭。",
+        "scene": "加班回家，你边热饭边对沙发上的室友解释。"
+      },
+      {
+        "level": "medium",
+        "english": "I ate so much at the barbecue that I had to lie down on the grass for a while.",
+        "chinese": "我在烧烤聚会上吃太多了，不得不在草地上躺了一会儿。",
+        "scene": "你揉着肚子，望着天空，朋友在旁笑你。"
+      },
+      {
+        "level": "long",
+        "english": "We ate at a tiny family-run restaurant in the alley, where the owner's grandmother came out and served us her homemade pasta. It was the most authentic Italian meal I've ever had.",
+        "chinese": "我们在一家巷子里的小型家庭餐馆吃了饭，老板的奶奶出来端上她亲手做的意面。那是我吃过最正宗的意大利菜。",
+        "scene": "你举着手机给朋友看那张和奶奶的合影。"
+      }
+    ]
+  },
+  {
+    "word": "took",
+    "phonetic": "/tʊk/",
+    "part_of_speech": "verb (past tense of take)",
+    "chinese_meaning": "拿；取；拍照；花费（take的过去式）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I took a taxi this morning.",
+        "chinese": "今天早上我打了出租车。",
+        "scene": "同事问你今天怎么没骑车，你指着窗外的雨解释。"
+      },
+      {
+        "level": "medium",
+        "english": "She took a cooking class and now she makes the most amazing dumplings from scratch.",
+        "chinese": "她上了个烹饪课，现在能从零开始包出超棒的饺子了。",
+        "scene": "在聚餐时，你夹起一个饺子向旁边的朋友夸她。"
+      },
+      {
+        "level": "long",
+        "english": "When I moved to a new city, I took a chance and joined a local hiking group even though I didn't know anyone. That decision led to some of the best friendships I have today.",
+        "chinese": "搬到新城市时，我冒险加入了当地的徒步小组，虽然一个人也不认识。那个决定带来了我如今一些最好的友谊。",
+        "scene": "徒步休息时，你对新加入的成员分享自己的故事。"
+      }
+    ]
+  },
+  {
+    "word": "took pictures",
+    "phonetic": "/tʊk ˈpɪktʃərz/",
+    "part_of_speech": "verb phrase (past tense)",
+    "chinese_meaning": "拍照了",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We took pictures by the river.",
+        "chinese": "我们在河边拍了照。",
+        "scene": "你把手机递给朋友展示，背景是落日河景。"
+      },
+      {
+        "level": "medium",
+        "english": "I took so many pictures at the concert that my phone ran out of storage halfway through.",
+        "chinese": "我在演唱会上拍了太多照片，手机存到一半就满了。",
+        "scene": "你懊恼地删除旧应用，对身边的朋友吐槽。"
+      },
+      {
+        "level": "long",
+        "english": "My dad took pictures of everything when we were kids—our first day of school, losing teeth, building snowmen. Now we have boxes of albums, and looking through them is like traveling back in time.",
+        "chinese": "小时候我们爸爸什么都拍：第一天上学、掉牙、堆雪人。现在我们有好几箱相册，翻阅它们就像穿越时空。",
+        "scene": "全家一起翻老照片，你拿起一张缺牙照，大家笑成一团。"
+      }
+    ]
+  },
+  {
+    "word": "bought",
+    "phonetic": "/bɔːt/",
+    "part_of_speech": "verb (past tense of buy)",
+    "chinese_meaning": "购买（buy的过去式）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I bought a new notebook today.",
+        "chinese": "我今天买了个新笔记本。",
+        "scene": "你从书包里掏出封面漂亮的笔记本给同桌看。"
+      },
+      {
+        "level": "medium",
+        "english": "We bought way too many snacks for the road trip, but at least we won't be hungry.",
+        "chinese": "我们公路旅行买了太多零食，不过至少不会饿了。",
+        "scene": "你把大包小包放进后座，对驾车的朋友笑道。"
+      },
+      {
+        "level": "long",
+        "english": "I bought a secondhand guitar from a little music shop, and the owner threw in a free lesson because he said he loved seeing young people pick up an instrument. That small kindness meant the world to me.",
+        "chinese": "我从一家小乐器行买了把二手吉他，店主送了我一节免费课，说喜欢看年轻人学乐器。那份小小善意对我意义重大。",
+        "scene": "你抱着吉他在宿舍练琴，跟室友讲起那天的经历。"
+      }
+    ]
+  },
+  {
+    "word": "gift",
+    "phonetic": "/ɡɪft/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "礼物；天赋",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This gift is for you.",
+        "chinese": "这个礼物是给你的。",
+        "scene": "你把包装好的盒子递到朋友手上，微笑着说。"
+      },
+      {
+        "level": "medium",
+        "english": "The best gift I ever received was a handwritten letter from my little sister on my birthday.",
+        "chinese": "我收到过最好的礼物是我生日时妹妹给我的一封手写信。",
+        "scene": "你从书里拿出那封信，给好奇的朋友看。"
+      },
+      {
+        "level": "long",
+        "english": "My grandmother has a gift for making people feel at home. No matter who you are, the moment you step into her house, she gives you a warm cup of tea and a story that makes you forget your worries.",
+        "chinese": "我奶奶有一种让人宾至如归的天赋。无论你是谁，一踏进她家，她就给你一杯热茶和一个让你忘却烦恼的故事。",
+        "scene": "坐在奶奶家的客厅，你对新来的客人解释道。"
+      }
+    ]
+  },
+  {
+    "word": "fell",
+    "phonetic": "/fel/",
+    "part_of_speech": "verb (past tense of fall)",
+    "chinese_meaning": "摔倒；落下（fall的过去式）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The baby fell asleep in my arms.",
+        "chinese": "宝宝在我怀里睡着了。",
+        "scene": "你轻声对走进房间的妻子说，指指怀里的孩子。"
+      },
+      {
+        "level": "medium",
+        "english": "I slipped on the ice and fell, but luckily I only got a small bruise on my knee.",
+        "chinese": "我在冰上滑倒了，还好膝盖只磕青了一小块。",
+        "scene": "你一瘸一拐走进门，举起裤腿给室友看。"
+      },
+      {
+        "level": "long",
+        "english": "During my first skiing trip, I fell so many times I lost count, but my instructor told me that falling is just part of learning. By the end of the day, I made it down the hill without falling once, and I felt invincible.",
+        "chinese": "第一次滑雪时我摔了无数次，但教练说摔跤只是学习的一部分。那天结束时，我一次没摔地滑下了山，感觉自己无敌了。",
+        "scene": "你在滑雪场咖啡厅，对刚认识的朋友比划着那天的进步。"
+      }
+    ]
+  },
+  {
+    "word": "off",
+    "phonetic": "/ɔːf/",
+    "part_of_speech": "adverb, preposition, adjective",
+    "chinese_meaning": "离开；关闭；脱落",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Please turn off the TV.",
+        "chinese": "请关掉电视。",
+        "scene": "你正要开始看书，对拿着遥控器的弟弟说。"
+      },
+      {
+        "level": "medium",
+        "english": "I took a day off work just to relax, and it was the best decision I've made all month.",
+        "chinese": "我请了一天假就为了放松，这是整个月我做的最好的决定。",
+        "scene": "你在阳台上晒着太阳喝茶，发信息给还在办公室的同事。"
+      },
+      {
+        "level": "long",
+        "english": "As the plane took off, I looked out the window and watched my hometown grow smaller and smaller. It was a mix of excitement for the new adventure and a little sadness for what I was leaving behind.",
+        "chinese": "飞机起飞时，我望着窗外，看着家乡变得越来越小。对新冒险的兴奋和对离别的一丝伤感交织在一起。",
+        "scene": "你在飞机上翻开新城市的指南，对邻座微笑着说起心情。"
+      }
+    ]
+  },
+  {
+    "word": "mule",
+    "phonetic": "/mjuːl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "骡子",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The mule carried our bags up the trail.",
+        "chinese": "骡子驮着我们的包走上山道。",
+        "scene": "你在狭窄的山路上侧身让骡队通过，对同伴指指。"
+      },
+      {
+        "level": "medium",
+        "english": "We saw a mule at the farm, and it was much friendlier than I expected. It let us pet its nose.",
+        "chinese": "我们在农场看到一头骡子，它比我想象的友善多了，让我们摸了摸它的鼻子。",
+        "scene": "你举着手机自拍，骡子好奇地凑近镜头。"
+      },
+      {
+        "level": "long",
+        "english": "In the Grand Canyon, we rode mules down the narrow paths, and I was terrified at first because the trail seemed impossibly steep. But those mules were so sure-footed, I soon just enjoyed the incredible views.",
+        "chinese": "在大峡谷，我们骑着骡子走狭窄的小道，一开始我怕极了，因为路陡得吓人。但那些骡子步伐稳健，我很快就开始享受绝妙的景色了。",
+        "scene": "回到旅馆，你翻看着骑骡照片，对家人讲述当时的刺激。"
+      }
+    ]
+  },
+  {
+    "word": "Turpan",
+    "phonetic": "/ˈtʊərˈpæn/",
+    "part_of_speech": "noun (place)",
+    "chinese_meaning": "吐鲁番（中国新疆地名）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Turpan is famous for its grapes.",
+        "chinese": "吐鲁番以葡萄闻名。",
+        "scene": "你拿着一大串紫葡萄，对来家里做客的朋友介绍。"
+      },
+      {
+        "level": "medium",
+        "english": "We visited Turpan last summer, and the heat was intense, but the sweet melons made it all worth it.",
+        "chinese": "去年夏天我们去了吐鲁番，热得厉害，但那甜瓜让一切都很值。",
+        "scene": "你切开一个哈密瓜，对围过来的家人回忆旅程。"
+      },
+      {
+        "level": "long",
+        "english": "In Turpan, we stayed in a traditional Uyghur home with a grapevine-covered courtyard. The family taught us how they make raisins by drying grapes in special mud-brick houses, and we danced to local music under the stars.",
+        "chinese": "在吐鲁番，我们住在一个葡萄藤覆盖庭院的传统维吾尔家庭。那家人教我们如何在特殊的土坯房里晾制葡萄干，我们还在星空下跟着当地音乐跳了舞。",
+        "scene": "翻看照片，你向同事推荐这个充满文化风情的地方。"
+      }
+    ]
+  },
+  {
+    "word": "could",
+    "phonetic": "/kʊd/",
+    "part_of_speech": "modal verb (past tense of can)",
+    "chinese_meaning": "能；可以（can的过去式）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I could hear the birds singing.",
+        "chinese": "我能听到鸟儿在唱歌。",
+        "scene": "清晨你推开窗户，回头对家人说。"
+      },
+      {
+        "level": "medium",
+        "english": "When I was little, I could climb that tree in ten seconds. Now it takes me ten minutes and a ladder.",
+        "chinese": "我小时候十秒就能爬上那棵树，现在得要十分钟加一把梯子。",
+        "scene": "你指着后院的树，对同辈的堂兄弟笑谈。"
+      },
+      {
+        "level": "long",
+        "english": "My grandpa could fix anything around the house. He once repaired my broken music box with just a paperclip and some tape, and it played more beautifully than before.",
+        "chinese": "我爷爷能修好家里任何东西。有一次他只用回形针和胶带就修好了我坏掉的音乐盒，声音比以前还好听。",
+        "scene": "整理旧物时，你捧着音乐盒给儿子讲太爷爷的故事。"
+      }
+    ]
+  },
+  {
+    "word": "till",
+    "phonetic": "/tɪl/",
+    "part_of_speech": "preposition, conjunction",
+    "chinese_meaning": "直到…为止",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Wait here till I come back.",
+        "chinese": "在这里等到我回来。",
+        "scene": "你把孩子放在长椅上，指着不远处的冰淇淋车说。"
+      },
+      {
+        "level": "medium",
+        "english": "We stayed at the beach till sunset, building sandcastles and collecting seashells.",
+        "chinese": "我们在海滩待到日落，堆沙堡、捡贝壳。",
+        "scene": "你赤脚走在沙滩上，对开始收拾东西的同伴提议再待会儿。"
+      },
+      {
+        "level": "long",
+        "english": "I didn't know how to ride a bike till I was ten. My dad spent an entire weekend running beside me, holding the seat, and when I finally balanced on my own, we both cheered so loudly the neighbors came out.",
+        "chinese": "我直到十岁才会骑自行车。爸爸花了一整个周末扶着车座跟在我旁边跑，当我终于自己平衡时，我俩欢呼得邻居都出来了。",
+        "scene": "你推着孩子的自行车，对她讲起自己学车的往事。"
+      }
+    ]
+  },
+  {
+    "word": "beach",
+    "phonetic": "/biːtʃ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "海滩；沙滩",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's walk on the beach after lunch.",
+        "chinese": "午饭后我们去沙滩上走走吧。",
+        "scene": "你收拾好野餐篮，对躺在毯子上的朋友说。"
+      },
+      {
+        "level": "medium",
+        "english": "We found a tiny, quiet beach that wasn't in any tourist guide. The water was crystal clear and full of little fish.",
+        "chinese": "我们发现了一个没上任何旅游指南的安静小海滩，水清澈见底，好多小鱼。",
+        "scene": "你小声告诉闺蜜这个秘密地点，仿佛怕别人听到。"
+      },
+      {
+        "level": "long",
+        "english": "Growing up near the beach meant summer mornings were for surfing, afternoons for reading under an umbrella, and evenings for bonfires with friends, roasting marshmallows and telling ghost stories.",
+        "chinese": "在海滩附近长大意味着夏天早晨冲浪，午后在阳伞下读书，傍晚则和朋友们点篝火，烤棉花糖，讲鬼故事。",
+        "scene": "在外地的你看着桌面壁纸上的海浪，对室友怀念家乡。"
+      }
+    ]
+  },
+  {
+    "word": "basket",
+    "phonetic": "/ˈbæskɪt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "篮子；筐",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Put the apples in the basket.",
+        "chinese": "把苹果放进篮子里。",
+        "scene": "在果园，你指着地上的柳条筐对孩子说。"
+      },
+      {
+        "level": "medium",
+        "english": "I packed a picnic basket with sandwiches, lemonade, and a big blanket for our afternoon in the park.",
+        "chinese": "我把野餐篮装满了三明治、柠檬水和一张大毯子，准备去公园过下午。",
+        "scene": "你拎起篮子，在门口催促还在选帽子的朋友。"
+      },
+      {
+        "level": "long",
+        "english": "My grandmother's old sewing basket was full of colorful threads, buttons, and tiny scissors. She could mend anything, and watching her work was like seeing magic. I still keep that basket on my shelf.",
+        "chinese": "奶奶的旧针线篮里满是彩色线团、纽扣和小剪刀。她能缝补任何东西，看她做活就像看魔法。我现在还把那个篮子放在书架上。",
+        "scene": "朋友看到你架上的老篮子，你拿起它讲起奶奶的故事。"
+      }
+    ]
+  },
+  {
+    "word": "part",
+    "phonetic": "/pɑːrt/",
+    "part_of_speech": "noun, verb",
+    "chinese_meaning": "部分；角色；分开",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This is my favorite part of the song.",
+        "chinese": "这是这首歌里我最喜欢的部分。",
+        "scene": "在车里你调大音量，对副驾驶的朋友说，然后跟着哼起来。"
+      },
+      {
+        "level": "medium",
+        "english": "Being part of a team that built a robot for the competition was the most exciting thing I did in high school.",
+        "chinese": "作为团队的一员为比赛造机器人，是我高中做过的最兴奋的事。",
+        "scene": "你在同学会上回忆，曾经的队友们都笑了。"
+      },
+      {
+        "level": "long",
+        "english": "Saying goodbye is the hardest part of any journey. I remember parting with my host family in Japan, and we promised to write every month. We've kept that promise for eight years now.",
+        "chinese": "说再见是任何旅程中最难的部分。我记得和日本的寄宿家庭分别时，我们承诺每月写信。现在这个承诺已经履行了八年。",
+        "scene": "你拿着一封日文信，给朋友看那段跨国友谊的见证。"
+      }
+    ]
+  },
+  {
+    "word": "licked",
+    "phonetic": "/lɪkt/",
+    "part_of_speech": "verb (past tense of lick)",
+    "chinese_meaning": "舔（lick的过去式）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The puppy licked my hand.",
+        "chinese": "小狗舔了我的手。",
+        "scene": "你蹲在收容所里，伸出手让小狗闻，它热情地舔起来。"
+      },
+      {
+        "level": "medium",
+        "english": "After baking cookies, my little brother licked the spoon clean before I could even stop him.",
+        "chinese": "烤完饼干，我还没来得及阻止，弟弟就把勺子舔干净了。",
+        "scene": "你拿着空勺子无奈地笑，弟弟脸上还挂着巧克力酱。"
+      },
+      {
+        "level": "long",
+        "english": "When we were eating ice cream in the hot sun, it started melting faster than we could eat it. We ended up in a sticky mess, with ice cream dripping down our arms, and my dog licked my elbow trying to help.",
+        "chinese": "大热天吃冰淇淋，它化得比我们吃得还快。最后搞得黏糊糊的，冰淇淋顺着手臂往下滴，我的狗还舔我手肘想帮忙。",
+        "scene": "你笑着洗胳膊，对拿纸巾过来的朋友讲述刚才的狼狈。"
+      }
+    ]
+  },
+  {
+    "word": "laughed",
+    "phonetic": "/læft/",
+    "part_of_speech": "verb (past tense of laugh)",
+    "chinese_meaning": "笑（laugh的过去式）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Everyone laughed at the joke.",
+        "chinese": "听了那个笑话大家都笑了。",
+        "scene": "课堂上老师讲了个幽默，你回头和朋友相视而笑。"
+      },
+      {
+        "level": "medium",
+        "english": "We laughed so hard during the movie that the people behind us asked us to be quiet.",
+        "chinese": "我们看电影时笑得前仰后合，后面的人都叫我们安静。",
+        "scene": "散场后你不好意思地向后排观众道歉，转身又和同伴笑出声。"
+      },
+      {
+        "level": "long",
+        "english": "When I told my grandmother I wanted to be a comedian, she laughed, not in a mean way, but in a way that said, 'That's the most wonderful, ridiculous thing I've ever heard.' And then she became my first audience every week.",
+        "chinese": "我告诉奶奶想当喜剧演员时，她笑了，不是嘲笑，而是那种‘这是我听过最棒、最荒唐的事’的笑。然后她成了我每周的第一个观众。",
+        "scene": "第一次登台表演，你在后台接到奶奶的电话，笑着讲起这个。"
+      }
+    ]
+  }
+]

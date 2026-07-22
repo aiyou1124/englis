@@ -1,0 +1,366 @@
+[
+  {
+    "word": "firefighter",
+    "phonetic": "/ˈfaɪərˌfaɪtər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "消防员",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "A firefighter saved the cat from the tree.",
+        "chinese": "一名消防员从树上救下了那只猫。",
+        "scene": "描述消防员的日常救援小事"
+      },
+      {
+        "level": "medium",
+        "english": "When I grow up, I want to be a firefighter and help people.",
+        "chinese": "我长大后想当一名消防员，去帮助别人。",
+        "scene": "孩子说出自己的职业梦想"
+      },
+      {
+        "level": "long",
+        "english": "The firefighters worked through the night to put out the huge forest fire, and the whole town brought them food and water to say thank you for their bravery.",
+        "chinese": "消防员们奋战了一整夜扑灭那场森林大火，整个镇子的人都给他们送来食物和水，感谢他们的勇敢。",
+        "scene": "全镇居民感激消防员的英勇行为"
+      }
+    ]
+  },
+  {
+    "word": "why",
+    "phonetic": "/waɪ/",
+    "part_of_speech": "adverb",
+    "chinese_meaning": "为什么",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Why are you late?",
+        "chinese": "你为什么迟到？",
+        "scene": "询问迟到的原因"
+      },
+      {
+        "level": "medium",
+        "english": "I don't understand why she got so upset about that joke.",
+        "chinese": "我不明白她为什么对那个玩笑那么生气。",
+        "scene": "和朋友讨论某人反应过激的原因"
+      },
+      {
+        "level": "long",
+        "english": "My little brother is at that age where he asks 'why' about everything, and sometimes I just run out of answers and have to tell him to ask our parents.",
+        "chinese": "我弟弟正处在什么都问为什么的年纪，有时候我实在没答案可给了，只好让他去问爸妈。",
+        "scene": "抱怨好奇宝宝的各种提问"
+      }
+    ]
+  },
+  {
+    "word": "driver",
+    "phonetic": "/ˈdraɪvər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "司机；驾驶员",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My dad is a bus driver.",
+        "chinese": "我爸爸是一名公交车司机。",
+        "scene": "介绍爸爸的职业"
+      },
+      {
+        "level": "medium",
+        "english": "The taxi driver knew a shortcut and got us to the airport just in time.",
+        "chinese": "出租车司机知道一条近路，让我们刚好赶上飞机。",
+        "scene": "感谢司机熟悉路线"
+      },
+      {
+        "level": "long",
+        "english": "After a long road trip, my mom, who had been the driver the whole way, was completely exhausted and went straight to bed while we unloaded the car.",
+        "chinese": "在漫长的自驾旅行后，全程开车的妈妈累坏了，我们还在搬行李，她就直接上床睡觉了。",
+        "scene": "家庭旅行后，开车的家人精疲力尽"
+      }
+    ]
+  },
+  {
+    "word": "cleaner",
+    "phonetic": "/ˈkliːnər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "清洁工；清洁剂",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The cleaner comes every Tuesday.",
+        "chinese": "清洁工每周二来。",
+        "scene": "说明家里或办公室的清洁安排"
+      },
+      {
+        "level": "medium",
+        "english": "I spilled juice on the carpet and had to look for the carpet cleaner.",
+        "chinese": "我把果汁洒在地毯上了，只好去找地毯清洁剂。",
+        "scene": "弄脏地毯后急忙找清洁用品"
+      },
+      {
+        "level": "long",
+        "english": "The office cleaner is always so cheerful, and even though she works late at night, she still says hello and asks how your day was if you happen to still be there.",
+        "chinese": "办公室的清洁工总是那么开朗，即便她深夜工作，如果你碰巧还在，她还是会打招呼，问问你的一天过得怎样。",
+        "scene": "对一位亲切的清洁工的观察"
+      }
+    ]
+  },
+  {
+    "word": "cook",
+    "phonetic": "/kʊk/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "厨师",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "He is a cook at a French restaurant.",
+        "chinese": "他在一家法国餐厅当厨师。",
+        "scene": "介绍某人的职业"
+      },
+      {
+        "level": "medium",
+        "english": "My brother is an amazing cook; he makes the best steak I've ever had.",
+        "chinese": "我哥哥是个超棒的厨师，他做的牛排是我吃过最好吃的。",
+        "scene": "称赞家人的厨艺"
+      },
+      {
+        "level": "long",
+        "english": "The cook at our school cafeteria is famous for her chocolate chip cookies, and students will literally sprint to the lunch line when they find out it's cookie day.",
+        "chinese": "我们学校食堂的厨师以她的巧克力曲奇出名，学生们一发现今天是曲奇日，简直会飞奔去排队。",
+        "scene": "学校食堂厨师受欢迎的特色甜点"
+      }
+    ]
+  },
+  {
+    "word": "delivery worker",
+    "phonetic": "/dɪˈlɪvəri ˈwɜːrkər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "送货员；快递员",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The delivery worker left the package at the door.",
+        "chinese": "快递员把包裹放在了门口。",
+        "scene": "收到快递的简单描述"
+      },
+      {
+        "level": "medium",
+        "english": "A delivery worker brought our pizza in less than 20 minutes, so we gave him a good tip.",
+        "chinese": "一个外卖小哥不到20分钟就把披萨送来了，我们给了他不错的小费。",
+        "scene": "外卖快速送达后给予小费"
+      },
+      {
+        "level": "long",
+        "english": "The delivery workers in my neighborhood are so fast on their bikes, even during rush hour, and they always have a friendly smile no matter how tired they look.",
+        "chinese": "我们小区的快递员们即使是在高峰期，骑起车来也特别快，而且不管看着多累，他们总是带着友善的微笑。",
+        "scene": "观察快递员的辛苦与乐观"
+      }
+    ]
+  },
+  {
+    "word": "police officer",
+    "phonetic": "/pəˈliːs ˈɔːfɪsər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "警察",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The police officer directed the traffic.",
+        "chinese": "那位警察在指挥交通。",
+        "scene": "路口的常见情景"
+      },
+      {
+        "level": "medium",
+        "english": "A police officer came to our school to talk about road safety.",
+        "chinese": "一位警察来到我们学校，给我们讲道路安全知识。",
+        "scene": "学校的交通安全教育活动"
+      },
+      {
+        "level": "long",
+        "english": "When I got lost at the festival, a kind police officer helped me find my parents, even buying me an ice cream while we waited at the lost and found tent.",
+        "chinese": "我在节日上走丢时，一个好心的警察帮我找到了父母，还在失物招领处等的时候给我买了个冰淇淋。",
+        "scene": "回忆警察对走失儿童的贴心帮助"
+      }
+    ]
+  },
+  {
+    "word": "a lot of",
+    "phonetic": "/ə lɑːt ʌv/",
+    "part_of_speech": "quantifier",
+    "chinese_meaning": "许多；大量",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I have a lot of homework tonight.",
+        "chinese": "我今晚有很多作业。",
+        "scene": "对作业量的抱怨"
+      },
+      {
+        "level": "medium",
+        "english": "There were a lot of people at the concert, so we had to stand in the back.",
+        "chinese": "音乐会上人很多，我们只好站在后面。",
+        "scene": "描述演唱会的拥挤"
+      },
+      {
+        "level": "long",
+        "english": "After the party, we had a lot of leftover food, so we packed it up and brought it to the homeless shelter down the street.",
+        "chinese": "派对结束后，我们有很多剩菜，于是我们把它们打包好，送到了街尾的流浪者收容所。",
+        "scene": "将剩余食物慷慨分享"
+      }
+    ]
+  },
+  {
+    "word": "now",
+    "phonetic": "/naʊ/",
+    "part_of_speech": "adverb",
+    "chinese_meaning": "现在；立刻",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'm busy right now.",
+        "chinese": "我现在正忙。",
+        "scene": "婉拒别人的打扰"
+      },
+      {
+        "level": "medium",
+        "english": "We need to leave now if we want to catch the bus.",
+        "chinese": "我们要是想赶上公交车，现在就得走了。",
+        "scene": "催促同伴赶紧出发"
+      },
+      {
+        "level": "long",
+        "english": "Just a few years ago, I couldn't speak any English at all, but now I can have full conversations and even make jokes, which I'm really proud of.",
+        "chinese": "就在几年前，我还一句英语都不会说，但现在我能进行完整的对话，甚至能开玩笑了，我为此很自豪。",
+        "scene": "对比现在与过去的进步"
+      }
+    ]
+  },
+  {
+    "word": "make the bed",
+    "phonetic": "/meɪk ðə bɛd/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "铺床；整理床铺",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Don't forget to make the bed.",
+        "chinese": "别忘了铺床。",
+        "scene": "家长早晨的叮嘱"
+      },
+      {
+        "level": "medium",
+        "english": "I always make the bed first thing in the morning to start the day right.",
+        "chinese": "我每天早上第一件事就是铺床，好让一天有个好的开始。",
+        "scene": "分享积极的生活习惯"
+      },
+      {
+        "level": "long",
+        "english": "When we stayed at my grandma's house, she taught us how to make the bed with hospital corners, and now I can't make my bed any other way.",
+        "chinese": "我们住在奶奶家时，她教我们怎么用整齐的直角铺床，现在我铺床只用这一种方法了。",
+        "scene": "从奶奶那里学到的铺床技巧"
+      }
+    ]
+  },
+  {
+    "word": "old",
+    "phonetic": "/oʊld/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "老的；旧的；…岁的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "How old is your dog?",
+        "chinese": "你的狗多大了？",
+        "scene": "问宠物的年龄"
+      },
+      {
+        "level": "medium",
+        "english": "I found an old photo of my parents from their wedding day.",
+        "chinese": "我找到了一张我爸妈结婚那天的老照片。",
+        "scene": "翻看家庭旧物时的发现"
+      },
+      {
+        "level": "long",
+        "english": "My grandparents still live in the same old house where my mom grew up, and every room feels full of history and stories from a long time ago.",
+        "chinese": "我的祖父母还住在我妈妈长大的那栋老房子里，每个房间都充满了悠久的历史和故事感。",
+        "scene": "描述祖宅的怀旧感"
+      }
+    ]
+  },
+  {
+    "word": "tell",
+    "phonetic": "/tɛl/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "告诉；讲述",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Please tell me the truth.",
+        "chinese": "请告诉我实话。",
+        "scene": "要求对方诚实相告"
+      },
+      {
+        "level": "medium",
+        "english": "Can you tell me how to get to the nearest subway station?",
+        "chinese": "你能告诉我到最近的地铁站怎么走吗？",
+        "scene": "向路人问路"
+      },
+      {
+        "level": "long",
+        "english": "My grandfather used to tell me stories about his adventures at sea, and even though I've heard them a hundred times, they never get old.",
+        "chinese": "我祖父以前常给我讲他海上的冒险故事，虽然我已经听过一百遍了，但从不觉得腻。",
+        "scene": "对祖辈故事的百听不厌"
+      }
+    ]
+  },
+  {
+    "word": "everyone",
+    "phonetic": "/ˈɛvriwʌn/",
+    "part_of_speech": "pronoun",
+    "chinese_meaning": "每个人；所有人",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Everyone is here now.",
+        "chinese": "大家都到齐了。",
+        "scene": "会议或聚会开始时宣布"
+      },
+      {
+        "level": "medium",
+        "english": "I brought cupcakes for everyone in the office today.",
+        "chinese": "我今天给办公室所有人都带了纸杯蛋糕。",
+        "scene": "分享带来的点心"
+      },
+      {
+        "level": "long",
+        "english": "At the family reunion, everyone was laughing, sharing old memories, and having such a good time that no one wanted the evening to end.",
+        "chinese": "在家庭聚会上，每个人都在笑，分享着旧时回忆，玩得开心极了，谁都不想让夜晚结束。",
+        "scene": "家庭聚会上的欢乐场景"
+      }
+    ]
+  },
+  {
+    "word": "Ms",
+    "phonetic": "/mɪz/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "女士（用于婚姻状况不明的女性）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Good morning, Ms. Johnson!",
+        "chinese": "早上好，约翰逊女士！",
+        "scene": "学生向老师问好"
+      },
+      {
+        "level": "medium",
+        "english": "Ms. Lee is my favorite teacher because she makes math fun.",
+        "chinese": "李老师是我最喜欢的老师，因为她把数学变得很有趣。",
+        "scene": "谈论喜欢的老师"
+      },
+      {
+        "level": "long",
+        "english": "The new librarian, Ms. Carter, organized a reading contest that got everyone in our class excited about books, even the kids who never used to read.",
+        "chinese": "新来的图书管理员卡特女士组织了一场阅读比赛，让我们全班同学都对书产生了兴趣，就连以前从不读书的孩子也不例外。",
+        "scene": "新老师激起了学生的阅读热情"
+      }
+    ]
+  }
+]

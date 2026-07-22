@@ -1,6 +1,418 @@
-{
-  "grade": "五年级",
-  "term": "下册",
-  "unit": "unit5",
-  "words": []
-}
+[
+  {
+    "word": "mine",
+    "phonetic": "/maɪn/",
+    "part_of_speech": "pronoun",
+    "chinese_meaning": "我的（东西）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This red bag is mine.",
+        "chinese": "这个红色的包是我的。",
+        "scene": "在教室或办公室里，指着包声明所有权。"
+      },
+      {
+        "level": "medium",
+        "english": "Is this your jacket? No, mine is the blue one over there.",
+        "chinese": "这是你的夹克吗？不，我的那件是那边蓝色的。",
+        "scene": "聚会后大家在沙发旁找自己的外套。"
+      },
+      {
+        "level": "long",
+        "english": "I was looking everywhere for my keys this morning, and then my roommate said, 'Are you sure these aren't yours?' I checked and realized the keys with the red keychain are actually mine.",
+        "chinese": "今天早上我到处找钥匙，然后室友说：“你确定这些不是你的吗？”我检查后发现那个带红色钥匙链的钥匙实际上是我的。",
+        "scene": "匆忙的早晨在公寓里找钥匙，室友帮忙辨认。"
+      }
+    ]
+  },
+  {
+    "word": "yours",
+    "phonetic": "/jʊrz/",
+    "part_of_speech": "pronoun",
+    "chinese_meaning": "你的（东西）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I think this jacket is yours.",
+        "chinese": "我觉得这件夹克是你的。",
+        "scene": "朋友拿起椅子上的外套递给你。"
+      },
+      {
+        "level": "medium",
+        "english": "I found a phone on the table. Is it yours?",
+        "chinese": "我在桌子上发现一部手机。是你的吗？",
+        "scene": "在咖啡馆捡到一部手机，问旁边的人。"
+      },
+      {
+        "level": "long",
+        "english": "I was cleaning out the car and found a gray sweatshirt in the back seat. It has a coffee stain on the sleeve, so I'm pretty sure it's yours.",
+        "chinese": "我清理车子时在后座发现一件灰色运动衫。袖子上有块咖啡渍，所以我很确定是你的。",
+        "scene": "周末清理家用车，发现了家人遗落的衣物。"
+      }
+    ]
+  },
+  {
+    "word": "his",
+    "phonetic": "/hɪz/",
+    "part_of_speech": "pronoun",
+    "chinese_meaning": "他的（东西）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "That bike over there is his.",
+        "chinese": "那边那辆自行车是他的。",
+        "scene": "几个孩子在学校停车棚认领自行车。"
+      },
+      {
+        "level": "medium",
+        "english": "Don't touch that phone; it's his, and he's very protective of it.",
+        "chinese": "别碰那部手机，是他的，他对它特别在意。",
+        "scene": "朋友想拿桌上的手机看时间，你赶紧提醒。"
+      },
+      {
+        "level": "long",
+        "english": "My brother always leaves his stuff everywhere. Yesterday I found his wallet in the fridge. I have no idea how it got there, but it's definitely his.",
+        "chinese": "我哥哥总是乱放东西。昨天我在冰箱里发现了他的钱包。我不知道它是怎么进去的，但那肯定是他的。",
+        "scene": "在家里的厨房，你打开冰箱发现奇怪的东西，跟妈妈吐槽哥哥。"
+      }
+    ]
+  },
+  {
+    "word": "hers",
+    "phonetic": "/hɜːrz/",
+    "part_of_speech": "pronoun",
+    "chinese_meaning": "她的（东西）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The blue scarf is hers.",
+        "chinese": "那条蓝色围巾是她的。",
+        "scene": "大家在衣帽架旁找各自的东西。"
+      },
+      {
+        "level": "medium",
+        "english": "I think this umbrella is hers. She was carrying one just like it.",
+        "chinese": "我觉得这把雨伞是她的。她刚才拿了一把一模一样的。",
+        "scene": "下雨天在门口一堆伞中辨认。"
+      },
+      {
+        "level": "long",
+        "english": "When we went to the beach, I accidentally took a towel that wasn't mine. Later I realized the one with the flamingo pattern was hers.",
+        "chinese": "我们去海滩时，我不小心拿错了一条毛巾。后来我意识到那条火烈鸟图案的是她的。",
+        "scene": "沙滩游玩结束后，大家收拾东西，你发现毛巾拿混了。"
+      }
+    ]
+  },
+  {
+    "word": "theirs",
+    "phonetic": "/ðɛrz/",
+    "part_of_speech": "pronoun",
+    "chinese_meaning": "他们的（东西）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "That big house is theirs.",
+        "chinese": "那栋大房子是他们的。",
+        "scene": "在小区散步，指着一栋漂亮的房子告诉朋友。"
+      },
+      {
+        "level": "medium",
+        "english": "The kids left their toys in the yard. Those bikes are theirs.",
+        "chinese": "孩子们把玩具都扔在院子里了。那些自行车是他们的。",
+        "scene": "傍晚邻居家院子门口，地上散落着玩具和童车。"
+      },
+      {
+        "level": "long",
+        "english": "My neighbors have a beautiful garden. All the colorful roses you see by the fence are theirs; they spend hours every week taking care of them.",
+        "chinese": "我的邻居有一个漂亮的花园。你看到的篱笆旁那些五颜六色的玫瑰都是他们的；他们每周都花好几个小时照料。",
+        "scene": "站在自家门口，和访客一起欣赏隔壁邻居的花园。"
+      }
+    ]
+  },
+  {
+    "word": "ours",
+    "phonetic": "/aʊərz/",
+    "part_of_speech": "pronoun",
+    "chinese_meaning": "我们的（东西）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This beautiful garden is ours.",
+        "chinese": "这个漂亮的花园是我们的。",
+        "scene": "一家人站在刚打理好的花园里，感到自豪。"
+      },
+      {
+        "level": "medium",
+        "english": "The cabin by the lake is ours for the weekend. Let's enjoy it.",
+        "chinese": "湖边的小木屋这个周末是我们的了。好好享受吧。",
+        "scene": "车停在小木屋前，兴奋地对同伴说。"
+      },
+      {
+        "level": "long",
+        "english": "After years of saving, we finally bought this place. Every little detail, from the paint color to the garden, is ours to decide, and that feels amazing.",
+        "chinese": "存了好几年钱，我们终于买下了这个地方。每一个小细节，从墙漆颜色到花园，都由我们自己决定，这种感觉太棒了。",
+        "scene": "拿到新房钥匙后，站在空荡荡的客厅里，充满期待。"
+      }
+    ]
+  },
+  {
+    "word": "climbing",
+    "phonetic": "/ˈklaɪmɪŋ/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "攀登，爬",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The cat is climbing the tree.",
+        "chinese": "猫正在爬树。",
+        "scene": "院子里，一只猫正顺着树干往上爬。"
+      },
+      {
+        "level": "medium",
+        "english": "We spent the whole afternoon climbing rocks at the park. It was exhausting but fun.",
+        "chinese": "我们整个下午都在公园里爬岩石。虽然筋疲力尽，但很有趣。",
+        "scene": "周末和朋友在公园的假山岩壁上玩耍。"
+      },
+      {
+        "level": "long",
+        "english": "Last summer, we went climbing in the mountains. The view from the top was incredible, but my legs were shaking the entire way down, and I had to stop every few steps.",
+        "chinese": "去年夏天，我们去山里爬山。山顶的景色美得难以置信，但下山时我的腿一路发抖，每走几步就得停下来歇一歇。",
+        "scene": "一次难忘的户外登山旅行，在山顶欣赏风景，下山时双腿发软。"
+      }
+    ]
+  },
+  {
+    "word": "eating",
+    "phonetic": "/ˈiːtɪŋ/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "吃",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She is eating a big sandwich.",
+        "chinese": "她正在吃一个大三明治。",
+        "scene": "午餐时间，同事在工位上大口吃着自制三明治。"
+      },
+      {
+        "level": "medium",
+        "english": "I was eating lunch when my boss called me into a sudden meeting.",
+        "chinese": "我正在吃午饭，老板突然叫我去开个紧急会议。",
+        "scene": "办公室里，午餐被打断，匆忙放下筷子去会议室。"
+      },
+      {
+        "level": "long",
+        "english": "We were eating dinner at a small Italian restaurant when a famous actor walked in and sat at the table next to us.",
+        "chinese": "我们正在一家小意大利餐厅吃晚饭，这时一位著名演员走进来，坐在了我们邻桌。",
+        "scene": "普通的工作日晚餐，突然遇到名人，又惊又喜，强装镇定。"
+      }
+    ]
+  },
+  {
+    "word": "playing",
+    "phonetic": "/ˈpleɪɪŋ/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "玩，玩耍",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The kids are playing outside happily.",
+        "chinese": "孩子们正在外面开心地玩耍。",
+        "scene": "透过窗户，看到邻居家的孩子在草地上追逐嬉戏。"
+      },
+      {
+        "level": "medium",
+        "english": "My dog loves playing fetch at the park. She can do it for hours.",
+        "chinese": "我的狗特别喜欢在公园玩接球游戏。它能玩上好几个小时。",
+        "scene": "傍晚遛狗，用力把球扔出去，狗狗兴奋地飞奔去捡。"
+      },
+      {
+        "level": "long",
+        "english": "Last Saturday, I spent the entire morning playing board games with my family. We were laughing so hard that we completely forgot to eat lunch until my mom finally ordered pizza.",
+        "chinese": "上周六，我整个上午都在和家人玩桌游。我们笑得前仰后合，彻底忘了吃午饭，直到妈妈最后点了披萨外卖。",
+        "scene": "周末家庭聚会，客厅桌上摊着桌游，大家坐在地毯上玩得不亦乐乎。"
+      }
+    ]
+  },
+  {
+    "word": "jumping",
+    "phonetic": "/ˈdʒʌmpɪŋ/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "跳",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The frog is jumping into the pond.",
+        "chinese": "青蛙正跳进池塘里。",
+        "scene": "在公园池塘边，看到一只青蛙扑通一声跃入水中。"
+      },
+      {
+        "level": "medium",
+        "english": "The kids were jumping on the trampoline and having a great time.",
+        "chinese": "孩子们在蹦床上跳来跳去，玩得开心极了。",
+        "scene": "后院里的蹦床上，几个孩子比谁跳得更高，笑声不断。"
+      },
+      {
+        "level": "long",
+        "english": "At the concert last night, everyone was jumping and singing along to the music. I lost my voice by the end, but it was absolutely worth it.",
+        "chinese": "昨晚的演唱会上，每个人都跟着音乐又跳又唱。到最后我嗓子都哑了，但绝对值得。",
+        "scene": "热闹的演唱会现场，人群随着节拍跳动，沉浸在狂欢气氛中。"
+      }
+    ]
+  },
+  {
+    "word": "drinking",
+    "phonetic": "/ˈdrɪŋkɪŋ/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "喝，饮",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I am drinking cold water.",
+        "chinese": "我正在喝冰水。",
+        "scene": "炎热的下午，从冰箱里拿出一瓶冰水大口喝。"
+      },
+      {
+        "level": "medium",
+        "english": "It's so hot outside. I've been drinking water all day, but I'm still thirsty.",
+        "chinese": "外面太热了。我一整天都在喝水，可还是觉得渴。",
+        "scene": "酷暑天回到家，又倒了一杯水，对家人抱怨这天气。"
+      },
+      {
+        "level": "long",
+        "english": "We were sitting on the porch, drinking iced tea and watching the sunset. It was one of those perfect summer evenings that you never want to end.",
+        "chinese": "我们坐在门廊上，喝着冰茶看日落。那是一个你永远不想结束的完美夏夜。",
+        "scene": "夏夜，和伴侣或好友在门廊的摇椅上，静静享受一天中最惬意的时刻。"
+      }
+    ]
+  },
+  {
+    "word": "sleeping",
+    "phonetic": "/ˈsliːpɪŋ/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "睡觉",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The baby is sleeping peacefully.",
+        "chinese": "宝宝睡得正香。",
+        "scene": "婴儿房里，宝宝在小床上安详地睡着，父母轻声说话。"
+      },
+      {
+        "level": "medium",
+        "english": "I was sleeping so deeply that I didn't hear the alarm clock at all.",
+        "chinese": "我睡得太沉了，完全没听到闹钟响。",
+        "scene": "早上醒来发现睡过头，慌张地看手机，意识到闹钟响了很久。"
+      },
+      {
+        "level": "long",
+        "english": "My cat spends most of the day sleeping in a warm sunbeam. When she finally wakes up, she stretches and then goes right back to sleep.",
+        "chinese": "我的猫一天中大部分时间都在温暖的阳光里睡觉。等它终于醒了，伸个懒腰，然后又回去接着睡了。",
+        "scene": "周日下午，看着猫咪在地板上的一束阳光中慵懒地打盹。"
+      }
+    ]
+  },
+  {
+    "word": "each",
+    "phonetic": "/iːtʃ/",
+    "part_of_speech": "determiner, pronoun",
+    "chinese_meaning": "每个",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Each child gets a balloon.",
+        "chinese": "每个孩子都得到一个气球。",
+        "scene": "派对上，分发气球，确保人手一个。"
+      },
+      {
+        "level": "medium",
+        "english": "I gave each of my friends a small gift for their birthday.",
+        "chinese": "我给每位朋友都准备了一份小小的生日礼物。",
+        "scene": "在朋友生日聚会上，你把精心包装的小礼盒一一递给他们。"
+      },
+      {
+        "level": "long",
+        "english": "We interviewed each candidate carefully over two days. Each person brought something unique to the table, but in the end we had to choose only one.",
+        "chinese": "我们花了两天时间仔细面试了每位候选人。每个人都带来了独特的优势，但最终我们只能选择一个。",
+        "scene": "公司会议室里，面试结束后面试官们讨论着各位候选人的表现。"
+      }
+    ]
+  },
+  {
+    "word": "each other",
+    "phonetic": "/iːtʃ ˈʌðər/",
+    "part_of_speech": "pronoun",
+    "chinese_meaning": "互相",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "They often help each other.",
+        "chinese": "他们经常互相帮助。",
+        "scene": "两个同学在课间一起讨论难题，关系融洽。"
+      },
+      {
+        "level": "medium",
+        "english": "My sister and I used to fight, but now we really understand each other.",
+        "chinese": "我和妹妹以前老打架，但现在我们真正能互相理解了。",
+        "scene": "长大后的一次谈心，回忆起小时候的吵闹，觉得现在关系更好了。"
+      },
+      {
+        "level": "long",
+        "english": "After the team won the championship, the players hugged each other and cried. It was a moment of pure joy that they had worked for all season.",
+        "chinese": "队伍赢得冠军后，队员们互相拥抱并激动落泪。那是他们一整个赛季努力换来的纯粹喜悦时刻。",
+        "scene": "决赛结束的哨声响起，球场中央队员们紧紧相拥，看台上的欢呼声震耳欲聋。"
+      }
+    ]
+  },
+  {
+    "word": "excited",
+    "phonetic": "/ɪkˈsaɪtɪd/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "兴奋的，激动的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I am so excited about tomorrow.",
+        "chinese": "我对明天感到特别兴奋。",
+        "scene": "晚上睡前，想到第二天要去游乐场，激动得睡不着。"
+      },
+      {
+        "level": "medium",
+        "english": "The kids are excited about the trip to the zoo tomorrow.",
+        "chinese": "孩子们对明天去动物园的旅行兴奋不已。",
+        "scene": "餐桌上，孩子们手舞足蹈地讨论明天要看的动物。"
+      },
+      {
+        "level": "long",
+        "english": "When I got the job offer, I was so excited that I called my mom immediately. She started crying because she was so happy for me.",
+        "chinese": "收到工作录取通知时，我激动得立刻给妈妈打了电话。她高兴得哭了，因为太为我开心了。",
+        "scene": "挂掉面试公司的电话后，手颤抖着拨通妈妈的号码，分享好消息。"
+      }
+    ]
+  },
+  {
+    "word": "like",
+    "phonetic": "/laɪk/",
+    "part_of_speech": "verb, preposition",
+    "chinese_meaning": "喜欢；像",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I really like your new shoes.",
+        "chinese": "我非常喜欢你的新鞋。",
+        "scene": "在学校走廊遇见同学，注意到对方换了新鞋，由衷赞美。"
+      },
+      {
+        "level": "medium",
+        "english": "Do you like this song? It's my favorite right now.",
+        "chinese": "你喜欢这首歌吗？这是我目前的最爱。",
+        "scene": "在车里用手机连蓝牙放歌，分享自己最近单曲循环的歌。"
+      },
+      {
+        "level": "long",
+        "english": "My new phone case looks exactly like a vintage book. Whenever I pull it out, people do a double take and say, 'Is that a real book?'",
+        "chinese": "我的新手机壳看起来就像一本古董书。每次我把它掏出来，人们都会惊讶地多看一眼，问：“那是真书吗？”",
+        "scene": "在咖啡店里，把手机放在桌上，旁边的顾客好奇地盯着看，忍不住发问。"
+      }
+    ]
+  }
+]

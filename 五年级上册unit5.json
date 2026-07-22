@@ -1,6 +1,652 @@
-{
-  "grade": "五年级",
-  "term": "上册",
-  "unit": "unit5",
-  "words": []
-}
+[
+  {
+    "word": "clock",
+    "phonetic": "/klɑːk/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "时钟",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The clock on the wall is slow.",
+        "chinese": "墙上的钟慢了。",
+        "scene": "注意到时间不准"
+      },
+      {
+        "level": "medium",
+        "english": "I kept looking at the clock during the boring meeting.",
+        "chinese": "在那个无聊的会议上我不停地看时钟。",
+        "scene": "难熬的会议中"
+      },
+      {
+        "level": "long",
+        "english": "My grandmother's old grandfather clock chimes every hour, and the sound reminds me of spending summers at her house.",
+        "chinese": "我奶奶的老式落地钟每小时都敲响，那声音让我想起在她家度过的夏天。",
+        "scene": "怀旧的钟声"
+      }
+    ]
+  },
+  {
+    "word": "plant",
+    "phonetic": "/plænt/",
+    "part_of_speech": "noun, verb",
+    "chinese_meaning": "植物；种植",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I water my plant every day.",
+        "chinese": "我每天给我的植物浇水。",
+        "scene": "日常照料绿植"
+      },
+      {
+        "level": "medium",
+        "english": "She has a beautiful plant on her desk that brightens up the whole room.",
+        "chinese": "她桌上有一盆漂亮的植物，让整个房间都明亮起来。",
+        "scene": "办公桌上的绿意"
+      },
+      {
+        "level": "long",
+        "english": "I tried to grow a tomato plant on my balcony last summer, but the squirrels kept digging it up before it could produce any fruit.",
+        "chinese": "去年夏天我试图在阳台上种一棵番茄，但松鼠总是在它结果之前把它挖出来。",
+        "scene": "阳台种植的挫折"
+      }
+    ]
+  },
+  {
+    "word": "bottle",
+    "phonetic": "/ˈbɑːtl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "瓶子",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can you open this bottle for me?",
+        "chinese": "你能帮我打开这个瓶子吗？",
+        "scene": "拧不开瓶盖求助"
+      },
+      {
+        "level": "medium",
+        "english": "I always carry a reusable bottle to avoid buying plastic ones.",
+        "chinese": "我总是带一个可重复使用的瓶子，以免买塑料瓶。",
+        "scene": "环保的习惯"
+      },
+      {
+        "level": "long",
+        "english": "I found an old message in a bottle on the beach, and even though it was faded and hard to read, it felt like discovering treasure.",
+        "chinese": "我在沙滩上发现了一个漂流瓶里的旧纸条，虽然字迹模糊难以辨认，但感觉就像发现了宝藏。",
+        "scene": "沙滩上的意外发现"
+      }
+    ]
+  },
+  {
+    "word": "water bottle",
+    "phonetic": "/ˈwɔːtər bɑːtl/",
+    "part_of_speech": "noun phrase",
+    "chinese_meaning": "水壶；水瓶",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Don't forget your water bottle.",
+        "chinese": "别忘了你的水瓶。",
+        "scene": "出门前的提醒"
+      },
+      {
+        "level": "medium",
+        "english": "My water bottle is made of stainless steel and keeps drinks cold for hours.",
+        "chinese": "我的水瓶是不锈钢做的，能保冷好几个小时。",
+        "scene": "介绍保温水瓶"
+      },
+      {
+        "level": "long",
+        "english": "During the hike, I realized I had left my water bottle in the car, so I had to share my friend's and felt terrible about it.",
+        "chinese": "徒步时我意识到把水瓶落在车里了，只好和朋友分享他的，感觉很不好意思。",
+        "scene": "徒步忘带水的尴尬"
+      }
+    ]
+  },
+  {
+    "word": "bike",
+    "phonetic": "/baɪk/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "自行车",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I ride my bike to school.",
+        "chinese": "我骑自行车上学。",
+        "scene": "日常通勤方式"
+      },
+      {
+        "level": "medium",
+        "english": "My dad taught me how to ride a bike without training wheels in one afternoon.",
+        "chinese": "我爸爸用一个下午就教会了我不用辅助轮骑自行车。",
+        "scene": "学骑车的记忆"
+      },
+      {
+        "level": "long",
+        "english": "I bought a second-hand bike for cheap, fixed it up with some new tires and paint, and now it's my favorite way to get around town.",
+        "chinese": "我便宜买了一辆二手自行车，换了新轮胎、重新喷了漆，现在它是我在城里出行的最爱方式。",
+        "scene": "修复旧车的成就感"
+      }
+    ]
+  },
+  {
+    "word": "photo",
+    "phonetic": "/ˈfoʊtoʊ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "照片",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's take a photo together.",
+        "chinese": "我们一起照张相吧。",
+        "scene": "提议合影"
+      },
+      {
+        "level": "medium",
+        "english": "I have a photo of my family on my desk to remind me of home.",
+        "chinese": "我桌上放着一张全家福，提醒我想家。",
+        "scene": "办公桌上的亲情"
+      },
+      {
+        "level": "long",
+        "english": "While cleaning the attic, I found a photo of my parents on their first date, and they looked so young and happy.",
+        "chinese": "清理阁楼时，我找到一张父母第一次约会时的照片，他们看起来那么年轻、幸福。",
+        "scene": "发现老照片的惊喜"
+      }
+    ]
+  },
+  {
+    "word": "front",
+    "phonetic": "/frʌnt/",
+    "part_of_speech": "noun, adjective",
+    "chinese_meaning": "前面；前面的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Please stand in the front.",
+        "chinese": "请站到前面来。",
+        "scene": "集合整队"
+      },
+      {
+        "level": "medium",
+        "english": "There's a beautiful garden in front of the house.",
+        "chinese": "房子前面有一个美丽的花园。",
+        "scene": "描述房屋外观"
+      },
+      {
+        "level": "long",
+        "english": "I was sitting in the front row of the concert, and when the singer reached out to touch my hand, I almost fainted.",
+        "chinese": "我坐在音乐会的前排，当歌手伸手来碰我的手时，我差点晕过去。",
+        "scene": "演唱会激动时刻"
+      }
+    ]
+  },
+  {
+    "word": "in front of",
+    "phonetic": "/ɪn frʌnt ʌv/",
+    "part_of_speech": "preposition phrase",
+    "chinese_meaning": "在...前面",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Don't park in front of the gate.",
+        "chinese": "别在门前停车。",
+        "scene": "提醒不要挡道"
+      },
+      {
+        "level": "medium",
+        "english": "The kids are playing in front of the school, waiting for their parents.",
+        "chinese": "孩子们在学校前面玩耍，等着家长来接。",
+        "scene": "放学后的场景"
+      },
+      {
+        "level": "long",
+        "english": "I had to give a speech in front of the whole class, and my hands were shaking so badly that I could barely hold the paper.",
+        "chinese": "我必须在全班面前演讲，我的手抖得厉害，几乎拿不住稿纸。",
+        "scene": "紧张的演讲"
+      }
+    ]
+  },
+  {
+    "word": "between",
+    "phonetic": "/bɪˈtwiːn/",
+    "part_of_speech": "preposition",
+    "chinese_meaning": "在...之间",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The secret is between you and me.",
+        "chinese": "这个秘密只有你我知道。",
+        "scene": "悄悄话"
+      },
+      {
+        "level": "medium",
+        "english": "I sat between my mom and dad at the dinner table.",
+        "chinese": "晚餐时我坐在妈妈和爸爸中间。",
+        "scene": "家庭晚餐"
+      },
+      {
+        "level": "long",
+        "english": "There's a narrow path between the two houses that leads to a hidden garden, and we used to play there as kids.",
+        "chinese": "两栋房子之间有一条狭窄的小路通向一个隐蔽的花园，我们小时候常在那里玩。",
+        "scene": "童年秘密基地"
+      }
+    ]
+  },
+  {
+    "word": "above",
+    "phonetic": "/əˈbʌv/",
+    "part_of_speech": "preposition, adverb",
+    "chinese_meaning": "在...上方；在上面",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The birds are flying above us.",
+        "chinese": "鸟儿在我们头顶飞。",
+        "scene": "仰望天空"
+      },
+      {
+        "level": "medium",
+        "english": "The clock above the fireplace is an antique from my great-grandmother.",
+        "chinese": "壁炉上方的钟是我曾祖母传下来的古董。",
+        "scene": "传家宝的故事"
+      },
+      {
+        "level": "long",
+        "english": "We heard a strange noise coming from the apartment above us at midnight, like someone was moving heavy furniture around.",
+        "chinese": "半夜我们听到楼上公寓传来奇怪的声音，好像有人在搬重家具。",
+        "scene": "楼上的噪音"
+      }
+    ]
+  },
+  {
+    "word": "beside",
+    "phonetic": "/bɪˈsaɪd/",
+    "part_of_speech": "preposition",
+    "chinese_meaning": "在...旁边",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Come sit beside me.",
+        "chinese": "过来坐我旁边。",
+        "scene": "邀请亲近"
+      },
+      {
+        "level": "medium",
+        "english": "There's a lovely little coffee shop beside the bookstore downtown.",
+        "chinese": "市中心书店旁边有一家可爱的小咖啡店。",
+        "scene": "推荐好去处"
+      },
+      {
+        "level": "long",
+        "english": "During the long flight, I was lucky to have an empty seat beside me, so I could stretch out and get some sleep.",
+        "chinese": "长途飞行中，我旁边幸运地有个空位，所以我能伸展开来睡一会儿。",
+        "scene": "飞机上的小确幸"
+      }
+    ]
+  },
+  {
+    "word": "behind",
+    "phonetic": "/bɪˈhaɪnd/",
+    "part_of_speech": "preposition, adverb",
+    "chinese_meaning": "在...后面",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The cat is hiding behind the sofa.",
+        "chinese": "猫躲在沙发后面。",
+        "scene": "寻找宠物"
+      },
+      {
+        "level": "medium",
+        "english": "Someone left a surprise gift behind the door for my birthday.",
+        "chinese": "有人把一份惊喜礼物放在门后给我过生日。",
+        "scene": "生日惊喜"
+      },
+      {
+        "level": "long",
+        "english": "I felt someone tap me on the shoulder, but when I turned around, there was nobody there; later I found out my brother was hiding behind the curtain.",
+        "chinese": "我感觉有人拍我肩膀，但转过身却没看到人，后来发现我弟弟躲在窗帘后面。",
+        "scene": "恶作剧"
+      }
+    ]
+  },
+  {
+    "word": "there",
+    "phonetic": "/ðer/",
+    "part_of_speech": "adverb",
+    "chinese_meaning": "在那里",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'll be there in a minute.",
+        "chinese": "我马上就到。",
+        "scene": "催促进度"
+      },
+      {
+        "level": "medium",
+        "english": "There's a fantastic taco truck over there that we need to try.",
+        "chinese": "那边有一辆很棒的墨西哥卷饼卡车，我们得去尝尝。",
+        "scene": "发现美食"
+      },
+      {
+        "level": "long",
+        "english": "When we finally got there after a twelve-hour drive, the cabin was even more beautiful than in the pictures, and the view took my breath away.",
+        "chinese": "我们开了十二个小时车终于到了那里，小木屋比照片上还美，景色让我屏住了呼吸。",
+        "scene": "抵达目的地"
+      }
+    ]
+  },
+  {
+    "word": "grandparent",
+    "phonetic": "/ˈɡrænperənt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "（外）祖父/母",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My grandparents live in the countryside.",
+        "chinese": "我的爷爷奶奶住在乡下。",
+        "scene": "介绍家庭"
+      },
+      {
+        "level": "medium",
+        "english": "Every summer, I visit my grandparents and help them in the garden.",
+        "chinese": "每年夏天，我都去看望祖父母并帮他们料理花园。",
+        "scene": "暑假探亲"
+      },
+      {
+        "level": "long",
+        "english": "My grandmother tells the best stories about what life was like when she was young, and I could listen to her for hours.",
+        "chinese": "我奶奶最会讲她年轻时候生活是什么样的，我听她讲几个小时都不腻。",
+        "scene": "听奶奶讲过去"
+      }
+    ]
+  },
+  {
+    "word": "their",
+    "phonetic": "/ðer/",
+    "part_of_speech": "determiner",
+    "chinese_meaning": "他们的；她们的；它们的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "That's their new house.",
+        "chinese": "那是他们的新房子。",
+        "scene": "指认邻居家"
+      },
+      {
+        "level": "medium",
+        "english": "The children left their toys all over the floor again.",
+        "chinese": "孩子们又把玩具扔得满地都是。",
+        "scene": "收拾房间的无奈"
+      },
+      {
+        "level": "long",
+        "english": "My neighbors are so kind; their garden is always full of flowers, and they share fresh vegetables with the whole street.",
+        "chinese": "我的邻居非常和善，他们的花园总是开满鲜花，而且他们会和整条街分享新鲜蔬菜。",
+        "scene": "好邻居"
+      }
+    ]
+  },
+  {
+    "word": "house",
+    "phonetic": "/haʊs/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "房子；住宅",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I love your house!",
+        "chinese": "我喜欢你的房子！",
+        "scene": "做客时的赞美"
+      },
+      {
+        "level": "medium",
+        "english": "We're painting the house this weekend, so it looks brand new.",
+        "chinese": "这个周末我们粉刷房子，让它看起来焕然一新。",
+        "scene": "家庭装修计划"
+      },
+      {
+        "level": "long",
+        "english": "When we bought this old house, it was falling apart, but after two years of hard work, it finally feels like home.",
+        "chinese": "我们买下这栋老房子时它都快散架了，但经过两年的努力，终于有了家的感觉。",
+        "scene": "老房改造的满足"
+      }
+    ]
+  },
+  {
+    "word": "lot",
+    "phonetic": "/lɑːt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "一块地；场地；大量",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The parking lot is full.",
+        "chinese": "停车场满了。",
+        "scene": "找车位"
+      },
+      {
+        "level": "medium",
+        "english": "We need a lot of volunteers for the event.",
+        "chinese": "这个活动我们需要很多志愿者。",
+        "scene": "招募帮手"
+      },
+      {
+        "level": "long",
+        "english": "The empty lot next door is finally being turned into a community garden.",
+        "chinese": "隔壁的空地终于要被改造成社区花园了。",
+        "scene": "社区改造"
+      }
+    ]
+  },
+  {
+    "word": "lots of",
+    "phonetic": "/lɑːts ʌv/",
+    "part_of_speech": "quantifier phrase",
+    "chinese_meaning": "许多；大量",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I have lots of homework tonight.",
+        "chinese": "我今晚有很多作业。",
+        "scene": "抱怨作业多"
+      },
+      {
+        "level": "medium",
+        "english": "There were lots of people at the festival, but the atmosphere was great.",
+        "chinese": "节日活动上人山人海，但气氛很棒。",
+        "scene": "热闹的节日"
+      },
+      {
+        "level": "long",
+        "english": "We planted lots of flowers in the backyard, and now it's full of butterflies and bees, which makes me really happy.",
+        "chinese": "我们在后院种了很多花，现在那里满是蝴蝶和蜜蜂，这让我很开心。",
+        "scene": "花园的回报"
+      }
+    ]
+  },
+  {
+    "word": "flower",
+    "phonetic": "/ˈflaʊər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "花",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I picked a flower for you.",
+        "chinese": "我为你摘了一朵花。",
+        "scene": "献上小礼物"
+      },
+      {
+        "level": "medium",
+        "english": "She received a beautiful bouquet of flowers on her birthday.",
+        "chinese": "她生日时收到了一束漂亮的鲜花。",
+        "scene": "生日礼物"
+      },
+      {
+        "level": "long",
+        "english": "Every spring, the flowers in the park bloom and turn the whole area into a colorful wonderland.",
+        "chinese": "每年春天，公园里的花盛开，把整个地方变成了五彩缤纷的仙境。",
+        "scene": "春日赏花"
+      }
+    ]
+  },
+  {
+    "word": "move",
+    "phonetic": "/muːv/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "移动；搬家；感动",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Help me move this table.",
+        "chinese": "帮我挪一下这张桌子。",
+        "scene": "搬家具求助"
+      },
+      {
+        "level": "medium",
+        "english": "We're going to move to a new apartment next month.",
+        "chinese": "下个月我们要搬去新公寓了。",
+        "scene": "预告搬家"
+      },
+      {
+        "level": "long",
+        "english": "The movie's ending was so touching that it moved me to tears, and I couldn't stop thinking about it for days.",
+        "chinese": "电影的结尾太感人了，我感动得流泪，之后好几天都无法停止回想。",
+        "scene": "电影催泪"
+      }
+    ]
+  },
+  {
+    "word": "dirty",
+    "phonetic": "/ˈdɜːrti/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "脏的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Your hands are dirty. Go wash them.",
+        "chinese": "你的手脏了，去洗洗。",
+        "scene": "卫生提醒"
+      },
+      {
+        "level": "medium",
+        "english": "After playing soccer in the rain, our clothes were so dirty that my mom sighed.",
+        "chinese": "在雨中踢完足球，我们的衣服脏透了，妈妈叹了口气。",
+        "scene": "玩耍后的狼狈"
+      },
+      {
+        "level": "long",
+        "english": "I left my white sneakers outside, and after the storm they were so dirty that I had to throw them in the washing machine twice.",
+        "chinese": "我把白球鞋放在了外面，暴风雨后它们脏得不行，我不得不用洗衣机洗了两遍。",
+        "scene": "白鞋变黑"
+      }
+    ]
+  },
+  {
+    "word": "everywhere",
+    "phonetic": "/ˈevriwer/",
+    "part_of_speech": "adverb",
+    "chinese_meaning": "到处；处处",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I looked for you everywhere.",
+        "chinese": "我到处找你。",
+        "scene": "寻找失踪的人"
+      },
+      {
+        "level": "medium",
+        "english": "There are toys everywhere in the living room because the kids were playing.",
+        "chinese": "客厅里到处都是玩具，因为孩子们在玩。",
+        "scene": "儿童玩耍后的战场"
+      },
+      {
+        "level": "long",
+        "english": "During cherry blossom season, the streets are covered in pink petals, and it looks like a scene from a fairy tale everywhere you go.",
+        "chinese": "樱花季时，街道上铺满了粉色花瓣，不管你走到哪里都像童话里的场景。",
+        "scene": "樱花季的浪漫"
+      }
+    ]
+  },
+  {
+    "word": "mouse",
+    "phonetic": "/maʊs/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "老鼠；鼠标",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I saw a mouse in the kitchen!",
+        "chinese": "我在厨房看到一只老鼠！",
+        "scene": "惊慌失措"
+      },
+      {
+        "level": "medium",
+        "english": "My computer mouse stopped working, so I have to use the trackpad.",
+        "chinese": "我的鼠标坏了，只好用触摸板。",
+        "scene": "设备故障"
+      },
+      {
+        "level": "long",
+        "english": "We tried to catch the mouse humanely with a trap and released it in the field far from our house.",
+        "chinese": "我们试着用人道的捕鼠笼捉住了老鼠，并把它放生到了离家很远的田野里。",
+        "scene": "人道捕鼠"
+      }
+    ]
+  },
+  {
+    "word": "live",
+    "phonetic": "/lɪv/ (verb), /laɪv/ (adj)",
+    "part_of_speech": "verb, adjective",
+    "chinese_meaning": "居住；生活；现场的（直播）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Where do you live?",
+        "chinese": "你住在哪里？",
+        "scene": "询问住址"
+      },
+      {
+        "level": "medium",
+        "english": "I've been living in this city for five years and I love it.",
+        "chinese": "我在这座城市住了五年了，我很喜欢它。",
+        "scene": "表达对城市的感情"
+      },
+      {
+        "level": "long",
+        "english": "I want to live in a small town by the sea when I retire, where I can hear the waves every morning.",
+        "chinese": "我退休后想住在海边的小镇，每天早上都能听到海浪声。",
+        "scene": "退休梦想"
+      }
+    ]
+  },
+  {
+    "word": "nature",
+    "phonetic": "/ˈneɪtʃər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "自然；天性",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I love spending time in nature.",
+        "chinese": "我喜欢待在大自然里。",
+        "scene": "爱好户外"
+      },
+      {
+        "level": "medium",
+        "english": "Hiking in nature is a great way to clear your mind and reduce stress.",
+        "chinese": "在大自然中徒步是理清思绪、减压的好方法。",
+        "scene": "解压方式"
+      },
+      {
+        "level": "long",
+        "english": "It's in her nature to help others; she's the first person to volunteer whenever someone needs assistance.",
+        "chinese": "帮助他人是她的天性，每当有人需要帮助时，她总是第一个站出来。",
+        "scene": "乐于助人的天性"
+      }
+    ]
+  }
+]

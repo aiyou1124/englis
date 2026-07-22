@@ -1,6 +1,626 @@
-{
-  "grade": "五年级",
-  "term": "下册",
-  "unit": "unit6",
-  "words": []
-}
+[
+  {
+    "word": "doing morning exercises",
+    "phonetic": "/ˈduːɪŋ ˈmɔːrnɪŋ ˈeksərsaɪzɪz/",
+    "part_of_speech": "verb phrase",
+    "chinese_meaning": "做早操",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "They are doing morning exercises in the park.",
+        "chinese": "他们正在公园里做早操。",
+        "scene": "清晨的公园里，一群老人伴着音乐缓缓活动身体。"
+      },
+      {
+        "level": "medium",
+        "english": "My grandparents have been doing morning exercises together for over 20 years.",
+        "chinese": "我的爷爷奶奶一起做早操已经20多年了。",
+        "scene": "看着窗外楼下爷爷奶奶肩并肩打太极，感叹他们多年的坚持。"
+      },
+      {
+        "level": "long",
+        "english": "Every day at 7 a.m., you can see a group of people doing morning exercises by the lake. They move slowly and quietly, and it's a beautiful way to start the day.",
+        "chinese": "每天早上7点，你都能看到一群人在湖边做早操。他们的动作缓慢而安静，这是开启一天的美好方式。",
+        "scene": "晨跑时路过湖边，被这群专注锻炼的人所吸引。"
+      }
+    ]
+  },
+  {
+    "word": "having ... class",
+    "phonetic": "/ˈhævɪŋ ... klæs/",
+    "part_of_speech": "verb phrase",
+    "chinese_meaning": "上……课",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We are having art class now.",
+        "chinese": "我们现在正在上美术课。",
+        "scene": "教室里，孩子们正拿着画笔认真地画画。"
+      },
+      {
+        "level": "medium",
+        "english": "I can't talk right now because I'm having an online English class.",
+        "chinese": "我现在不能说话，因为我正在上英语网课。",
+        "scene": "朋友打来电话，你小声接听，指了指屏幕上的网课界面。"
+      },
+      {
+        "level": "long",
+        "english": "When the fire alarm went off, we were having a history class about ancient Rome. Everyone was so confused, but the teacher stayed calm and told us to leave quickly.",
+        "chinese": "火警响起时，我们正在上关于古罗马的历史课。大家都很困惑，但老师保持冷静，让我们迅速撤离。",
+        "scene": "学校消防演习，刺耳的警报声突然打断了生动的历史课。"
+      }
+    ]
+  },
+  {
+    "word": "eating lunch",
+    "phonetic": "/ˈiːtɪŋ lʌntʃ/",
+    "part_of_speech": "verb phrase",
+    "chinese_meaning": "吃午饭",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She is eating lunch outside.",
+        "chinese": "她正在外面吃午饭。",
+        "scene": "天气好，同事在办公楼外的长椅上独自享用便当。"
+      },
+      {
+        "level": "medium",
+        "english": "I was eating lunch at my desk when you called me earlier.",
+        "chinese": "你之前打电话来时，我正在办公桌前吃午饭。",
+        "scene": "中午边啃三明治边工作，突然接到电话。"
+      },
+      {
+        "level": "long",
+        "english": "We usually enjoy eating lunch together in the break room, sharing stories about our morning and laughing about silly mistakes we made.",
+        "chinese": "我们通常一起在休息室开心地吃午饭，分享早上的趣事，嘲笑自己犯的傻错。",
+        "scene": "公司休息室里，同事们围坐在一起，午饭时间充满欢声笑语。"
+      }
+    ]
+  },
+  {
+    "word": "reading a book",
+    "phonetic": "/ˈriːdɪŋ ə bʊk/",
+    "part_of_speech": "verb phrase",
+    "chinese_meaning": "看书",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "He is reading a book under the tree.",
+        "chinese": "他正在树下看书。",
+        "scene": "校园草坪上，一个男生倚着树干专注地阅读。"
+      },
+      {
+        "level": "medium",
+        "english": "On rainy weekends, I love reading a book on the sofa with a cup of hot tea.",
+        "chinese": "下雨的周末，我喜欢窝在沙发里，喝着热茶看书。",
+        "scene": "窗外细雨蒙蒙，你在客厅沙发上裹着毯子享受阅读时光。"
+      },
+      {
+        "level": "long",
+        "english": "Last night, I was reading a book that was so thrilling I couldn't put it down. I ended up finishing it at 3 a.m., and now I'm totally exhausted.",
+        "chinese": "昨晚我在看一本惊心动魄的书，根本停不下来。最后凌晨三点看完，现在我困得要命。",
+        "scene": "早上顶着黑眼圈跟朋友抱怨，昨晚又没忍住熬夜看小说了。"
+      }
+    ]
+  },
+  {
+    "word": "listening to music",
+    "phonetic": "/ˈlɪsənɪŋ tə ˈmjuːzɪk/",
+    "part_of_speech": "verb phrase",
+    "chinese_meaning": "听音乐",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She is listening to music now.",
+        "chinese": "她正在听音乐。",
+        "scene": "地铁上，一个女孩戴着耳机，沉浸在自己的世界里。"
+      },
+      {
+        "level": "medium",
+        "english": "I usually go for a run while listening to music. It gives me energy.",
+        "chinese": "我通常一边听音乐一边跑步。这会给我带来能量。",
+        "scene": "在公园跑步锻炼，耳朵里动感的节拍让你步伐轻盈。"
+      },
+      {
+        "level": "long",
+        "english": "Whenever I feel stressed, I spend an hour just lying on my bed, listening to music with my eyes closed. It's like a mini vacation for my brain.",
+        "chinese": "每当我感到压力大时，我就花一个小时躺在床上，闭着眼听音乐。这就像给大脑放了个迷你假期。",
+        "scene": "考完试或下班后疲惫不堪，关上房门用音乐给自己充电。"
+      }
+    ]
+  },
+  {
+    "word": "keep",
+    "phonetic": "/kiːp/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "保持；保留",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Please keep the door open.",
+        "chinese": "请让门开着。",
+        "scene": "搬家时两手抱着大箱子，对前面的人喊。"
+      },
+      {
+        "level": "medium",
+        "english": "I keep all my old letters in this box under the bed.",
+        "chinese": "我把所有旧信件都保存在床底下的这个盒子里。",
+        "scene": "大扫除时从床底拉出一个铁盒，里面装满了青春回忆。"
+      },
+      {
+        "level": "long",
+        "english": "My grandmother told me to keep this ring safe, and I promised her I would never lose it. It's been in our family for generations.",
+        "chinese": "奶奶让我保管好这枚戒指，我向她保证绝不会弄丢。它在我们家已经传了好几代了。",
+        "scene": "抚摸着手指上的传家宝戒指，想起奶奶的嘱托。"
+      }
+    ]
+  },
+  {
+    "word": "keep to the right",
+    "phonetic": "/kiːp tə ðə raɪt/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "靠右走；靠右侧",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Please keep to the right on the stairs.",
+        "chinese": "请在楼梯上靠右走。",
+        "scene": "学校楼梯口，老师提醒跑下楼的学生注意秩序。"
+      },
+      {
+        "level": "medium",
+        "english": "When you're driving in this country, remember to keep to the right.",
+        "chinese": "在这个国家开车时，记得要靠右行驶。",
+        "scene": "在国外租车自驾，朋友坐在副驾驶提醒交通规则。"
+      },
+      {
+        "level": "long",
+        "english": "In the busy subway station, there's an announcement always reminding people to keep to the right on the escalator so that others can walk past on the left.",
+        "chinese": "在繁忙的地铁站，广播总是提醒人们在自动扶梯上靠右站立，以便其他人从左边通过。",
+        "scene": "高峰期的地铁站，扶梯上人们自觉站成一列，留下左侧通道。"
+      }
+    ]
+  },
+  {
+    "word": "keep your desk clean",
+    "phonetic": "/kiːp jɔːr desk kliːn/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "保持书桌整洁",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Keep your desk clean, please.",
+        "chinese": "请保持桌面整洁。",
+        "scene": "放学前，班主任环视教室，点名提醒几个同学。"
+      },
+      {
+        "level": "medium",
+        "english": "Our teacher always reminds us to keep our desks clean before we go home.",
+        "chinese": "我们老师总是提醒我们放学回家前要整理干净书桌。",
+        "scene": "放学铃响后，大家迅速收拾书包，不忘把桌子擦干净。"
+      },
+      {
+        "level": "long",
+        "english": "I never realized how much easier it is to focus when I keep my desk clean. Now I spend five minutes tidying it up every evening before I leave the office.",
+        "chinese": "我从未意识到保持桌面整洁能让注意力集中这么多。现在我每天下班前都会花五分钟收拾干净。",
+        "scene": "看着焕然一新的办公桌，满意地关灯下班。"
+      }
+    ]
+  },
+  {
+    "word": "talk quietly",
+    "phonetic": "/tɔːk ˈkwaɪətli/",
+    "part_of_speech": "verb phrase",
+    "chinese_meaning": "轻声说话",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Please talk quietly in the library.",
+        "chinese": "在图书馆里请轻声说话。",
+        "scene": "图书馆里，管理员把食指放在嘴边示意几个聊天的学生。"
+      },
+      {
+        "level": "medium",
+        "english": "We had to talk quietly because the baby was sleeping in the next room.",
+        "chinese": "我们只得轻声说话，因为宝宝在隔壁房间睡觉。",
+        "scene": "客厅里，家人压低声音交流，生怕吵醒刚睡着的婴儿。"
+      },
+      {
+        "level": "long",
+        "english": "Even though we were at a fancy restaurant, the kids couldn't stop laughing. I had to remind them several times to talk quietly and not disturb the other guests.",
+        "chinese": "虽然我们在高级餐厅里，但孩子们还是忍不住大笑。我不得不几次提醒他们小声说话，别打扰其他客人。",
+        "scene": "西餐厅里，妈妈用严厉又无奈的眼神制止吵闹的孩子。"
+      }
+    ]
+  },
+  {
+    "word": "turn",
+    "phonetic": "/tɜːrn/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "转动；翻转；转向",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Turn left at the next corner.",
+        "chinese": "在下一个路口左转。",
+        "scene": "坐在副驾驶给开车的新手朋友指路。"
+      },
+      {
+        "level": "medium",
+        "english": "Can you turn down the music a little? I'm on the phone.",
+        "chinese": "你能把音乐关小一点吗？我在打电话。",
+        "scene": "室友功放音乐太大声，你捂着手机话筒向他示意。"
+      },
+      {
+        "level": "long",
+        "english": "When you finish cooking the pancake, you have to flip it high in the air. But last time I tried to turn it, it ended up on the floor.",
+        "chinese": "煎饼煎好时，你得把它高高抛起翻个面。但我上次试着翻的时候，它掉到了地上。",
+        "scene": "厨房里一片狼藉，你看着地上的煎饼哭笑不得地讲述翻面失败的经历。"
+      }
+    ]
+  },
+  {
+    "word": "take turns",
+    "phonetic": "/teɪk tɜːrnz/",
+    "part_of_speech": "verb phrase",
+    "chinese_meaning": "轮流",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's take turns on the swing.",
+        "chinese": "我们轮流荡秋千吧。",
+        "scene": "公园游乐场里，两个小朋友商量着分享秋千。"
+      },
+      {
+        "level": "medium",
+        "english": "My sister and I take turns washing the dishes after dinner.",
+        "chinese": "晚饭后，我和姐姐轮流洗碗。",
+        "scene": "厨房里，今天轮到你洗碗，姐姐在旁边擦桌子。"
+      },
+      {
+        "level": "long",
+        "english": "In our reading club, we take turns choosing the book for the month. This time it's my turn, and I picked a mystery novel that everyone seems excited about.",
+        "chinese": "在我们的读书俱乐部，我们轮流选每月读的书。这次轮到我了，我选了一本悬疑小说，大家似乎都很感兴趣。",
+        "scene": "读书会上，你兴奋地拿出自己选的书，观察大家的反应。"
+      }
+    ]
+  },
+  {
+    "word": "bamboo",
+    "phonetic": "/ˌbæmˈbuː/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "竹子",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I bought a bamboo plant today.",
+        "chinese": "我今天买了一盆竹子。",
+        "scene": "从花市回来，开心地向室友展示新买的盆栽。"
+      },
+      {
+        "level": "medium",
+        "english": "We planted some bamboo in the backyard, and now it's growing like crazy.",
+        "chinese": "我们在后院种了些竹子，现在它长得飞快。",
+        "scene": "看着后院墙角疯长的竹子，你担心它很快就会侵占整个院子。"
+      },
+      {
+        "level": "long",
+        "english": "The furniture in that shop is all made from bamboo. It looks simple and elegant, and it's also very good for the environment.",
+        "chinese": "那家店的家具全是用竹子做的。看起来简约又雅致，而且还很环保。",
+        "scene": "逛家居店时，被一套竹制桌椅吸引，向同行朋友安利。"
+      }
+    ]
+  },
+  {
+    "word": "its",
+    "phonetic": "/ɪts/",
+    "part_of_speech": "possessive determiner",
+    "chinese_meaning": "它的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The cat is licking its paws.",
+        "chinese": "那只猫正在舔它的爪子。",
+        "scene": "窗台上，猫咪饭后认真洗脸，样子呆萌。"
+      },
+      {
+        "level": "medium",
+        "english": "The company is changing its logo. Have you seen the new design?",
+        "chinese": "那家公司要换它的标志了。你看到新设计了吗？",
+        "scene": "同事群里大家在热议公司换新Logo的事情。"
+      },
+      {
+        "level": "long",
+        "english": "That old tree in our yard is losing its leaves already, even though it's only early September. I hope it's okay.",
+        "chinese": "我们院里的那棵老树已经在落叶了，尽管现在才九月初。我希望它平安无事。",
+        "scene": "初秋的午后，你注意到院子里反常落叶，有些担忧。"
+      }
+    ]
+  },
+  {
+    "word": "show",
+    "phonetic": "/ʃoʊ/",
+    "part_of_speech": "verb, noun",
+    "chinese_meaning": "展示；节目",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Show me your new phone.",
+        "chinese": "给我看看你的新手机。",
+        "scene": "朋友买了新手机，你好奇地凑过去想看。"
+      },
+      {
+        "level": "medium",
+        "english": "She showed me a photo of her puppy. It was adorable.",
+        "chinese": "她给我看了她家小狗的照片。可爱极了。",
+        "scene": "午饭时，同事拿出手机翻出宠物照片分享。"
+      },
+      {
+        "level": "long",
+        "english": "My favorite TV show just released a new season, and I've been watching it all weekend. I can't wait to see what happens next.",
+        "chinese": "我最爱的电视剧新一季刚出，我一整个周末都在看。等不及想知道接下来会发生什么了。",
+        "scene": "周一上班，顶着轻微的黑眼圈跟同事聊周末的追剧成果。"
+      }
+    ]
+  },
+  {
+    "word": "anything",
+    "phonetic": "/ˈeniθɪŋ/",
+    "part_of_speech": "pronoun",
+    "chinese_meaning": "任何事物",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Do you need anything else?",
+        "chinese": "你还需要别的吗？",
+        "scene": "服务生在你点完餐后，微笑着询问。"
+      },
+      {
+        "level": "medium",
+        "english": "Is there anything I can do to help you with the project?",
+        "chinese": "有什么我能帮你做这个项目的吗？",
+        "scene": "看到同事为项目忙得焦头烂额，你主动询问是否需要帮忙。"
+      },
+      {
+        "level": "long",
+        "english": "She's so picky about food that she barely eats anything at the party. I felt bad, so I ordered her a plain cheese pizza later.",
+        "chinese": "她对食物太挑剔了，在派对上几乎没吃任何东西。我觉得很过意不去，后来给她点了个原味芝士披萨。",
+        "scene": "派对结束后，你单独给没吃饱的朋友点外卖。"
+      }
+    ]
+  },
+  {
+    "word": "else",
+    "phonetic": "/els/",
+    "part_of_speech": "adverb, adjective",
+    "chinese_meaning": "别的，其他的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Who else is coming to dinner?",
+        "chinese": "还有谁要来吃晚饭？",
+        "scene": "你在布置餐桌，问准备下厨的室友晚上的聚会规模。"
+      },
+      {
+        "level": "medium",
+        "english": "I don't want this one. Do you have anything else in blue?",
+        "chinese": "我不喜欢这件。你们还有别的蓝色的吗？",
+        "scene": "在服装店试衣服，不太满意手上的款式，向店员求助。"
+      },
+      {
+        "level": "long",
+        "english": "After we finished the main course, the waiter asked if we wanted anything else. We were so full, but we still decided to share a dessert.",
+        "chinese": "我们吃完主菜后，服务生问还想来点什么别的吗。我们明明很饱了，但还是决定合吃一份甜点。",
+        "scene": "餐厅里，虽然吃撑了，但翻开甜品单又忍不住食指大动。"
+      }
+    ]
+  },
+  {
+    "word": "exhibition",
+    "phonetic": "/ˌeksɪˈbɪʃən/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "展览",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The art exhibition opens tomorrow.",
+        "chinese": "艺术展明天开幕。",
+        "scene": "看到海报上写着开展日期，你兴奋地记在备忘录上。"
+      },
+      {
+        "level": "medium",
+        "english": "We went to a dinosaur exhibition at the museum last weekend. The kids loved it.",
+        "chinese": "上周末我们去博物馆看了恐龙展。孩子们喜欢极了。",
+        "scene": "周末亲子活动，巨大的恐龙骨架下孩子们惊叹不已。"
+      },
+      {
+        "level": "long",
+        "english": "There's a photography exhibition downtown that features pictures of abandoned buildings from around the world. It's both beautiful and a little sad.",
+        "chinese": "市中心有个摄影展，展出世界各地废弃建筑的照片。那些作品很美，但又带点伤感。",
+        "scene": "你在安静的画廊里驻足，面前是一张破败剧院的黑白照片。"
+      }
+    ]
+  },
+  {
+    "word": "say",
+    "phonetic": "/seɪ/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "说",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "What did you say?",
+        "chinese": "你刚才说什么？",
+        "scene": "周围环境太吵，你侧过耳朵让朋友再说一遍。"
+      },
+      {
+        "level": "medium",
+        "english": "My grandma always used to say, \"An apple a day keeps the doctor away.\"",
+        "chinese": "我奶奶过去总说：“一天一苹果，医生远离我。”",
+        "scene": "你拿起一个苹果，想起了奶奶的口头禅。"
+      },
+      {
+        "level": "long",
+        "english": "It's hard to say goodbye to a place you've lived in for ten years. I stood in the empty living room, trying to remember every little moment.",
+        "chinese": "很难向一个住了十年的地方说再见。我站在空荡荡的客厅里，努力记住每一个细小的瞬间。",
+        "scene": "搬家前的最后一天，环顾四周，心中满是不舍。"
+      }
+    ]
+  },
+  {
+    "word": "have a look",
+    "phonetic": "/hæv ə lʊk/",
+    "part_of_speech": "verb phrase",
+    "chinese_meaning": "看一看",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let me have a look at that.",
+        "chinese": "让我看看那个。",
+        "scene": "朋友手机出了故障，你伸手接过去准备检查一下。"
+      },
+      {
+        "level": "medium",
+        "english": "I'm not sure what's wrong with your computer. Can I have a look?",
+        "chinese": "我不确定你电脑出了什么问题。我能看一下吗？",
+        "scene": "同事电脑死机求助，你挽起袖子准备一探究竟。"
+      },
+      {
+        "level": "long",
+        "english": "When we went to the open house, we had a look around every room. The kitchen was so beautiful that I immediately started imagining myself cooking there.",
+        "chinese": "我们去参观待售房时，把每个房间都看了一遍。厨房漂亮极了，我立马开始想象自己在那里做饭的情景。",
+        "scene": "跟房产中介看房，走进厨房后两眼放光，已经开始幻想未来的生活。"
+      }
+    ]
+  },
+  {
+    "word": "sushi",
+    "phonetic": "/ˈsuːʃi/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "寿司",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I love sushi for lunch.",
+        "chinese": "我午饭喜欢吃寿司。",
+        "scene": "在便利店选购午餐，毫不犹豫地拿了一盒寿司拼盘。"
+      },
+      {
+        "level": "medium",
+        "english": "Let's go to that new sushi place downtown. I heard it's really fresh.",
+        "chinese": "我们去市中心那家新开的寿司店吧。听说那里的食材特别新鲜。",
+        "scene": "约朋友吃饭，你兴致勃勃地提议去打卡网红寿司店。"
+      },
+      {
+        "level": "long",
+        "english": "The first time I tried sushi, I was a little nervous about eating raw fish. But now it's one of my favorite foods, and I could eat it every day.",
+        "chinese": "第一次尝寿司时，我对于吃生鱼还有点紧张。但现在它是我最爱的美食之一，天天吃我都愿意。",
+        "scene": "在日料店熟练地用筷子夹起一块三文鱼，想起了当年那个不敢下口的自己。"
+      }
+    ]
+  },
+  {
+    "word": "teach",
+    "phonetic": "/tiːtʃ/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "教",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can you teach me this song?",
+        "chinese": "你能教我这首歌吗？",
+        "scene": "听到一首好听的曲子，你拉着会乐器的朋友想学。"
+      },
+      {
+        "level": "medium",
+        "english": "My dad taught me how to ride a bike when I was five.",
+        "chinese": "我五岁时，爸爸教会了我骑自行车。",
+        "scene": "看到小区里学车的孩子，想起了自己小时候父亲在身后扶着车座的情景。"
+      },
+      {
+        "level": "long",
+        "english": "I volunteered to teach English to kids at the community center last summer. It was challenging but also incredibly rewarding to see them improve.",
+        "chinese": "去年暑假，我志愿在社区中心教小孩子英语。虽然很有挑战性，但看到他们进步，收获感也满满的。",
+        "scene": "暑假结束时的最后一堂课，孩子们围着你送小卡片，你感动不已。"
+      }
+    ]
+  },
+  {
+    "word": "sure",
+    "phonetic": "/ʃʊr/",
+    "part_of_speech": "adjective, adverb",
+    "chinese_meaning": "肯定的；当然可以",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Are you sure about this?",
+        "chinese": "这件事你确定吗？",
+        "scene": "朋友做了个冲动的决定，你一脸担忧地再次确认。"
+      },
+      {
+        "level": "medium",
+        "english": "I'm not sure if I locked the door. Let me go back and check.",
+        "chinese": "我不确定我锁没锁门。我得回去看看。",
+        "scene": "刚开车出小区，你突然强迫症发作，准备掉头回家确认。"
+      },
+      {
+        "level": "long",
+        "english": "When my friend asked me to help him move, I said, \"Sure, no problem.\" Later I realized he lived on the fifth floor with no elevator, and I regretted it a little.",
+        "chinese": "朋友叫我帮忙搬家时，我说：“没问题，当然可以。”后来我发现他住五楼且没电梯，我稍微有点后悔。",
+        "scene": "站在堆满箱子的楼道里，你气喘吁吁地擦着汗，后悔自己答应得太爽快。"
+      }
+    ]
+  },
+  {
+    "word": "Canadian",
+    "phonetic": "/kəˈneɪdiən/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "加拿大的；加拿大人",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She is a Canadian teacher.",
+        "chinese": "她是一位加拿大老师。",
+        "scene": "班上来了位新外教，你向同桌介绍她的国籍。"
+      },
+      {
+        "level": "medium",
+        "english": "I'm planning a trip to the Canadian Rockies next summer. It looks stunning.",
+        "chinese": "我正计划明年夏天去加拿大落基山脉旅行。看起来美极了。",
+        "scene": "你在网上看到绝美的风景照，开始兴致勃勃地做旅行攻略。"
+      },
+      {
+        "level": "long",
+        "english": "Growing up in a small Canadian town, we used to play hockey on the frozen lake every winter. It was freezing, but we had so much fun that we never wanted to go inside.",
+        "chinese": "在加拿大小镇长大的时候，我们每个冬天都在结冰的湖面上打冰球。天冷极了，但我们玩得太开心，谁都不想回家。",
+        "scene": "温暖的壁炉旁，你翻看老照片，回忆童年加拿大的快乐冬天。"
+      }
+    ]
+  },
+  {
+    "word": "Spanish",
+    "phonetic": "/ˈspænɪʃ/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "西班牙的；西班牙语",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She can speak Spanish fluently.",
+        "chinese": "她能流利地说西班牙语。",
+        "scene": "聚会上，一位朋友用西语跟人聊天，旁人都很佩服。"
+      },
+      {
+        "level": "medium",
+        "english": "I'm learning Spanish on an app. It's hard, but I practice every day.",
+        "chinese": "我正在一个手机应用上学西班牙语。挺难的，但我每天都练。",
+        "scene": "利用通勤时间在App上闯关打卡，嘴里念念有词。"
+      },
+      {
+        "level": "long",
+        "english": "When I traveled to Barcelona, I realized my Spanish wasn't as good as I thought. But the locals were really patient and helped me order food by pointing at pictures.",
+        "chinese": "去巴塞罗那旅行时，我才意识到我的西班牙语没自己想的那么好。但当地人特别有耐心，帮着我指图片点餐。",
+        "scene": "在巴塞罗那街边小餐馆，你对着菜单一脸茫然，服务员笑着用手势帮你解围。"
+      }
+    ]
+  }
+]

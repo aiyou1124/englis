@@ -1,6 +1,808 @@
-{
-  "grade": "六年级",
-  "term": "上册",
-  "unit": "unit6",
-  "words": []
-}
+[
+  {
+    "word": "angry",
+    "phonetic": "/ˈæŋɡri/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "生气的；愤怒的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Don't be angry with me.",
+        "chinese": "别生我的气。",
+        "scene": "你不小心打翻了朋友的咖啡，赶紧抽纸巾给他，满脸歉意地说。"
+      },
+      {
+        "level": "medium",
+        "english": "My dad was really angry when he saw the scratch on his new car.",
+        "chinese": "我爸看到新车上那道划痕时，真的气坏了。",
+        "scene": "你缩在沙发角落里，小声跟妈妈描述刚才爸爸铁青的脸色。"
+      },
+      {
+        "level": "long",
+        "english": "I was so angry at the unfair situation that I couldn't sleep all night, but then I realized that staying angry wasn't going to fix anything, so I decided to write a calm letter of complaint instead.",
+        "chinese": "我对这不公的处境气坏了，整夜睡不着，但后来我意识到光生气解决不了问题，于是我决定写一封冷静的投诉信。",
+        "scene": "第二天顶着黑眼圈，你向同事讲述你的心路历程，并展示那封理性的邮件。"
+      }
+    ]
+  },
+  {
+    "word": "afraid",
+    "phonetic": "/əˈfreɪd/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "害怕的；担心的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'm afraid of spiders.",
+        "chinese": "我害怕蜘蛛。",
+        "scene": "墙角爬过一只小蜘蛛，你立刻跳到椅子上，指着它对室友尖叫。"
+      },
+      {
+        "level": "medium",
+        "english": "She was afraid to go down the big waterslide, but we cheered her on.",
+        "chinese": "她当时害怕滑那个大滑水道，但我们一直给她加油。",
+        "scene": "在泳池边，你拉着朋友的手，指着下面尖叫的孩子们鼓励她试试。"
+      },
+      {
+        "level": "long",
+        "english": "Moving to a new city alone, I was afraid of feeling lonely, but the first neighbor I met brought me homemade cookies, and that small kindness made all the fear disappear.",
+        "chinese": "独自搬到新城市，我害怕会孤独，但我遇到的第一个邻居就给我送了自制饼干，那份小小的善意让所有恐惧都消失了。",
+        "scene": "你在新家整理行李，吃着饼干，给妈妈打电话报平安时声音轻松了不少。"
+      }
+    ]
+  },
+  {
+    "word": "sad",
+    "phonetic": "/sæd/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "悲伤的；难过的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Why are you feeling sad?",
+        "chinese": "你为什么觉得难过？",
+        "scene": "看到孩子嘟着嘴坐在角落，你蹲下来轻声问他。"
+      },
+      {
+        "level": "medium",
+        "english": "That movie had such a sad ending that I cried all the way home.",
+        "chinese": "那部电影结尾太悲伤了，我一路哭回了家。",
+        "scene": "散场后，你红着眼眶，朋友递来纸巾，你不好意思地笑了笑。"
+      },
+      {
+        "level": "long",
+        "english": "It's normal to feel sad sometimes, but my mom always taught me to write down three good things that happened each day, and that little habit helps me get through the tough times.",
+        "chinese": "偶尔感到悲伤很正常，但我妈妈总教我每天写下三件发生的好事，这个小习惯帮我度过艰难时刻。",
+        "scene": "你在日记本上认真地记录着，朋友好奇地问你在写什么，你分享了这个暖心的方法。"
+      }
+    ]
+  },
+  {
+    "word": "worried",
+    "phonetic": "/ˈwɜːrid/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "担心的；焦虑的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "You look worried. What's wrong?",
+        "chinese": "你看上去很担心。怎么了？",
+        "scene": "在自习室看到朋友眉头紧锁，你放下笔，关切地问。"
+      },
+      {
+        "level": "medium",
+        "english": "I'm worried about my math test because I didn't have much time to study this week.",
+        "chinese": "我有点担心我的数学考试，因为这周我没多少时间复习。",
+        "scene": "考试前，你和同学在走廊上等着，小声说出了自己的焦虑。"
+      },
+      {
+        "level": "long",
+        "english": "When my cat got sick and stopped eating, I was so worried that I called the vet every few hours. They were super patient, and now my fluffy friend is back to chasing shadows on the wall.",
+        "chinese": "我的猫生病不吃东西时，我担心得每隔几小时就给兽医打电话。他们超级耐心，现在我家毛朋友又开始在墙上追影子了。",
+        "scene": "你抱着痊愈的猫坐在沙发上，跟来看望它的朋友笑着回忆那几天的焦灼。"
+      }
+    ]
+  },
+  {
+    "word": "happy",
+    "phonetic": "/ˈhæpi/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "快乐的；高兴的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'm so happy you're here!",
+        "chinese": "你来了我真高兴！",
+        "scene": "在机场到达厅，你一眼就看到了熟悉的身影，冲上去给了个大拥抱。"
+      },
+      {
+        "level": "medium",
+        "english": "We were just sitting in the park, eating ice cream, feeling perfectly happy.",
+        "chinese": "我们就坐在公园里，吃着冰淇淋，感觉无比快乐。",
+        "scene": "初夏的午后，阳光透过树叶洒下来，你舔着甜筒，对男朋友说这一刻想一直停留。"
+      },
+      {
+        "level": "long",
+        "english": "The happiest moment of my life wasn't anything big; it was just a rainy evening when my whole family squeezed onto the couch under a blanket and told silly stories until we all fell asleep.",
+        "chinese": "我生命中最快乐的时刻并不是什么大事，只是一个雨夜，全家人挤在沙发上盖着毯子，讲着傻乎乎的故事，直到我们都睡着了。",
+        "scene": "多年后翻到那张大家睡着的合照，你笑着对刚回家的伴侣回忆那个温馨的夜晚。"
+      }
+    ]
+  },
+  {
+    "word": "see a doctor",
+    "phonetic": "/siː ə ˈdɑːktər/",
+    "part_of_speech": "verb phrase",
+    "chinese_meaning": "看医生",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "You should see a doctor.",
+        "chinese": "你应该去看医生。",
+        "scene": "同事在办公室咳嗽得厉害，你拍了拍他的背，严肃地建议。"
+      },
+      {
+        "level": "medium",
+        "english": "I finally went to see a doctor about my knee, and it turns out I just need to rest it.",
+        "chinese": "我终于为了膝盖去看了医生，结果发现我只需要让它休息一下就好。",
+        "scene": "在茶水间，你端着一杯茶，对问你为什么走路一瘸一拐的同事解释。"
+      },
+      {
+        "level": "long",
+        "english": "My little brother hates going to see a doctor, so our mom has to bribe him with a new toy car every time. The last one was a blue race car that he now carries everywhere.",
+        "chinese": "我弟弟讨厌去看医生，所以我妈妈每次都得用一辆新的玩具车贿赂他。上回是一辆蓝色的赛车，他现在走哪都带着。",
+        "scene": "在儿科诊所，你看着弟弟紧紧攥着小汽车，一副大义凛然的样子，忍不住偷笑。"
+      }
+    ]
+  },
+  {
+    "word": "wear",
+    "phonetic": "/wer/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "穿；戴",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "What will you wear to the party?",
+        "chinese": "你穿什么去派对？",
+        "scene": "出门前，你对着满柜子衣服发愁，发信息问闺蜜。"
+      },
+      {
+        "level": "medium",
+        "english": "It's a bit chilly outside, so wear a light jacket, okay?",
+        "chinese": "外面有点凉，穿件薄外套，好不好？",
+        "scene": "妈妈在门口拦住正要冲出家门的孩子，递过一件夹克。"
+      },
+      {
+        "level": "long",
+        "english": "I decided to wear my grandmother's old ring on my wedding day. It's a little worn out, but having it on my finger felt like she was holding my hand through the whole ceremony.",
+        "chinese": "我决定在婚礼那天戴上奶奶的旧戒指。它有点旧了，但戴在手上，感觉她正握着我的手见证整个仪式。",
+        "scene": "婚礼前，你抚摸着那枚戒指，眼含泪光地对伴娘说。"
+      }
+    ]
+  },
+  {
+    "word": "more",
+    "phonetic": "/mɔːr/",
+    "part_of_speech": "adjective, adverb, pronoun",
+    "chinese_meaning": "更多的；更多",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I need more water, please.",
+        "chinese": "请再给我一点水。",
+        "scene": "在餐厅里，你举起空杯子，对路过的服务员示意。"
+      },
+      {
+        "level": "medium",
+        "english": "Could you tell me more about this project? I want to understand it fully.",
+        "chinese": "你能再跟我多说一些这个项目的情况吗？我想全面了解一下。",
+        "scene": "新同事对着一堆资料挠头，你主动走过去，搬了张椅子坐在他旁边。"
+      },
+      {
+        "level": "long",
+        "english": "Traveling alone taught me to be more patient with myself. I got lost in Tokyo for three hours, but instead of panicking, I just explored the neighborhood and found the best ramen shop.",
+        "chinese": "独自旅行教会了我对自己更有耐心。我在东京迷路了三个小时，但我没有慌张，而是探索了附近的街区，找到了最好吃的拉面店。",
+        "scene": "回到青旅，你兴奋地跟新认识的室友分享这次迷路带来的意外惊喜。"
+      }
+    ]
+  },
+  {
+    "word": "deep",
+    "phonetic": "/diːp/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "深的；深沉的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The water is very deep here.",
+        "chinese": "这里水很深。",
+        "scene": "在湖边，你拦住想往前跑的孩子，指着警示牌说。"
+      },
+      {
+        "level": "medium",
+        "english": "He took a deep breath and jumped into the cold lake without thinking twice.",
+        "chinese": "他深吸一口气，毫不犹豫地跳进了冰冷的湖里。",
+        "scene": "岸边的人都在欢呼，你拿着手机录像，手都有点抖。"
+      },
+      {
+        "level": "long",
+        "english": "That documentary left a deep impression on me. It talked about ocean pollution, and now I can't stop thinking about how I can reduce my plastic use every single day.",
+        "chinese": "那部纪录片给我留下了深刻的印象。它讲的是海洋污染，现在我每天都在想着怎么减少塑料的使用。",
+        "scene": "看完后，你沉默了好久，然后把家里的一次性塑料瓶都换成了玻璃的。"
+      }
+    ]
+  },
+  {
+    "word": "breath",
+    "phonetic": "/breθ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "呼吸；气息",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I can see my breath in the cold air.",
+        "chinese": "在冷空气里我能看到我的哈气。",
+        "scene": "冬天清晨，你搓着手走出门，对着手心哈了一口白气。"
+      },
+      {
+        "level": "medium",
+        "english": "Just give me a minute to catch my breath. That hill was steeper than I thought!",
+        "chinese": "给我一分钟喘口气。那山坡比我想的陡多了！",
+        "scene": "爬山爬到一半，你叉着腰，对走在前面的朋友摆手求饶。"
+      },
+      {
+        "level": "long",
+        "english": "When I finally got to the top of the mountain, the view was so stunning it took my breath away. I stood there in silence, just listening to the wind and my own slow breathing.",
+        "chinese": "当我终于爬到山顶时，那景色美得让我窒息。我静静地站在那里，只听着风声和我自己缓慢的呼吸声。",
+        "scene": "你站在山巅，闭着眼睛深吸了一口气，感觉所有的疲惫都值得了。"
+      }
+    ]
+  },
+  {
+    "word": "take a deep breath",
+    "phonetic": "/teɪk ə diːp breθ/",
+    "part_of_speech": "verb phrase",
+    "chinese_meaning": "深呼吸",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Take a deep breath before you speak.",
+        "chinese": "说话前先深呼吸。",
+        "scene": "朋友紧张地准备上台演讲，你按住她的肩膀，看着她的眼睛教她。"
+      },
+      {
+        "level": "medium",
+        "english": "Whenever I feel overwhelmed, I just close my eyes and take a deep breath. It really helps.",
+        "chinese": "每当我感到不知所措时，我就闭上眼睛深呼吸。真的挺管用的。",
+        "scene": "在格子间里，你摘下眼镜揉了揉眉心，跟旁边的实习生分享这个减压小窍门。"
+      },
+      {
+        "level": "long",
+        "english": "Before walking into the interview room, I stopped outside the door, took a deep breath, and reminded myself that I had prepared for this moment. And you know what? I nailed it.",
+        "chinese": "走进面试室之前，我在门外停下来，深吸了一口气，提醒自己我已经为这一刻做好了准备。你知道吗？我表现得特别棒。",
+        "scene": "面试完出来，你给妈妈打电话报喜，声音里满是压抑不住的兴奋。"
+      }
+    ]
+  },
+  {
+    "word": "count",
+    "phonetic": "/kaʊnt/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "数数；计算",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's count the stars together.",
+        "chinese": "我们一起数星星吧。",
+        "scene": "夏夜露营，你和孩子并排躺在睡袋里，指着满天繁星。"
+      },
+      {
+        "level": "medium",
+        "english": "My daughter loves to count the ducks when we walk by the pond every evening.",
+        "chinese": "每天傍晚我们路过池塘时，我女儿都爱数鸭子。",
+        "scene": "你牵着女儿的小手，她奶声奶气地从一数到十，一只也不落下。"
+      },
+      {
+        "level": "long",
+        "english": "On New Year's Eve, our family tradition is to count down the last ten seconds together, and then we all make a silly wish and laugh about it. This year, my wish is to do more of these small things.",
+        "chinese": "除夕夜，我们家的传统是一起倒数最后十秒，然后每个人都许一个傻傻的愿望，再一起笑。今年，我的愿望就是多做点这种小事。",
+        "scene": "倒计时结束，屋子里响起了笑声和碰杯声，你看着周围亲人，感到特别满足。"
+      }
+    ]
+  },
+  {
+    "word": "count to ten",
+    "phonetic": "/kaʊnt tə ten/",
+    "part_of_speech": "verb phrase",
+    "chinese_meaning": "数到十",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "If you get angry, count to ten.",
+        "chinese": "如果你生气了，就数到十。",
+        "scene": "在游乐场，妈妈蹲下来教正在发脾气的小朋友控制情绪。"
+      },
+      {
+        "level": "medium",
+        "english": "My coach always tells us to count to ten before reacting to a bad call from the referee.",
+        "chinese": "我的教练总告诉我们，在裁判做出糟糕的判罚后要先数到十再做反应。",
+        "scene": "比赛暂停时，教练把大家聚拢过来，一边画战术板一边强调保持冷静。"
+      },
+      {
+        "level": "long",
+        "english": "I used to send emails in anger, but now I write them, save them as drafts, and count to ten. By the time I'm done counting, I usually realize the email doesn't need to be sent at all.",
+        "chinese": "我以前老在生气时发邮件，但现在我会把邮件写了，存成草稿，然后数到十。数完时，我通常会意识到这封邮件根本不需要发出去。",
+        "scene": "你在办公桌前深吸一口气，把刚才那封措辞激烈的邮件拖进了草稿箱，然后长舒了一口气。"
+      }
+    ]
+  },
+  {
+    "word": "chase",
+    "phonetic": "/tʃeɪs/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "追逐；追赶",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The dog chased the red ball.",
+        "chinese": "那只狗追着红色的球跑。",
+        "scene": "在公园草坪上，你用力把球扔出，金毛猎犬嗖地一下冲了出去。"
+      },
+      {
+        "level": "medium",
+        "english": "The kids chased each other around the garden until they were completely exhausted.",
+        "chinese": "孩子们在花园里互相追逐，直到精疲力尽。",
+        "scene": "大人们在阳台上喝茶聊天，看着下面的小不点们疯跑，笑声阵阵。"
+      },
+      {
+        "level": "long",
+        "english": "I spent years chasing a promotion, working crazy hours, until I finally got it and realized it wasn't what I wanted. Now I'm chasing a better work-life balance instead.",
+        "chinese": "我花了好几年追逐升职，拼命工作，直到最终得到了才发现这不是我想要的。现在，我在追逐更好的工作生活平衡。",
+        "scene": "你辞掉了高压工作，在咖啡馆里跟老友聊起自己心境的转变，窗外阳光正好。"
+      }
+    ]
+  },
+  {
+    "word": "mice",
+    "phonetic": "/maɪs/",
+    "part_of_speech": "noun (plural of mouse)",
+    "chinese_meaning": "老鼠（复数）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "There are mice in the kitchen!",
+        "chinese": "厨房里有老鼠！",
+        "scene": "半夜你起来喝水，一开灯就看到黑影窜过，吓得你赶紧摇醒另一半。"
+      },
+      {
+        "level": "medium",
+        "english": "We found out the barn had mice, so we got a cat from the shelter to keep them away.",
+        "chinese": "我们发现谷仓里有老鼠，于是去收容所领养了一只猫来赶走它们。",
+        "scene": "你抱着新来的小橘猫，指着谷仓向它交代“工作任务”。"
+      },
+      {
+        "level": "long",
+        "english": "In my biology lab, we have these very smart white mice that can learn to go through mazes. Watching them figure things out is strangely fascinating and taught me to respect even the smallest creatures.",
+        "chinese": "在生物实验室里，我们有一些很聪明的白老鼠，能学会走迷宫。看着它们弄明白的过程有种奇异的吸引力，也教会了我尊重最微小的生物。",
+        "scene": "你在实验记录本上画下路径图，跟同组的伙伴分享对这群小精灵的赞叹。"
+      }
+    ]
+  },
+  {
+    "word": "bad",
+    "phonetic": "/bæd/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "坏的；糟糕的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I had a really bad day.",
+        "chinese": "我今天真是糟糕透了。",
+        "scene": "下班回家，你把包往沙发上一扔，对迎上来的伴侣嘟囔了一句。"
+      },
+      {
+        "level": "medium",
+        "english": "The milk has gone bad. Let's throw it out before someone accidentally drinks it.",
+        "chinese": "牛奶坏了。我们扔了吧，免得谁不小心喝了。",
+        "scene": "早上你打开冰箱，闻了闻牛奶瓶，立刻皱起眉头，回头对正在煎蛋的妈妈说。"
+      },
+      {
+        "level": "long",
+        "english": "When I was learning to ride a bike, I fell so many times and got some pretty bad cuts on my knees. But my dad kept saying, 'A bad fall isn't the end; it's part of the ride.' I still remember that.",
+        "chinese": "学骑车时，我摔了无数次，膝盖上划了好几道挺深的口子。但我爸一直说：“摔倒了不意味着结束，这只是骑行的一部分。”我至今还记得。",
+        "scene": "你现在教自己的孩子骑自行车，看他摔倒了想哭，你蹲下来重复了这句话。"
+      }
+    ]
+  },
+  {
+    "word": "hurt",
+    "phonetic": "/hɜːrt/",
+    "part_of_speech": "verb, adjective",
+    "chinese_meaning": "受伤；疼痛；使受伤",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My head hurts badly.",
+        "chinese": "我头疼得厉害。",
+        "scene": "在办公室，你捂着额头，对过来问文件进度的同事摆摆手。"
+      },
+      {
+        "level": "medium",
+        "english": "She hurt her ankle playing tennis and had to sit out for the rest of the match.",
+        "chinese": "她打网球时扭伤了脚踝，之后只能在旁边坐着看完比赛。",
+        "scene": "你拿着冰袋跑过去，帮她脱掉鞋袜，一边埋怨她太拼了。"
+      },
+      {
+        "level": "long",
+        "english": "Sometimes words can hurt more than physical pain. I once said something mean to my sister in an argument, and I've regretted it for years. It taught me to think twice before I speak.",
+        "chinese": "有时候言语比身体的疼痛更伤人。有一次跟妹妹吵架我说了很刻薄的话，后悔了好几年。这教会了我说话前要三思。",
+        "scene": "姐妹俩现在和好了，坐在一起喝茶时，你向她坦诚了这段心里话。"
+      }
+    ]
+  },
+  {
+    "word": "ill",
+    "phonetic": "/ɪl/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "生病的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She looks ill and needs rest.",
+        "chinese": "她看起来生病了，需要休息。",
+        "scene": "在宿舍，你看着脸色苍白躺在床上的室友，对另一个来借笔记的同学轻声说。"
+      },
+      {
+        "level": "medium",
+        "english": "My grandpa has been ill, so we've been taking turns visiting him at the hospital.",
+        "chinese": "我爷爷生病了，所以我们最近轮流去医院看他。",
+        "scene": "家庭群聊里，大家正安排下周的值班表，消息闪个不停。"
+      },
+      {
+        "level": "long",
+        "english": "When I was ill with the flu last winter, my roommate took such good care of me, cooking soup and bringing me medicine. I felt so lucky, even though I could barely move.",
+        "chinese": "去年冬天我得了流感病倒时，我室友把我照顾得无微不至，熬汤、拿药。虽然我几乎动不了，但我觉得特别幸运。",
+        "scene": "康复后，你给室友送了一份精心准备的礼物，感谢她在你最难的时候的陪伴。"
+      }
+    ]
+  },
+  {
+    "word": "wrong",
+    "phonetic": "/rɔːŋ/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "错误的；有毛病的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "What's wrong with the TV?",
+        "chinese": "电视出什么毛病了？",
+        "scene": "你按了好几下遥控器都没反应，拍着电视机后背问老爸。"
+      },
+      {
+        "level": "medium",
+        "english": "I dialed the wrong number and ended up talking to a very confused old lady for five minutes.",
+        "chinese": "我拨错了号码，结果和一位很困惑的老太太聊了五分钟。",
+        "scene": "你和朋友分享这个手机乌龙事件，她差点笑出了眼泪。"
+      },
+      {
+        "level": "long",
+        "english": "It's okay to be wrong about things. I used to be afraid of making mistakes, but now I see every mistake as a step forward. The only truly wrong thing is refusing to learn from it.",
+        "chinese": "对事情认知错误是正常的。我以前害怕犯错，但现在我把每次错误都看作向前的一步。唯一真正错的事是拒绝从中学习。",
+        "scene": "团队项目复盘会上，你坦然地分享自己的失误，大家为你鼓掌。"
+      }
+    ]
+  },
+  {
+    "word": "should",
+    "phonetic": "/ʃʊd/",
+    "part_of_speech": "modal verb",
+    "chinese_meaning": "应该",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "You should try this cake. It's delicious!",
+        "chinese": "你应该尝尝这蛋糕，太好吃了！",
+        "scene": "下午茶时，你切了一大块自己烤的蛋糕推到同事面前。"
+      },
+      {
+        "level": "medium",
+        "english": "Maybe we should leave early to avoid the traffic. The game starts at 7, and I don't want to miss the kickoff.",
+        "chinese": "也许我们该早点走避开车流。比赛七点开始，我可不想错过开球。",
+        "scene": "你一边往车里搬饮料，一边看着手表催促还在磨蹭的朋友。"
+      },
+      {
+        "level": "long",
+        "english": "I spent way too long thinking about what I should be doing instead of actually doing it. Now I've learned to just take the first small step, and the rest usually follows.",
+        "chinese": "我花了太多时间思考我该做什么，而不是实际去做。现在我学会了先迈出那一小步，后面通常就水到渠成了。",
+        "scene": "你在周末清晨的咖啡馆里，打开笔记本电脑写下第一行字，然后把心得发在了社交媒体上。"
+      }
+    ]
+  },
+  {
+    "word": "feel",
+    "phonetic": "/fiːl/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "感觉；觉得",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I feel so much better now.",
+        "chinese": "我现在感觉好多了。",
+        "scene": "退烧后，你伸了个懒腰，对端来热粥的妈妈露出笑容。"
+      },
+      {
+        "level": "medium",
+        "english": "How do you feel about going to the concert tonight? Are you still up for it?",
+        "chinese": "你对今晚去看演唱会感觉怎么样？还想去吗？",
+        "scene": "你打电话给朋友，想确认一下因为下午那场大雨是否改变计划。"
+      },
+      {
+        "level": "long",
+        "english": "I've been in a new city for a month now, and it finally feels like home. The shopkeeper at the corner store knows my name, and I have a favorite park bench. It's the little things.",
+        "chinese": "我已经在新城市住了一个月了，终于感觉像家了。街角商店的店主知道我的名字，我有了最喜欢的公园长椅。这都是些小事。",
+        "scene": "你坐在那张长椅上，晒着太阳，跟视频通话里的老友介绍周围的环境。"
+      }
+    ]
+  },
+  {
+    "word": "well",
+    "phonetic": "/wel/",
+    "part_of_speech": "adverb, adjective",
+    "chinese_meaning": "好地；健康的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She plays the piano very well.",
+        "chinese": "她钢琴弹得很好。",
+        "scene": "才艺表演上，你轻轻推了推旁边的同学，指着台上投入演奏的朋友赞美道。"
+      },
+      {
+        "level": "medium",
+        "english": "I haven't been sleeping well lately because of all the stress from the final exams.",
+        "chinese": "因为期末考试的压力，我最近一直睡不好。",
+        "scene": "考完最后一科，你一脸疲惫地跟朋友约了顿大餐，说要补回来。"
+      },
+      {
+        "level": "long",
+        "english": "My grandpa is 85, but he's doing really well. He still drives to the farmer's market every Saturday and insists on carrying his own bags. I hope I'm like that at his age.",
+        "chinese": "我爷爷85岁了，但身体很好。他每星期六还开车去农贸市场，而且坚持自己拎袋子。希望我到他这岁数也能这样。",
+        "scene": "周末你陪爷爷去市场，看着他精神头十足地跟摊主砍价，你赶紧用手机拍了下来。"
+      }
+    ]
+  },
+  {
+    "word": "sit",
+    "phonetic": "/sɪt/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "坐",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Please sit down and relax.",
+        "chinese": "请坐，放松一下。",
+        "scene": "你打开家门，对来做客的朋友指了指沙发，示意他别拘束。"
+      },
+      {
+        "level": "medium",
+        "english": "I like to sit by the window on the bus and just watch the world go by.",
+        "chinese": "坐公交车时，我喜欢靠窗坐着，看着外面的世界流逝。",
+        "scene": "雨天坐在公交车后排，你戴着耳机，额头贴着冰冷的车窗，看街灯闪过。"
+      },
+      {
+        "level": "long",
+        "english": "Every morning, I sit on my balcony with a cup of coffee and just listen to the birds. It's the only quiet moment I get before the chaos of the day starts, and I protect it fiercely.",
+        "chinese": "每天清晨，我坐在阳台上一杯咖啡，就听鸟叫。这是一天的喧嚣开始前我仅有的安静时刻，我很珍惜它。",
+        "scene": "清晨六点半，你裹着毯子窝在阳台椅子里，手机静音，世界安宁。"
+      }
+    ]
+  },
+  {
+    "word": "grass",
+    "phonetic": "/ɡræs/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "草；草地",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The grass is wet this morning.",
+        "chinese": "今天早上草地是湿的。",
+        "scene": "你光着脚刚踏进院子，就被露水凉得一激灵，转头对屋里喊。"
+      },
+      {
+        "level": "medium",
+        "english": "We spread a big blanket on the grass and had a picnic while watching the clouds go by.",
+        "chinese": "我们在草地上铺了一大块毯子，一边野餐一边看云彩飘过。",
+        "scene": "春日午后，你枕着手臂躺在毯子上，旁边是三明治和水果，朋友在给你讲小时候的事。"
+      },
+      {
+        "level": "long",
+        "english": "The smell of freshly cut grass always takes me back to summer vacations at my grandparents' farm, where I'd run barefoot and catch fireflies until dinner was called.",
+        "chinese": "新割的草味总让我回到祖父母农场的暑假，那时我光着脚跑，抓萤火虫，直到有人喊吃饭。",
+        "scene": "路过一片刚修剪的草坪，你忍不住停下来深吸一口气，仿佛又变成了那个无忧无虑的小孩。"
+      }
+    ]
+  },
+  {
+    "word": "hear",
+    "phonetic": "/hɪr/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "听见；听到",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can you hear that sound?",
+        "chinese": "你听到那个声音了吗？",
+        "scene": "在寂静的森林里徒步，你突然停下脚步，拉住同伴的手臂，指向前方。"
+      },
+      {
+        "level": "medium",
+        "english": "I heard you singing in the shower this morning. You should totally try out for the school musical!",
+        "chinese": "今天早上我听到你在浴室里唱歌了。你绝对应该去试试学校的音乐剧选拔！",
+        "scene": "早餐时，你笑着对刚出浴室的妹妹说，她不好意思地红了脸。"
+      },
+      {
+        "level": "long",
+        "english": "When I got my first hearing aid, I heard the rustle of leaves for the first time in years. I literally sat under a tree for an hour, just listening and crying happy tears.",
+        "chinese": "当我戴上第一个助听器时，我多年来第一次听到了树叶的沙沙声。我真就坐在一棵树下听了一个小时，流着喜悦的泪水。",
+        "scene": "在康复诊所外的花园里，你激动地跟医生描述这一刻的感受。"
+      }
+    ]
+  },
+  {
+    "word": "ant",
+    "phonetic": "/ænt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "蚂蚁",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Look, an ant is carrying a leaf!",
+        "chinese": "看，一只蚂蚁正扛着一片叶子！",
+        "scene": "在公园长椅旁，你蹲下来，指着地上一只奋力前行的蚂蚁给孩子看。"
+      },
+      {
+        "level": "medium",
+        "english": "Be careful where you step! There's a whole line of ants marching across the sidewalk.",
+        "chinese": "当心脚下！人行道上有一整队蚂蚁在行军。",
+        "scene": "你一把拉住在低头看手机的朋友，免得他踩到那条黑色的长线。"
+      },
+      {
+        "level": "long",
+        "english": "As a kid, I used to watch ants for hours in my backyard, building tiny bridges from twigs for them. It made me appreciate how teamwork can accomplish amazing things, even for the smallest creatures.",
+        "chinese": "小时候，我常在后院看蚂蚁看几个小时，用树枝给它们搭小桥。这让我体会到，即便是最微小的生物，团队合作也能完成了不起的事。",
+        "scene": "在生物课上，你分享这个故事，老师赞许地点了点头。"
+      }
+    ]
+  },
+  {
+    "word": "worry",
+    "phonetic": "/ˈwɜːri/",
+    "part_of_speech": "verb, noun",
+    "chinese_meaning": "担心；烦恼",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Don't worry, I'll help you.",
+        "chinese": "别担心，我会帮你的。",
+        "scene": "同学对着复杂的数学题快哭了，你拍拍她的背，把椅子拉近。"
+      },
+      {
+        "level": "medium",
+        "english": "My biggest worry about the camping trip is the rain, but they said we can sleep in the cabin if it pours.",
+        "chinese": "我对这次露营最大的担心就是下雨，但人家说要是下大雨我们可以睡木屋里。",
+        "scene": "你一边往背包里塞防雨罩，一边跟也在打包的同伴闲聊。"
+      },
+      {
+        "level": "long",
+        "english": "My mom has a 'worry jar' where she writes down her worries on slips of paper and puts them in the jar. At the end of the month, we read them and laugh at how many never actually happened.",
+        "chinese": "我妈妈有一个“烦恼罐”，她把烦恼写在纸条上放进去。月末时，我们会读出来，然后笑好多烦恼其实根本没发生。",
+        "scene": "月末的晚上，一家人围坐桌前，你抽出一张纸条念道：“怕煎饼糊锅”，然后大家一起笑了。"
+      }
+    ]
+  },
+  {
+    "word": "stuck",
+    "phonetic": "/stʌk/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "卡住的；困住的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The key is stuck in the lock.",
+        "chinese": "钥匙卡在锁里了。",
+        "scene": "大冷天你站在家门口，拧了半天钥匙不动，焦急地对身后的家人说。"
+      },
+      {
+        "level": "medium",
+        "english": "We were stuck in traffic for an hour, so we missed the first fifteen minutes of the movie.",
+        "chinese": "我们在路上堵了一个小时，所以错过了电影开头的十五分钟。",
+        "scene": "你抱着一大桶爆米花摸黑找到座位，小声跟旁边的朋友解释为什么来晚了。"
+      },
+      {
+        "level": "long",
+        "english": "When my cat climbed up the tall tree and got stuck, the whole neighborhood came out to help. Someone even brought a ladder. It was a reminder that kindness is everywhere.",
+        "chinese": "我的猫爬上大树卡住下不来时，整个街坊都出来帮忙了。有人还搬来了梯子。这提醒了我善意无处不在。",
+        "scene": "猫被安全救下来后，你抱着它挨个向帮忙的邻居道谢。"
+      }
+    ]
+  },
+  {
+    "word": "mud",
+    "phonetic": "/mʌd/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "泥；泥浆",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My boots are covered in mud.",
+        "chinese": "我的靴子上全是泥。",
+        "scene": "雨后在乡间小路走了一圈回来，你在门口使劲跺脚，不好意思地对屋主说。"
+      },
+      {
+        "level": "medium",
+        "english": "After the rain, the kids ran straight into the backyard and started jumping in the mud puddles.",
+        "chinese": "雨后，孩子们直冲进后院，开始在泥坑里跳来跳去。",
+        "scene": "你站在门廊上端着咖啡，看着他们浑身是泥却哈哈大笑，也忍不住笑了。"
+      },
+      {
+        "level": "long",
+        "english": "During the hiking trip, we lost the trail and ended up slipping and sliding down a muddy hill. We were covered in mud from head to toe, but we laughed so hard that it turned into one of the best memories of the trip.",
+        "chinese": "徒步旅行时，我们走岔了路，从一座泥泞的山丘上连滑带溜地滚下来。我们从头到脚全是泥，但笑得前仰后合，这成了那次旅行中最美好的回忆之一。",
+        "scene": "在小木屋里烘着湿衣服，你指着挂满泥巴的外套，跟同伴回味刚才的狼狈，笑出了眼泪。"
+      }
+    ]
+  },
+  {
+    "word": "pull",
+    "phonetic": "/pʊl/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "拉；拽；拔",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Pull the door open.",
+        "chinese": "拉这扇门来打开它。",
+        "scene": "在商店门口，看到新顾客推了半天推不开，你笑着上前指了指把手上的“拉”字。"
+      },
+      {
+        "level": "medium",
+        "english": "We had to pull the heavy suitcase together just to get it up the stairs.",
+        "chinese": "我们只好一起拉那个沉重的行李箱，才把它弄上楼梯。",
+        "scene": "在老式公寓楼道里，你和朋友一人抬一边，喊着号子往上搬。"
+      },
+      {
+        "level": "long",
+        "english": "When my little sister got a loose tooth, she asked me to pull it out. I was so nervous, but I tied a string around it, she counted to three, and it popped right out. We danced around the room like it was a victory.",
+        "chinese": "我妹妹牙齿松动时，让我帮她拔下来。我超紧张，但还是用线系住，她数到三，牙就弹出来了。我们在房间里跳舞像赢了胜仗。",
+        "scene": "妹妹现在看到那个缺牙的照片，还会不好意思地笑，你则刮她鼻子说那是你勇敢的证据。"
+      }
+    ]
+  },
+  {
+    "word": "everyone",
+    "phonetic": "/ˈevriwʌn/",
+    "part_of_speech": "pronoun",
+    "chinese_meaning": "每个人；人人",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Everyone is here! Let's start the meeting.",
+        "chinese": "大家都到齐了！我们开会吧。",
+        "scene": "你环顾了一圈会议室，向主持人点了点头。"
+      },
+      {
+        "level": "medium",
+        "english": "On the last day of camp, everyone exchanged emails and promised to stay in touch.",
+        "chinese": "夏令营最后一天，每个人都互换了邮箱，承诺保持联系。",
+        "scene": "你拿着本子穿梭在人群中，收集每一个新朋友的联系方式，心里又激动又不舍。"
+      },
+      {
+        "level": "long",
+        "english": "What I love about the community garden is that everyone pitches in. The kids water the plants, the older folks do the heavy digging, and I bring snacks for everyone. It's a little piece of paradise.",
+        "chinese": "我喜欢社区花园的一点就是每个人都出力。孩子们浇水，年长的人干重活挖土，我给大家带零食。这就是一小片天堂。",
+        "scene": "周六上午，你提着自制柠檬水走进花园，看到邻居们都在忙碌，你笑着大声招呼每一个人。"
+      }
+    ]
+  }
+]

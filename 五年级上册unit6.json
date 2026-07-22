@@ -1,6 +1,392 @@
-{
-  "grade": "五年级",
-  "term": "上册",
-  "unit": "unit6",
-  "words": []
-}
+[
+  {
+    "word": "forest",
+    "phonetic": "/ˈfɔːrɪst/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "森林",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The forest is so quiet today.",
+        "chinese": "今天的森林真安静。",
+        "scene": "在森林中感受到宁静"
+      },
+      {
+        "level": "medium",
+        "english": "Let's go camping in the forest this weekend if the weather stays nice.",
+        "chinese": "如果天气一直不错，这个周末我们去森林里露营吧。",
+        "scene": "计划周末户外活动"
+      },
+      {
+        "level": "long",
+        "english": "I remember hiking in the forest with my grandpa, and he taught me how to identify different birds just by listening to their calls.",
+        "chinese": "我记得和爷爷在森林里徒步时，他教我仅凭鸟叫声就能分辨出不同种类的鸟。",
+        "scene": "祖孙森林探险的教学时光"
+      }
+    ]
+  },
+  {
+    "word": "river",
+    "phonetic": "/ˈrɪvər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "河；江",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The river is very cold.",
+        "chinese": "河水很冷。",
+        "scene": "夏天试探水温"
+      },
+      {
+        "level": "medium",
+        "english": "We had a picnic by the river and watched the boats go by.",
+        "chinese": "我们在河边野餐，看着船来船往。",
+        "scene": "惬意的河边野餐"
+      },
+      {
+        "level": "long",
+        "english": "As kids, we used to spend the whole summer swimming in the river behind our house, only getting out when Mom called us for dinner.",
+        "chinese": "小时候，我们整个夏天都在屋后的河里游泳，只有妈妈喊吃晚饭时才会上岸。",
+        "scene": "童年夏日河边的嬉戏"
+      }
+    ]
+  },
+  {
+    "word": "lake",
+    "phonetic": "/leɪk/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "湖",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The lake is calm today.",
+        "chinese": "今天的湖面很平静。",
+        "scene": "清晨在湖边散步"
+      },
+      {
+        "level": "medium",
+        "english": "We rented a small cabin by the lake for our summer vacation.",
+        "chinese": "我们暑假在湖边租了一间小木屋。",
+        "scene": "计划度假住宿"
+      },
+      {
+        "level": "long",
+        "english": "Every winter, when the lake freezes solid, the whole town comes out to skate and play ice hockey under the clear blue sky.",
+        "chinese": "每年冬天，当湖面结冰，全镇的人都会出来在湛蓝的天空下滑冰、打冰球。",
+        "scene": "冬日湖上的热闹景象"
+      }
+    ]
+  },
+  {
+    "word": "mountain",
+    "phonetic": "/ˈmaʊntən/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "山；高山",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We climbed the mountain last weekend.",
+        "chinese": "上周末我们去爬山了。",
+        "scene": "分享活动"
+      },
+      {
+        "level": "medium",
+        "english": "The view from the top of the mountain was absolutely breathtaking.",
+        "chinese": "山顶的景色简直令人叹为观止。",
+        "scene": "登顶后的感叹"
+      },
+      {
+        "level": "long",
+        "english": "It was a tough hike up the mountain, and my legs were burning, but reaching the summit just as the sun rose made it all worth it.",
+        "chinese": "登山的过程很艰难，双腿酸痛，但恰好在日出时登顶，让一切都值了。",
+        "scene": "日出登顶的满足"
+      }
+    ]
+  },
+  {
+    "word": "hill",
+    "phonetic": "/hɪl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "小山；山丘",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's roll down the hill!",
+        "chinese": "我们从山坡上滚下去吧！",
+        "scene": "孩子们在草地上的嬉戏"
+      },
+      {
+        "level": "medium",
+        "english": "There's a beautiful little house on top of the hill with a red roof.",
+        "chinese": "山顶上有一栋红色屋顶的漂亮小房子。",
+        "scene": "描述如画的风景"
+      },
+      {
+        "level": "long",
+        "english": "When it snows, we take our sleds to the steep hill by the park and race each other until it gets too dark to see.",
+        "chinese": "下雪时，我们带着雪橇去公园旁那个陡峭的山坡，互相比赛，直到天黑得看不见了才回家。",
+        "scene": "冬日滑雪橇的快乐"
+      }
+    ]
+  },
+  {
+    "word": "tree",
+    "phonetic": "/triː/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "树",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Don't climb that tree, it's dangerous.",
+        "chinese": "别爬那棵树，危险。",
+        "scene": "制止孩子的冒险行为"
+      },
+      {
+        "level": "medium",
+        "english": "We sat under the big oak tree and read books all afternoon.",
+        "chinese": "我们坐在那棵大橡树下看了一下午的书。",
+        "scene": "树下悠闲的午后"
+      },
+      {
+        "level": "long",
+        "english": "Our old treehouse is still up in that giant maple tree, and even though it's a bit rickety now, it's full of childhood memories.",
+        "chinese": "我们的旧树屋还架在那棵巨大的枫树上，虽然现在有点摇摇晃晃，但里面装满了童年的回忆。",
+        "scene": "追忆童年的秘密基地"
+      }
+    ]
+  },
+  {
+    "word": "bridge",
+    "phonetic": "/brɪdʒ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "桥",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Cross the bridge and turn left.",
+        "chinese": "过桥然后左转。",
+        "scene": "给人指路"
+      },
+      {
+        "level": "medium",
+        "english": "The old stone bridge in town is a popular spot for taking photos.",
+        "chinese": "镇上那座古老的石桥是个很受欢迎的拍照地。",
+        "scene": "推荐打卡景点"
+      },
+      {
+        "level": "long",
+        "english": "The bridge was closed for repairs, so we had to take a twenty-minute detour through the countryside, but the extra drive was actually quite scenic.",
+        "chinese": "那座桥因维修而关闭了，我们只好绕道乡间多开了20分钟，但那段额外的路程风景还挺不错的。",
+        "scene": "因封路而意外收获美景"
+      }
+    ]
+  },
+  {
+    "word": "building",
+    "phonetic": "/ˈbɪldɪŋ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "建筑物；大楼",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "That building is very tall.",
+        "chinese": "那栋楼非常高。",
+        "scene": "仰望高楼"
+      },
+      {
+        "level": "medium",
+        "english": "The library is in the old brick building next to the post office.",
+        "chinese": "图书馆在邮局旁边那栋老旧的砖楼里。",
+        "scene": "告知具体位置"
+      },
+      {
+        "level": "long",
+        "english": "The new office building has a rooftop garden where employees can take their lunch breaks and enjoy the view of the city skyline.",
+        "chinese": "新的办公楼有一个屋顶花园，员工们可以在那儿享用午餐并欣赏城市天际线。",
+        "scene": "新办公楼的福利设施"
+      }
+    ]
+  },
+  {
+    "word": "village",
+    "phonetic": "/ˈvɪlɪdʒ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "村庄",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I grew up in a small village.",
+        "chinese": "我在一个小村庄长大。",
+        "scene": "介绍背景"
+      },
+      {
+        "level": "medium",
+        "english": "There's a charming village in the valley where they make delicious cheese.",
+        "chinese": "山谷里有一个迷人的村庄，那里的人做的奶酪非常美味。",
+        "scene": "分享旅行发现的美食"
+      },
+      {
+        "level": "long",
+        "english": "My grandparents' village is so tiny that everyone knows each other, and you can buy fresh milk straight from the farm next door.",
+        "chinese": "我祖父母的村子特别小，每个人都互相认识，你还可以从隔壁农场直接买到新鲜的牛奶。",
+        "scene": "淳朴的乡村生活"
+      }
+    ]
+  },
+  {
+    "word": "house",
+    "phonetic": "/haʊs/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "房子；住宅",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "That's my house over there.",
+        "chinese": "那边那栋就是我的房子。",
+        "scene": "指给朋友看"
+      },
+      {
+        "level": "medium",
+        "english": "We are looking for a new house with a bigger backyard for the kids.",
+        "chinese": "我们在找一栋后院更大些的新房子，好让孩子们有地方玩。",
+        "scene": "家庭寻找新房"
+      },
+      {
+        "level": "long",
+        "english": "The house I grew up in had a creaky wooden staircase and a front porch where we'd sit on summer evenings and watch the fireflies.",
+        "chinese": "我长大的那栋房子有一条咯吱作响的木头楼梯和一个前廊，夏夜里我们常坐在那儿看萤火虫。",
+        "scene": "怀念儿时故居"
+      }
+    ]
+  },
+  {
+    "word": "boating",
+    "phonetic": "/ˈboʊtɪŋ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "划船；乘船游览",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Boating is so much fun!",
+        "chinese": "划船可真好玩！",
+        "scene": "刚下船后的兴奋"
+      },
+      {
+        "level": "medium",
+        "english": "We went boating on the lake and even saw a family of ducks.",
+        "chinese": "我们去湖上划船了，还看到了一窝鸭子。",
+        "scene": "湖上观光的惊喜"
+      },
+      {
+        "level": "long",
+        "english": "My favorite summer memory is going boating with my dad early in the morning when the lake was still misty and perfectly still.",
+        "chinese": "我最喜欢的夏天回忆，就是和爸爸一大清早去划船，那时的湖面雾气缭绕，水波不兴。",
+        "scene": "宁静的清晨泛舟"
+      }
+    ]
+  },
+  {
+    "word": "go boating",
+    "phonetic": "/ɡoʊ ˈboʊtɪŋ/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "去划船",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's go boating this afternoon.",
+        "chinese": "下午我们去划船吧。",
+        "scene": "提议娱乐活动"
+      },
+      {
+        "level": "medium",
+        "english": "If the weather is sunny, we can go boating and have a picnic.",
+        "chinese": "如果天气晴朗，我们可以去划船并且野餐。",
+        "scene": "根据天气安排活动"
+      },
+      {
+        "level": "long",
+        "english": "We wanted to go boating on the river, but the rental place was closed, so we just sat on the dock and dipped our feet in the water instead.",
+        "chinese": "我们本想去河上划船，但租船点关门了，于是我们就坐在码头上把脚泡在水里，也玩得很开心。",
+        "scene": "计划泡汤后的随遇而安"
+      }
+    ]
+  },
+  {
+    "word": "aren't",
+    "phonetic": "/ɑːrnt/",
+    "part_of_speech": "contraction",
+    "chinese_meaning": "不是（are not的缩写）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "You aren't going to the party?",
+        "chinese": "你不去派对吗？",
+        "scene": "惊讶地询问缺席原因"
+      },
+      {
+        "level": "medium",
+        "english": "These cookies aren't as good as the ones my mom used to make.",
+        "chinese": "这些饼干不如我妈妈以前做的好吃。",
+        "scene": "评价对比食物"
+      },
+      {
+        "level": "long",
+        "english": "We aren't sure if we can make it to the reunion this year because of work, but we're really trying our best to be there.",
+        "chinese": "我们不确定今年能否参加聚会，因为工作的原因，但我们真的在尽力争取能去。",
+        "scene": "向朋友解释不确定性"
+      }
+    ]
+  },
+  {
+    "word": "rabbit",
+    "phonetic": "/ˈræbɪt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "兔子",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Look at the cute rabbit!",
+        "chinese": "看那只可爱的兔子！",
+        "scene": "在宠物店或野外看到兔子"
+      },
+      {
+        "level": "medium",
+        "english": "My little sister wants a pet rabbit more than anything in the world.",
+        "chinese": "我的小妹妹最想要的就是养一只宠物兔子。",
+        "scene": "谈论孩子的愿望"
+      },
+      {
+        "level": "long",
+        "english": "We found a wild rabbit in the garden this morning, and it was so tiny and fast that we could barely get a photo before it hopped away.",
+        "chinese": "今天早上我们在花园里发现了一只野兔，它又小跑得又快，我们还没来得及拍照它就跳走了。",
+        "scene": "意外的访客"
+      }
+    ]
+  },
+  {
+    "word": "high",
+    "phonetic": "/haɪ/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "高的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The wall is too high to climb.",
+        "chinese": "那堵墙太高了，爬不上去。",
+        "scene": "面对障碍物"
+      },
+      {
+        "level": "medium",
+        "english": "The ball flew so high that it got stuck in the tree.",
+        "chinese": "球飞得太高了，卡在了树上。",
+        "scene": "踢球时的小意外"
+      },
+      {
+        "level": "long",
+        "english": "I have a fear of heights, so walking across that high bridge was terrifying, but I closed my eyes and just kept moving until I reached the other side.",
+        "chinese": "我恐高，所以走过那座高桥简直吓死我了，但我闭着眼睛一直往前走，直到抵达对面。",
+        "scene": "克服恐高的经历"
+      }
+    ]
+  }
+]

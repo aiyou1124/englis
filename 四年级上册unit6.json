@@ -1,0 +1,548 @@
+[
+  {
+    "word": "whose",
+    "phonetic": "/huːz/",
+    "part_of_speech": "determiner, pronoun",
+    "chinese_meaning": "谁的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Whose bag is this?",
+        "chinese": "这个包是谁的？",
+        "scene": "在教室看到一个无人认领的书包"
+      },
+      {
+        "level": "medium",
+        "english": "Do you know whose phone is ringing? I think it's coming from the sofa.",
+        "chinese": "你知道是谁的手机在响吗？好像是从沙发那边传来的。",
+        "scene": "家里听到陌生铃声，大家互相询问"
+      },
+      {
+        "level": "long",
+        "english": "I found a really nice jacket on the bus, and now I'm trying to figure out whose it is by asking around the office.",
+        "chinese": "我在公交车上捡到一件很不错的夹克，现在正试着在办公室到处问，看是谁的。",
+        "scene": "失物招领时的努力寻找"
+      }
+    ]
+  },
+  {
+    "word": "sweater",
+    "phonetic": "/ˈswɛtər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "毛衣",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I like your sweater.",
+        "chinese": "我喜欢你的毛衣。",
+        "scene": "朋友见面时随口称赞"
+      },
+      {
+        "level": "medium",
+        "english": "It's cold outside, so don't forget to wear a sweater under your coat.",
+        "chinese": "外面冷，别忘了在外套里面穿件毛衣。",
+        "scene": "妈妈在孩子出门前叮嘱"
+      },
+      {
+        "level": "long",
+        "english": "My grandma knitted this sweater for me when I was in high school, and it's still the warmest and softest thing I own.",
+        "chinese": "这件毛衣是我奶奶在我上高中时给我织的，它至今仍是我最暖和、最柔软的衣服。",
+        "scene": "穿着充满回忆的温暖毛衣"
+      }
+    ]
+  },
+  {
+    "word": "sock",
+    "phonetic": "/sɑːk/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "短袜",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I lost one sock.",
+        "chinese": "我丢了一只袜子。",
+        "scene": "叠衣服时发现袜子不成对"
+      },
+      {
+        "level": "medium",
+        "english": "Where are my socks? I can't find a clean pair anywhere.",
+        "chinese": "我的袜子在哪儿？我到处都找不到一双干净的。",
+        "scene": "匆忙准备出门时翻找抽屉"
+      },
+      {
+        "level": "long",
+        "english": "After the long hike in the rain, my socks were so wet and muddy that I just threw them away before getting into the car.",
+        "chinese": "雨中长途徒步后，我的袜子又湿又全是泥，我上车前直接把它们扔掉了。",
+        "scene": "户外冒险后狼狈地处理脏袜子"
+      }
+    ]
+  },
+  {
+    "word": "mine",
+    "phonetic": "/maɪn/",
+    "part_of_speech": "pronoun",
+    "chinese_meaning": "我的（东西）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "That book is mine.",
+        "chinese": "那本书是我的。",
+        "scene": "在桌上看到自己的书时声明"
+      },
+      {
+        "level": "medium",
+        "english": "Is this your phone? No, mine is bigger and has a red case.",
+        "chinese": "这是你的手机吗？不，我的更大，还有个红色的壳。",
+        "scene": "朋友拿错手机时澄清"
+      },
+      {
+        "level": "long",
+        "english": "Your drawing is really good, but mine looks like a five-year-old made it, even though I tried my best.",
+        "chinese": "你的画真好，但我的看起来就像五岁小孩画的，尽管我已经尽力了。",
+        "scene": "比较画作时自嘲"
+      }
+    ]
+  },
+  {
+    "word": "wear",
+    "phonetic": "/wɛr/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "穿；戴",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "What should I wear today?",
+        "chinese": "我今天该穿什么？",
+        "scene": "早晨站在衣柜前发愁"
+      },
+      {
+        "level": "medium",
+        "english": "You should wear a hat because it's really sunny outside.",
+        "chinese": "你应该戴顶帽子，外面太阳特别大。",
+        "scene": "出门前家人互相提醒"
+      },
+      {
+        "level": "long",
+        "english": "I decided to wear my favorite dress to the party even though it was a bit too fancy, because it makes me feel really confident.",
+        "chinese": "我决定穿我最喜欢的裙子去派对，虽然有点太隆重了，但它让我感觉非常自信。",
+        "scene": "为了心情而穿搭"
+      }
+    ]
+  },
+  {
+    "word": "shirt",
+    "phonetic": "/ʃɜːrt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "衬衫",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "He wore a white shirt.",
+        "chinese": "他穿了一件白衬衫。",
+        "scene": "简单描述某人的穿着"
+      },
+      {
+        "level": "medium",
+        "english": "I spilled coffee on my shirt right before the important meeting started.",
+        "chinese": "就在重要会议开始前，我把咖啡洒到了衬衫上。",
+        "scene": "发生尴尬的意外"
+      },
+      {
+        "level": "long",
+        "english": "For the school photo, my mom made me wear a button-down shirt that was so stiff and uncomfortable, I couldn't wait to change out of it.",
+        "chinese": "拍学校照片时，我妈非让我穿一件硬邦邦的扣子衬衫，特别不舒服，我迫不及待想换掉它。",
+        "scene": "回忆被家长摆布的拍照经历"
+      }
+    ]
+  },
+  {
+    "word": "coat",
+    "phonetic": "/koʊt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "外套；大衣",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Grab your coat. Let's go.",
+        "chinese": "拿上外套，我们走。",
+        "scene": "出门前干脆利落的提醒"
+      },
+      {
+        "level": "medium",
+        "english": "I need a new winter coat because my old one has a huge hole in the pocket.",
+        "chinese": "我需要一件新的冬衣，因为旧的这件口袋破了个大洞。",
+        "scene": "考虑换掉破旧的冬季外套"
+      },
+      {
+        "level": "long",
+        "english": "As soon as I stepped outside, I regretted not wearing a thicker coat because the wind was freezing and I had a twenty-minute walk ahead.",
+        "chinese": "我刚踏出门就后悔没穿厚外套，因为寒风刺骨，我还得走二十分钟呢。",
+        "scene": "出门瞬间就被冻得后悔"
+      }
+    ]
+  },
+  {
+    "word": "dress",
+    "phonetic": "/drɛs/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "连衣裙；裙子",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She bought a blue dress.",
+        "chinese": "她买了一条蓝裙子。",
+        "scene": "分享购物成果"
+      },
+      {
+        "level": "medium",
+        "english": "I really love that dress you wore to the wedding. It looked amazing on you.",
+        "chinese": "我特别喜欢你在婚礼上穿的那条裙子，特别好看。",
+        "scene": "真诚地称赞朋友"
+      },
+      {
+        "level": "long",
+        "english": "My little sister wears her princess dress every single day, spinning around and pretending she's at a royal ball.",
+        "chinese": "我妹妹每天都穿她的公主裙，转着圈假装自己在皇家舞会上。",
+        "scene": "形容小女孩的天真可爱"
+      }
+    ]
+  },
+  {
+    "word": "which",
+    "phonetic": "/wɪtʃ/",
+    "part_of_speech": "determiner, pronoun",
+    "chinese_meaning": "哪一个；哪些",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Which one do you want?",
+        "chinese": "你想要哪一个？",
+        "scene": "让孩子在两样东西间做选择"
+      },
+      {
+        "level": "medium",
+        "english": "Which movie should we watch tonight? We have three great options.",
+        "chinese": "今晚我们看哪部电影？有三个不错的选择。",
+        "scene": "家人一起选电影看"
+      },
+      {
+        "level": "long",
+        "english": "I can never decide which flavor of ice cream to get when there are so many choices, so I usually end up just getting vanilla.",
+        "chinese": "冰淇淋口味太多的时候，我总也决定不了选哪个，所以通常最后就只点个香草的。",
+        "scene": "在冰淇淋店的选择困难症"
+      }
+    ]
+  },
+  {
+    "word": "season",
+    "phonetic": "/ˈsiːzən/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "季节",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Spring is my favorite season.",
+        "chinese": "春天是我最喜欢的季节。",
+        "scene": "表达对季节的偏爱"
+      },
+      {
+        "level": "medium",
+        "english": "The rainy season just started, so we should expect a lot of storms this month.",
+        "chinese": "雨季刚刚开始，所以这个月估计会有很多暴风雨。",
+        "scene": "提醒朋友天气变化"
+      },
+      {
+        "level": "long",
+        "english": "I love the holiday season because everyone seems a little bit kinder and the whole city lights up with decorations.",
+        "chinese": "我喜欢节日季，因为那时每个人都好像更友善一点，整座城市也被装饰得灯火通明。",
+        "scene": "抒发对节日季节的喜爱"
+      }
+    ]
+  },
+  {
+    "word": "winter",
+    "phonetic": "/ˈwɪntər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "冬天",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I really love winter.",
+        "chinese": "我非常喜欢冬天。",
+        "scene": "看到初雪时的感叹"
+      },
+      {
+        "level": "medium",
+        "english": "Winter in Chicago is no joke; it gets so cold that your face hurts.",
+        "chinese": "芝加哥的冬天可不是闹着玩的，冷得脸都疼。",
+        "scene": "分享某地严冬的感受"
+      },
+      {
+        "level": "long",
+        "english": "Last winter, we had so much snow that school was cancelled for three days, and we spent the whole time building an igloo in the backyard.",
+        "chinese": "去年冬天下雪太大，学校取消了三天课，我们整个儿就在后院建了个冰屋。",
+        "scene": "回忆雪假中的快乐"
+      }
+    ]
+  },
+  {
+    "word": "snow",
+    "phonetic": "/snoʊ/",
+    "part_of_speech": "noun, verb",
+    "chinese_meaning": "雪；下雪",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Look, it's starting to snow!",
+        "chinese": "看，开始下雪了！",
+        "scene": "发现窗外飘起雪花时的惊喜"
+      },
+      {
+        "level": "medium",
+        "english": "The first snow of the year always feels so magical and quiet.",
+        "chinese": "每年的第一场雪总是感觉如此奇妙又安静。",
+        "scene": "分享初雪带来的美好感受"
+      },
+      {
+        "level": "long",
+        "english": "We woke up to fresh snow covering everything, and it was so peaceful outside that we just sat by the window with hot chocolate for an hour.",
+        "chinese": "我们醒来时新雪覆盖了一切，外面如此宁静，我们就坐在窗边喝着热巧克力，待了整整一个小时。",
+        "scene": "享受雪后清晨的静谧"
+      }
+    ]
+  },
+  {
+    "word": "get together",
+    "phonetic": "/ɡɛt təˈɡɛðər/",
+    "part_of_speech": "phrasal verb, noun",
+    "chinese_meaning": "聚会；聚在一起",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's get together sometime soon.",
+        "chinese": "我们最近找个时间聚聚吧。",
+        "scene": "和老朋友通完电话时提议"
+      },
+      {
+        "level": "medium",
+        "english": "We're having a small family get-together on Saturday. You should come.",
+        "chinese": "我们星期六有个小型家庭聚会，你也来吧。",
+        "scene": "热情邀请朋友参加家庭聚会"
+      },
+      {
+        "level": "long",
+        "english": "Even though we're all busy with jobs and kids now, we still find time to get together at least once a month for dinner and to catch up on life.",
+        "chinese": "尽管我们现在都忙于工作和孩子，但依然会每个月至少找时间聚一次，吃个饭，聊聊近况。",
+        "scene": "老友维系感情的固定聚会"
+      }
+    ]
+  },
+  {
+    "word": "spring",
+    "phonetic": "/sprɪŋ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "春天；春季",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I can't wait for spring.",
+        "chinese": "我等不及春天到来了。",
+        "scene": "漫长的冬天里的期盼"
+      },
+      {
+        "level": "medium",
+        "english": "The flowers start to bloom and the trees turn green when spring arrives.",
+        "chinese": "春天来临时，花儿开始绽放，树木也变绿了。",
+        "scene": "描绘春天到来的景象"
+      },
+      {
+        "level": "long",
+        "english": "Spring is the perfect time to clean out the garage and get rid of all the stuff we never use.",
+        "chinese": "春天是清理车库、扔掉所有我们不用的东西的最佳时机。",
+        "scene": "计划春季大扫除"
+      }
+    ]
+  },
+  {
+    "word": "summer",
+    "phonetic": "/ˈsʌmər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "夏天",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Summer is way too hot.",
+        "chinese": "夏天实在太热了。",
+        "scene": "高温天里的抱怨"
+      },
+      {
+        "level": "medium",
+        "english": "We go to my grandparents' lake house every summer for a whole week.",
+        "chinese": "我们每年夏天都会去爷爷奶奶的湖边小屋待上整整一个星期。",
+        "scene": "分享每年夏天的固定行程"
+      },
+      {
+        "level": "long",
+        "english": "My best summer memories are from camp, where we roasted marshmallows over the fire and swam in the lake every single day.",
+        "chinese": "我最美好的夏天回忆都来自夏令营，我们每天围在篝火边烤棉花糖，在湖里游泳。",
+        "scene": "怀念夏令营的快乐时光"
+      }
+    ]
+  },
+  {
+    "word": "autumn",
+    "phonetic": "/ˈɔːtəm/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "秋天",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Autumn leaves are so beautiful.",
+        "chinese": "秋天的叶子真美。",
+        "scene": "踩在落叶上时感叹"
+      },
+      {
+        "level": "medium",
+        "english": "I like to go hiking in autumn when the weather is cool and dry.",
+        "chinese": "我喜欢在秋天去远足，那时天气凉爽干燥。",
+        "scene": "描述最喜欢的秋季户外活动"
+      },
+      {
+        "level": "long",
+        "english": "Autumn is my favorite time of year because I can wear cozy sweaters, drink pumpkin spice lattes, and just enjoy the crisp air.",
+        "chinese": "秋天是我一年中最爱的时节，因为我可以穿舒适的毛衣，喝南瓜拿铁，享受那清爽的空气。",
+        "scene": "细数热爱秋天的种种理由"
+      }
+    ]
+  },
+  {
+    "word": "T-shirt",
+    "phonetic": "/ˈtiːʃɜːrt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "T恤衫",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I need a new T-shirt.",
+        "chinese": "我需要一件新T恤。",
+        "scene": "发现衣柜里缺少基本款"
+      },
+      {
+        "level": "medium",
+        "english": "He was just wearing jeans and a white T-shirt, but he looked really cool.",
+        "chinese": "他只穿着牛仔裤和白T恤，但看起来非常酷。",
+        "scene": "描述别人简约好看的穿搭"
+      },
+      {
+        "level": "long",
+        "english": "I have this old band T-shirt from a concert I went to ten years ago, and even though it's full of holes, I can't bring myself to throw it out.",
+        "chinese": "我有一件十年前去看演唱会买的旧乐队T恤，虽然它现在满是洞洞，但我就是舍不得扔掉。",
+        "scene": "一件满是回忆的旧T恤"
+      }
+    ]
+  },
+  {
+    "word": "fall",
+    "phonetic": "/fɔːl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "秋天（美式英语）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Fall is my favorite season.",
+        "chinese": "秋天是我最喜欢的季节。",
+        "scene": "和朋友聊到天气时的感慨"
+      },
+      {
+        "level": "medium",
+        "english": "The leaves change into beautiful red and orange colors in the fall.",
+        "chinese": "秋天叶子会变成美丽的红色和橙色。",
+        "scene": "看到秋叶变色时的描述"
+      },
+      {
+        "level": "long",
+        "english": "Every fall, my family goes apple picking at a farm nearby, and we come home with bags of fresh apples to make pie and cider.",
+        "chinese": "每个秋天，我们全家都会去附近农场摘苹果，然后带着成袋的新鲜苹果回家，做苹果派和苹果酒。",
+        "scene": "全家人的秋日摘苹果传统"
+      }
+    ]
+  },
+  {
+    "word": "leaf",
+    "phonetic": "/liːf/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "叶子；树叶",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "A leaf fell on my head.",
+        "chinese": "一片叶子掉在了我头上。",
+        "scene": "走在树下发生的小趣事"
+      },
+      {
+        "level": "medium",
+        "english": "The ground was completely covered with yellow and red leaves after the storm.",
+        "chinese": "暴风雨过后，地面完全被黄色和红色的树叶覆盖了。",
+        "scene": "雨后落叶满地的景象"
+      },
+      {
+        "level": "long",
+        "english": "I found a perfectly shaped maple leaf on my walk and pressed it inside my book to use as a bookmark.",
+        "chinese": "我散步时发现一片形状完美的枫叶，就把它压在书里做书签了。",
+        "scene": "收集秋叶做成自然书签"
+      }
+    ]
+  },
+  {
+    "word": "glove",
+    "phonetic": "/ɡlʌv/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "手套",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I lost one glove again.",
+        "chinese": "我又丢了一只手套。",
+        "scene": "冬天常丢手套的烦恼"
+      },
+      {
+        "level": "medium",
+        "english": "It's so cold outside that my fingers hurt. I need to find my gloves.",
+        "chinese": "外面冷得我手指疼，我得找到我的手套。",
+        "scene": "天寒地冻时需要手套保暖"
+      },
+      {
+        "level": "long",
+        "english": "My fingers were completely freezing while I waited for the bus, until I finally found my gloves buried at the very bottom of my bag.",
+        "chinese": "等公交时我的手指都快冻僵了，最后终于在我包的最底下找到了手套。",
+        "scene": "寒冷中等车翻包找手套"
+      }
+    ]
+  },
+  {
+    "word": "then",
+    "phonetic": "/ðɛn/",
+    "part_of_speech": "adverb",
+    "chinese_meaning": "然后；那时",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I ate breakfast, then I went to school.",
+        "chinese": "我吃完早饭，然后去上学了。",
+        "scene": "简单叙述早上的流程"
+      },
+      {
+        "level": "medium",
+        "english": "First, finish your homework, and then you can go out and play with your friends.",
+        "chinese": "先把作业做完，然后你就可以出去和朋友们玩了。",
+        "scene": "家长给孩子设定做事顺序"
+      },
+      {
+        "level": "long",
+        "english": "We walked around the city all day, got completely lost, and then we found this tiny restaurant in a back alley that had the most amazing pasta I've ever eaten.",
+        "chinese": "我们在城里逛了一整天，彻底迷路了，然后在一个小巷子里发现了一家超小的餐馆，那里的意面是我吃过最好吃的。",
+        "scene": "讲述意外的美食发现"
+      }
+    ]
+  }
+]

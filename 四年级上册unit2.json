@@ -1,0 +1,366 @@
+[
+  {
+    "word": "his",
+    "phonetic": "/hɪz/",
+    "part_of_speech": "determiner, pronoun",
+    "chinese_meaning": "他的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I think his name is Tom.",
+        "chinese": "我想他的名字叫汤姆。",
+        "scene": "不太确定地猜测某人的名字"
+      },
+      {
+        "level": "medium",
+        "english": "I borrowed his bike because mine has a flat tire.",
+        "chinese": "我借了他的自行车，因为我的车胎瘪了。",
+        "scene": "向别人解释为什么骑别人的车"
+      },
+      {
+        "level": "long",
+        "english": "When we were kids, his house was always the one where everyone wanted to hang out because his mom made the best snacks and had a huge backyard.",
+        "chinese": "我们小时候，他家总是大家最想去玩的地方，因为他妈妈做的点心最好吃，而且后院特别大。",
+        "scene": "回忆童年时最受欢迎的玩伴家"
+      }
+    ]
+  },
+  {
+    "word": "strong",
+    "phonetic": "/strɔːŋ/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "强壮的；坚强的；浓烈的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My dad is really strong.",
+        "chinese": "我爸爸真的很强壮。",
+        "scene": "孩子骄傲地谈论爸爸"
+      },
+      {
+        "level": "medium",
+        "english": "You need to be strong to carry these heavy boxes upstairs.",
+        "chinese": "你得够强壮才能把这些重箱子搬上楼。",
+        "scene": "搬家时提醒朋友箱子很重"
+      },
+      {
+        "level": "long",
+        "english": "After the accident, she stayed strong for her family, even though she was hurting inside, and that taught me what real strength looks like.",
+        "chinese": "事故之后，她为了家人一直表现得很坚强，尽管内心很痛苦，这件事让我明白了什么是真正的坚强。",
+        "scene": "讲述某人展现出的内在力量"
+      }
+    ]
+  },
+  {
+    "word": "hair",
+    "phonetic": "/her/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "头发",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She has long brown hair.",
+        "chinese": "她有一头长长的棕色头发。",
+        "scene": "简单描述一个人的外貌"
+      },
+      {
+        "level": "medium",
+        "english": "I'm thinking about cutting my hair short for the summer.",
+        "chinese": "我在考虑夏天把头发剪短。",
+        "scene": "和朋友讨论换发型的想法"
+      },
+      {
+        "level": "long",
+        "english": "Every morning, I spend way too much time trying to fix my hair because it's so curly and just seems to have a mind of its own.",
+        "chinese": "每天早上，我都要花太多时间打理头发，因为它太卷了，好像完全不听使唤。",
+        "scene": "抱怨难以打理的卷发"
+      }
+    ]
+  },
+  {
+    "word": "also",
+    "phonetic": "/ˈɔːlsoʊ/",
+    "part_of_speech": "adverb",
+    "chinese_meaning": "也；同样",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I also like pizza and pasta.",
+        "chinese": "我也喜欢披萨和意大利面。",
+        "scene": "补充说明自己的饮食喜好"
+      },
+      {
+        "level": "medium",
+        "english": "She's a great singer and also plays the guitar really well.",
+        "chinese": "她歌唱得很好，吉他弹得也很棒。",
+        "scene": "介绍一个多才多艺的朋友"
+      },
+      {
+        "level": "long",
+        "english": "We went to the beach and swam all day, and we also had a barbecue at sunset, which was the perfect way to end our vacation.",
+        "chinese": "我们去了海滩游了一整天泳，还在日落时烧烤了，那真是结束假期的完美方式。",
+        "scene": "讲述假期最后一天的美好活动"
+      }
+    ]
+  },
+  {
+    "word": "kind",
+    "phonetic": "/kaɪnd/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "善良的；友好的；种类",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "That was very kind of you.",
+        "chinese": "你真是太善良了。",
+        "scene": "对别人的帮助表示真诚感谢"
+      },
+      {
+        "level": "medium",
+        "english": "It was really kind of him to help me move the heavy sofa.",
+        "chinese": "他真是太好了，帮我把那个重沙发搬走了。",
+        "scene": "感激某人帮忙搬重家具"
+      },
+      {
+        "level": "long",
+        "english": "My neighbor is one of the kindest people I know; she always checks on the elderly folks and brings them homemade soup when they're sick.",
+        "chinese": "我邻居是我认识的最善良的人之一；她总是去看望那些老人，他们生病时还会送去自己做的汤。",
+        "scene": "描述一个乐于助人的好邻居"
+      }
+    ]
+  },
+  {
+    "word": "quiet",
+    "phonetic": "/ˈkwaɪət/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "安静的；轻声的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Please be quiet in the library.",
+        "chinese": "在图书馆里请保持安静。",
+        "scene": "图书馆的规则提醒"
+      },
+      {
+        "level": "medium",
+        "english": "The baby is sleeping, so we have to be quiet.",
+        "chinese": "宝宝在睡觉，我们得小点声。",
+        "scene": "家人在婴儿房外互相提醒"
+      },
+      {
+        "level": "long",
+        "english": "I love going to the park early in the morning when it's still quiet and you can just hear the birds and the wind in the trees.",
+        "chinese": "我喜欢一大清早去公园，那时还很安静，你能听到的只有鸟叫和风吹过树的声音。",
+        "scene": "描述清晨公园的宁静带来的享受"
+      }
+    ]
+  },
+  {
+    "word": "best",
+    "phonetic": "/bɛst/",
+    "part_of_speech": "adjective, adverb, noun",
+    "chinese_meaning": "最好的；最好地；最好的人或事物",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "You're the best friend ever.",
+        "chinese": "你是史上最好的朋友。",
+        "scene": "对好朋友发自内心的称赞"
+      },
+      {
+        "level": "medium",
+        "english": "She's my best friend, and we've known each other since kindergarten.",
+        "chinese": "她是我最好的朋友，我们从幼儿园就认识了。",
+        "scene": "介绍一个相识多年的密友"
+      },
+      {
+        "level": "long",
+        "english": "Even though we didn't win the championship, I still gave it my best and felt proud of how far we had come as a team.",
+        "chinese": "虽然我们没赢得冠军，但我已经尽了全力，也为我们整个团队的进步感到骄傲。",
+        "scene": "比赛失利后依然肯定自己的努力"
+      }
+    ]
+  },
+  {
+    "word": "read",
+    "phonetic": "/riːd/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "阅读；读",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I read a book every night.",
+        "chinese": "我每晚都读一本书。",
+        "scene": "分享睡前的阅读习惯"
+      },
+      {
+        "level": "medium",
+        "english": "My little sister is learning to read, and she loves picture books.",
+        "chinese": "我妹妹正在学认字，她特别喜欢看图画书。",
+        "scene": "提到年幼妹妹的识字阶段"
+      },
+      {
+        "level": "long",
+        "english": "When I was in high school, I used to read for hours in the library, getting lost in stories and forgetting about all my homework and stress.",
+        "chinese": "高中时我常会一连几个小时在学校图书馆看书，沉浸在故事里，把所有作业和压力都忘得一干二净。",
+        "scene": "回忆在图书馆逃避压力的阅读时光"
+      }
+    ]
+  },
+  {
+    "word": "Chinese",
+    "phonetic": "/tʃaɪˈniːz/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "中国的；中文；中国人",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I like Chinese food a lot.",
+        "chinese": "我非常喜欢中国菜。",
+        "scene": "表达对中餐的喜爱"
+      },
+      {
+        "level": "medium",
+        "english": "She's learning Chinese so she can talk to her grandparents.",
+        "chinese": "她在学中文，这样就能和爷爷奶奶聊天了。",
+        "scene": "为了与祖辈交流而学习语言"
+      },
+      {
+        "level": "long",
+        "english": "My grandmother tells the best stories about celebrating Chinese New Year as a child, with firecrackers, lion dances, and red envelopes full of lucky money.",
+        "chinese": "我奶奶最会讲她小时候过中国新年的故事了，有鞭炮、舞狮，还有装着压岁钱的红包。",
+        "scene": "奶奶回忆童年时的春节传统"
+      }
+    ]
+  },
+  {
+    "word": "play",
+    "phonetic": "/pleɪ/",
+    "part_of_speech": "verb, noun",
+    "chinese_meaning": "玩耍；演奏；播放；戏剧",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's play a game together.",
+        "chinese": "咱们一起玩个游戏吧。",
+        "scene": "邀请朋友一起玩游戏"
+      },
+      {
+        "level": "medium",
+        "english": "He can play the guitar and the drums really well.",
+        "chinese": "他吉他弹得很好，鼓也打得很棒。",
+        "scene": "赞叹某人乐器演奏的才能"
+      },
+      {
+        "level": "long",
+        "english": "As a kid, I would play outside from morning until night, riding bikes, climbing trees, and making up adventures with my friends.",
+        "chinese": "小时候，我会从早到晚在外面玩，骑自行车、爬树，和朋友们一起编造各种冒险故事。",
+        "scene": "回忆童年时无拘无束的户外玩耍时光"
+      }
+    ]
+  },
+  {
+    "word": "game",
+    "phonetic": "/ɡeɪm/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "游戏；比赛",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This game is so much fun!",
+        "chinese": "这个游戏太好玩了！",
+        "scene": "玩游戏时的兴奋感叹"
+      },
+      {
+        "level": "medium",
+        "english": "Our family has a game night every Friday, and it's my favorite tradition.",
+        "chinese": "我们家每周五晚上都有个游戏之夜，这是我最喜欢的家庭传统。",
+        "scene": "介绍家庭定期的娱乐活动"
+      },
+      {
+        "level": "long",
+        "english": "That video game was so challenging that I almost quit, but after dozens of tries, I finally beat the final level and celebrated by ordering a huge pizza.",
+        "chinese": "那个电子游戏太难了，我差点放弃，但在几十次尝试后，我终于打通了最后一关，马上订了个大披萨庆祝。",
+        "scene": "艰难通关电子游戏后的成就感"
+      }
+    ]
+  },
+  {
+    "word": "football",
+    "phonetic": "/ˈfʊtbɔːl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "美式橄榄球；足球",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We play football every Saturday.",
+        "chinese": "我们每周六都打橄榄球。",
+        "scene": "谈论周末固定的运动安排"
+      },
+      {
+        "level": "medium",
+        "english": "He's the quarterback for our school football team this year.",
+        "chinese": "他是今年我们学校橄榄球队的四分卫。",
+        "scene": "介绍校队的核心球员"
+      },
+      {
+        "level": "long",
+        "english": "My dad and I never miss a Sunday football game on TV; we make a ton of snacks, wear our team jerseys, and scream at the screen like we're actually at the stadium.",
+        "chinese": "我和我爸从没错过周日电视上的橄榄球赛；我们会做一大堆零食，穿上球队的球衣，对着屏幕大喊大叫，就好像真在现场一样。",
+        "scene": "父子俩在家中狂热地观看比赛"
+      }
+    ]
+  },
+  {
+    "word": "basketball",
+    "phonetic": "/ˈbæskɪtbɔːl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "篮球",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Do you want to play basketball later?",
+        "chinese": "你待会儿想打篮球吗？",
+        "scene": "邀约朋友一起去打球"
+      },
+      {
+        "level": "medium",
+        "english": "I joined the basketball club at school to get better at shooting.",
+        "chinese": "我加入了学校的篮球社团，想把投篮练得更好。",
+        "scene": "为提高球技而参加社团活动"
+      },
+      {
+        "level": "long",
+        "english": "I remember the first time I made a three-pointer in a real basketball game; the crowd cheered, and from that moment, I was completely hooked on the sport.",
+        "chinese": "我还记得第一次在正式篮球赛中投进三分球的那一刻；全场欢呼，从那时起，我就彻底迷上了这项运动。",
+        "scene": "回忆爱上篮球的关键时刻"
+      }
+    ]
+  },
+  {
+    "word": "always",
+    "phonetic": "/ˈɔːlweɪz/",
+    "part_of_speech": "adverb",
+    "chinese_meaning": "总是；一直",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I will always love you.",
+        "chinese": "我会永远爱你。",
+        "scene": "深情的情感表达"
+      },
+      {
+        "level": "medium",
+        "english": "My grandma always gives me a big hug when I visit her.",
+        "chinese": "我去看奶奶的时候，她总是会给我一个大大的拥抱。",
+        "scene": "描述奶奶每次见面时的固定动作"
+      },
+      {
+        "level": "long",
+        "english": "No matter how busy I get with work and life, I'll always find time for my family because they're the most important thing to me.",
+        "chinese": "无论工作和生活有多忙，我永远都会为家人留出时间，因为他们对我来说是最重要的。",
+        "scene": "表达家庭在心中的首要位置"
+      }
+    ]
+  }
+]

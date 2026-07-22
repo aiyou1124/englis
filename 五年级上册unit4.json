@@ -1,6 +1,730 @@
-{
-  "grade": "五年级",
-  "term": "上册",
-  "unit": "unit4",
-  "words": []
-}
+[
+  {
+    "word": "sing",
+    "phonetic": "/sɪŋ/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "唱；唱歌",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I love to sing in the shower.",
+        "chinese": "我喜欢在洗澡时唱歌。",
+        "scene": "自娱自乐的小习惯"
+      },
+      {
+        "level": "medium",
+        "english": "She sings so beautifully that everyone stops what they're doing just to listen.",
+        "chinese": "她唱得太美了，大家都停下手中的事来听。",
+        "scene": "被歌声吸引的瞬间"
+      },
+      {
+        "level": "long",
+        "english": "Whenever I feel down, I put on my headphones and sing along to my favorite songs, and by the time I'm done, I always feel a hundred times better.",
+        "chinese": "每当我情绪低落，我就戴上耳机跟着我最喜欢的歌一起唱，唱完之后总感觉好了一百倍。",
+        "scene": "用唱歌治愈情绪"
+      }
+    ]
+  },
+  {
+    "word": "song",
+    "phonetic": "/sɔːŋ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "歌曲",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This song is so catchy.",
+        "chinese": "这首歌太上头了。",
+        "scene": "听到流行曲的反应"
+      },
+      {
+        "level": "medium",
+        "english": "I heard a song on the radio that reminded me of our road trip last summer.",
+        "chinese": "我在电台听到一首歌，让我想起了去年夏天的公路旅行。",
+        "scene": "音乐引发的回忆"
+      },
+      {
+        "level": "long",
+        "english": "That old song brings back so many memories of high school, when we used to drive around with the windows down and sing at the top of our lungs.",
+        "chinese": "那首老歌勾起了太多高中时的回忆，那时我们经常摇下车窗，扯着嗓子大声唱歌。",
+        "scene": "青春时期的热血回忆"
+      }
+    ]
+  },
+  {
+    "word": "sing English songs",
+    "phonetic": "/sɪŋ ˈɪŋɡlɪʃ sɔːŋz/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "唱英文歌",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We like to sing English songs in class.",
+        "chinese": "我们喜欢在课堂上唱英文歌。",
+        "scene": "活跃的英语课堂"
+      },
+      {
+        "level": "medium",
+        "english": "Singing English songs really helps me improve my pronunciation and vocabulary.",
+        "chinese": "唱英文歌真的帮我校正了发音，还增加了词汇量。",
+        "scene": "分享有效的学习方法"
+      },
+      {
+        "level": "long",
+        "english": "When I first started learning English, I couldn't understand the lyrics at all, but now I can sing English songs and actually know the meaning behind every word.",
+        "chinese": "刚开始学英语时，我完全听不懂歌词，但现在我能唱英文歌，而且还能听懂每个词背后的意思。",
+        "scene": "从学唱到听懂的进步"
+      }
+    ]
+  },
+  {
+    "word": "play the pipa",
+    "phonetic": "/pleɪ ðə ˈpiːpɑː/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "弹琵琶",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She can play the pipa beautifully.",
+        "chinese": "她琵琶弹得很动听。",
+        "scene": "才艺展示时的赞叹"
+      },
+      {
+        "level": "medium",
+        "english": "I'm taking lessons to learn how to play the pipa at a traditional music school.",
+        "chinese": "我在一家传统音乐学校上课，学习弹琵琶。",
+        "scene": "介绍自己的课外班"
+      },
+      {
+        "level": "long",
+        "english": "My grandmother taught me how to play the pipa when I was a little girl, and it's a skill that connects me deeply to my family's history.",
+        "chinese": "小时候奶奶教我弹琵琶，这项技艺将我和家族历史紧紧联系在一起。",
+        "scene": "传递家族的文化记忆"
+      }
+    ]
+  },
+  {
+    "word": "kung fu",
+    "phonetic": "/ˌkʌŋ ˈfuː/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "功夫",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I love watching kung fu movies.",
+        "chinese": "我喜欢看功夫片。",
+        "scene": "周末的电影爱好"
+      },
+      {
+        "level": "medium",
+        "english": "He has been practicing kung fu for over ten years and is a black belt now.",
+        "chinese": "他练功夫已经十多年了，现在是黑带。",
+        "scene": "介绍朋友的武术成就"
+      },
+      {
+        "level": "long",
+        "english": "Kung fu is not just about fighting; it's about finding inner peace, respecting your opponent, and training both your body and your spirit.",
+        "chinese": "功夫不仅是打斗，它关乎寻找内心平静，尊重对手，以及锻炼身心。",
+        "scene": "谈论功夫的内在哲理"
+      }
+    ]
+  },
+  {
+    "word": "do kung fu",
+    "phonetic": "/duː ˌkʌŋ ˈfuː/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "练功夫",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's go do kung fu after school.",
+        "chinese": "放学后我们去练功夫吧。",
+        "scene": "同学间约好一起活动"
+      },
+      {
+        "level": "medium",
+        "english": "I do kung fu twice a week to stay active and relieve stress.",
+        "chinese": "我每周练两次功夫来保持活力、缓解压力。",
+        "scene": "定期去武馆锻炼"
+      },
+      {
+        "level": "long",
+        "english": "When I was a kid, my dad enrolled me in a class to do kung fu because I was getting picked on, and it turned out to be the best thing that ever happened to my confidence.",
+        "chinese": "我小时候因为被欺负，爸爸送我去练功夫，结果那成了建立我自信心最棒的一件事。",
+        "scene": "功夫带来的成长与改变"
+      }
+    ]
+  },
+  {
+    "word": "dance",
+    "phonetic": "/dæns/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "跳舞",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's dance to this song!",
+        "chinese": "我们跟着这首歌跳起来吧！",
+        "scene": "派对上听到喜欢的音乐"
+      },
+      {
+        "level": "medium",
+        "english": "She loves to dance, so we're taking salsa lessons together every Friday.",
+        "chinese": "她酷爱跳舞，所以我们每周五一起去上萨尔萨舞课。",
+        "scene": "一起学习社交舞"
+      },
+      {
+        "level": "long",
+        "english": "I have two left feet, but I still dance at weddings because it's about having fun, not about looking perfect.",
+        "chinese": "我笨手笨脚的，但在婚礼上我依然会跳舞，因为跳舞是为了开心，不是要看着完美。",
+        "scene": "在婚礼上放下包袱尽情舞动"
+      }
+    ]
+  },
+  {
+    "word": "draw",
+    "phonetic": "/drɔː/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "画；绘画",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I like to draw animals.",
+        "chinese": "我喜欢画动物。",
+        "scene": "拿出画笔时的爱好分享"
+      },
+      {
+        "level": "medium",
+        "english": "Can you draw a quick sketch of my dog? You're so talented.",
+        "chinese": "你能帮我的狗画张速写吗？你画得太好了。",
+        "scene": "请求朋友发挥绘画才能"
+      },
+      {
+        "level": "long",
+        "english": "As a kid, I used to draw on my bedroom walls, and instead of getting angry, my mom bought me a giant sketchbook and saved the wall.",
+        "chinese": "我小时候喜欢在卧室墙上画画，妈妈非但没生气，还给我买了个巨大的素描本，救了那面墙。",
+        "scene": "父母鼓励创造力的温馨举动"
+      }
+    ]
+  },
+  {
+    "word": "cartoon",
+    "phonetic": "/kɑːrˈtuːn/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "卡通；漫画；动画片",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I still watch cartoons on Saturday mornings.",
+        "chinese": "我周六早上还是会看动画片。",
+        "scene": "保持童心的周末习惯"
+      },
+      {
+        "level": "medium",
+        "english": "That cartoon is hilarious; even the parents are laughing out loud.",
+        "chinese": "这部动画片太搞笑了，连家长们都在哈哈大笑。",
+        "scene": "全家人一起看动画片"
+      },
+      {
+        "level": "long",
+        "english": "My favorite cartoon growing up was about a clever rabbit, and I never missed a single episode after school.",
+        "chinese": "我小时候最爱的动画片是关于一只聪明兔子的，我放学后一集都没落下过。",
+        "scene": "回忆经典的童年动画"
+      }
+    ]
+  },
+  {
+    "word": "draw cartoons",
+    "phonetic": "/drɔː kɑːrˈtuːnz/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "画漫画",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "He can draw cartoons really fast.",
+        "chinese": "他画漫画画得特别快。",
+        "scene": "惊叹朋友的绘画速度"
+      },
+      {
+        "level": "medium",
+        "english": "I'm learning to draw cartoons by watching online tutorials after dinner.",
+        "chinese": "我晚饭后正跟着网上的教程学画漫画。",
+        "scene": "自学一项新技能"
+      },
+      {
+        "level": "long",
+        "english": "Whenever I'm bored during a long meeting, I secretly draw cartoons of my boss in my notebook to stay awake.",
+        "chinese": "每次在冗长的会议上感到无聊，我就偷偷在笔记本上画老板的漫画来提神。",
+        "scene": "枯燥会议中的自娱自乐"
+      }
+    ]
+  },
+  {
+    "word": "cook",
+    "phonetic": "/kʊk/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "烹饪；做饭",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I can cook spaghetti.",
+        "chinese": "我会做意大利面。",
+        "scene": "回答是否具备做饭技能"
+      },
+      {
+        "level": "medium",
+        "english": "My dad loves to cook a huge breakfast for the whole family on Sundays.",
+        "chinese": "我爸爸喜欢在周日给全家做一顿丰盛的早餐。",
+        "scene": "家庭美食日的温馨画面"
+      },
+      {
+        "level": "long",
+        "english": "I never learned to cook until I moved into my own apartment, and after a week of terrible instant noodles, I finally called my mom for her recipes.",
+        "chinese": "我搬进自己的公寓后一直没学做饭，吃了一周难吃的泡面后，终于打电话向妈妈要来了她的食谱。",
+        "scene": "独立生活后开始学做饭"
+      }
+    ]
+  },
+  {
+    "word": "swim",
+    "phonetic": "/swɪm/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "游泳",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's go swim in the lake.",
+        "chinese": "我们去湖里游泳吧。",
+        "scene": "夏天户外活动的提议"
+      },
+      {
+        "level": "medium",
+        "english": "I usually swim laps at the community pool before heading to the office.",
+        "chinese": "我通常上班前去社区泳池游几个来回。",
+        "scene": "晨练的习惯"
+      },
+      {
+        "level": "long",
+        "english": "Learning to swim as an adult was terrifying at first, but now it's the most relaxing part of my week and I can't imagine life without it.",
+        "chinese": "成年后才学游泳起初很可怕，但现在这已是我一周中最放松的时刻，无法想象没有它的生活。",
+        "scene": "战胜恐惧并爱上游泳"
+      }
+    ]
+  },
+  {
+    "word": "play basketball",
+    "phonetic": "/pleɪ ˈbæskɪtbɔːl/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "打篮球",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Do you want to play basketball?",
+        "chinese": "你想去打篮球吗？",
+        "scene": "在球场向朋友发出邀请"
+      },
+      {
+        "level": "medium",
+        "english": "We play basketball every Saturday morning at the park, rain or shine.",
+        "chinese": "我们每周六早上都在公园打篮球，风雨无阻。",
+        "scene": "雷打不动的周末固定活动"
+      },
+      {
+        "level": "long",
+        "english": "I used to play basketball in high school, and even though I spent most of the time on the bench, I still miss the energy of the game and the team spirit.",
+        "chinese": "我高中的时候打过篮球，虽然大部分时间都坐冷板凳，但我依然怀念比赛的激情和团队精神。",
+        "scene": "对高中篮球时光的怀念"
+      }
+    ]
+  },
+  {
+    "word": "ping-pong",
+    "phonetic": "/ˈpɪŋ pɔːŋ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "乒乓球",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I bought a new ping-pong paddle.",
+        "chinese": "我买了一个新的乒乓球拍。",
+        "scene": "准备体育器材"
+      },
+      {
+        "level": "medium",
+        "english": "We have a ping-pong table in the office basement, and it gets very competitive.",
+        "chinese": "我们办公室地下室里有一张乒乓球桌，比赛经常非常激烈。",
+        "scene": "午休时的办公室竞技"
+      },
+      {
+        "level": "long",
+        "english": "Ping-pong is a huge deal in my family; we hold tournaments every holiday, and my grandma, who is eighty, still hits the hardest smashes.",
+        "chinese": "乒乓球在我家是件大事，每次过节都有比赛，我八十岁的奶奶依然能扣出最狠的球。",
+        "scene": "家庭乒乓比赛的传奇人物"
+      }
+    ]
+  },
+  {
+    "word": "play ping-pong",
+    "phonetic": "/pleɪ ˈpɪŋ pɔːŋ/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "打乒乓球",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's play ping-pong after dinner.",
+        "chinese": "晚饭后我们去打乒乓球吧。",
+        "scene": "饭后活动的提议"
+      },
+      {
+        "level": "medium",
+        "english": "I like to play ping-pong, but I'm terrible at serving the ball.",
+        "chinese": "我喜欢打乒乓球，但我的发球糟透了。",
+        "scene": "自嘲球技中的弱项"
+      },
+      {
+        "level": "long",
+        "english": "During our break, a few of us play ping-pong in the garage, and it's the perfect way to clear our minds before getting back to work.",
+        "chinese": "休息时，我们几个在车库里打乒乓球，这是在回去工作前清醒头脑的绝妙方式。",
+        "scene": "利用休息时间放松一下"
+      }
+    ]
+  },
+  {
+    "word": "speak English",
+    "phonetic": "/spiːk ˈɪŋɡlɪʃ/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "说英语",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Please speak English with me.",
+        "chinese": "请跟我一起说英语。",
+        "scene": "寻找语伴练习口语"
+      },
+      {
+        "level": "medium",
+        "english": "My goal is to speak English fluently enough to travel alone next year.",
+        "chinese": "我的目标是明年能流利地说英语，可以独自去旅行。",
+        "scene": "设定提升语言的目标"
+      },
+      {
+        "level": "long",
+        "english": "I was always too shy to speak English because I was afraid of making mistakes, but my teacher said making mistakes is just proof that you're trying.",
+        "chinese": "我以前总因为怕犯错而不敢说英语，但我的老师说，犯错恰恰证明你在努力尝试。",
+        "scene": "克服说英语的心理障碍"
+      }
+    ]
+  },
+  {
+    "word": "we'll",
+    "phonetic": "/wiːl/",
+    "part_of_speech": "contraction",
+    "chinese_meaning": "我们将；我们会",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We'll see you tomorrow.",
+        "chinese": "我们明天见。",
+        "scene": "和朋友道别"
+      },
+      {
+        "level": "medium",
+        "english": "Don't worry about the mess; we'll clean it up before the guests arrive.",
+        "chinese": "别担心乱糟糟的，我们会在客人来之前收拾好的。",
+        "scene": "派对前互相安抚"
+      },
+      {
+        "level": "long",
+        "english": "If the weather is nice this weekend, we'll go hiking in the mountains, and if it rains, we'll just have a movie marathon at home.",
+        "chinese": "如果这个周末天气好，我们就去山里徒步，如果下雨，我们就在家搞个电影马拉松。",
+        "scene": "根据天气制定的双计划"
+      }
+    ]
+  },
+  {
+    "word": "party",
+    "phonetic": "/ˈpɑːrti/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "派对；聚会",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "There's a party at my house tonight.",
+        "chinese": "今晚我家有个派对。",
+        "scene": "向朋友发出邀请或告知"
+      },
+      {
+        "level": "medium",
+        "english": "We threw a surprise party for her birthday, and she totally didn't expect it.",
+        "chinese": "我们给她办了惊喜生日派对，她完全没料到。",
+        "scene": "惊喜派对的成功喜悦"
+      },
+      {
+        "level": "long",
+        "english": "The party was so loud that the neighbors upstairs came down to complain, but after we invited them in, they ended up staying until midnight.",
+        "chinese": "派对太吵了，楼上的邻居下来投诉，但我们把他们邀请进来后，他们一直待到半夜才走。",
+        "scene": "派对气氛好到让投诉的邻居加入"
+      }
+    ]
+  },
+  {
+    "word": "next",
+    "phonetic": "/nɛkst/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "下一个的；接下来的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'll see you next week.",
+        "chinese": "下周见。",
+        "scene": "周末结束时告别"
+      },
+      {
+        "level": "medium",
+        "english": "What's the next step after we finish writing the report?",
+        "chinese": "写完报告后，下一步做什么？",
+        "scene": "项目流程的讨论"
+      },
+      {
+        "level": "long",
+        "english": "I can't wait for the next episode of this show; the story ended on such a huge cliffhanger that I literally screamed.",
+        "chinese": "我等不及看这部剧的下一集了，结尾停在那么大的悬念上，我真的叫出了声。",
+        "scene": "追剧被吊胃口后的急切心情"
+      }
+    ]
+  },
+  {
+    "word": "wonderful",
+    "phonetic": "/ˈwʌndərfəl/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "精彩的；极好的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "That's a wonderful idea!",
+        "chinese": "那是个绝妙的主意！",
+        "scene": "对提议表示高度认可"
+      },
+      {
+        "level": "medium",
+        "english": "The weather is absolutely wonderful today; let's eat lunch outside.",
+        "chinese": "今天的天气实在是太好了，我们出去吃午饭吧。",
+        "scene": "被好天气吸引到户外"
+      },
+      {
+        "level": "long",
+        "english": "It was a wonderful experience to volunteer at the animal shelter; seeing those rescued puppies find new homes filled my heart with joy.",
+        "chinese": "在动物收容所当志愿者是一次很棒的经历，看着那些被救的小狗找到新家，我心里充满了喜悦。",
+        "scene": "分享公益活动带来的感动"
+      }
+    ]
+  },
+  {
+    "word": "learn",
+    "phonetic": "/lɜːrn/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "学习；学会",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I want to learn how to surf.",
+        "chinese": "我想学冲浪。",
+        "scene": "表达对新技能的向往"
+      },
+      {
+        "level": "medium",
+        "english": "It's never too late to learn a new language or pick up an instrument.",
+        "chinese": "学习一门新语言或学一件乐器，什么时候开始都不晚。",
+        "scene": "鼓励朋友追求梦想"
+      },
+      {
+        "level": "long",
+        "english": "I learned how to cook by watching my grandmother in the kitchen, and those hands-on lessons were way better than any cooking show.",
+        "chinese": "我是在厨房里看奶奶做饭学会烹饪的，那些手把手的教导比任何美食节目都好得多。",
+        "scene": "怀念向长辈学习技艺的时光"
+      }
+    ]
+  },
+  {
+    "word": "any",
+    "phonetic": "/ˈɛni/",
+    "part_of_speech": "determiner",
+    "chinese_meaning": "任何；一些",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Do you have any questions?",
+        "chinese": "你们有什么问题吗？",
+        "scene": "老师或演讲者询问听众"
+      },
+      {
+        "level": "medium",
+        "english": "I don't have any cash on me, so can I pay with my phone?",
+        "chinese": "我身上没带现金，能手机支付吗？",
+        "scene": "结账时的日常询问"
+      },
+      {
+        "level": "long",
+        "english": "Let me know if you need any help moving the heavy furniture; I'm free all weekend and happy to lend a hand.",
+        "chinese": "搬重家具要是需要帮忙就跟我说，我整个周末都有空，很乐意搭把手。",
+        "scene": "热心向朋友提供体力活帮助"
+      }
+    ]
+  },
+  {
+    "word": "problem",
+    "phonetic": "/ˈprɑːbləm/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "问题；难题",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "What's the problem?",
+        "chinese": "出什么问题了？",
+        "scene": "看到别人发愁时询问"
+      },
+      {
+        "level": "medium",
+        "english": "I have a problem with my laptop; it keeps shutting down randomly.",
+        "chinese": "我笔记本电脑出了个问题，它老是随机关机。",
+        "scene": "向技术支持投诉"
+      },
+      {
+        "level": "long",
+        "english": "The biggest problem with living in the city center is the noise at night, but the convenience of walking everywhere makes up for it.",
+        "chinese": "住市中心最大的问题就是晚上太吵，但去哪都能走路到达的便利弥补了这点。",
+        "scene": "权衡城市生活的利弊"
+      }
+    ]
+  },
+  {
+    "word": "no problem",
+    "phonetic": "/noʊ ˈprɑːbləm/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "没问题；不客气",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "No problem, I'm happy to help!",
+        "chinese": "没问题，我很乐意帮忙！",
+        "scene": "爽快地回应别人的请求"
+      },
+      {
+        "level": "medium",
+        "english": "Thanks for driving me home in the rain. — No problem, it's on my way.",
+        "chinese": "谢谢你冒雨送我回家。— 没事儿，顺路而已。",
+        "scene": "顺路帮忙后的轻松对白"
+      },
+      {
+        "level": "long",
+        "english": "When I accidentally spilled coffee on her white carpet, I nearly died of embarrassment, but she just laughed and said, 'No problem, I have a great cleaner.'",
+        "chinese": "我不小心把咖啡洒在她的白地毯上，尴尬得要死，但她只是笑着说：没问题，我有个很棒的清洁剂。",
+        "scene": "窘迫时刻被宽容以待的温暖"
+      }
+    ]
+  },
+  {
+    "word": "want",
+    "phonetic": "/wɑːnt/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "想要",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I want some ice cream.",
+        "chinese": "我想吃点冰淇淋。",
+        "scene": "嘴馋时的简单愿望"
+      },
+      {
+        "level": "medium",
+        "english": "What do you want to do for your birthday this year?",
+        "chinese": "你今年生日想怎么过？",
+        "scene": "和朋友讨论生日计划"
+      },
+      {
+        "level": "long",
+        "english": "I want to visit every national park in the country someday, so I've started a savings fund just for that dream trip.",
+        "chinese": "我想有朝一日能游览全国的每一个国家公园，为此我已经开始给这个梦想旅行存钱了。",
+        "scene": "宏伟旅行计划的存钱目标"
+      }
+    ]
+  },
+  {
+    "word": "send",
+    "phonetic": "/sɛnd/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "发送；寄",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Please send me the photos.",
+        "chinese": "请把照片发给我。",
+        "scene": "聚会后向朋友索要照片"
+      },
+      {
+        "level": "medium",
+        "english": "Can you send a quick message to the group chat about tomorrow's change of plans?",
+        "chinese": "你能在群里发条消息，说一下明天的计划有变吗？",
+        "scene": "拜托朋友群发通知"
+      },
+      {
+        "level": "long",
+        "english": "I sent my job application last Monday, and I've been checking my email every ten minutes since then, hoping for a reply.",
+        "chinese": "我上周一寄出了求职申请，从那以后我就每隔十分钟查一次邮件，盼着收到回复。",
+        "scene": "求职后焦急等待回音"
+      }
+    ]
+  },
+  {
+    "word": "email",
+    "phonetic": "/ˈiːmeɪl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "电子邮件",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I check my email every morning.",
+        "chinese": "我每天早上都查邮件。",
+        "scene": "上班前的例行公事"
+      },
+      {
+        "level": "medium",
+        "english": "Please send the report as an email attachment before the end of the day.",
+        "chinese": "请在今天下班前把报告以邮件附件的形式发给我。",
+        "scene": "工作时的办公要求"
+      },
+      {
+        "level": "long",
+        "english": "I used to write long letters to my pen pal, but now we just exchange emails because it's faster.",
+        "chinese": "我以前常给笔友写长信，但现在我们只发电子邮件了，因为更快。",
+        "scene": "交流方式随时代的变迁"
+      }
+    ]
+  },
+  {
+    "word": "at",
+    "phonetic": "/æt/",
+    "part_of_speech": "preposition",
+    "chinese_meaning": "在（某地/某时）；向",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'm at the library right now.",
+        "chinese": "我现在在图书馆。",
+        "scene": "电话中告知所在位置"
+      },
+      {
+        "level": "medium",
+        "english": "Please meet me at the main entrance at exactly 5 p.m.",
+        "chinese": "下午五点整在主入口见。",
+        "scene": "约定见面的精确地点和时间"
+      },
+      {
+        "level": "long",
+        "english": "I was standing at the bus stop when I realized I had left my wallet at home, so I had to run back and was almost late for work.",
+        "chinese": "我站在公交车站时，突然意识到钱包落家里了，只好跑回去拿，结果上班差点迟到。",
+        "scene": "出门时的马虎插曲"
+      }
+    ]
+  }
+]

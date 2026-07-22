@@ -1,6 +1,418 @@
-{
-  "grade": "五年级",
-  "term": "上册",
-  "unit": "unit3",
-  "words": []
-}
+[
+  {
+    "word": "sandwich",
+    "phonetic": "/ˈsænwɪtʃ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "三明治",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I made a ham sandwich for lunch.",
+        "chinese": "我午饭做了一个火腿三明治。",
+        "scene": "准备午餐时告诉家人"
+      },
+      {
+        "level": "medium",
+        "english": "This sandwich is huge—I don't think I can finish it.",
+        "chinese": "这个三明治太大了，我觉得吃不完。",
+        "scene": "在餐厅面对超大份食物"
+      },
+      {
+        "level": "long",
+        "english": "Whenever I go on a road trip, I pack a couple of sandwiches so we don't have to stop at expensive rest stops.",
+        "chinese": "每次自驾游我都会带几个三明治，这样就不用停在贵的休息站买东西吃了。",
+        "scene": "旅行中省钱的小妙招"
+      }
+    ]
+  },
+  {
+    "word": "salad",
+    "phonetic": "/ˈsæləd/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "沙拉",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'll have the chicken salad.",
+        "chinese": "我要一份鸡肉沙拉。",
+        "scene": "在餐厅点餐"
+      },
+      {
+        "level": "medium",
+        "english": "This salad is so fresh; the tomatoes taste like they were just picked.",
+        "chinese": "这沙拉好新鲜，番茄尝起来像刚摘的。",
+        "scene": "在朋友家吃晚餐时称赞"
+      },
+      {
+        "level": "long",
+        "english": "I tried to eat a salad for lunch every day this week, but by Friday I was dreaming about pizza.",
+        "chinese": "这周我试着每天午饭都吃沙拉，但到了星期五我做梦都在想披萨。",
+        "scene": "健康饮食计划中的挣扎"
+      }
+    ]
+  },
+  {
+    "word": "hamburger",
+    "phonetic": "/ˈhæmbɜːrɡər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "汉堡包",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I want a hamburger and fries.",
+        "chinese": "我想要一个汉堡和薯条。",
+        "scene": "在快餐店点餐"
+      },
+      {
+        "level": "medium",
+        "english": "Let's fire up the grill and make hamburgers this weekend.",
+        "chinese": "这个周末我们生火烤点汉堡吃吧。",
+        "scene": "提议周末户外烧烤"
+      },
+      {
+        "level": "long",
+        "english": "My dad makes the best homemade hamburgers with a secret sauce that he refuses to share the recipe for.",
+        "chinese": "我爸爸做的自制汉堡最好吃了，他有个秘密酱汁配方，死活不肯分享。",
+        "scene": "夸赞爸爸的厨艺秘密"
+      }
+    ]
+  },
+  {
+    "word": "ice cream",
+    "phonetic": "/ˌaɪs ˈkriːm/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "冰淇淋",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I scream for ice cream!",
+        "chinese": "我要吃冰淇淋！",
+        "scene": "孩子们听到冰淇淋车的声音"
+      },
+      {
+        "level": "medium",
+        "english": "It's so hot outside; let's walk to the shop and get some ice cream.",
+        "chinese": "外面太热了，我们走去店里买点冰淇淋吧。",
+        "scene": "炎热的下午提议去降温"
+      },
+      {
+        "level": "long",
+        "english": "Every time I visit my grandma, she pulls out a tub of my favorite ice cream from the freezer, even if I just had dinner.",
+        "chinese": "每次去看奶奶，她都会从冰箱里拿出一大桶我最爱的冰淇淋，哪怕我刚吃过晚饭。",
+        "scene": "奶奶总是用冰淇淋宠爱孙辈"
+      }
+    ]
+  },
+  {
+    "word": "tea",
+    "phonetic": "/tiː/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "茶；茶叶",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'd like a cup of tea, please.",
+        "chinese": "请给我来杯茶。",
+        "scene": "在咖啡馆或朋友家做客"
+      },
+      {
+        "level": "medium",
+        "english": "Would you like some tea? I just made a fresh pot.",
+        "chinese": "你要喝茶吗？我刚泡了一壶新鲜的。",
+        "scene": "招待来访的客人"
+      },
+      {
+        "level": "long",
+        "english": "On cold winter nights, I wrap myself in a blanket and sip hot tea while reading a book, and it's the most relaxing thing.",
+        "chinese": "在寒冷的冬夜，我裹着毯子，一边喝着热茶一边看书，那是最放松的事了。",
+        "scene": "描述完美的冬夜时光"
+      }
+    ]
+  },
+  {
+    "word": "fresh",
+    "phonetic": "/frɛʃ/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "新鲜的；清新的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The air smells so fresh after rain.",
+        "chinese": "雨后空气闻起来真清新。",
+        "scene": "雨后深吸一口户外空气"
+      },
+      {
+        "level": "medium",
+        "english": "I always buy fresh bread from the bakery on Saturday mornings.",
+        "chinese": "我每周六早上都会从面包店买新鲜面包。",
+        "scene": "周末的购物习惯"
+      },
+      {
+        "level": "long",
+        "english": "After sitting in the office all day, I needed some fresh air, so I took a long walk along the river.",
+        "chinese": "在办公室坐了一整天后，我需要呼吸点新鲜空气，于是沿着河边走了很久。",
+        "scene": "久坐后寻求户外放松"
+      }
+    ]
+  },
+  {
+    "word": "healthy",
+    "phonetic": "/ˈhɛlθi/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "健康的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "An apple a day keeps the doctor away.",
+        "chinese": "一天一苹果，医生远离我。",
+        "scene": "引用俗语劝人吃水果"
+      },
+      {
+        "level": "medium",
+        "english": "I'm trying to cook healthier meals for my family this year.",
+        "chinese": "今年我试着给家人做更健康的饭菜。",
+        "scene": "新年健康饮食的决心"
+      },
+      {
+        "level": "long",
+        "english": "My doctor told me that as long as I stay active and eat healthy most of the time, I don't have to give up my favorite snacks completely.",
+        "chinese": "医生告诉我，只要我保持运动并且大部分时间吃得健康，就不必完全戒掉我最爱的零食。",
+        "scene": "分享医生给出的平衡建议"
+      }
+    ]
+  },
+  {
+    "word": "delicious",
+    "phonetic": "/dɪˈlɪʃəs/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "美味的；可口的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Mmm, this soup is delicious!",
+        "chinese": "嗯，这汤太好喝了！",
+        "scene": "品尝第一口汤时不由自主的赞叹"
+      },
+      {
+        "level": "medium",
+        "english": "You have to try this cake; it's the most delicious thing I've ever had.",
+        "chinese": "你一定要尝尝这块蛋糕，这是我吃过最好吃的东西。",
+        "scene": "兴奋地向朋友推荐甜品"
+      },
+      {
+        "level": "long",
+        "english": "The little restaurant down the street looks like nothing special, but the food is absolutely delicious and the prices are great.",
+        "chinese": "街角那家小馆子看着不起眼，但食物绝对美味，价格也实惠。",
+        "scene": "发现一家隐藏的美食小店"
+      }
+    ]
+  },
+  {
+    "word": "hot",
+    "phonetic": "/hɑːt/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "热的；辣的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Careful, the plate is hot!",
+        "chinese": "小心，盘子很烫！",
+        "scene": "服务员上菜时提醒顾客"
+      },
+      {
+        "level": "medium",
+        "english": "I love hot wings, but they always make my eyes water.",
+        "chinese": "我喜欢吃辣鸡翅，但它们总是辣得我流眼泪。",
+        "scene": "吃辣食物时的又爱又恨"
+      },
+      {
+        "level": "long",
+        "english": "It was so hot at the beach that the sand burned our feet, and we had to run straight into the water.",
+        "chinese": "海滩上热得沙子烫脚，我们只好直接冲进水里。",
+        "scene": "酷暑沙滩上的狼狈"
+      }
+    ]
+  },
+  {
+    "word": "sweet",
+    "phonetic": "/swiːt/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "甜的；甜蜜的；贴心的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "That was really sweet of you.",
+        "chinese": "你真是太贴心了。",
+        "scene": "对别人善意的举动表示感谢"
+      },
+      {
+        "level": "medium",
+        "english": "This lemonade is a little too sweet for me; could you add more water?",
+        "chinese": "这柠檬水对我来说有点太甜了，能再加点水吗？",
+        "scene": "要求调整饮料甜度"
+      },
+      {
+        "level": "long",
+        "english": "My little niece drew me a picture and left it on my desk; it was the sweetest surprise after a long day.",
+        "chinese": "我的小侄女画了幅画放在我桌上，那真是漫长一天后最甜蜜的惊喜。",
+        "scene": "收到孩子的心意礼物"
+      }
+    ]
+  },
+  {
+    "word": "drink",
+    "phonetic": "/drɪŋk/",
+    "part_of_speech": "verb, noun",
+    "chinese_meaning": "喝；饮料",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can I have a cold drink?",
+        "chinese": "我能来杯冷饮吗？",
+        "scene": "天热时向主人请求"
+      },
+      {
+        "level": "medium",
+        "english": "Make sure you drink plenty of water when you're out in the sun.",
+        "chinese": "在太阳底下一定要多喝水。",
+        "scene": "家人之间的健康提醒"
+      },
+      {
+        "level": "long",
+        "english": "After the long hike, we sat on the grass and shared a drink while watching the sunset over the valley.",
+        "chinese": "长途徒步后，我们坐在草地上，分享着一瓶饮料，看着夕阳沉入山谷。",
+        "scene": "户外运动后的惬意时刻"
+      }
+    ]
+  },
+  {
+    "word": "thirsty",
+    "phonetic": "/ˈθɜːrsti/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "口渴的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'm so thirsty right now.",
+        "chinese": "我现在好渴。",
+        "scene": "刚运动完或天热时"
+      },
+      {
+        "level": "medium",
+        "english": "If you're thirsty, there's cold lemonade in the fridge.",
+        "chinese": "如果你渴了，冰箱里有冰柠檬水。",
+        "scene": "招待朋友时告知饮品位置"
+      },
+      {
+        "level": "long",
+        "english": "The salty popcorn made us really thirsty, so we ended up drinking the whole bottle of soda before the movie even started.",
+        "chinese": "咸爆米花让我们渴得要命，结果电影还没开始，我们就把整瓶汽水喝光了。",
+        "scene": "看电影前的零食导致口渴"
+      }
+    ]
+  },
+  {
+    "word": "favourite",
+    "phonetic": "/ˈfeɪvərɪt/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "最喜欢的（人或物）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Green is my favourite color.",
+        "chinese": "绿色是我最喜欢的颜色。",
+        "scene": "表达个人颜色偏好"
+      },
+      {
+        "level": "medium",
+        "english": "This song is my absolute favourite right now; I play it on repeat.",
+        "chinese": "这首歌是我目前的最爱，我循环播放。",
+        "scene": "分享最新迷上的音乐"
+      },
+      {
+        "level": "long",
+        "english": "My grandmother's apple pie is still my favourite dessert, and nothing from any fancy bakery even comes close.",
+        "chinese": "奶奶做的苹果派仍然是我最爱的甜点，任何高级面包房的出品都差远了。",
+        "scene": "最爱的家庭味道"
+      }
+    ]
+  },
+  {
+    "word": "food",
+    "phonetic": "/fuːd/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "食物",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The food at this cafe is great.",
+        "chinese": "这家咖啡店的食物很棒。",
+        "scene": "向朋友推荐餐厅"
+      },
+      {
+        "level": "medium",
+        "english": "I didn't have time to cook, so I just ordered food delivery.",
+        "chinese": "我没时间做饭，就直接点了外卖。",
+        "scene": "忙碌时选择外卖解决"
+      },
+      {
+        "level": "long",
+        "english": "One of the best parts of traveling is trying all the different local food that you can't get back home.",
+        "chinese": "旅行最棒的部分之一，就是品尝各种在家吃不到的当地美食。",
+        "scene": "分享旅行的美食体验"
+      }
+    ]
+  },
+  {
+    "word": "Dear",
+    "phonetic": "/dɪr/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "亲爱的；昂贵的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Dear Mom, I miss you.",
+        "chinese": "亲爱的妈妈，我想你了。",
+        "scene": "写信或明信片的开头"
+      },
+      {
+        "level": "medium",
+        "english": "Oh dear, I think I left my keys inside the car.",
+        "chinese": "哎呀，我好像把钥匙忘车里了。",
+        "scene": "突然发现忘东西时的惊呼"
+      },
+      {
+        "level": "long",
+        "english": "My dear friend sent me the most thoughtful birthday gift, and it made me feel so loved.",
+        "chinese": "我亲爱的朋友送了我一份最贴心的生日礼物，让我感到备受珍爱。",
+        "scene": "收到朋友贴心礼物时的感动"
+      }
+    ]
+  },
+  {
+    "word": "onion",
+    "phonetic": "/ˈʌnjən/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "洋葱",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Chop the onion into small pieces.",
+        "chinese": "把洋葱切成小丁。",
+        "scene": "在厨房教人备菜"
+      },
+      {
+        "level": "medium",
+        "english": "Every time I cut an onion, my eyes start to burn and water.",
+        "chinese": "每次切洋葱，我的眼睛就开始辣得流泪。",
+        "scene": "切洋葱时的普遍困扰"
+      },
+      {
+        "level": "long",
+        "english": "I tried wearing swimming goggles to chop the onion, and my family laughed at me, but hey, it actually worked!",
+        "chinese": "我试着戴着泳镜切洋葱，家人都在笑我，但嘿，这招还真管用！",
+        "scene": "用搞笑方法对抗洋葱辣眼"
+      }
+    ]
+  }
+]

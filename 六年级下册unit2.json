@@ -1,6 +1,626 @@
-{
-  "grade": "六年级",
-  "term": "下册",
-  "unit": "unit2",
-  "words": []
-}
+[
+  {
+    "word": "cleaned",
+    "phonetic": "/kliːnd/",
+    "part_of_speech": "verb (past tense of clean)",
+    "chinese_meaning": "打扫；清洁（clean的过去式）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I cleaned my room this morning.",
+        "chinese": "我今天早上打扫了我的房间。",
+        "scene": "妈妈推开房门检查，你指着整洁的书桌自豪地说。"
+      },
+      {
+        "level": "medium",
+        "english": "We cleaned the whole house before the guests arrived, but the kids messed it up in five minutes.",
+        "chinese": "客人来之前我们把整栋房子都打扫了，但孩子们五分钟就把它弄乱了。",
+        "scene": "你无奈地笑着，一边捡起地上的玩具一边跟伴侣抱怨。"
+      },
+      {
+        "level": "long",
+        "english": "I spent all Saturday morning cleaning out the garage and finally found my old baseball glove. It was covered in dust, but once I cleaned it up, it brought back so many great memories with my dad.",
+        "chinese": "我花了整个周六上午清理车库，终于找到了我的旧棒球手套。上面全是灰，但我把它清理干净后，它带回了太多和爸爸在一起的美好回忆。",
+        "scene": "你举着手套，给过来帮忙的朋友讲述小时候和父亲练球的时光。"
+      }
+    ]
+  },
+  {
+    "word": "stayed",
+    "phonetic": "/steɪd/",
+    "part_of_speech": "verb (past tense of stay)",
+    "chinese_meaning": "停留；待（stay的过去式）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We stayed home last night.",
+        "chinese": "我们昨晚待在家里。",
+        "scene": "同事问你周末怎么过的，你耸耸肩说就宅着了。"
+      },
+      {
+        "level": "medium",
+        "english": "I stayed at a beautiful little hotel by the beach, and I didn't want to leave.",
+        "chinese": "我住在一家漂亮的海边小旅馆，根本不想走。",
+        "scene": "在朋友圈发了一组海景照片，你配文表达对那里慢生活的留恋。"
+      },
+      {
+        "level": "long",
+        "english": "During the storm, we stayed inside, made hot chocolate, and played board games by candlelight. It was actually one of the most fun nights we've had as a family.",
+        "chinese": "暴风雨期间，我们待在屋里，做热巧克力，在烛光下玩桌游。这其实是我们家最开心的夜晚之一。",
+        "scene": "暴风雨过后，你在家庭群里分享昨晚断电时的温馨照片。"
+      }
+    ]
+  },
+  {
+    "word": "washed",
+    "phonetic": "/wɑːʃt/",
+    "part_of_speech": "verb (past tense of wash)",
+    "chinese_meaning": "洗（wash的过去式）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I washed the car yesterday.",
+        "chinese": "我昨天洗了车。",
+        "scene": "邻居夸你车亮，你笑着指了指水桶。"
+      },
+      {
+        "level": "medium",
+        "english": "She washed all the dishes after the party, even though we told her to just leave them for the morning.",
+        "chinese": "派对结束后她把所有碗碟都洗了，尽管我们让她放着明早再洗。",
+        "scene": "宿醉醒来看到厨房一尘不染，你感动地对室友说起。"
+      },
+      {
+        "level": "long",
+        "english": "I accidentally left a red sock in with my white shirts, and when I pulled them out, everything was pink. My mom just laughed and said she did the exact same thing when she first washed her own clothes.",
+        "chinese": "我不小心把一只红袜子和白衬衫一起洗了，拿出来时全变成粉色了。妈妈只是笑着说，她第一次自己洗衣服时也干过一模一样的事。",
+        "scene": "你拎着一件粉色衬衫无奈地给妈妈视频，她在电话那头笑得前仰后合。"
+      }
+    ]
+  },
+  {
+    "word": "watched",
+    "phonetic": "/wɑːtʃt/",
+    "part_of_speech": "verb (past tense of watch)",
+    "chinese_meaning": "观看（watch的过去式）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We watched a movie together.",
+        "chinese": "我们一起看了部电影。",
+        "scene": "约会的第二天，你跟闺蜜汇报昨晚的进展。"
+      },
+      {
+        "level": "medium",
+        "english": "I watched the sunrise from the top of the hill. It was cold, but absolutely worth it.",
+        "chinese": "我在山顶上看了日出。天很冷，但绝对值得。",
+        "scene": "凌晨四点爬起来爬山，你一边搓手一边对同伴感叹。"
+      },
+      {
+        "level": "long",
+        "english": "When I was little, I watched my grandmother cook every Sunday. I never wrote anything down, but now I can make her chicken soup from memory, and it tastes exactly like hers.",
+        "chinese": "我小时候每星期天都看奶奶做饭。我从没记过笔记，但我现在能凭记忆做出她的鸡汤，味道和她做的一模一样。",
+        "scene": "你在厨房给朋友盛汤，聊起了奶奶厨房里的童年时光。"
+      }
+    ]
+  },
+  {
+    "word": "had",
+    "phonetic": "/hæd/",
+    "part_of_speech": "verb (past tense of have)",
+    "chinese_meaning": "有；吃；喝；患病（have的过去式）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I had a great idea last night.",
+        "chinese": "昨晚我有了个很棒的主意。",
+        "scene": "早上你兴奋地摇醒室友，要跟他分享创业点子。"
+      },
+      {
+        "level": "medium",
+        "english": "We had so much fun at the beach that we completely lost track of time.",
+        "chinese": "我们在海滩玩得太开心了，完全忘记了时间。",
+        "scene": "手机没电了也没人管，你晒得红彤彤地对朋友说。"
+      },
+      {
+        "level": "long",
+        "english": "I had a meeting scheduled for 9 a.m., but my car wouldn't start. I had to borrow my neighbor's bike and pedal like crazy to get there on time. I walked in sweating but only two minutes late.",
+        "chinese": "我早上九点有个会，但车发动不起来。我只好借邻居的自行车，发疯般地蹬过去。走进会议室时一身汗，但只迟到了两分钟。",
+        "scene": "你边擦汗边跟同事讲述早上的惊险历程，他们听了都佩服你的毅力。"
+      }
+    ]
+  },
+  {
+    "word": "had a cold",
+    "phonetic": "/hæd ə koʊld/",
+    "part_of_speech": "verb phrase (past tense)",
+    "chinese_meaning": "感冒了（have a cold的过去式）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I had a cold last week.",
+        "chinese": "上周我感冒了。",
+        "scene": "朋友约你去打球，你摆摆手说自己才刚恢复。"
+      },
+      {
+        "level": "medium",
+        "english": "She had a bad cold during the final exams, but she still managed to get the highest score.",
+        "chinese": "她在期末考试期间患了重感冒，但还是拿了最高分。",
+        "scene": "成绩出来后，你在教室外拍拍她的肩，佩服她的毅力。"
+      },
+      {
+        "level": "long",
+        "english": "When I had a cold, my little daughter brought me her favorite blanket and a cup of warm honey water. She said, 'This is what you do for me, Daddy.' I almost cried.",
+        "chinese": "我感冒的时候，小女儿把她最爱的毯子和一杯温蜂蜜水端给我。她说：“爸爸，你对我就是这么做的。” 我差点哭出来。",
+        "scene": "你抱着女儿，跟妻子讲述这一刻，心里暖洋洋的。"
+      }
+    ]
+  },
+  {
+    "word": "slept",
+    "phonetic": "/slept/",
+    "part_of_speech": "verb (past tense of sleep)",
+    "chinese_meaning": "睡觉（sleep的过去式）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I slept for ten hours last night.",
+        "chinese": "我昨晚睡了十个小时。",
+        "scene": "周六早上你伸着懒腰走出卧室，对正在吃早餐的室友宣布。"
+      },
+      {
+        "level": "medium",
+        "english": "We slept in a tent by the lake and woke up to the sound of ducks quacking. It was perfect.",
+        "chinese": "我们在湖边的帐篷里过夜，醒来时听到鸭子嘎嘎叫。太完美了。",
+        "scene": "露营回来，你一边刷牙一边跟另一半回味这次经历。"
+      },
+      {
+        "level": "long",
+        "english": "After working three night shifts in a row, I finally slept for a full twelve hours. When I woke up, I had no idea what day it was, but I felt like a completely new person.",
+        "chinese": "连值了三个夜班后，我终于睡了整整十二小时。醒来时完全不知道是星期几，但感觉整个人焕然一新。",
+        "scene": "你迷迷糊糊走出卧室，室友笑着告诉你现在已经是隔天下午了。"
+      }
+    ]
+  },
+  {
+    "word": "read",
+    "phonetic": "/red/ (past tense)",
+    "part_of_speech": "verb (past tense of read)",
+    "chinese_meaning": "阅读；读（read的过去式，读音同red）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I read that book last month.",
+        "chinese": "我上个月读了那本书。",
+        "scene": "读书会上，你指着桌面上那本小说对大家说。"
+      },
+      {
+        "level": "medium",
+        "english": "She read the instructions carefully before building the furniture, unlike me who just went with the flow.",
+        "chinese": "她组装家具前仔细阅读了说明书，不像我，拿来就上手。",
+        "scene": "你指着室友完美组装的书架，自嘲地对来参观的朋友说。"
+      },
+      {
+        "level": "long",
+        "english": "I read a story to my little brother every single night when he was young. Now he's a teenager and reads to me sometimes, and I can't believe how fast time has passed.",
+        "chinese": "弟弟小时候我每晚都给他读故事。现在他是青少年了，有时还读给我听，真不敢相信时间过得这么快。",
+        "scene": "你坐在沙发听弟弟朗读，妈妈路过时，你和她交换了一个感慨的眼神。"
+      }
+    ]
+  },
+  {
+    "word": "saw",
+    "phonetic": "/sɔː/",
+    "part_of_speech": "verb (past tense of see)",
+    "chinese_meaning": "看见（see的过去式）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I saw your brother at the mall.",
+        "chinese": "我在商场看见你弟弟了。",
+        "scene": "在饮品店碰到老同学，你顺便提了一句。"
+      },
+      {
+        "level": "medium",
+        "english": "We saw a deer crossing the road while driving through the forest. It just stopped and stared at us.",
+        "chinese": "开车穿过森林时，我们看到一只鹿横穿马路，它就停下来盯着我们看。",
+        "scene": "你赶紧踩刹车，和车里的朋友屏住呼吸对视，小声惊叹。"
+      },
+      {
+        "level": "long",
+        "english": "Last night I dreamed I saw my childhood home exactly as it was, with my mom planting flowers in the yard. When I woke up, I lay there for a while just holding onto that image.",
+        "chinese": "昨晚我梦到看见了童年时的家，一模一样，妈妈正在院子里种花。醒来后，我躺在床上久久地留着那个画面。",
+        "scene": "早餐时你跟配偶分享这个梦，说着说着声音有些哽咽。"
+      }
+    ]
+  },
+  {
+    "word": "last",
+    "phonetic": "/læst/",
+    "part_of_speech": "adjective, adverb",
+    "chinese_meaning": "最后的；上一个；持续",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This is my last piece of gum.",
+        "chinese": "这是我最后一片口香糖。",
+        "scene": "你倒了倒空瓶，对伸手要的同学耸耸肩。"
+      },
+      {
+        "level": "medium",
+        "english": "I missed the last train home and had to wait an hour for the night bus in the cold.",
+        "chinese": "我错过了最后一班回家的火车，不得不在寒风中等了一个小时夜班公交。",
+        "scene": "你哆嗦着给朋友发语音，背景音是呼呼的风声。"
+      },
+      {
+        "level": "long",
+        "english": "The last time I saw my grandfather was at the airport when I was leaving to study abroad. He gave me a little red envelope and said, 'Make us proud.' I still carry that envelope in my wallet.",
+        "chinese": "我最后一次见到祖父是在机场，我要出国留学时。他给我一个小红包，说：“让我们骄傲。” 我现在钱包里还装着那个红包。",
+        "scene": "在异国整理钱包时，你拿起红包给室友看，讲起祖父的事。"
+      }
+    ]
+  },
+  {
+    "word": "yesterday",
+    "phonetic": "/ˈjestərdeɪ/",
+    "part_of_speech": "noun, adverb",
+    "chinese_meaning": "昨天",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Where were you yesterday?",
+        "chinese": "你昨天去哪了？",
+        "scene": "上班看到同事空位子，今天你问他。"
+      },
+      {
+        "level": "medium",
+        "english": "Yesterday was so busy that I forgot to eat lunch until almost 4 p.m. Never again.",
+        "chinese": "昨天忙得我直到下午四点才想起来吃午饭。再不这样了。",
+        "scene": "今天在茶水间碰到同事，你边啃着苹果边吐槽昨天的日程。"
+      },
+      {
+        "level": "long",
+        "english": "I was cleaning up my phone's photo album yesterday and found a video of my daughter's first steps. I watched it about ten times, and it still makes me cry happy tears.",
+        "chinese": "昨天我清理手机相册，找到了女儿刚学步时的视频。我看了大概十遍，还是会高兴得流泪。",
+        "scene": "晚上给下班回来的妻子看视频，两人抱着手机在沙发上又笑又抹泪。"
+      }
+    ]
+  },
+  {
+    "word": "before",
+    "phonetic": "/bɪˈfɔːr/",
+    "part_of_speech": "adverb, preposition, conjunction",
+    "chinese_meaning": "在…之前；以前",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I've been here before.",
+        "chinese": "我以前来过这儿。",
+        "scene": "你带着朋友走进一家藏在巷子里的老店，轻车熟路。"
+      },
+      {
+        "level": "medium",
+        "english": "Can you finish the report before Friday? I need to submit it to the manager.",
+        "chinese": "你能在周五前完成报告吗？我得提交给经理。",
+        "scene": "你走到同事工位旁，压低声音商量。"
+      },
+      {
+        "level": "long",
+        "english": "Before I had kids, I thought I knew what tired meant. Then I had a newborn, and I realized I had no idea. But honestly, I wouldn't change a thing.",
+        "chinese": "有孩子之前，我以为自己知道什么叫累。然后有了新生儿，才明白以前根本不懂。但说实话，我一点也不想改变。",
+        "scene": "和同样初为人父的朋友深夜视频，两人都顶着黑眼圈，相视而笑。"
+      }
+    ]
+  },
+  {
+    "word": "drank",
+    "phonetic": "/dræŋk/",
+    "part_of_speech": "verb (past tense of drink)",
+    "chinese_meaning": "喝；饮（drink的过去式）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She drank all the orange juice.",
+        "chinese": "她把橙汁都喝光了。",
+        "scene": "你打开冰箱看着空瓶，对妈妈告状。"
+      },
+      {
+        "level": "medium",
+        "english": "I drank way too much coffee yesterday and couldn't fall asleep until 3 a.m.",
+        "chinese": "我昨天咖啡喝太多了，直到凌晨三点才睡着。",
+        "scene": "你打着哈欠进办公室，同事问你，你指了指手里依然端着的咖啡杯苦笑。"
+      },
+      {
+        "level": "long",
+        "english": "On a hot day in Italy, we sat at a tiny street cafe and drank cold limonata. It was so refreshing that we ended up ordering three glasses each and just watched people walk by.",
+        "chinese": "在意大利炎热的一天，我们坐在街边小咖啡馆里喝冰柠檬汽水。太好喝了，我们一人续了三杯，就那么看着行人来来往往。",
+        "scene": "翻到旅行照片，你回忆起那个无所事事的完美下午。"
+      }
+    ]
+  },
+  {
+    "word": "show",
+    "phonetic": "/ʃoʊ/",
+    "part_of_speech": "verb, noun",
+    "chinese_meaning": "展示；节目；表演",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let me show you something cool.",
+        "chinese": "给你看个很酷的东西。",
+        "scene": "你从口袋里掏出一个新买的迷你手电筒，对朋友挑挑眉。"
+      },
+      {
+        "level": "medium",
+        "english": "We went to a magic show last night, and the magician pulled a real rabbit out of his hat. The kids were screaming.",
+        "chinese": "昨晚我们去看了场魔术表演，魔术师从帽子里真变出一只活兔子。孩子们尖叫起来。",
+        "scene": "吃早饭时，孩子还在兴奋地比划，你笑着给妻子复述。"
+      },
+      {
+        "level": "long",
+        "english": "My grandmother used to show me her old photo albums every time I visited. She'd point at each picture and tell a long story. I used to get impatient, but now I'd give anything for one more afternoon like that.",
+        "chinese": "奶奶以前每次我去看她，都会把老相册翻出来给我看。她会指着每张照片讲个长长的故事。我以前会不耐烦，但现在我愿意付出一切再有一个那样的下午。",
+        "scene": "你独自翻着奶奶的相册，眼眶湿润，跟来访的表姐说着。"
+      }
+    ]
+  },
+  {
+    "word": "magazine",
+    "phonetic": "/ˈmæɡəziːn/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "杂志",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I bought a fashion magazine today.",
+        "chinese": "我今天买了本时尚杂志。",
+        "scene": "你从包里拿出杂志，在咖啡店吧台前坐下。"
+      },
+      {
+        "level": "medium",
+        "english": "While waiting at the dentist's office, I flipped through a travel magazine and now I want to visit Greece.",
+        "chinese": "在牙医诊所等候时，我随手翻了本旅游杂志，现在想去希腊了。",
+        "scene": "你指着杂志上圣托里尼的蓝顶白房子给同伴看。"
+      },
+      {
+        "level": "long",
+        "english": "My first job was delivering a neighborhood magazine on my bike. I got paid in ice cream coupons and loved seeing people smile when they found the latest issue on their doorstep.",
+        "chinese": "我的第一份工作是骑自行车送社区杂志。报酬是冰淇淋优惠券，我喜欢看到人们在家门口发现最新一期时的微笑。",
+        "scene": "路过老街区，你指着街道对朋友讲起少年时的兼职经历。"
+      }
+    ]
+  },
+  {
+    "word": "better",
+    "phonetic": "/ˈbetər/",
+    "part_of_speech": "adjective, adverb (comparative of good/well)",
+    "chinese_meaning": "更好的；更好地",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'm feeling much better now.",
+        "chinese": "我现在感觉好多了。",
+        "scene": "病愈后第一天上班，关心你的同事围过来，你笑着回答。"
+      },
+      {
+        "level": "medium",
+        "english": "This restaurant is way better than the one we tried last week. Look at the size of this pizza!",
+        "chinese": "这家餐厅比我们上周试的那家好太多了。看这比萨的尺寸！",
+        "scene": "你切下一大块披萨，兴奋地对对面的朋友说。"
+      },
+      {
+        "level": "long",
+        "english": "I've learned that being a better listener doesn't mean having all the answers. Sometimes just sitting quietly with a friend and letting them talk is the best thing you can do.",
+        "chinese": "我明白了，做一个更好的倾听者不是要有所有答案。有时只是静静坐在朋友身边，让他们倾诉，就是你能做的最好的事。",
+        "scene": "安慰完一个失恋的朋友后，你在日记里写下这段感悟。"
+      }
+    ]
+  },
+  {
+    "word": "faster",
+    "phonetic": "/ˈfæstər/",
+    "part_of_speech": "adjective, adverb (comparative of fast)",
+    "chinese_meaning": "更快的；更快地",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can you walk a little faster?",
+        "chinese": "你能走快一点吗？",
+        "scene": "赶着去电影院，你回头对后面慢悠悠玩手机的同伴说。"
+      },
+      {
+        "level": "medium",
+        "english": "I got a new Wi-Fi router, and now my internet is ten times faster. It's a game changer.",
+        "chinese": "我买了新路由器，现在网速快了十倍。真是改变游戏规则。",
+        "scene": "你兴奋地给在外地的室友发消息，视频再也不卡了。"
+      },
+      {
+        "level": "long",
+        "english": "I type faster on my phone than on a real keyboard, which my coworkers find very strange. But I grew up texting, so my thumbs are basically superhuman.",
+        "chinese": "我用手机打字比用实体键盘还快，同事们都觉得不可思议。但我是发短信长大的，所以我的拇指简直是超人。",
+        "scene": "在会议室，你低着头飞快地敲着手机屏幕，旁边的实习生看得目瞪口呆。"
+      }
+    ]
+  },
+  {
+    "word": "hotel",
+    "phonetic": "/hoʊˈtel/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "酒店；旅馆",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We stayed at a nice hotel.",
+        "chinese": "我们住了一家不错的酒店。",
+        "scene": "度假回来，邻居问你吃住如何，你回答。"
+      },
+      {
+        "level": "medium",
+        "english": "The hotel had a rooftop pool with an amazing view of the city skyline. We never wanted to leave.",
+        "chinese": "酒店有个屋顶泳池，能看到城市天际线的绝佳景色。我们根本不想走。",
+        "scene": "你给闺蜜看手机里在泳池边拍的日落照，她的眼睛都直了。"
+      },
+      {
+        "level": "long",
+        "english": "We checked into the hotel at midnight after a long delay, tired and hungry. The front desk clerk noticed we had kids and quietly upgraded us to a family suite. It was the kindest thing anyone did for us on that trip.",
+        "chinese": "长途延误后我们半夜才入住酒店，又累又饿。前台看到我们带着孩子，悄悄把我们升级到家庭套房。那是整趟旅行中别人为我们做的最暖心的事。",
+        "scene": "退房时，你专门找到那位前台当面致谢，并在网上写了长长的好评。"
+      }
+    ]
+  },
+  {
+    "word": "fixed",
+    "phonetic": "/fɪkst/",
+    "part_of_speech": "verb (past tense of fix), adjective",
+    "chinese_meaning": "修理；修好（fix的过去式）；固定的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Dad fixed my bike chain.",
+        "chinese": "爸爸修好了我的自行车链条。",
+        "scene": "你推着又能骑的车进门，高兴地对妈妈说。"
+      },
+      {
+        "level": "medium",
+        "english": "I finally fixed the squeaky door in the hallway. Now the baby won't wake up every time we open it.",
+        "chinese": "我终于修好了走廊那扇吱吱响的门。现在宝宝不会每次我们开门都醒来了。",
+        "scene": "你得意地对妻子展示这个成果，两人偷偷击了个掌。"
+      },
+      {
+        "level": "long",
+        "english": "My grandfather fixed my broken toy truck when I was little. He used a piece of wire and a rubber band. I still have that truck on my desk, and it reminds me that with a little creativity, almost anything can be fixed.",
+        "chinese": "小时候祖父修好了我坏掉的玩具卡车。他用了一根铁丝和一根橡皮筋。现在那辆卡车还在我桌上，它提醒我，只要有点创意，几乎什么都能修好。",
+        "scene": "同事看到你桌上那辆旧卡车，你拿起它讲起祖父的故事。"
+      }
+    ]
+  },
+  {
+    "word": "broken",
+    "phonetic": "/ˈbroʊkən/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "破碎的；坏掉的；骨折的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The window is broken.",
+        "chinese": "窗户破了。",
+        "scene": "足球飞进客厅，你看着碎玻璃，对闯祸的弟弟说。"
+      },
+      {
+        "level": "medium",
+        "english": "My phone screen is completely broken, but I'm trying to hold out until the new model comes out.",
+        "chinese": "我手机屏幕彻底碎了，但我正努力撑到新机型发布。",
+        "scene": "你指着一道道的裂纹，给朋友展示居然还能用。"
+      },
+      {
+        "level": "long",
+        "english": "After the accident, I felt broken in more ways than one. But physical therapy and my family's support slowly put me back together. Now I'm running again, something they said might never happen.",
+        "chinese": "那次事故后，我身心俱损。但理疗和家人的支持慢慢让我恢复了。现在我又能跑步了，而他们曾说我可能再也跑不了了。",
+        "scene": "你冲过康复跑终点，抱着家人流泪，对来采访的记者说。"
+      }
+    ]
+  },
+  {
+    "word": "lamp",
+    "phonetic": "/læmp/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "灯；台灯",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can you turn on the lamp?",
+        "chinese": "你能打开灯吗？",
+        "scene": "天黑了，你窝在沙发里懒得动，对经过的室友说。"
+      },
+      {
+        "level": "medium",
+        "english": "I found this beautiful vintage lamp at a flea market for just five dollars. It gives the whole room a warm, cozy feeling.",
+        "chinese": "我在跳蚤市场花五美元淘到这盏漂亮的复古台灯。它让整个房间都感觉温暖舒适。",
+        "scene": "你拉低灯罩，调暗光线，对来访的朋友炫耀这个好物。"
+      },
+      {
+        "level": "long",
+        "english": "Every night my daughter asks me to leave her little lamp on until she falls asleep. She says the shadows on the wall turn into friendly animals when the light is on. I remember feeling the exact same way as a kid.",
+        "chinese": "每晚我女儿都让我留着小台灯直到她睡着。她说灯亮着的时候，墙上的影子就变成了友好的动物。我记得小时候也是这种感觉。",
+        "scene": "你坐在女儿床边，轻轻关上大灯，只留一盏小夜灯，跟妻子讲起这份童年的共鸣。"
+      }
+    ]
+  },
+  {
+    "word": "loud",
+    "phonetic": "/laʊd/",
+    "part_of_speech": "adjective, adverb",
+    "chinese_meaning": "大声的；吵闹的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "It's too loud in here!",
+        "chinese": "这里太吵了！",
+        "scene": "你在满是人的酒吧里，不得不对着朋友的耳朵大喊。"
+      },
+      {
+        "level": "medium",
+        "english": "My neighbor was playing loud music until 2 a.m., so I finally went over and asked them to turn it down.",
+        "chinese": "邻居放很吵的音乐一直到凌晨两点，我最后还是去敲了门请他们调低音量。",
+        "scene": "第二天早上你顶着黑眼圈对同事抱怨。"
+      },
+      {
+        "level": "long",
+        "english": "My grandfather has a loud, booming laugh that fills up the whole house. As a kid, I could always find him at a family gathering just by listening for it. I love that sound.",
+        "chinese": "我爷爷的笑声洪亮，能传遍整栋房子。小时候，在家庭聚会里我只要听这笑声就能找到他。我爱那笑声。",
+        "scene": "家庭录像带里传出爷爷标志性的笑声，大家都笑了，你眼角却有些湿润。"
+      }
+    ]
+  },
+  {
+    "word": "enjoy",
+    "phonetic": "/ɪnˈdʒɔɪ/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "享受；喜欢；过得愉快",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Enjoy your meal!",
+        "chinese": "用餐愉快！",
+        "scene": "你把意面放到朋友面前，系着围裙笑着对他说。"
+      },
+      {
+        "level": "medium",
+        "english": "I really enjoy hiking on foggy mornings. Everything looks like a mysterious fairy tale.",
+        "chinese": "我真的很享受在雾蒙蒙的清晨徒步。一切都像一个神秘的童话。",
+        "scene": "你在山间小径上深吸一口气，对同行好友形容这种喜爱。"
+      },
+      {
+        "level": "long",
+        "english": "I used to think I had to achieve big things to enjoy life. Now I know that enjoying a quiet cup of tea on the balcony, listening to the rain, is just as valuable as any grand success.",
+        "chinese": "以前我以为必须要取得大成就才能享受生活。现在我知道，在阳台上安静地喝杯茶，听雨声，和任何宏大的成功一样珍贵。",
+        "scene": "雨天，你捧着茶对伴侣分享近来的人生感悟。"
+      }
+    ]
+  },
+  {
+    "word": "stay",
+    "phonetic": "/steɪ/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "停留；保持；暂住",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can you stay a little longer?",
+        "chinese": "你能再多待一会儿吗？",
+        "scene": "聚会结束，朋友们陆续离开，你拉住最要好的那位。"
+      },
+      {
+        "level": "medium",
+        "english": "Let's stay at this viewpoint for a while. The sunset is too beautiful to rush away from.",
+        "chinese": "我们在这个观景点多待一会儿吧。日落太美了，不要急着走。",
+        "scene": "你放下背包，坐在岩石上，对正在看地图的同伴说。"
+      },
+      {
+        "level": "long",
+        "english": "I decided to stay in my hometown instead of moving to the big city. Many people thought I was crazy, but being close to my family and the familiar streets makes me genuinely happy.",
+        "chinese": "我决定留在故乡而不是搬去大城市。很多人觉得我疯了，但能和家人近一些，走在熟悉的街道上，我真的很开心。",
+        "scene": "在本地新开的咖啡馆里，你对采访的校刊记者说道。"
+      }
+    ]
+  }
+]

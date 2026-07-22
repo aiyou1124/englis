@@ -1,6 +1,470 @@
-{
-  "grade": "四年级",
-  "term": "下册",
-  "unit": "unit6",
-  "words": []
-}
+[
+  {
+    "word": "feed",
+    "phonetic": "/fiːd/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "喂养；喂食",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Please feed the dog.",
+        "chinese": "请喂一下狗。",
+        "scene": "提醒家人喂宠物"
+      },
+      {
+        "level": "medium",
+        "english": "Can you feed the cat while I'm on vacation?",
+        "chinese": "我去度假的时候你能帮我喂猫吗？",
+        "scene": "请邻居或朋友帮忙照看宠物"
+      },
+      {
+        "level": "long",
+        "english": "My little sister loves to feed the ducks at the pond, but we always make sure to give them proper food like peas instead of bread.",
+        "chinese": "我妹妹喜欢在池塘边喂鸭子，但我们总会确保给它们合适的食物比如豌豆，而不是面包。",
+        "scene": "教导孩子正确喂食小动物"
+      }
+    ]
+  },
+  {
+    "word": "pass",
+    "phonetic": "/pæs/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "传递；通过",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Please pass the salt.",
+        "chinese": "请把盐递一下。",
+        "scene": "餐桌上请人递调料"
+      },
+      {
+        "level": "medium",
+        "english": "Could you pass me the remote control? It's on the table.",
+        "chinese": "你能把遥控器递给我吗？在桌子上。",
+        "scene": "看电视时请家人递遥控器"
+      },
+      {
+        "level": "long",
+        "english": "During dinner, my dad always asks me to pass the salad bowl, and without fail, I almost drop it every single time.",
+        "chinese": "吃晚饭时我爸总让我递沙拉碗，而我每次都差一点把它弄掉。",
+        "scene": "家庭聚餐时的搞笑小插曲"
+      }
+    ]
+  },
+  {
+    "word": "pick",
+    "phonetic": "/pɪk/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "挑选；采摘",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Pick a number between one and ten.",
+        "chinese": "从一到十之间选个数字。",
+        "scene": "玩游戏时让人选数字"
+      },
+      {
+        "level": "medium",
+        "english": "We went to the farm to pick strawberries.",
+        "chinese": "我们去农场摘了草莓。",
+        "scene": "分享周末采摘活动"
+      },
+      {
+        "level": "long",
+        "english": "Every fall, we drive up to the mountains to pick apples and then spend the weekend baking pies.",
+        "chinese": "每年秋天我们都会开车去山上摘苹果，然后整个周末都在烤苹果派。",
+        "scene": "秋日家庭摘苹果的传统"
+      }
+    ]
+  },
+  {
+    "word": "milk",
+    "phonetic": "/mɪlk/",
+    "part_of_speech": "noun, verb",
+    "chinese_meaning": "牛奶；挤奶",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I drink milk every morning.",
+        "chinese": "我每天早上喝牛奶。",
+        "scene": "介绍早餐习惯"
+      },
+      {
+        "level": "medium",
+        "english": "Don't forget to buy a carton of milk on your way home.",
+        "chinese": "回家路上别忘了买一盒牛奶。",
+        "scene": "提醒家人购物"
+      },
+      {
+        "level": "long",
+        "english": "When I stayed on my uncle's farm, I learned how to milk a cow, and it was harder than it looks.",
+        "chinese": "我在叔叔的农场住的时候学会了挤牛奶，那比看起来难多了。",
+        "scene": "农场生活的新鲜体验"
+      }
+    ]
+  },
+  {
+    "word": "knife",
+    "phonetic": "/naɪf/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "刀",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Be careful with that knife.",
+        "chinese": "小心那把刀。",
+        "scene": "看到孩子拿刀时的提醒"
+      },
+      {
+        "level": "medium",
+        "english": "I need a sharp knife to cut the steak.",
+        "chinese": "我需要一把快刀来切牛排。",
+        "scene": "吃牛排时抱怨刀不够锋利"
+      },
+      {
+        "level": "long",
+        "english": "While camping, we realized we forgot a knife, so we had to cut vegetables with a plastic one from the picnic set.",
+        "chinese": "露营时我们发现忘了带刀，只好用野餐套装里的塑料刀切蔬菜。",
+        "scene": "露营忘带重要工具的窘迫"
+      }
+    ]
+  },
+  {
+    "word": "fork",
+    "phonetic": "/fɔːrk/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "叉子",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Use a fork for your salad.",
+        "chinese": "用叉子吃沙拉。",
+        "scene": "餐桌上指导孩子用餐具"
+      },
+      {
+        "level": "medium",
+        "english": "I dropped my fork on the floor, so I asked the waiter for a new one.",
+        "chinese": "我把叉子掉地上了，于是向服务员要了把新的。",
+        "scene": "餐厅用餐时的小意外"
+      },
+      {
+        "level": "long",
+        "english": "At the fancy restaurant, I accidentally used the wrong fork for the appetizer and felt really embarrassed.",
+        "chinese": "在那家高级餐厅，我前菜不小心用错了叉子，觉得好尴尬。",
+        "scene": "正式场合用错餐具的窘态"
+      }
+    ]
+  },
+  {
+    "word": "chopstick",
+    "phonetic": "/ˈtʃɑːpstɪk/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "筷子",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can you use chopsticks?",
+        "chinese": "你会用筷子吗？",
+        "scene": "在中餐馆问朋友"
+      },
+      {
+        "level": "medium",
+        "english": "I'm learning to eat with chopsticks, but I'm still pretty slow.",
+        "chinese": "我正在学用筷子吃饭，但速度还很慢。",
+        "scene": "练习使用筷子的过程"
+      },
+      {
+        "level": "long",
+        "english": "For Chinese New Year, my friend taught me how to pick up a single grain of rice with chopsticks, but I never mastered it.",
+        "chinese": "过春节时朋友教我如何用筷子夹起一粒米，但我始终没学会。",
+        "scene": "挑战高难度用筷技巧"
+      }
+    ]
+  },
+  {
+    "word": "waste",
+    "phonetic": "/weɪst/",
+    "part_of_speech": "verb, noun",
+    "chinese_meaning": "浪费；废弃物",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Don't waste water.",
+        "chinese": "别浪费水。",
+        "scene": "孩子开着水龙头玩时被制止"
+      },
+      {
+        "level": "medium",
+        "english": "It's a waste to throw away all this leftover food; we can eat it tomorrow.",
+        "chinese": "把这些剩菜扔掉太浪费了，我们明天可以吃。",
+        "scene": "打包剩菜避免浪费"
+      },
+      {
+        "level": "long",
+        "english": "My mom always tells us not to waste food because she grew up without much and knows how precious it is.",
+        "chinese": "妈妈总叫我们不要浪费粮食，因为她小时候没多少吃的，深知食物的珍贵。",
+        "scene": "长辈教导珍惜食物"
+      }
+    ]
+  },
+  {
+    "word": "food",
+    "phonetic": "/fuːd/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "食物",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The food smells great.",
+        "chinese": "这食物闻起来好香。",
+        "scene": "进入厨房闻到香味"
+      },
+      {
+        "level": "medium",
+        "english": "There's a food truck parked outside the office that sells amazing tacos.",
+        "chinese": "办公室外停了一辆快餐车，卖的墨西哥卷饼超好吃。",
+        "scene": "发现办公楼下美食餐车"
+      },
+      {
+        "level": "long",
+        "english": "Street food might look a bit messy, but it's often the most delicious food you can find in a city.",
+        "chinese": "街头小吃也许看着不太讲究，但它往往是一座城市里最美味的东西。",
+        "scene": "表达对街头小吃的热爱"
+      }
+    ]
+  },
+  {
+    "word": "delicious",
+    "phonetic": "/dɪˈlɪʃəs/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "美味的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This cake is delicious!",
+        "chinese": "这蛋糕真好吃！",
+        "scene": "品尝蛋糕时脱口而出"
+      },
+      {
+        "level": "medium",
+        "english": "My grandmother makes the most delicious chocolate chip cookies.",
+        "chinese": "我奶奶做的巧克力曲奇好吃极了。",
+        "scene": "夸赞奶奶的烘焙手艺"
+      },
+      {
+        "level": "long",
+        "english": "The soup looked a little strange, but after one spoonful, I had to admit it was the most delicious thing I'd ever tasted.",
+        "chinese": "那汤看着有点奇怪，但喝了一勺后我不得不承认这是我这辈子吃过的最美味的东西。",
+        "scene": "外貌不扬但味道惊艳的食物"
+      }
+    ]
+  },
+  {
+    "word": "clear the table",
+    "phonetic": "/klɪr ðə ˈteɪbəl/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "收拾餐桌",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Please clear the table after dinner.",
+        "chinese": "吃完饭后请把桌子收拾了。",
+        "scene": "家长饭后嘱咐孩子"
+      },
+      {
+        "level": "medium",
+        "english": "The kids take turns to clear the table and load the dishwasher each night.",
+        "chinese": "孩子们每晚轮流收拾餐桌并把碗放进洗碗机。",
+        "scene": "家庭分工做家务"
+      },
+      {
+        "level": "long",
+        "english": "After the big party, it took us almost an hour to clear the table and wash all the dishes.",
+        "chinese": "大型派对结束后，我们花了快一小时才把餐桌收拾好并洗完了所有碗碟。",
+        "scene": "派对后大量清理工作"
+      }
+    ]
+  },
+  {
+    "word": "set the table",
+    "phonetic": "/sɛt ðə ˈteɪbəl/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "摆放餐具；摆桌子",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can you help set the table?",
+        "chinese": "你能帮忙摆一下碗筷吗？",
+        "scene": "开饭前叫孩子帮忙"
+      },
+      {
+        "level": "medium",
+        "english": "I asked my son to set the table, but he forgot the napkins.",
+        "chinese": "我叫儿子去摆餐桌，但他忘了放餐巾纸。",
+        "scene": "孩子做家务丢三落四"
+      },
+      {
+        "level": "long",
+        "english": "For Thanksgiving, my mom sets the table with the fancy china and candles, making it look like a magazine cover.",
+        "chinese": "感恩节时妈妈会用精美的瓷器和蜡烛布置餐桌，好看得像杂志封面。",
+        "scene": "节日里精心布置餐桌"
+      }
+    ]
+  },
+  {
+    "word": "bowl",
+    "phonetic": "/boʊl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "碗",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I had a bowl of soup for lunch.",
+        "chinese": "我午饭喝了一碗汤。",
+        "scene": "描述简单午餐"
+      },
+      {
+        "level": "medium",
+        "english": "Can you put the popcorn in a large bowl?",
+        "chinese": "你能把爆米花倒进一个大碗里吗？",
+        "scene": "准备看电影零食"
+      },
+      {
+        "level": "long",
+        "english": "My favorite breakfast is a smoothie bowl topped with fresh fruit and granola.",
+        "chinese": "我最爱的早餐是一碗果昔，上面铺满新鲜水果和麦片。",
+        "scene": "分享健康美味的早餐"
+      }
+    ]
+  },
+  {
+    "word": "spoon",
+    "phonetic": "/spuːn/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "勺子；调羹",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Stir the coffee with a spoon.",
+        "chinese": "用勺子搅拌咖啡。",
+        "scene": "办公室里泡咖啡"
+      },
+      {
+        "level": "medium",
+        "english": "I need a bigger spoon to eat my cereal properly.",
+        "chinese": "我吃麦片需要个大点儿的勺子才顺手。",
+        "scene": "吃早餐时发现餐具不合适"
+      },
+      {
+        "level": "long",
+        "english": "When I was a kid, I used to pretend the spoon was an airplane to get my little brother to eat his food.",
+        "chinese": "我小时候为了哄弟弟吃饭，总会把勺子假扮成飞机。",
+        "scene": "用游戏的方式喂小孩吃饭"
+      }
+    ]
+  },
+  {
+    "word": "supermarket",
+    "phonetic": "/ˈsuːpərˌmɑːrkɪt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "超市",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'm going to the supermarket.",
+        "chinese": "我要去超市。",
+        "scene": "告知家人出门计划"
+      },
+      {
+        "level": "medium",
+        "english": "We forgot to buy eggs, so I have to run to the supermarket before it closes.",
+        "chinese": "我们忘了买鸡蛋，我得赶在超市关门前跑一趟。",
+        "scene": "临时发现缺食材赶紧补买"
+      },
+      {
+        "level": "long",
+        "english": "My favorite part of the supermarket is the bakery section because it always smells like fresh bread.",
+        "chinese": "超市里我最喜欢的就是烘焙区，因为那里总飘着新鲜面包的香味。",
+        "scene": "逛超市时被烘焙区吸引"
+      }
+    ]
+  },
+  {
+    "word": "herself",
+    "phonetic": "/hɜːrˈsɛlf/",
+    "part_of_speech": "pronoun",
+    "chinese_meaning": "她自己",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She did it by herself.",
+        "chinese": "她全靠自己完成的。",
+        "scene": "表扬女孩独立完成任务"
+      },
+      {
+        "level": "medium",
+        "english": "My little girl dressed herself this morning, and the shirt was inside out.",
+        "chinese": "今天早上我女儿自己穿的衣服，结果把衬衫穿反了。",
+        "scene": "幼儿自己穿衣的可爱成果"
+      },
+      {
+        "level": "long",
+        "english": "Even though she was nervous, she gave the entire presentation by herself and did an amazing job.",
+        "chinese": "尽管很紧张，她还是独自完成了整个演讲，而且表现得非常棒。",
+        "scene": "女孩勇敢地独立完成演讲"
+      }
+    ]
+  },
+  {
+    "word": "week",
+    "phonetic": "/wiːk/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "周；星期",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'll see you next week.",
+        "chinese": "下周见。",
+        "scene": "周末分别时约定"
+      },
+      {
+        "level": "medium",
+        "english": "This week has been so long; I can't wait for the weekend.",
+        "chinese": "这周好漫长，我等不及到周末了。",
+        "scene": "疲惫时对周末的渴望"
+      },
+      {
+        "level": "long",
+        "english": "I've been looking forward to this vacation for weeks, and now that it's finally here, I plan to do absolutely nothing.",
+        "chinese": "我期待这个假期好几周了，现在终于来了，我打算啥也不干。",
+        "scene": "对假期的极度期待与放松计划"
+      }
+    ]
+  },
+  {
+    "word": "salad",
+    "phonetic": "/ˈsæləd/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "沙拉",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'll have the chicken salad.",
+        "chinese": "我要鸡肉沙拉。",
+        "scene": "在餐厅点餐"
+      },
+      {
+        "level": "medium",
+        "english": "For a quick lunch, I just throw a salad together with whatever veggies I have.",
+        "chinese": "为了快手午餐，我随便把现有蔬菜拌了个沙拉。",
+        "scene": "在家制作简易午餐"
+      },
+      {
+        "level": "long",
+        "english": "I tried to make a healthy salad, but then I added so much cheese and dressing that I'm not sure it counts anymore.",
+        "chinese": "我本想做份健康沙拉，但加了太多奶酪和沙拉酱后，我不确定这还算不算健康了。",
+        "scene": "自制沙拉变高热量食物的趣事"
+      }
+    ]
+  }
+]

@@ -1,6 +1,548 @@
-{
-  "grade": "六年级",
-  "term": "下册",
-  "unit": "unit1",
-  "words": []
-}
+[
+  {
+    "word": "younger",
+    "phonetic": "/ˈjʌŋɡər/",
+    "part_of_speech": "adjective (comparative)",
+    "chinese_meaning": "更年轻的；较年轻的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My brother is younger than me.",
+        "chinese": "我弟弟比我小。",
+        "scene": "拿出家庭合照给同学看，指着一个小男孩介绍。"
+      },
+      {
+        "level": "medium",
+        "english": "She looks much younger in person than she does on screen.",
+        "chinese": "她本人看起来比屏幕上年轻多了。",
+        "scene": "漫展上见到一位喜欢的配音演员，你小声对朋友感叹。"
+      },
+      {
+        "level": "long",
+        "english": "I wish I had started learning the guitar when I was younger, but honestly, it's never too late to pick up a new hobby and enjoy the process.",
+        "chinese": "我真希望更年轻时就学吉他，但老实说，培养新爱好并享受这个过程永远不会太晚。",
+        "scene": "成人吉他班第一节课，你有点笨拙地按着琴弦，对旁边同样初学的中年人感慨。"
+      }
+    ]
+  },
+  {
+    "word": "older",
+    "phonetic": "/ˈoʊldər/",
+    "part_of_speech": "adjective (comparative)",
+    "chinese_meaning": "更老的；较年长的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My older sister teaches math.",
+        "chinese": "我姐姐教数学。",
+        "scene": "邻居问起你姐姐的职业，你略带骄傲地回答。"
+      },
+      {
+        "level": "medium",
+        "english": "This house is older than my grandparents. It's been here since 1902.",
+        "chinese": "这房子比我爷爷奶奶还老，从1902年就在这了。",
+        "scene": "参观一座老宅时，导游介绍道，你抬头看着斑驳的屋顶。"
+      },
+      {
+        "level": "long",
+        "english": "As I get older, I find that I care less about what others think of me and more about spending time with people who truly matter in my life.",
+        "chinese": "随着年龄增长，我发现自己越来越不在乎别人的看法，而更在乎和生命中真正重要的人共度时光。",
+        "scene": "老友聚会上，你端着酒杯，对多年未见的朋友分享最近的心境变化。"
+      }
+    ]
+  },
+  {
+    "word": "taller",
+    "phonetic": "/ˈtɔːlər/",
+    "part_of_speech": "adjective (comparative)",
+    "chinese_meaning": "更高的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "You're taller than last year!",
+        "chinese": "你比去年高了！",
+        "scene": "过年见到侄子，你用手在头顶比划着，惊讶地说。"
+      },
+      {
+        "level": "medium",
+        "english": "My little brother is already taller than my dad, and he's only fifteen.",
+        "chinese": "我弟弟已经比我爸高了，他才十五岁。",
+        "scene": "家庭聚餐时，你指着帮妈妈取高处物品的弟弟，对亲戚们笑道。"
+      },
+      {
+        "level": "long",
+        "english": "I used to think I needed to be taller to play basketball, but I've learned that speed and skill matter way more than height. Our shortest player is our best scorer.",
+        "chinese": "我以前以为打篮球需要更高，但我明白了速度和技巧比身高重要得多。我们队最矮的球员是我们最好的得分手。",
+        "scene": "训练休息时，你和新加入的矮个子队员击掌，鼓励他别在意身高。"
+      }
+    ]
+  },
+  {
+    "word": "shorter",
+    "phonetic": "/ˈʃɔːrtər/",
+    "part_of_speech": "adjective (comparative)",
+    "chinese_meaning": "更短的；较矮的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This skirt is shorter than that one.",
+        "chinese": "这条裙子比那条短。",
+        "scene": "在试衣间外，你拿着两条裙子在身上比划，让朋友给意见。"
+      },
+      {
+        "level": "medium",
+        "english": "I prefer shorter meetings where we just focus on the key points and get to the action items quickly.",
+        "chinese": "我更喜欢短一点的会议，只关注关键点，迅速进入行动项。",
+        "scene": "在会议室里，你举手提议改变每周冗长的例会形式。"
+      },
+      {
+        "level": "long",
+        "english": "The days are getting shorter as we head into winter, and I already miss those long summer evenings when the sun didn't set until almost nine. But there's something cozy about early nightfall too.",
+        "chinese": "随着入冬，白天越来越短了，我已经开始怀念那些直到快九点太阳才下山的漫长夏夜了。不过，夜幕早临也有它舒适的一面。",
+        "scene": "傍晚五点多天就黑了，你拉上窗帘，打开台灯，对家人念叨着季节的变化。"
+      }
+    ]
+  },
+  {
+    "word": "longer",
+    "phonetic": "/ˈlɔːŋɡər/",
+    "part_of_speech": "adjective, adverb (comparative)",
+    "chinese_meaning": "更长的；更久地",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I can't wait any longer.",
+        "chinese": "我不能再等了。",
+        "scene": "在公交站等了半小时车还没来，你焦急地跺着脚，对同伴说。"
+      },
+      {
+        "level": "medium",
+        "english": "This road is longer than I remember. Are you sure we're going the right way?",
+        "chinese": "这条路比我印象中长。你确定我们走对方向了吗？",
+        "scene": "自驾游途中，你看着导航地图，有些怀疑地问开车的另一半。"
+      },
+      {
+        "level": "long",
+        "english": "I wish weekends were longer so I could spend more time hiking in the mountains and still have a day left just to do nothing and recharge for the week ahead.",
+        "chinese": "我真希望周末更长一些，这样就能有更多时间去山里徒步，还能剩一天什么也不做，为下一周充电。",
+        "scene": "周日下午，你瘫在沙发上，看着窗外的蓝天发出感叹。"
+      }
+    ]
+  },
+  {
+    "word": "thinner",
+    "phonetic": "/ˈθɪnər/",
+    "part_of_speech": "adjective (comparative)",
+    "chinese_meaning": "更瘦的；更薄的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "You look thinner! Have you been working out?",
+        "chinese": "你看起来瘦了！一直在健身吗？",
+        "scene": "在咖啡店偶遇老朋友，你上下打量着她，开心地问道。"
+      },
+      {
+        "level": "medium",
+        "english": "This new phone is thinner and lighter than my old one. I barely feel it in my pocket.",
+        "chinese": "这部新手机比我的旧手机更薄更轻。放口袋里几乎感觉不到。",
+        "scene": "你拆开新手机包装，向同事展示，轻巧地放进衬衫口袋。"
+      },
+      {
+        "level": "long",
+        "english": "After switching to a healthier diet, I feel much better even though I'm not that much thinner. It's amazing what cutting out junk food can do for your energy levels.",
+        "chinese": "换成更健康的饮食后，虽然我没瘦那么多，但感觉好多了。戒掉垃圾食品对精力的改善真神奇。",
+        "scene": "午餐时间，你吃着自带的沙拉，跟好奇的同事分享这一个月的改变。"
+      }
+    ]
+  },
+  {
+    "word": "heavier",
+    "phonetic": "/ˈheviər/",
+    "part_of_speech": "adjective (comparative)",
+    "chinese_meaning": "更重的；更沉的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This suitcase feels heavier than mine.",
+        "chinese": "这个行李箱比我的重。",
+        "scene": "机场行李转盘，你帮一个老人提起箱子，一拎之下脱口而出。"
+      },
+      {
+        "level": "medium",
+        "english": "The rain is getting heavier. Maybe we should wait here until it slows down a bit.",
+        "chinese": "雨下得更大了。要不我们在这等会儿，等雨小点再走。",
+        "scene": "你们躲进路边小店屋檐下，看着倾盆大雨，你对同伴提议。"
+      },
+      {
+        "level": "long",
+        "english": "I've noticed that the traffic is much heavier on Mondays compared to other weekdays. It's like everyone leaves for work at the exact same time after the weekend.",
+        "chinese": "我注意到周一的交通比其他工作日拥堵得多。就好像大家都在周末后卡着同一个时间点出门上班。",
+        "scene": "周一早上你堵在高架桥上，打电话给同事吐槽这个规律。"
+      }
+    ]
+  },
+  {
+    "word": "bigger",
+    "phonetic": "/ˈbɪɡər/",
+    "part_of_speech": "adjective (comparative)",
+    "chinese_meaning": "更大的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I need a bigger size, please.",
+        "chinese": "请给我拿一件更大号的。",
+        "scene": "在试衣间，你隔着帘子把T恤递给外面等着的店员。"
+      },
+      {
+        "level": "medium",
+        "english": "My new apartment has a bigger kitchen, so I've been cooking a lot more lately.",
+        "chinese": "我的新公寓厨房更大，所以我最近做饭的频率高多了。",
+        "scene": "你邀请朋友来暖房，得意地展示宽敞的厨房台面。"
+      },
+      {
+        "level": "long",
+        "english": "When we moved from the tiny apartment to a house, our dog finally had a bigger yard to run around in. Seeing her zoom around with pure joy was worth all the trouble of moving.",
+        "chinese": "我们从小公寓搬到独立屋时，狗狗终于有了一个更大的院子可以疯跑。看着她满心欢喜地飞奔，搬家的一切麻烦都值了。",
+        "scene": "你坐在新家后院的台阶上，看着狗在草地上撒欢，对正在烧烤的伴侣说。"
+      }
+    ]
+  },
+  {
+    "word": "smaller",
+    "phonetic": "/ˈsmɔːlər/",
+    "part_of_speech": "adjective (comparative)",
+    "chinese_meaning": "更小的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This bag is smaller than I expected.",
+        "chinese": "这个包比我预想的小。",
+        "scene": "你拆开网购的背包，有点失望地在手里比了比。"
+      },
+      {
+        "level": "medium",
+        "english": "We chose a smaller wedding with just close family and a few friends, and it felt so much more personal.",
+        "chinese": "我们选择了一个更小型的婚礼，只有至亲和一些朋友，感觉个性化多了。",
+        "scene": "翻看婚礼相册，你指着那些温馨的抓拍照片，对新婚丈夫说道。"
+      },
+      {
+        "level": "long",
+        "english": "I've noticed that the portions at many restaurants are getting smaller, but the prices aren't. I guess that's just how things are these days, so we try to cook at home more often.",
+        "chinese": "我注意到很多餐厅的分量越来越小了，但价格却没变。我想如今就这样吧，所以我们现在更常在家做饭了。",
+        "scene": "两人吃完出来还是有点饿，在路上你挽着伴侣的胳膊，商量着要不要再买点零食。"
+      }
+    ]
+  },
+  {
+    "word": "stronger",
+    "phonetic": "/ˈstrɔːŋɡər/",
+    "part_of_speech": "adjective (comparative)",
+    "chinese_meaning": "更强的；更强壮的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The coffee is stronger today.",
+        "chinese": "今天的咖啡更浓。",
+        "scene": "你呷了一口，抬眼对端着壶的同事说。"
+      },
+      {
+        "level": "medium",
+        "english": "After three months of rock climbing, I feel so much stronger, both physically and mentally.",
+        "chinese": "练了三个月攀岩，我感觉身心都强壮多了。",
+        "scene": "在攀岩馆里，你终于完成了一条以前觉得不可能的线路，兴奋地对保护员说。"
+      },
+      {
+        "level": "long",
+        "english": "Going through hard times together has made our relationship stronger. We learned to communicate better and not take each other for granted, which was a real silver lining.",
+        "chinese": "一起经历艰难时期让我们的关系更牢固了。我们学会了更好地沟通，不把对方视为理所当然，这也算是不幸中的一丝光亮。",
+        "scene": "结婚纪念日，你举杯对爱人说出这番感言，两人碰杯。"
+      }
+    ]
+  },
+  {
+    "word": "dinosaur",
+    "phonetic": "/ˈdaɪnəsɔːr/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "恐龙",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My son loves dinosaurs.",
+        "chinese": "我儿子痴迷恐龙。",
+        "scene": "幼儿园门口，你和其他家长聊起孩子最近的兴趣，你儿子正穿着恐龙T恤跑过。"
+      },
+      {
+        "level": "medium",
+        "english": "We saw a life-size dinosaur skeleton at the museum, and it was absolutely mind-blowing.",
+        "chinese": "我们在博物馆看到了一个真实大小的恐龙骨架，真是太震撼了。",
+        "scene": "你抬头望着巨大的霸王龙化石，一边拍照一边对身边张大嘴的朋友说。"
+      },
+      {
+        "level": "long",
+        "english": "When I was little, I wanted to be a paleontologist just so I could dig up dinosaur bones. I had a little shovel and everything. Now I just collect dinosaur figurines, which is almost as good.",
+        "chinese": "小时候我想当古生物学家，就为了能挖恐龙骨头。我连小铲子都备齐了。现在我只收集恐龙模型，这也差不多一样棒。",
+        "scene": "你在桌前小心地摆放新买的三角龙模型，对来做客的老友讲述童年的志向。"
+      }
+    ]
+  },
+  {
+    "word": "hall",
+    "phonetic": "/hɔːl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "大厅；走廊；礼堂",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Wait for me in the hall.",
+        "chinese": "在大厅等我。",
+        "scene": "你一边系鞋带，一边对已经走到门口的朋友喊道。"
+      },
+      {
+        "level": "medium",
+        "english": "The concert hall was so crowded that we could barely find our seats before the lights went down.",
+        "chinese": "音乐厅里挤满了人，灯光暗下前我们差点找不到座位。",
+        "scene": "你拿着票根，拽着同伴在黑暗中快速移动，小声说着抱歉。"
+      },
+      {
+        "level": "long",
+        "english": "Walking down the hall of my old high school brought back a flood of memories. I could almost hear the locker doors slamming and the bell ringing between classes.",
+        "chinese": "走在老高中的走廊里，回忆如潮水般涌来。我几乎能听到储物柜门砰砰响，以及课间休息的铃声。",
+        "scene": "参加校友会，你独自在空荡的走廊里漫步，微笑着想起青春期的自己。"
+      }
+    ]
+  },
+  {
+    "word": "metre",
+    "phonetic": "/ˈmiːtər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "米（长度单位）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "It's about two metres long.",
+        "chinese": "它大约两米长。",
+        "scene": "在五金店，你伸开双臂比划着，向店员描述你需要的管子长度。"
+      },
+      {
+        "level": "medium",
+        "english": "The pool is three metres deep at the far end, so diving is allowed there.",
+        "chinese": "游泳池远端深三米，所以那里允许跳水。",
+        "scene": "你指着深水区的标志，对想学跳水的表弟解释。"
+      },
+      {
+        "level": "long",
+        "english": "I set up a tent just a few metres from the lake, and waking up to the sound of water lapping so close was one of the most peaceful experiences I've ever had.",
+        "chinese": "我在离湖仅几米的地方搭起了帐篷，醒来时听着湖水拍岸的声音如此之近，是我有生以来最宁静的体验之一。",
+        "scene": "野营的第一个清晨，你拉开帐篷拉链，湖光山色近在咫尺，你深吸一口气对同伴感叹。"
+      }
+    ]
+  },
+  {
+    "word": "than",
+    "phonetic": "/ðæn/",
+    "part_of_speech": "conjunction, preposition",
+    "chinese_meaning": "比（用于比较）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She's taller than me now.",
+        "chinese": "她现在比我高了。",
+        "scene": "见到刚上初中的表妹，你惊讶地发现自己要仰头看她了。"
+      },
+      {
+        "level": "medium",
+        "english": "I'd rather go to the mountains than the beach this summer. What do you think?",
+        "chinese": "今年夏天我更想去山里而不是海边，你觉得呢？",
+        "scene": "讨论假期计划时，你翻着旅游手册，抛出两个选项。"
+      },
+      {
+        "level": "long",
+        "english": "It took me years to realize that being kind to myself was more important than trying to please everyone else. Once I accepted that, my life became much simpler and happier.",
+        "chinese": "我花了多年才意识到善待自己比试图取悦所有人更重要。一旦我接受了这一点，我的生活就变得简单快乐多了。",
+        "scene": "和好友深度聊天时，你分享了这个人生感悟，对方深有同感地点点头。"
+      }
+    ]
+  },
+  {
+    "word": "both",
+    "phonetic": "/boʊθ/",
+    "part_of_speech": "pronoun, determiner",
+    "chinese_meaning": "两者都",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I like both options.",
+        "chinese": "两个选择我都喜欢。",
+        "scene": "服务员举着红葡萄酒和白葡萄酒，你笑着说都来一杯吧。"
+      },
+      {
+        "level": "medium",
+        "english": "My parents both love gardening, so our backyard is like a small jungle of flowers and vegetables.",
+        "chinese": "我爸妈都喜欢园艺，所以我们后院就像个小型的花卉蔬菜丛林。",
+        "scene": "你领着朋友穿过小径，摘下一个番茄递给她，笑着说。"
+      },
+      {
+        "level": "long",
+        "english": "You can't have both the excitement of the city and the quiet of the countryside at the same time. But we've found a small town that gives us a little bit of both, and we love it.",
+        "chinese": "你无法同时拥有城市的繁华和乡村的宁静。但我们找到了一个小镇，两者都提供了一点，我们很喜欢。",
+        "scene": "在小镇咖啡馆外，你们夫妻俩晒着太阳，对这个决定很满意。"
+      }
+    ]
+  },
+  {
+    "word": "kilogram",
+    "phonetic": "/ˈkɪləɡræm/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "千克，公斤",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I bought a kilogram of apples.",
+        "chinese": "我买了一公斤苹果。",
+        "scene": "从农贸市场回来，你提着袋子对室友说。"
+      },
+      {
+        "level": "medium",
+        "english": "This bag of rice weighs five kilograms, which should last us about a month.",
+        "chinese": "这袋米重五公斤，应该够我们吃一个月。",
+        "scene": "你费力地把大米从购物车里搬到收银台上，对身边的伴侣说。"
+      },
+      {
+        "level": "long",
+        "english": "My goal was to lose three kilograms before the wedding, but I ended up gaining one because of all the cake tastings. No regrets though; the cake was delicious.",
+        "chinese": "我本来的目标是在婚礼前减掉三公斤，但因为各种蛋糕试吃，我反而重了一公斤。但不后悔，蛋糕太好吃了。",
+        "scene": "婚礼后，你和新郎分享这个趣事，两人看着婚礼照片笑出了声。"
+      }
+    ]
+  },
+  {
+    "word": "countryside",
+    "phonetic": "/ˈkʌntrisaɪd/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "乡村；乡下",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We love the countryside in spring.",
+        "chinese": "我们爱春天的乡间。",
+        "scene": "车窗外掠过金黄的油菜花田，你忍不住摇下车窗，对开车的朋友赞叹。"
+      },
+      {
+        "level": "medium",
+        "english": "I spent my whole summer vacation at my aunt's farm in the countryside, feeding chickens and collecting eggs.",
+        "chinese": "我整个暑假都在乡下姨妈的农场度过，喂鸡、捡鸡蛋。",
+        "scene": "开学第一天，你被晒黑了一圈，兴奋地跟同桌讲述农场生活。"
+      },
+      {
+        "level": "long",
+        "english": "There's a special kind of silence in the countryside at night that you just can't find in the city. The sky is full of stars, and all you hear is the wind and the occasional owl.",
+        "chinese": "乡间的夜晚有一种城市里找不到的特别寂静。满天繁星，你只能听到风声和偶尔的猫头鹰叫声。",
+        "scene": "深夜，你站在姨妈家的院子里仰望星空，裹紧外套，心里格外平静。"
+      }
+    ]
+  },
+  {
+    "word": "lower",
+    "phonetic": "/ˈloʊər/",
+    "part_of_speech": "adjective (comparative), verb",
+    "chinese_meaning": "更低的；降低",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can you lower the volume, please?",
+        "chinese": "你能把音量调低一点吗？",
+        "scene": "孩子睡觉了，你对着正在看球赛的另一半轻声请求。"
+      },
+      {
+        "level": "medium",
+        "english": "The shelf is too high. Can you put it on a lower shelf so I can reach it?",
+        "chinese": "这个架子太高了。你能把它放在低一点的架子上，这样我才够得着吗？",
+        "scene": "在厨房里，你踮起脚尖依然拿不到调料瓶，向高个子室友求助。"
+      },
+      {
+        "level": "long",
+        "english": "We decided to lower our budget for the renovation and instead saved the money for a family trip. I think making memories together is worth more than a fancier kitchen.",
+        "chinese": "我们决定降低装修的预算，把钱省下来全家旅行。我觉得一起创造回忆比一个更漂亮的厨房更有价值。",
+        "scene": "家庭会议上，你提出这个想法，看着孩子们欢呼，你觉得做对了决定。"
+      }
+    ]
+  },
+  {
+    "word": "shadow",
+    "phonetic": "/ˈʃædoʊ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "影子；阴影",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Look at your long shadow!",
+        "chinese": "看你长长的影子！",
+        "scene": "黄昏的公园里，你指着地上被拉长的身影，对孩子说。"
+      },
+      {
+        "level": "medium",
+        "english": "The cat was chasing its own shadow on the wall, and it was the funniest thing I've seen all week.",
+        "chinese": "那只猫在墙上追自己的影子，这是我这周见过最好笑的事了。",
+        "scene": "你举着手机录视频，发到家庭群里，大家都被逗乐了。"
+      },
+      {
+        "level": "long",
+        "english": "When I was a kid, I was scared of my own shadow at night, thinking it was a monster. My grandpa sat with me and made silly shadow animals on the wall until I fell asleep laughing.",
+        "chinese": "小时候，我晚上害怕自己的影子，以为那是怪物。爷爷就坐在我旁边，用手在墙上比划出各种搞笑的动物影子，直到我笑着睡着。",
+        "scene": "看到小侄女怕黑，你把当年爷爷那一招用在她身上，边比划边讲起往事。"
+      }
+    ]
+  },
+  {
+    "word": "smarter",
+    "phonetic": "/ˈsmɑːrtər/",
+    "part_of_speech": "adjective (comparative)",
+    "chinese_meaning": "更聪明的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My dog is smarter than I thought.",
+        "chinese": "我的狗比我想的聪明。",
+        "scene": "看着金毛自己用鼻子打开冰箱拿酸奶，你惊讶地对朋友说。"
+      },
+      {
+        "level": "medium",
+        "english": "She's definitely the smarter one in the team when it comes to solving these puzzles quickly.",
+        "chinese": "说到快速解这些谜题，她绝对是团队里更聪明的那位。",
+        "scene": "密室逃脱成功后，你拍着朋友的肩膀，向大家夸赞她的逻辑能力。"
+      },
+      {
+        "level": "long",
+        "english": "I used to think that being smarter meant knowing all the answers, but experience has taught me that asking the right questions is a much smarter way to learn and grow.",
+        "chinese": "我以前以为更聪明就是知道所有答案，但经验教会我，提出正确的问题才是学习和成长更聪明的途径。",
+        "scene": "在读书会上分享心得，你这句话引起了不少人的共鸣。"
+      }
+    ]
+  },
+  {
+    "word": "become",
+    "phonetic": "/bɪˈkʌm/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "成为；变得",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She wants to become a pilot.",
+        "chinese": "她想成为一名飞行员。",
+        "scene": "看到飞机划过天空，小女孩拉着妈妈的手，大声宣布她的梦想。"
+      },
+      {
+        "level": "medium",
+        "english": "It has become much easier to work from home since the company provided us with better laptops and software.",
+        "chinese": "自从公司给我们配了更好的笔记本电脑和软件，在家工作变得容易多了。",
+        "scene": "视频会议上，你回答老板关于远程办公感受的提问。"
+      },
+      {
+        "level": "long",
+        "english": "Never in a million years did I think that my little hobby of baking bread would become a full-time business, but here I am, running my own bakery.",
+        "chinese": "我做梦都没想到烤面包这个小爱好会变成一份全职事业，但现在我就在这，经营着自己的面包店。",
+        "scene": "清晨，你站在自家面包店柜台后，看着刚出炉的面包，对前来采访的当地记者说。"
+      }
+    ]
+  }
+]

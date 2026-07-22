@@ -1,6 +1,626 @@
-{
-  "grade": "五年级",
-  "term": "下册",
-  "unit": "unit2",
-  "words": []
-}
+[
+  {
+    "word": "spring",
+    "phonetic": "/sprɪŋ/",
+    "part_of_speech": "noun, verb",
+    "chinese_meaning": "春天",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I love the warm spring weather.",
+        "chinese": "我喜欢春天温暖的天气。",
+        "scene": "表达对春天的喜爱"
+      },
+      {
+        "level": "medium",
+        "english": "Spring is my favorite season because all the flowers start to bloom.",
+        "chinese": "春天是我最喜欢的季节，因为所有的花儿都开始绽放。",
+        "scene": "谈论最喜欢的季节"
+      },
+      {
+        "level": "long",
+        "english": "After a long and freezing winter, seeing the trees turn green in spring always gives me new energy and hope for the year ahead.",
+        "chinese": "经过漫长而寒冷的冬天，看到树木在春天变绿总是给我新的能量和对未来一年的希望。",
+        "scene": "季节转换带来的心情变化"
+      }
+    ]
+  },
+  {
+    "word": "summer",
+    "phonetic": "/ˈsʌmər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "夏天",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Summer vacation is finally here!",
+        "chinese": "暑假终于来了！",
+        "scene": "放暑假时的欢呼"
+      },
+      {
+        "level": "medium",
+        "english": "We go to the beach every summer and stay there for a whole week.",
+        "chinese": "我们每年夏天都去海滩，在那待上整整一周。",
+        "scene": "家庭夏季度假计划"
+      },
+      {
+        "level": "long",
+        "english": "Even though summer in the city is way too hot, I still love it because the days are long and we can eat ice cream outside at night.",
+        "chinese": "尽管城里的夏天实在太热，但我还是很喜欢，因为白天很长，晚上还能在外面吃冰淇淋。",
+        "scene": "享受城市夏夜"
+      }
+    ]
+  },
+  {
+    "word": "autumn",
+    "phonetic": "/ˈɔːtəm/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "秋天",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The autumn leaves are so beautiful.",
+        "chinese": "秋天的叶子真美。",
+        "scene": "看到变色的树叶感叹"
+      },
+      {
+        "level": "medium",
+        "english": "Autumn is perfect for hiking because the weather is cool and the trees are colorful.",
+        "chinese": "秋天非常适合徒步，因为天气凉爽，树木色彩斑斓。",
+        "scene": "计划秋季户外活动"
+      },
+      {
+        "level": "long",
+        "english": "Every autumn, my family drives up to the mountains to see the leaves change color, and we always stop for hot apple cider on the way home.",
+        "chinese": "每年秋天，我们全家都开车去山上看树叶变色，回家路上还会停下来喝热苹果酒。",
+        "scene": "家庭秋日传统"
+      }
+    ]
+  },
+  {
+    "word": "winter",
+    "phonetic": "/ˈwɪntər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "冬天",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I love playing in the winter snow.",
+        "chinese": "我喜欢在冬天的雪里玩耍。",
+        "scene": "看到下雪时的兴奋"
+      },
+      {
+        "level": "medium",
+        "english": "Winter in Chicago is freezing, but the city looks beautiful covered in snow.",
+        "chinese": "芝加哥的冬天冷极了，但被白雪覆盖的城市看起来很漂亮。",
+        "scene": "描述冬日城市景象"
+      },
+      {
+        "level": "long",
+        "english": "When I was a kid, we used to build snow forts every winter, and my mom would bring us hot chocolate to warm our hands.",
+        "chinese": "我小时候，每个冬天我们都会建雪堡，妈妈还会给我们送来热巧克力暖手。",
+        "scene": "温馨的童年冬日回忆"
+      }
+    ]
+  },
+  {
+    "word": "season",
+    "phonetic": "/ˈsiːzən/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "季节",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Fall is a beautiful season.",
+        "chinese": "秋天是个美丽的季节。",
+        "scene": "讨论季节变化"
+      },
+      {
+        "level": "medium",
+        "english": "The rainy season just started, so we should always carry an umbrella now.",
+        "chinese": "雨季刚刚开始，所以我们现在得随身带伞。",
+        "scene": "准备应对天气变化"
+      },
+      {
+        "level": "long",
+        "english": "Each season brings different activities and foods that I look forward to, like watermelon in summer and pumpkin pie in fall.",
+        "chinese": "每个季节都带来我期待的不同活动和食物，比如夏天的西瓜和秋天的南瓜派。",
+        "scene": "分享对不同季节的期待"
+      }
+    ]
+  },
+  {
+    "word": "picnic",
+    "phonetic": "/ˈpɪknɪk/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "野餐",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's have a picnic in the park.",
+        "chinese": "我们去公园野餐吧。",
+        "scene": "提议户外用餐"
+      },
+      {
+        "level": "medium",
+        "english": "We packed sandwiches, fruit, and lemonade for a picnic by the lake.",
+        "chinese": "我们为湖边野餐准备了三明治、水果和柠檬水。",
+        "scene": "准备野餐食物"
+      },
+      {
+        "level": "long",
+        "english": "The picnic was ruined when it suddenly started to rain, so we had to eat our sandwiches in the car, but we still laughed about it.",
+        "chinese": "突然下起了雨，野餐泡汤了，我们不得不在车里吃三明治，但大家还是笑作一团。",
+        "scene": "被雨打断的野餐趣事"
+      }
+    ]
+  },
+  {
+    "word": "go on a picnic",
+    "phonetic": "/ɡoʊ ɑːn ə ˈpɪknɪk/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "去野餐",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's go on a picnic this Sunday.",
+        "chinese": "这个周日我们去野餐吧。",
+        "scene": "计划周末活动"
+      },
+      {
+        "level": "medium",
+        "english": "If the weather stays sunny, we will go on a picnic by the river.",
+        "chinese": "如果天气一直晴朗，我们就去河边野餐。",
+        "scene": "根据天气做决定"
+      },
+      {
+        "level": "long",
+        "english": "We wanted to go on a picnic, but the park was so crowded that we couldn't find a quiet spot, so we just went home.",
+        "chinese": "我们想去野餐，但公园太挤了，找不到安静的地方，只好回家了。",
+        "scene": "人多而取消计划"
+      }
+    ]
+  },
+  {
+    "word": "pick",
+    "phonetic": "/pɪk/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "挑选；采摘",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Help me pick some flowers, please.",
+        "chinese": "请帮我采一些花。",
+        "scene": "在花园里帮忙"
+      },
+      {
+        "level": "medium",
+        "english": "I need to pick a birthday present for my mom; do you have any ideas?",
+        "chinese": "我要给妈妈挑选一份生日礼物，你有什么主意吗？",
+        "scene": "在商店为礼物发愁"
+      },
+      {
+        "level": "long",
+        "english": "When we went to the farm, I let my daughter pick the biggest pumpkin she could find, and it was almost as big as her.",
+        "chinese": "去农场的时候，我让女儿挑了一个她能找到的最大的南瓜，那个南瓜几乎和她一样大。",
+        "scene": "亲子农场采摘"
+      }
+    ]
+  },
+  {
+    "word": "pick apples",
+    "phonetic": "/pɪk ˈæpəlz/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "摘苹果",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We went to pick apples today.",
+        "chinese": "我们今天去摘苹果了。",
+        "scene": "分享活动"
+      },
+      {
+        "level": "medium",
+        "english": "Every fall, we go to the orchard to pick apples and bake a pie.",
+        "chinese": "每年秋天，我们都去果园摘苹果，然后烤一个苹果派。",
+        "scene": "秋日家庭传统"
+      },
+      {
+        "level": "long",
+        "english": "It was our first time to pick apples, and we ate so many while we were picking that we almost didn't need lunch.",
+        "chinese": "那是我们第一次摘苹果，摘的时候吃了太多，午饭几乎都吃不下了。",
+        "scene": "新鲜体验的乐趣"
+      }
+    ]
+  },
+  {
+    "word": "snowman",
+    "phonetic": "/ˈsnoʊmæn/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "雪人",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We built a snowman in the yard.",
+        "chinese": "我们在院子里堆了个雪人。",
+        "scene": "下雪后堆雪人"
+      },
+      {
+        "level": "medium",
+        "english": "The snowman we built yesterday already melted because the sun came out.",
+        "chinese": "我们昨天堆的雪人已经化了，因为太阳出来了。",
+        "scene": "看到雪人融化而惋惜"
+      },
+      {
+        "level": "long",
+        "english": "My brother used a carrot for the snowman's nose and two buttons for eyes, and it looked absolutely hilarious and a little scary.",
+        "chinese": "我弟弟用胡萝卜当雪人的鼻子，两个纽扣当眼睛，看起来既滑稽又有点吓人。",
+        "scene": "创意雪人的趣事"
+      }
+    ]
+  },
+  {
+    "word": "make a snowman",
+    "phonetic": "/meɪk ə ˈsnoʊmæn/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "堆雪人",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's make a snowman after school.",
+        "chinese": "放学后我们去堆雪人吧。",
+        "scene": "约同学一起玩"
+      },
+      {
+        "level": "medium",
+        "english": "It snowed so much last night that we can finally make a snowman in the backyard.",
+        "chinese": "昨晚雪下得很大，我们终于可以在后院堆雪人了。",
+        "scene": "下大雪后的兴奋"
+      },
+      {
+        "level": "long",
+        "english": "Even though it was freezing outside, the kids insisted on going out to make a snowman, and they ended up staying outside until it got dark.",
+        "chinese": "尽管外面天寒地冻，孩子们坚持要出去堆雪人，结果他们一直待到天黑才回来。",
+        "scene": "对玩雪的执着"
+      }
+    ]
+  },
+  {
+    "word": "go swimming",
+    "phonetic": "/ɡoʊ ˈswɪmɪŋ/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "去游泳",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "It's so hot, let's go swimming.",
+        "chinese": "太热了，我们去游泳吧。",
+        "scene": "天热时的提议"
+      },
+      {
+        "level": "medium",
+        "english": "We usually go swimming at the community pool on Saturday mornings.",
+        "chinese": "我们通常周六早上去社区游泳池游泳。",
+        "scene": "周末固定活动"
+      },
+      {
+        "level": "long",
+        "english": "I wanted to go swimming in the ocean, but the waves were so big that the lifeguard told everyone to stay out of the water.",
+        "chinese": "我想去海里游泳，但浪太大了，救生员叫大家都不要下水。",
+        "scene": "海边游泳被劝阻"
+      }
+    ]
+  },
+  {
+    "word": "which",
+    "phonetic": "/wɪtʃ/",
+    "part_of_speech": "determiner, pronoun",
+    "chinese_meaning": "哪一个；哪些",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Which one do you like better?",
+        "chinese": "你更喜欢哪一个？",
+        "scene": "比较两个选项"
+      },
+      {
+        "level": "medium",
+        "english": "Which movie should we watch tonight? There are so many good choices.",
+        "chinese": "我们今晚看哪部电影？有很多不错的选择。",
+        "scene": "在电影列表前犹豫"
+      },
+      {
+        "level": "long",
+        "english": "I can't decide which ice cream flavor to get because they all look so good, and the line behind me is moving way too fast.",
+        "chinese": "我决定不了选哪个口味的冰淇淋，因为看起来都太好吃了，而且我身后的队伍动得飞快。",
+        "scene": "冰淇淋店的选择困难"
+      }
+    ]
+  },
+  {
+    "word": "best",
+    "phonetic": "/bɛst/",
+    "part_of_speech": "adjective, adverb, noun",
+    "chinese_meaning": "最好的；最好地",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "You're the best friend ever.",
+        "chinese": "你是史上最好的朋友。",
+        "scene": "感谢好友"
+      },
+      {
+        "level": "medium",
+        "english": "She's the best player on the team and always scores the most goals.",
+        "chinese": "她是队里最棒的球员，进的球总是最多。",
+        "scene": "评价队友"
+      },
+      {
+        "level": "long",
+        "english": "Even though I didn't win the race, I did my best and felt proud because I knew I had practiced really hard for months.",
+        "chinese": "尽管我没赢比赛，但我尽力了，而且很骄傲，因为我知道自己刻苦练习了好几个月。",
+        "scene": "赛后自我肯定"
+      }
+    ]
+  },
+  {
+    "word": "snow",
+    "phonetic": "/snoʊ/",
+    "part_of_speech": "noun, verb",
+    "chinese_meaning": "雪；下雪",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Look, it's starting to snow outside!",
+        "chinese": "看，外面开始下雪了！",
+        "scene": "发现初雪的惊喜"
+      },
+      {
+        "level": "medium",
+        "english": "The first snow of the year always makes the whole city feel quiet and calm.",
+        "chinese": "每年第一场雪总让整座城市变得安静而平和。",
+        "scene": "初雪后的感受"
+      },
+      {
+        "level": "long",
+        "english": "I woke up to find the yard covered in fresh snow, and everything looked so beautiful that I just stood by the window with a cup of coffee for an hour.",
+        "chinese": "我醒来发现院子里盖满了新雪，一切看起来太美了，我就端着杯咖啡在窗前站了整整一小时。",
+        "scene": "雪后美景的沉浸"
+      }
+    ]
+  },
+  {
+    "word": "good job",
+    "phonetic": "/ɡʊd dʒɑːb/",
+    "part_of_speech": "interjection/phrase",
+    "chinese_meaning": "干得好",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Good job on your test, sweetie!",
+        "chinese": "宝贝，考试考得不错！",
+        "scene": "家长夸奖孩子"
+      },
+      {
+        "level": "medium",
+        "english": "The boss said 'good job' to everyone after we finished the big project on time.",
+        "chinese": "我们按时完成大项目后，老板对大家说了“干得好”。",
+        "scene": "职场受到表扬"
+      },
+      {
+        "level": "long",
+        "english": "My little daughter drew a picture for me, and I told her 'good job' even though I couldn't tell if it was a cat or a dog, and she was so proud of herself.",
+        "chinese": "小女儿给我画了幅画，虽然我分不清是猫还是狗，我还是夸她“画得真棒”，她自豪极了。",
+        "scene": "鼓励孩子的创作"
+      }
+    ]
+  },
+  {
+    "word": "because",
+    "phonetic": "/bɪˈkɔːz/",
+    "part_of_speech": "conjunction",
+    "chinese_meaning": "因为",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'm tired because I slept late.",
+        "chinese": "我累了，因为睡得晚。",
+        "scene": "解释疲劳原因"
+      },
+      {
+        "level": "medium",
+        "english": "We stayed inside all day because it was raining heavily.",
+        "chinese": "我们一整天都待在家里，因为外面下着大雨。",
+        "scene": "雨天居家"
+      },
+      {
+        "level": "long",
+        "english": "I couldn't call you yesterday because my phone ran out of battery and I left my charger at home, so I had to wait until I got back to my apartment to contact you.",
+        "chinese": "我昨天没法给你打电话，因为手机没电了，充电器又忘在家里，所以只能等回公寓充电后才能联系你。",
+        "scene": "解释失联原因"
+      }
+    ]
+  },
+  {
+    "word": "vacation",
+    "phonetic": "/veɪˈkeɪʃən/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "假期；度假",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I really need a vacation soon.",
+        "chinese": "我真的需要马上休个假。",
+        "scene": "工作疲惫时的渴望"
+      },
+      {
+        "level": "medium",
+        "english": "We're planning a family vacation to the mountains this summer.",
+        "chinese": "今年夏天我们计划全家去山里度假。",
+        "scene": "讨论旅行计划"
+      },
+      {
+        "level": "long",
+        "english": "My favorite vacation was when we rented a tiny beach house and did nothing but swim, read books, and eat fresh seafood for a whole week.",
+        "chinese": "我最喜欢的一个假期是我们租了个小小的海边小屋，整整一周除了游泳、看书就是吃新鲜海鲜。",
+        "scene": "理想假期的回忆"
+      }
+    ]
+  },
+  {
+    "word": "all",
+    "phonetic": "/ɔːl/",
+    "part_of_speech": "determiner, pronoun, adverb",
+    "chinese_meaning": "所有的；全部",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "All my friends are coming over.",
+        "chinese": "我所有的朋友都会过来。",
+        "scene": "期待聚会"
+      },
+      {
+        "level": "medium",
+        "english": "I spent all afternoon cleaning the garage, and now I'm exhausted.",
+        "chinese": "我花了一整个下午打扫车库，现在累坏了。",
+        "scene": "大扫除后的疲惫"
+      },
+      {
+        "level": "long",
+        "english": "All I want for my birthday is to have a quiet dinner with my family and play board games like we used to when I was a kid.",
+        "chinese": "我生日唯一想要的，就是和家人安安静静吃顿饭，像小时候那样玩玩桌游。",
+        "scene": "简单的生日愿望"
+      }
+    ]
+  },
+  {
+    "word": "pink",
+    "phonetic": "/pɪŋk/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "粉红色的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She wore a bright pink dress.",
+        "chinese": "她穿了一件亮粉色的裙子。",
+        "scene": "描述着装"
+      },
+      {
+        "level": "medium",
+        "english": "The sky turned pink and orange during the sunset, and it took my breath away.",
+        "chinese": "日落时分天空变成了粉色和橘色，美得令我屏息。",
+        "scene": "欣赏绚烂晚霞"
+      },
+      {
+        "level": "long",
+        "english": "My little sister insisted on painting her room bright pink because she says it's the color of princesses and cotton candy.",
+        "chinese": "我妹妹坚持要把房间刷成亮粉色，因为她说那是公主和棉花糖的颜色。",
+        "scene": "小女孩的粉色梦想"
+      }
+    ]
+  },
+  {
+    "word": "lovely",
+    "phonetic": "/ˈlʌvli/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "可爱的；迷人的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We had a lovely time today.",
+        "chinese": "我们今天过得很愉快。",
+        "scene": "结束愉快的一天"
+      },
+      {
+        "level": "medium",
+        "english": "You look lovely in that sweater; it really brings out your eyes.",
+        "chinese": "你穿那件毛衣真好看，特别衬你的眼睛。",
+        "scene": "赞美朋友的穿着"
+      },
+      {
+        "level": "long",
+        "english": "We took a walk through the garden, and it was so lovely with all the roses in bloom that we completely lost track of time.",
+        "chinese": "我们在花园里散步，玫瑰盛开的景象太迷人了，以至于我们完全忘记了时间。",
+        "scene": "漫步花园流连忘返"
+      }
+    ]
+  },
+  {
+    "word": "leaf",
+    "phonetic": "/liːf/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "叶子；树叶",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "A yellow leaf fell on my shoulder.",
+        "chinese": "一片黄叶落在了我的肩上。",
+        "scene": "秋日散步的瞬间"
+      },
+      {
+        "level": "medium",
+        "english": "The ground was completely covered with brown and red leaves after the storm.",
+        "chinese": "暴风雨过后，地面完全被棕色和红色的落叶覆盖了。",
+        "scene": "雨后落叶满地的景象"
+      },
+      {
+        "level": "long",
+        "english": "I picked up a perfect maple leaf during my morning walk and pressed it inside my favorite book to remember this beautiful autumn day.",
+        "chinese": "清晨散步时，我捡起一片完美的枫叶，夹在最喜欢的一本书里，用来记住这个美丽的秋日。",
+        "scene": "收藏秋叶作为纪念"
+      }
+    ]
+  },
+  {
+    "word": "fall",
+    "phonetic": "/fɔːl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "秋天（美式）；落下",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Fall is my favorite season.",
+        "chinese": "秋天是我最喜欢的季节。",
+        "scene": "表达对季节的偏好"
+      },
+      {
+        "level": "medium",
+        "english": "I love going to the pumpkin patch with my family every fall.",
+        "chinese": "我喜欢每年秋天和全家一起去南瓜园。",
+        "scene": "秋日家庭活动"
+      },
+      {
+        "level": "long",
+        "english": "Every fall, my neighborhood holds a harvest festival with apple cider, hayrides, and a contest for the biggest pumpkin.",
+        "chinese": "每年秋天，我家小区都会举办丰收节，有苹果酒、坐干草车，还有最大南瓜比赛。",
+        "scene": "社区秋季节庆"
+      }
+    ]
+  },
+  {
+    "word": "paint",
+    "phonetic": "/peɪnt/",
+    "part_of_speech": "verb, noun",
+    "chinese_meaning": "绘画；涂漆；颜料",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's paint the wall light blue.",
+        "chinese": "我们把墙刷成浅蓝色吧。",
+        "scene": "计划粉刷房间"
+      },
+      {
+        "level": "medium",
+        "english": "The kids love to paint with their fingers and make a huge mess.",
+        "chinese": "孩子们喜欢用手指画画，把到处弄得乱糟糟的。",
+        "scene": "幼儿绘画游戏"
+      },
+      {
+        "level": "long",
+        "english": "We spent the whole weekend painting the living room, and when we were finally done, it looked like a completely different and much brighter house.",
+        "chinese": "我们花了一整个周末粉刷客厅，终于完工时，房子看起来完全不同了，明亮了许多。",
+        "scene": "装修带来的焕然一新"
+      }
+    ]
+  }
+]

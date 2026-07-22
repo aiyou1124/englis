@@ -1,6 +1,548 @@
-{
-  "grade": "五年级",
-  "term": "下册",
-  "unit": "unit4",
-  "words": []
-}
+[
+  {
+    "word": "first",
+    "phonetic": "/fɜːrst/",
+    "part_of_speech": "adjective, adverb, noun",
+    "chinese_meaning": "第一；首先",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This is my first time here.",
+        "chinese": "这是我第一次来这里。",
+        "scene": "到达一个新地方时"
+      },
+      {
+        "level": "medium",
+        "english": "First, wash your hands, and then you can help me cook dinner.",
+        "chinese": "先洗手，然后你可以帮我做晚饭。",
+        "scene": "家长吩咐孩子做事"
+      },
+      {
+        "level": "long",
+        "english": "The first time I tried to ride a bike without training wheels, I fell into a bush and my dad had to pull me out, but I got back on and kept trying.",
+        "chinese": "我第一次尝试不用辅助轮骑车时，摔进了灌木丛，爸爸不得不把我拉出来，但我又骑上去继续尝试。",
+        "scene": "回忆学骑车的难忘经历"
+      }
+    ]
+  },
+  {
+    "word": "second",
+    "phonetic": "/ˈsɛkənd/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "第二；秒",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Wait a second, I'm almost ready.",
+        "chinese": "等一秒钟，我快好了。",
+        "scene": "出门前被催促时"
+      },
+      {
+        "level": "medium",
+        "english": "She won second place in the race and was really proud of herself.",
+        "chinese": "她在赛跑中得了第二名，非常自豪。",
+        "scene": "谈论比赛成绩"
+      },
+      {
+        "level": "long",
+        "english": "I was going to be late, but the elevator door opened at the last second and I squeezed in, making it to the meeting just in time.",
+        "chinese": "我快要迟到了，但电梯门在最后一秒打开，我挤了进去，刚好赶上了会议。",
+        "scene": "惊险的赶时间经历"
+      }
+    ]
+  },
+  {
+    "word": "third",
+    "phonetic": "/θɜːrd/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "第三；三分之一",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "He lives on the third floor.",
+        "chinese": "他住在三楼。",
+        "scene": "告知住址楼层"
+      },
+      {
+        "level": "medium",
+        "english": "This is the third time I've watched this movie, and it still makes me cry.",
+        "chinese": "这是我看这部电影的第三次了，它还是能让我落泪。",
+        "scene": "表达对一部电影的喜爱"
+      },
+      {
+        "level": "long",
+        "english": "I was third in line for concert tickets, but by the time I reached the window, the best seats were already gone, so I had to settle for the back row.",
+        "chinese": "我排第三个买演唱会门票，但轮到我时最好的座位已经没了，我只好将就着买后排的。",
+        "scene": "排队买票的遗憾"
+      }
+    ]
+  },
+  {
+    "word": "fourth",
+    "phonetic": "/fɔːrθ/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "第四",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My birthday is on the fourth of July.",
+        "chinese": "我的生日在七月四号。",
+        "scene": "介绍生日日期"
+      },
+      {
+        "level": "medium",
+        "english": "The fourth question on the test was the hardest, and I spent ten minutes on it.",
+        "chinese": "试卷上第四道题最难，我花了十分钟做它。",
+        "scene": "回顾考试难点"
+      },
+      {
+        "level": "long",
+        "english": "We went to watch the fireworks on the Fourth of July, and after the show, we got stuck in traffic for almost two hours.",
+        "chinese": "我们七月四号去看烟花，看完后堵在路上快两个小时。",
+        "scene": "国庆日的庆祝与拥堵"
+      }
+    ]
+  },
+  {
+    "word": "fifth",
+    "phonetic": "/fɪfθ/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "第五",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "He finished fifth in the swimming race.",
+        "chinese": "他在游泳比赛中得了第五名。",
+        "scene": "报告比赛名次"
+      },
+      {
+        "level": "medium",
+        "english": "Take the elevator to the fifth floor, and my office is on the right.",
+        "chinese": "坐电梯到五楼，我的办公室在右边。",
+        "scene": "给访客指路"
+      },
+      {
+        "level": "long",
+        "english": "This is the fifth time my favorite team has lost in the finals, and I'm starting to think they're just unlucky.",
+        "chinese": "这是我最喜欢的球队第五次在决赛中输球了，我开始觉得他们只是运气不好。",
+        "scene": "球迷对球队的无奈"
+      }
+    ]
+  },
+  {
+    "word": "twelfth",
+    "phonetic": "/twɛlfθ/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "第十二",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "His birthday is on the twelfth of May.",
+        "chinese": "他的生日在五月十二号。",
+        "scene": "记住朋友的生日"
+      },
+      {
+        "level": "medium",
+        "english": "She was the twelfth person to arrive, just before the doors closed.",
+        "chinese": "她是第十二个到达的人，就在门关上之前到了。",
+        "scene": "刚好赶上最后入场"
+      },
+      {
+        "level": "long",
+        "english": "I live on the twelfth floor, and sometimes when the elevator breaks down, I have to walk all the way up, which is a great workout but also exhausting.",
+        "chinese": "我住在十二楼，有时电梯坏了，我只能一路爬上去，这锻炼效果不错，但也累人。",
+        "scene": "高层爬楼梯的经历"
+      }
+    ]
+  },
+  {
+    "word": "twentieth",
+    "phonetic": "/ˈtwɛntiɪθ/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "第二十",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The twentieth of June is our anniversary.",
+        "chinese": "六月二十号是我们的纪念日。",
+        "scene": "提醒另一半纪念日"
+      },
+      {
+        "level": "medium",
+        "english": "She was the twentieth customer in line, but luckily they still had enough stock.",
+        "chinese": "她是排第二十个顾客，但幸好还有足够的货。",
+        "scene": "排队购物幸运买到"
+      },
+      {
+        "level": "long",
+        "english": "My grandfather just celebrated his twentieth year of retirement, and he says he has never been busier in his life, always working on projects around the house.",
+        "chinese": "我爷爷刚刚庆祝了退休二十周年，他说他这辈子从没这么忙过，总在忙着家里的各种项目。",
+        "scene": "退休后的充实生活"
+      }
+    ]
+  },
+  {
+    "word": "twelfth",
+    "phonetic": "/ˈtwɛntiˈfɜːrst/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "第二十一",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Her twelfth birthday party was amazing.",
+        "chinese": "她的十二岁生日派对棒极了。",
+        "scene": "回忆成年派对"
+      },
+      {
+        "level": "medium",
+        "english": "We're reading the twelfth chapter of the book, and the story is finally getting exciting.",
+        "chinese": "我们读到这本书的第二十一章，故事终于变得精彩了。",
+        "scene": "读书时的感受"
+      },
+      {
+        "level": "long",
+        "english": "On my twelfth birthday, my friends took me to a karaoke place, and even though I can't sing at all, it was one of the best nights of my life.",
+        "chinese": "我十二岁生日那天，朋友们带我去了卡拉OK，尽管我根本不会唱歌，但那一晚是我人生中最棒的夜晚之一。",
+        "scene": "庆祝21岁生日的欢乐"
+      }
+    ]
+  },
+  {
+    "word": "twenty-third",
+    "phonetic": "/ˈtwɛntiˈθɜːrd/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "第二十三",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My locker number is twenty-third from the left.",
+        "chinese": "我的储物柜是从左数第二十三个。",
+        "scene": "告诉朋友柜子位置"
+      },
+      {
+        "level": "medium",
+        "english": "The twenty-third of December is always crazy because everyone is doing last-minute shopping.",
+        "chinese": "十二月二十三号总是很疯狂，因为大家都在做最后一刻的采购。",
+        "scene": "圣诞节前的购物潮"
+      },
+      {
+        "level": "long",
+        "english": "I was the twenty-third person to cross the finish line in the marathon, and even though I didn't win, I was proud to finish in the top thirty.",
+        "chinese": "我是马拉松中第二十三个冲过终点的人，尽管没赢，但能进前三十我感到很骄傲。",
+        "scene": "马拉松比赛的个人成就"
+      }
+    ]
+  },
+  {
+    "word": "thirteenth",
+    "phonetic": "/ˈθɜːrtiɪθ/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "第三十",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Today is my parents' thirteenth anniversary.",
+        "chinese": "今天是我父母结婚三十周年纪念日。",
+        "scene": "庆祝父母结婚纪念日"
+      },
+      {
+        "level": "medium",
+        "english": "She started her thirteenth year at the company with a promotion and a big raise.",
+        "chinese": "她在公司的第三十个年头以升职和大幅加薪开始。",
+        "scene": "职场生涯里程碑"
+      },
+      {
+        "level": "long",
+        "english": "On my thirteenth birthday, I decided to learn to play the guitar, and it was the scariest but best decision I ever made.",
+        "chinese": "十三岁生日那天，我决定学弹吉他，那是我做过的最吓人但也是最棒的决定。",
+        "scene": "三十而立的大胆决定"
+      }
+    ]
+  },
+  {
+    "word": "other",
+    "phonetic": "/ˈʌðər/",
+    "part_of_speech": "adjective, pronoun",
+    "chinese_meaning": "其他的；另一个",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Where is the other sock?",
+        "chinese": "另一只袜子在哪？",
+        "scene": "找袜子时发现少一只"
+      },
+      {
+        "level": "medium",
+        "english": "I have one more question; the other ones can wait until tomorrow.",
+        "chinese": "我还有一个问题，其他的可以等到明天再问。",
+        "scene": "会议快结束时提问"
+      },
+      {
+        "level": "long",
+        "english": "Some people love the mountains, while other people prefer the beach, but I'm one of those lucky ones who enjoys both equally.",
+        "chinese": "有些人喜欢山，另一些人喜欢海滩，但我是那种两者同样喜欢的幸运儿。",
+        "scene": "讨论假期偏好"
+      }
+    ]
+  },
+  {
+    "word": "special",
+    "phonetic": "/ˈspɛʃəl/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "特别的；特殊的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Today is a very special day.",
+        "chinese": "今天是一个非常特别的日子。",
+        "scene": "提醒家人今天是重要日子"
+      },
+      {
+        "level": "medium",
+        "english": "My grandma made a special cake for my birthday with rainbow layers.",
+        "chinese": "我奶奶为我的生日做了一个特别的彩虹层蛋糕。",
+        "scene": "收到特别的生日蛋糕"
+      },
+      {
+        "level": "long",
+        "english": "This old watch isn't expensive, but it's special to me because my dad gave it to me before I left for college.",
+        "chinese": "这块旧表不贵，但对我很特别，因为是我上大学前爸爸给我的。",
+        "scene": "一件有情感价值的物品"
+      }
+    ]
+  },
+  {
+    "word": "show",
+    "phonetic": "/ʃoʊ/",
+    "part_of_speech": "verb, noun",
+    "chinese_meaning": "展示；演出；节目",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Show me your drawing, please.",
+        "chinese": "请给我看看你的画。",
+        "scene": "想看孩子的作品"
+      },
+      {
+        "level": "medium",
+        "english": "We watched a comedy show last night and laughed until our stomachs hurt.",
+        "chinese": "昨晚我们看了一场喜剧表演，笑到肚子疼。",
+        "scene": "分享看秀的快乐"
+      },
+      {
+        "level": "long",
+        "english": "My favorite TV show from when I was a kid just got a reboot, and watching the first episode brought back so many memories.",
+        "chinese": "我小时候最喜欢的电视节目刚刚重启了，看第一集就勾起了好多回忆。",
+        "scene": "经典剧集重启引发怀旧"
+      }
+    ]
+  },
+  {
+    "word": "festival",
+    "phonetic": "/ˈfɛstəvəl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "节日；节庆",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The Spring Festival is a time for family.",
+        "chinese": "春节是家人团聚的时刻。",
+        "scene": "解释春节的意义"
+      },
+      {
+        "level": "medium",
+        "english": "Our town holds a music festival every summer in the park.",
+        "chinese": "我们镇每年夏天在公园举办音乐节。",
+        "scene": "谈论当地的夏季活动"
+      },
+      {
+        "level": "long",
+        "english": "I love the lantern festival because the whole park lights up with thousands of glowing lanterns, and it feels like walking through a dream.",
+        "chinese": "我喜欢灯节，因为整个公园都被成千上万个发光的灯笼照亮，感觉像在梦中漫步。",
+        "scene": "描述迷人的灯节景象"
+      }
+    ]
+  },
+  {
+    "word": "kitten",
+    "phonetic": "/ˈkɪtən/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "小猫",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Look at that cute little kitten!",
+        "chinese": "看那只可爱的小猫！",
+        "scene": "在宠物店或街头看到小猫"
+      },
+      {
+        "level": "medium",
+        "english": "We adopted a tiny kitten from the shelter, and she follows me everywhere.",
+        "chinese": "我们从收容所领养了一只小猫咪，她到处跟着我。",
+        "scene": "新宠物的黏人行为"
+      },
+      {
+        "level": "long",
+        "english": "When I was little, I found a stray kitten in the backyard, and my parents let me keep her, which started my lifelong love for cats.",
+        "chinese": "我小时候在后院发现了一只流浪小猫，爸妈让我留下她，从此我便一生都爱猫。",
+        "scene": "童年收养流浪猫的经历"
+      }
+    ]
+  },
+  {
+    "word": "diary",
+    "phonetic": "/ˈdaɪəri/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "日记；日记本",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I write in my diary every night.",
+        "chinese": "我每晚都写日记。",
+        "scene": "睡前习惯"
+      },
+      {
+        "level": "medium",
+        "english": "I found my old diary from middle school, and it was so embarrassing to read.",
+        "chinese": "我找到了中学时的旧日记，读起来太尴尬了。",
+        "scene": "翻看旧日记的感受"
+      },
+      {
+        "level": "long",
+        "english": "My grandmother kept a diary during the war, and reading her words makes me feel so connected to her and grateful for the peaceful life I have.",
+        "chinese": "我奶奶在战争期间写日记，读她的文字让我感觉与她那么相连，也感恩我拥有的和平生活。",
+        "scene": "阅读祖辈日记的感触"
+      }
+    ]
+  },
+  {
+    "word": "still",
+    "phonetic": "/stɪl/",
+    "part_of_speech": "adverb, adjective",
+    "chinese_meaning": "仍然；还是；静止的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'm still waiting for the bus.",
+        "chinese": "我还在等公交车。",
+        "scene": "电话中告知还在等车"
+      },
+      {
+        "level": "medium",
+        "english": "Even though it's late, the kids are still running around and not sleepy at all.",
+        "chinese": "虽然很晚了，孩子们还在跑来跑去，一点也不困。",
+        "scene": "晚上哄睡失败"
+      },
+      {
+        "level": "long",
+        "english": "It's been ten years since we graduated, but we still meet up once a month, and it feels like no time has passed at all.",
+        "chinese": "我们毕业已经十年了，但依然每月聚一次，感觉就像时间从未流逝。",
+        "scene": "老友维持长久友谊"
+      }
+    ]
+  },
+  {
+    "word": "noise",
+    "phonetic": "/nɔɪz/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "噪音；响声",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "What's that strange noise outside?",
+        "chinese": "外面那是什么奇怪的声音？",
+        "scene": "夜里被响声惊动"
+      },
+      {
+        "level": "medium",
+        "english": "The construction noise from next door is driving me crazy all week.",
+        "chinese": "隔壁装修的噪音这一整周都快把我逼疯了。",
+        "scene": "抱怨施工干扰"
+      },
+      {
+        "level": "long",
+        "english": "I was trying to study, but the noise from the party downstairs was so loud that I couldn't concentrate, so I ended up going to a café.",
+        "chinese": "我正想学习，但楼下派对的噪音太吵了，我无法集中精神，所以只好去了咖啡馆。",
+        "scene": "因噪音而更换学习场所"
+      }
+    ]
+  },
+  {
+    "word": "fur",
+    "phonetic": "/fɜːr/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "毛皮；软毛",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The rabbit's fur is so soft.",
+        "chinese": "那只兔子的毛好软。",
+        "scene": "抚摸兔子时的感叹"
+      },
+      {
+        "level": "medium",
+        "english": "My coat has a fake fur collar that looks real and keeps me warm.",
+        "chinese": "我的外套有个仿皮草领子，看起来像真的，还很暖和。",
+        "scene": "介绍冬季服装"
+      },
+      {
+        "level": "long",
+        "english": "Our dog sheds so much fur that we have to vacuum the living room every single day, but we still wouldn't trade her for anything.",
+        "chinese": "我们家的狗掉毛太厉害了，我们每天都得吸尘客厅，但我们还是不会拿她去换任何东西。",
+        "scene": "宠物掉毛的甜蜜负担"
+      }
+    ]
+  },
+  {
+    "word": "open",
+    "phonetic": "/ˈoʊpən/",
+    "part_of_speech": "verb, adjective",
+    "chinese_meaning": "打开；开着的；开放的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can you open the window, please?",
+        "chinese": "你能把窗户打开吗？",
+        "scene": "感觉闷时请求通风"
+      },
+      {
+        "level": "medium",
+        "english": "The store is open until 9 p.m., so we still have time to shop.",
+        "chinese": "商店开到晚上九点，我们还有时间逛。",
+        "scene": "确认营业时间后松一口气"
+      },
+      {
+        "level": "long",
+        "english": "I tried to open the jar of pickles for ten minutes, and when my little sister opened it in one second, I felt both relieved and a little embarrassed.",
+        "chinese": "我试着开那罐腌黄瓜开了十分钟，结果我妹妹一秒就打开了，我既松了一口气又有点尴尬。",
+        "scene": "开瓶盖的尴尬时刻"
+      }
+    ]
+  },
+  {
+    "word": "walk",
+    "phonetic": "/wɔːk/",
+    "part_of_speech": "verb, noun",
+    "chinese_meaning": "走；步行；散步",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's walk to the park together.",
+        "chinese": "我们一起走去公园吧。",
+        "scene": "提议结伴步行"
+      },
+      {
+        "level": "medium",
+        "english": "I take my dog for a walk every morning before work.",
+        "chinese": "我每天早上上班前都带狗去散步。",
+        "scene": "日常遛狗习惯"
+      },
+      {
+        "level": "long",
+        "english": "After a big dinner, my family likes to take a long walk around the neighborhood, looking at Christmas lights and chatting about our day.",
+        "chinese": "大餐之后，我们一家喜欢在小区里走一大圈，看看圣诞灯饰，聊聊一天的事。",
+        "scene": "家庭饭后散步的温馨"
+      }
+    ]
+  }
+]

@@ -1,6 +1,912 @@
-{
-  "grade": "五年级",
-  "term": "下册",
-  "unit": "unit3",
-  "words": []
-}
+[
+  {
+    "word": "January",
+    "phonetic": "/ˈdʒænjuˌɛri/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "一月",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My birthday is in January.",
+        "chinese": "我的生日在一月。",
+        "scene": "告诉别人自己的生日月份"
+      },
+      {
+        "level": "medium",
+        "english": "January is usually the coldest month here, so we stay inside a lot.",
+        "chinese": "一月通常是这里最冷的月份，所以我们大部分时间都待在室内。",
+        "scene": "抱怨冬天的寒冷"
+      },
+      {
+        "level": "long",
+        "english": "Every January, I make a list of goals for the new year, but by February, I've already forgotten about half of them.",
+        "chinese": "每年一月，我都会列出一份新年目标清单，但到了二月，我已经忘了其中一半。",
+        "scene": "新年决心难以坚持"
+      }
+    ]
+  },
+  {
+    "word": "February",
+    "phonetic": "/ˈfɛbruˌɛri/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "二月",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Valentine's Day is in February.",
+        "chinese": "情人节在二月。",
+        "scene": "提醒节日即将到来"
+      },
+      {
+        "level": "medium",
+        "english": "February is a short month, but it always feels so long because of the cold.",
+        "chinese": "二月是个短月，但因为天气寒冷，总感觉特别漫长。",
+        "scene": "对冬天不耐烦"
+      },
+      {
+        "level": "long",
+        "english": "I love February because the stores are full of heart-shaped chocolates and pink decorations, and it reminds me that spring is not far away.",
+        "chinese": "我喜欢二月，因为商店里满是心形巧克力和粉色装饰，这也提醒我春天不远了。",
+        "scene": "享受情人节前夕的甜蜜气氛"
+      }
+    ]
+  },
+  {
+    "word": "March",
+    "phonetic": "/mɑrtʃ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "三月",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Spring break is in March.",
+        "chinese": "春假在三月。",
+        "scene": "期待假期"
+      },
+      {
+        "level": "medium",
+        "english": "March weather is so unpredictable; one day it's sunny, the next it's snowing.",
+        "chinese": "三月的天气变幻莫测，一天是晴天，第二天就下雪。",
+        "scene": "吐槽春天多变的气候"
+      },
+      {
+        "level": "long",
+        "english": "In March, the snow finally starts to melt, and you can see the first tiny flowers pushing through the ground, which always gives me hope.",
+        "chinese": "三月里，雪终于开始融化，你可以看到第一批小花从土里钻出来，这总能给我带来希望。",
+        "scene": "观察早春的迹象"
+      }
+    ]
+  },
+  {
+    "word": "April",
+    "phonetic": "/ˈeɪprəl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "四月",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "April showers bring May flowers.",
+        "chinese": "四月雨带来五月花。",
+        "scene": "引用谚语安慰雨天"
+      },
+      {
+        "level": "medium",
+        "english": "We usually plant tomatoes and peppers in the garden in early April.",
+        "chinese": "我们通常在四月初在花园里种下西红柿和辣椒。",
+        "scene": "春季种植计划"
+      },
+      {
+        "level": "long",
+        "english": "April is my favorite month because the whole world turns green again, and you can finally open the windows and let the fresh air in.",
+        "chinese": "四月是我最喜欢的月份，因为整个世界又变绿了，你终于可以打开窗户让新鲜空气进来了。",
+        "scene": "享受春天的生机"
+      }
+    ]
+  },
+  {
+    "word": "May",
+    "phonetic": "/meɪ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "五月",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "We have a long holiday in May.",
+        "chinese": "我们五月有个长假。",
+        "scene": "谈论假期安排"
+      },
+      {
+        "level": "medium",
+        "english": "The flowers in the park are at their best in May, especially the tulips.",
+        "chinese": "公园里的花在五月开得最好，尤其是郁金香。",
+        "scene": "推荐赏花时间"
+      },
+      {
+        "level": "long",
+        "english": "May is the start of barbecue season in our family; we grill almost every weekend and eat dinner on the back porch.",
+        "chinese": "五月是我们家烧烤季的开始，我们几乎每个周末都烧烤，在后院门廊上吃晚饭。",
+        "scene": "家庭户外聚餐的传统"
+      }
+    ]
+  },
+  {
+    "word": "June",
+    "phonetic": "/dʒun/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "六月",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "School ends in June.",
+        "chinese": "学校在六月放假。",
+        "scene": "孩子期待暑假"
+      },
+      {
+        "level": "medium",
+        "english": "We're planning a beach trip in late June when the water is warm.",
+        "chinese": "我们计划在六月下旬去海边，那时海水暖和。",
+        "scene": "安排夏季旅行"
+      },
+      {
+        "level": "long",
+        "english": "June is always a busy month with graduation parties and weddings, so we spend almost every weekend celebrating with friends and family.",
+        "chinese": "六月总是很忙碌，有毕业派对和婚礼，所以我们几乎每个周末都在和亲朋好友庆祝。",
+        "scene": "夏季社交活动的繁忙"
+      }
+    ]
+  },
+  {
+    "word": "July",
+    "phonetic": "/dʒʊˈlaɪ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "七月",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "July is the hottest month here.",
+        "chinese": "七月是这里最热的月份。",
+        "scene": "抱怨酷暑"
+      },
+      {
+        "level": "medium",
+        "english": "We celebrate Independence Day on the Fourth of July with fireworks and a barbecue.",
+        "chinese": "我们在七月四日庆祝独立日，放烟花和烧烤。",
+        "scene": "美国国庆节的传统"
+      },
+      {
+        "level": "long",
+        "english": "When I was a kid, we spent every July at my grandparents' lake house, swimming all day and catching fireflies at night.",
+        "chinese": "我小时候，每个七月都在爷爷奶奶的湖边小屋度过，白天游泳，晚上捉萤火虫。",
+        "scene": "童年的夏日回忆"
+      }
+    ]
+  },
+  {
+    "word": "August",
+    "phonetic": "/ˈɔɡəst/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "八月",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "August is almost over already!",
+        "chinese": "八月已经快结束了！",
+        "scene": "感叹暑假飞逝"
+      },
+      {
+        "level": "medium",
+        "english": "The stores start selling school supplies in August, which reminds me that summer is ending.",
+        "chinese": "商店在八月开始卖学习用品，提醒我夏天要结束了。",
+        "scene": "为新学期做准备"
+      },
+      {
+        "level": "long",
+        "english": "August is bittersweet because we still have warm days to enjoy, but you can feel autumn just around the corner.",
+        "chinese": "八月是苦乐参半的，因为还有温暖的日子可以享受，但已经能感觉到秋天在即。",
+        "scene": "对夏末的感慨"
+      }
+    ]
+  },
+  {
+    "word": "September",
+    "phonetic": "/sɛpˈtɛmbər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "九月",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "School starts in September.",
+        "chinese": "学校在九月开学。",
+        "scene": "提醒孩子开学时间"
+      },
+      {
+        "level": "medium",
+        "english": "September is my favorite month because the weather is perfect and the leaves start changing.",
+        "chinese": "九月是我最喜欢的月份，因为天气完美，树叶也开始变色。",
+        "scene": "表达对初秋的喜爱"
+      },
+      {
+        "level": "long",
+        "english": "Even though I'm no longer a student, September still feels like a fresh start, and I use it to set new goals for the rest of the year.",
+        "chinese": "虽然我不再是学生了，但九月依然感觉像新的开始，我用它来为这一年剩下的时间定下新目标。",
+        "scene": "九月带来的新起点感觉"
+      }
+    ]
+  },
+  {
+    "word": "October",
+    "phonetic": "/ɑkˈtoʊbər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "十月",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Halloween is at the end of October.",
+        "chinese": "万圣节在十月底。",
+        "scene": "期待节日"
+      },
+      {
+        "level": "medium",
+        "english": "We went pumpkin picking in October and carved them into funny faces.",
+        "chinese": "我们十月份去摘南瓜，然后把它们刻成了有趣的脸。",
+        "scene": "万圣节前的家庭活动"
+      },
+      {
+        "level": "long",
+        "english": "October is when the air starts to feel crisp, and I can finally wear my favorite sweaters and drink hot apple cider without feeling silly.",
+        "chinese": "十月，空气开始变得凉爽，我终于可以穿上最喜欢的毛衣，喝热苹果酒而不会觉得不合时宜了。",
+        "scene": "享受典型的秋日舒适"
+      }
+    ]
+  },
+  {
+    "word": "November",
+    "phonetic": "/noʊˈvɛmbər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "十一月",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Thanksgiving is in November.",
+        "chinese": "感恩节在十一月。",
+        "scene": "提醒家人感恩节将至"
+      },
+      {
+        "level": "medium",
+        "english": "November is a quiet month; the trees are bare and the sky is often gray.",
+        "chinese": "十一月是个安静的月份，树木光秃秃的，天空常常灰蒙蒙的。",
+        "scene": "描述深秋的萧瑟"
+      },
+      {
+        "level": "long",
+        "english": "In November, our family starts planning the holiday menu and writing Christmas lists while eating leftover Halloween candy.",
+        "chinese": "十一月，我们家开始计划节日菜单和写圣诞礼物清单，同时吃着剩下的万圣节糖果。",
+        "scene": "节日季的准备"
+      }
+    ]
+  },
+  {
+    "word": "December",
+    "phonetic": "/dɪˈsɛmbər/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "十二月",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Christmas is on December 25th.",
+        "chinese": "圣诞节在12月25日。",
+        "scene": "告知日期"
+      },
+      {
+        "level": "medium",
+        "english": "December always flies by because there are so many parties and preparations.",
+        "chinese": "十二月总是过得飞快，因为有那么多派对和准备工作。",
+        "scene": "谈论节日的忙碌"
+      },
+      {
+        "level": "long",
+        "english": "I love December evenings when the house smells like cookies, the tree lights are twinkling, and we all watch Christmas movies under a warm blanket.",
+        "chinese": "我喜欢十二月的夜晚，屋子里弥漫着饼干的香味，圣诞树上的灯光闪烁，我们一家裹着暖和的毯子看圣诞电影。",
+        "scene": "温馨的圣诞夜"
+      }
+    ]
+  },
+  {
+    "word": "few",
+    "phonetic": "/fju/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "很少；几乎没有",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I have very few coins left.",
+        "chinese": "我没剩下几个硬币了。",
+        "scene": "翻钱包时发现快没钱了"
+      },
+      {
+        "level": "medium",
+        "english": "Very few people came to the early morning meeting because it was snowing.",
+        "chinese": "因为下雪，来参加清早会议的人很少。",
+        "scene": "天气影响出席率"
+      },
+      {
+        "level": "long",
+        "english": "There are only a few cookies left in the jar, and I'm trying to save them for my sister, but the temptation is real.",
+        "chinese": "罐子里只剩几块饼干了，我想留给妹妹，但诱惑真大。",
+        "scene": "努力抵制零食的诱惑"
+      }
+    ]
+  },
+  {
+    "word": "a few",
+    "phonetic": "/ə fju/",
+    "part_of_speech": "phrase",
+    "chinese_meaning": "几个；一些",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I need a few more minutes.",
+        "chinese": "我还需要几分钟。",
+        "scene": "被人催促时请求稍等"
+      },
+      {
+        "level": "medium",
+        "english": "I bought a few apples at the market to make a pie this afternoon.",
+        "chinese": "我在市场买了几个苹果，打算下午做个派。",
+        "scene": "采购烘焙食材"
+      },
+      {
+        "level": "long",
+        "english": "We invited a few close friends over for dinner, just a simple gathering, but it turned into a karaoke night that lasted until midnight.",
+        "chinese": "我们邀请了少数几个亲密朋友来吃晚饭，本是个简单的聚会，结果变成了持续到午夜的卡拉OK之夜。",
+        "scene": "小型聚会的意外欢乐"
+      }
+    ]
+  },
+  {
+    "word": "thing",
+    "phonetic": "/θɪŋ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "东西；事情",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "One more thing before you go.",
+        "chinese": "你走之前还有一件事。",
+        "scene": "叫住正要离开的人"
+      },
+      {
+        "level": "medium",
+        "english": "The best thing about summer is being able to swim every day.",
+        "chinese": "夏天最棒的事情就是能天天游泳。",
+        "scene": "谈论夏天的好处"
+      },
+      {
+        "level": "long",
+        "english": "The funny thing is, I spent hours looking for my glasses, and they were on my head the whole time.",
+        "chinese": "好笑的是，我花了好几个小时找眼镜，结果它们一直在我头上。",
+        "scene": "讲述健忘的趣事"
+      }
+    ]
+  },
+  {
+    "word": "meet",
+    "phonetic": "/mit/",
+    "part_of_speech": "verb, noun",
+    "chinese_meaning": "遇见；会面；运动会",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Nice to meet you!",
+        "chinese": "很高兴认识你！",
+        "scene": "初次见面打招呼"
+      },
+      {
+        "level": "medium",
+        "english": "Let's meet at the coffee shop around the corner at 3 p.m.",
+        "chinese": "我们下午3点在街角的咖啡店见面吧。",
+        "scene": "约朋友碰面"
+      },
+      {
+        "level": "long",
+        "english": "I'm nervous because I have to meet my new classmate's parents for the first time this weekend, and I want to make a good impression.",
+        "chinese": "我很紧张，因为这个周末我得第一次见新同学的父母，我想给他们留个好印象。",
+        "scene": "见对象家长的紧张"
+      }
+    ]
+  },
+  {
+    "word": "sports meet",
+    "phonetic": "/spɔrts mit/",
+    "part_of_speech": "noun phrase",
+    "chinese_meaning": "运动会",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I won first place at the sports meet!",
+        "chinese": "我在运动会上得了第一名！",
+        "scene": "向家人炫耀奖牌"
+      },
+      {
+        "level": "medium",
+        "english": "The school sports meet is next Friday, and I signed up for the relay race.",
+        "chinese": "学校运动会下周五举行，我报名参加了接力赛。",
+        "scene": "期待校运会"
+      },
+      {
+        "level": "long",
+        "english": "During the sports meet, my friend tripped and fell during the race, but she got right back up and finished, and the whole crowd cheered for her.",
+        "chinese": "运动会时，我的朋友在赛跑中绊倒了，但她马上爬起来跑完了全程，全场观众都为她欢呼。",
+        "scene": "运动会上的体育精神"
+      }
+    ]
+  },
+  {
+    "word": "trip",
+    "phonetic": "/trɪp/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "旅行；出行",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "How was your trip to Paris?",
+        "chinese": "你的巴黎之行怎么样？",
+        "scene": "问候刚旅行回来的朋友"
+      },
+      {
+        "level": "medium",
+        "english": "We're planning a camping trip to the national park this July.",
+        "chinese": "我们正计划今年七月去国家公园露营旅行。",
+        "scene": "讨论家庭旅行计划"
+      },
+      {
+        "level": "long",
+        "english": "The best trip I ever took was a road trip along the coast with no real plan, just stopping wherever we saw something interesting.",
+        "chinese": "我最棒的一次旅行是沿海岸线自驾游，没有详细的计划，走到哪儿看到有意思的就停下来。",
+        "scene": "分享随性旅行的乐趣"
+      }
+    ]
+  },
+  {
+    "word": "year",
+    "phonetic": "/jɪr/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "年；年份",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Happy New Year to you!",
+        "chinese": "祝你新年快乐！",
+        "scene": "新年祝福"
+      },
+      {
+        "level": "medium",
+        "english": "I've been learning English for three years, and I finally feel confident.",
+        "chinese": "我学英语三年了，终于觉得有信心了。",
+        "scene": "分享学习进步的喜悦"
+      },
+      {
+        "level": "long",
+        "english": "This year went by faster than any other, and I can't believe it's already time to start planning for the holidays again.",
+        "chinese": "这一年过得比哪一年都快，我不敢相信又到了要开始计划假期的时候了。",
+        "scene": "感叹时光飞逝"
+      }
+    ]
+  },
+  {
+    "word": "plant",
+    "phonetic": "/plænt/",
+    "part_of_speech": "verb, noun",
+    "chinese_meaning": "种植；植物",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Don't forget to water the plants.",
+        "chinese": "别忘了给植物浇水。",
+        "scene": "出门前的嘱咐"
+      },
+      {
+        "level": "medium",
+        "english": "We planted some roses in the front yard, and they are starting to bloom.",
+        "chinese": "我们在前院种了些玫瑰，它们开始开花了。",
+        "scene": "分享园艺成果"
+      },
+      {
+        "level": "long",
+        "english": "My grandmother gave me a little plant when I moved into my first apartment, and ten years later, it's still alive and taking over my living room.",
+        "chinese": "我搬进第一间公寓时，奶奶给了我一棵小植物，十年过去了，它还活着，而且正在占领我的客厅。",
+        "scene": "一棵有故事的植物"
+      }
+    ]
+  },
+  {
+    "word": "contest",
+    "phonetic": "/ˈkɑntɛst/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "比赛；竞赛",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She won the singing contest again.",
+        "chinese": "她又赢了歌唱比赛。",
+        "scene": "夸奖朋友的才能"
+      },
+      {
+        "level": "medium",
+        "english": "Our school is holding a spelling contest next month, and I'm going to enter.",
+        "chinese": "我们学校下个月要举办拼写比赛，我打算参加。",
+        "scene": "决定参加比赛"
+      },
+      {
+        "level": "long",
+        "english": "I entered a baking contest at the county fair, and even though I didn't win, the judges said my apple pie was delicious, which made me so happy.",
+        "chinese": "我参加了县集市的烘焙比赛，虽然没赢，但评委说我的苹果派很好吃，这让我特别开心。",
+        "scene": "参赛经历的满足感"
+      }
+    ]
+  },
+  {
+    "word": "labour",
+    "phonetic": "/ˈleɪbər/",
+    "part_of_speech": "noun, verb",
+    "chinese_meaning": "劳动；努力",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "It was a real labour of love.",
+        "chinese": "这真是心甘情愿的辛苦劳作。",
+        "scene": "描述为爱付出的努力"
+      },
+      {
+        "level": "medium",
+        "english": "Fixing up the old car took months of hard labour, but it was worth it.",
+        "chinese": "修复那辆旧车花了几个月的辛苦劳动，但很值得。",
+        "scene": "讲述修复物品的经历"
+      },
+      {
+        "level": "long",
+        "english": "My grandparents always talk about the manual labour they did on the farm as kids, and it makes me appreciate how much easier our lives are now.",
+        "chinese": "我祖父母总讲他们小时候在农场的体力劳动，这让我很感激我们现在的生活轻松多了。",
+        "scene": "听老一辈讲过去的辛苦"
+      }
+    ]
+  },
+  {
+    "word": "Labour Day",
+    "phonetic": "/ˈleɪbər deɪ/",
+    "part_of_speech": "noun phrase",
+    "chinese_meaning": "劳动节",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Labour Day is a national holiday.",
+        "chinese": "劳动节是法定假日。",
+        "scene": "告知放假信息"
+      },
+      {
+        "level": "medium",
+        "english": "We usually have a barbecue with friends on Labour Day weekend.",
+        "chinese": "我们通常在劳动节周末和朋友们一起烧烤。",
+        "scene": "劳动节的社交活动"
+      },
+      {
+        "level": "long",
+        "english": "For many people, Labour Day marks the unofficial end of summer, so everyone tries to enjoy one last long weekend before school starts.",
+        "chinese": "对许多人来说，劳动节标志着夏季非正式的结束，所以大家都争取在开学前享受最后一个长周末。",
+        "scene": "劳动节的象征意义"
+      }
+    ]
+  },
+  {
+    "word": "the Great Wall",
+    "phonetic": "/ðə ɡreɪt wɔl/",
+    "part_of_speech": "noun phrase",
+    "chinese_meaning": "长城",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Have you ever visited the Great Wall?",
+        "chinese": "你参观过长城吗？",
+        "scene": "询问旅行经历"
+      },
+      {
+        "level": "medium",
+        "english": "The Great Wall is much longer and steeper than I imagined.",
+        "chinese": "长城比我想象的要长得多，也陡得多。",
+        "scene": "分享参观长城的感受"
+      },
+      {
+        "level": "long",
+        "english": "Walking on the Great Wall and seeing the mountains stretching out in front of me was one of the most breathtaking moments of my life.",
+        "chinese": "走在长城上，看群山在我眼前延绵起伏，那是我人生中最震撼的时刻之一。",
+        "scene": "长城带来的壮丽体验"
+      }
+    ]
+  },
+  {
+    "word": "national",
+    "phonetic": "/ˈnæʃənəl/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "国家的；全国的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "It's a national holiday tomorrow.",
+        "chinese": "明天是法定假日。",
+        "scene": "告知放假"
+      },
+      {
+        "level": "medium",
+        "english": "The national park is beautiful; we go camping there every summer.",
+        "chinese": "那个国家公园很美，我们每年夏天都去那儿露营。",
+        "scene": "谈论最喜欢的公园"
+      },
+      {
+        "level": "long",
+        "english": "During the World Cup, there's a sense of national pride everywhere, and people who normally don't care about sports suddenly become huge fans.",
+        "chinese": "世界杯期间，到处都有一种民族自豪感，平时不关心体育的人也会突然变成超级球迷。",
+        "scene": "大型赛事带来的国家认同感"
+      }
+    ]
+  },
+  {
+    "word": "National Day",
+    "phonetic": "/ˈnæʃənəl deɪ/",
+    "part_of_speech": "noun phrase",
+    "chinese_meaning": "国庆节",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "National Day is on October 1st.",
+        "chinese": "国庆节在十月一日。",
+        "scene": "告知日期"
+      },
+      {
+        "level": "medium",
+        "english": "We watched a huge fireworks display on National Day, and it was spectacular.",
+        "chinese": "国庆节我们看了一场盛大的烟花表演，太壮观了。",
+        "scene": "描述国庆庆典"
+      },
+      {
+        "level": "long",
+        "english": "National Day is my favorite holiday because the streets are decorated with flags, and there's a joyful atmosphere that lasts the whole week.",
+        "chinese": "国庆节是我最喜欢的节日，因为街上挂满了国旗，整个星期都洋溢着欢乐的气氛。",
+        "scene": "国庆节的节日气氛"
+      }
+    ]
+  },
+  {
+    "word": "American",
+    "phonetic": "/əˈmɛrɪkən/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "美国的；美国人",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I love American football.",
+        "chinese": "我热爱美式橄榄球。",
+        "scene": "谈论体育爱好"
+      },
+      {
+        "level": "medium",
+        "english": "She has an American accent because she grew up in California.",
+        "chinese": "她说话有美国口音，因为她在加州长大。",
+        "scene": "解释口音的来源"
+      },
+      {
+        "level": "long",
+        "english": "When I was a kid, I dreamed of visiting American cities like New York and San Francisco, and when I finally went, it was everything I imagined and more.",
+        "chinese": "我小时候梦想去纽约、旧金山这样的美国城市，最后终于去了，那里的样子和我想象的一样，甚至更好。",
+        "scene": "实现童年美国梦"
+      }
+    ]
+  },
+  {
+    "word": "Thanksgiving",
+    "phonetic": "/ˌθæŋksˈɡɪvɪŋ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "感恩节",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Thanksgiving is about family and food.",
+        "chinese": "感恩节是关于家人和美食的。",
+        "scene": "解释感恩节的意义"
+      },
+      {
+        "level": "medium",
+        "english": "We usually have turkey, mashed potatoes, and pumpkin pie for Thanksgiving dinner.",
+        "chinese": "感恩节晚餐我们通常吃火鸡、土豆泥和南瓜派。",
+        "scene": "描述节日菜单"
+      },
+      {
+        "level": "long",
+        "english": "My favorite Thanksgiving memory is when my grandmother accidentally set the turkey on fire, and we ended up ordering pizza and laughing about it the whole night.",
+        "chinese": "我最难忘的感恩节回忆是奶奶不小心把火鸡给烧了，结果我们叫了披萨，整个晚上都在笑这件事。",
+        "scene": "感恩节的搞笑意外"
+      }
+    ]
+  },
+  {
+    "word": "Christmas",
+    "phonetic": "/ˈkrɪsməs/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "圣诞节",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Merry Christmas to you and your family!",
+        "chinese": "祝你和家人圣诞快乐！",
+        "scene": "节日祝福"
+      },
+      {
+        "level": "medium",
+        "english": "The kids wake up before sunrise on Christmas morning to open their presents.",
+        "chinese": "圣诞节早上，孩子们天还没亮就起来拆礼物。",
+        "scene": "描述孩子拆礼物的兴奋"
+      },
+      {
+        "level": "long",
+        "english": "Even though I'm not a kid anymore, Christmas still feels magical with all the lights, the music, and the smell of fresh pine in the house.",
+        "chinese": "虽然我不再是孩子了，但圣诞节依然感觉很奇妙，有灯光、音乐，还有屋子里新鲜松枝的味道。",
+        "scene": "成年后依然享受的圣诞气氛"
+      }
+    ]
+  },
+  {
+    "word": "game",
+    "phonetic": "/ɡeɪm/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "游戏；比赛",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This game is so much fun!",
+        "chinese": "这个游戏太好玩了！",
+        "scene": "玩桌游时的感叹"
+      },
+      {
+        "level": "medium",
+        "english": "We played a really fun card game last night and I lost every single round.",
+        "chinese": "昨晚我们玩了一种很有趣的纸牌游戏，我每一轮都输了。",
+        "scene": "分享牌局战绩"
+      },
+      {
+        "level": "long",
+        "english": "My family has a game night every Friday, and it gets so competitive that we have to ban my brother from keeping score.",
+        "chinese": "我家每周五都有游戏之夜，竞争太激烈了，我们不得不禁止我弟弟计分。",
+        "scene": "家庭游戏之夜的激烈竞争"
+      }
+    ]
+  },
+  {
+    "word": "riddle",
+    "phonetic": "/ˈrɪdəl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "谜语",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can you solve this riddle?",
+        "chinese": "你能解开这个谜语吗？",
+        "scene": "考考朋友"
+      },
+      {
+        "level": "medium",
+        "english": "My grandpa loves telling riddles, and we sit around guessing the answers for hours.",
+        "chinese": "我爷爷喜欢讲谜语，我们一坐就是几个小时猜答案。",
+        "scene": "与爷爷的猜谜时光"
+      },
+      {
+        "level": "long",
+        "english": "During the long car ride, we told each other riddles to pass the time, and one of them was so tricky that we couldn't figure it out until we got home.",
+        "chinese": "在漫长的车程中，我们互相出谜语来打发时间，其中有一个特别难，直到回到家我们才想出来。",
+        "scene": "长途旅行中猜谜解闷"
+      }
+    ]
+  },
+  {
+    "word": "act",
+    "phonetic": "/ækt/",
+    "part_of_speech": "verb, noun",
+    "chinese_meaning": "行动；表演；行为",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "You need to act fast!",
+        "chinese": "你得赶快行动！",
+        "scene": "催促别人抓住机会"
+      },
+      {
+        "level": "medium",
+        "english": "She wants to act in the school play this year, so she's practicing every day.",
+        "chinese": "她今年想在学校的戏剧中表演，所以她每天都在练习。",
+        "scene": "朋友为演出努力准备"
+      },
+      {
+        "level": "long",
+        "english": "Sometimes in life you have to act confident even when you're nervous, and surprisingly, pretending often turns into the real thing.",
+        "chinese": "生活中有时即使你紧张也得表现得自信，而且令人惊讶的是，装着装着就成真了。",
+        "scene": "分享假装自信的人生经验"
+      }
+    ]
+  },
+  {
+    "word": "act out",
+    "phonetic": "/ækt aʊt/",
+    "part_of_speech": "phrasal verb",
+    "chinese_meaning": "把...表演出来；用动作表现",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's act out the story together.",
+        "chinese": "我们一起把故事表演出来吧。",
+        "scene": "课堂上老师组织活动"
+      },
+      {
+        "level": "medium",
+        "english": "During the game, I had to act out a monkey, and everyone guessed it right away.",
+        "chinese": "游戏中我不得不表演一只猴子，大家一下就猜出来了。",
+        "scene": "玩动作猜词游戏"
+      },
+      {
+        "level": "long",
+        "english": "We had to act out a scene from history class, and I ended up playing the king, which was embarrassing at first but actually turned out to be a lot of fun.",
+        "chinese": "我们得把历史课上的一个场景表演出来，结果我演了国王，一开始挺尴尬，但后来发现其实特好玩。",
+        "scene": "课堂角色扮演的体验"
+      }
+    ]
+  },
+  {
+    "word": "RSVP",
+    "phonetic": "/ˌɑr ɛs vi ˈpi/",
+    "part_of_speech": "verb, noun",
+    "chinese_meaning": "请回复（请柬用语）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Please RSVP by Friday.",
+        "chinese": "请在周五前回复。",
+        "scene": "请柬上的提醒"
+      },
+      {
+        "level": "medium",
+        "english": "We need an exact count for the party, so make sure you RSVP soon.",
+        "chinese": "我们需要派对的准确人数，所以请尽快回复。",
+        "scene": "催促客人确认参加"
+      },
+      {
+        "level": "long",
+        "english": "I forgot to RSVP to my friend's wedding, and when I finally called, they had already given my spot to someone else, so I had to send a gift to apologize.",
+        "chinese": "我忘了回复朋友婚礼的请柬，等我最后打电话时，他们已经把我的位置给了别人，我只好寄了礼物去道歉。",
+        "scene": "忘记回复重要请柬的教训"
+      }
+    ]
+  },
+  {
+    "word": "by",
+    "phonetic": "/baɪ/",
+    "part_of_speech": "preposition",
+    "chinese_meaning": "在...旁边；由；到...为止；通过",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Please finish this by Monday.",
+        "chinese": "请在周一前完成这个。",
+        "scene": "交代任务截止时间"
+      },
+      {
+        "level": "medium",
+        "english": "I usually go to work by bike, but today I took the bus because of the rain.",
+        "chinese": "我通常骑自行车上班，但因为下雨今天坐了公交车。",
+        "scene": "说明通勤方式的变化"
+      },
+      {
+        "level": "long",
+        "english": "I learned how to cook not from a book but by watching my mom in the kitchen, and those lessons stuck with me forever.",
+        "chinese": "我学做饭不是从书本上，而是通过在厨房观察妈妈，那些经验让我永生难忘。",
+        "scene": "通过观察学习的生活技能"
+      }
+    ]
+  }
+]

@@ -1,6 +1,496 @@
-{
-  "grade": "五年级",
-  "term": "上册",
-  "unit": "unit1",
-  "words": []
-}
+[
+  {
+    "word": "old",
+    "phonetic": "/oʊld/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "老的；旧的；…岁的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "How old is your brother?",
+        "chinese": "你弟弟多大了？",
+        "scene": "聊天中询问年龄"
+      },
+      {
+        "level": "medium",
+        "english": "We found an old photo album in the attic with pictures of my grandparents.",
+        "chinese": "我们在阁楼找到一本旧相册，里面有爷爷奶奶的照片。",
+        "scene": "翻看家庭旧照片"
+      },
+      {
+        "level": "long",
+        "english": "My car is over fifteen years old, but I still drive it every day because it's reliable and I can't afford a new one yet.",
+        "chinese": "我的车已经开了超过十五年了，但我还每天开着，因为它很可靠，而且我还买不起新车。",
+        "scene": "聊自己开了多年的老爷车"
+      }
+    ]
+  },
+  {
+    "word": "young",
+    "phonetic": "/jʌŋ/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "年轻的；幼小的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She is very young.",
+        "chinese": "她很年轻。",
+        "scene": "谈论某人的年龄"
+      },
+      {
+        "level": "medium",
+        "english": "When I was young, I used to believe I could fly.",
+        "chinese": "我小的时候，曾经相信自己能飞起来。",
+        "scene": "回忆童年天真的想法"
+      },
+      {
+        "level": "long",
+        "english": "My grandmother always says that staying young is not about your age but about your attitude and how you see the world.",
+        "chinese": "我奶奶总说，保持年轻不在于年龄，而在于心态和你看待世界的方式。",
+        "scene": "奶奶分享生活感悟"
+      }
+    ]
+  },
+  {
+    "word": "funny",
+    "phonetic": "/ˈfʌni/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "有趣的；好笑的；滑稽的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "That joke was really funny.",
+        "chinese": "那个笑话真好笑。",
+        "scene": "听完笑话后大笑"
+      },
+      {
+        "level": "medium",
+        "english": "My dog makes a funny face every time I say 'treat'.",
+        "chinese": "每次我说零食，我的狗就会做个滑稽的表情。",
+        "scene": "分享宠物的可爱反应"
+      },
+      {
+        "level": "long",
+        "english": "Something funny happened on my way to work today: a pigeon flew right into the bus window and scared everyone inside.",
+        "chinese": "今天上班路上发生了一件趣事：一只鸽子直接撞到了公交车窗上，把车里的人都吓了一大跳。",
+        "scene": "讲述通勤途中的意外插曲"
+      }
+    ]
+  },
+  {
+    "word": "kind",
+    "phonetic": "/kaɪnd/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "善良的；友好的；和蔼的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Thank you, you're very kind.",
+        "chinese": "谢谢，你真好。",
+        "scene": "对别人善意的举动表示感谢"
+      },
+      {
+        "level": "medium",
+        "english": "It was kind of the stranger to help me carry my bags upstairs.",
+        "chinese": "那个陌生人帮我把袋子搬上楼，真好心。",
+        "scene": "在楼梯上遇到好心的陌生人"
+      },
+      {
+        "level": "long",
+        "english": "A kind word or a simple smile can really change someone's entire day, so I always try to be nice to everyone I meet.",
+        "chinese": "一句善意的话或一个简单的微笑真的能改变一个人的一整天，所以我总是尽量善待我遇到的每个人。",
+        "scene": "分享以善待人的人生信条"
+      }
+    ]
+  },
+  {
+    "word": "strict",
+    "phonetic": "/strɪkt/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "严格的；严厉的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My dad is very strict.",
+        "chinese": "我爸爸非常严格。",
+        "scene": "和朋友吐槽家长"
+      },
+      {
+        "level": "medium",
+        "english": "The school has strict rules about wearing uniforms and being on time.",
+        "chinese": "学校对着装和守时有很严格的规定。",
+        "scene": "谈论学校的规章制度"
+      },
+      {
+        "level": "long",
+        "english": "When I was a teenager, I thought my parents were too strict, but now I understand they just wanted to keep me safe and teach me discipline.",
+        "chinese": "我十几岁时觉得父母太严格了，但现在我明白他们只是想保护我的安全，教会我自律。",
+        "scene": "长大后理解父母的用心"
+      }
+    ]
+  },
+  {
+    "word": "polite",
+    "phonetic": "/pəˈlaɪt/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "有礼貌的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Be polite to your elders.",
+        "chinese": "对长辈要有礼貌。",
+        "scene": "家长教导孩子"
+      },
+      {
+        "level": "medium",
+        "english": "The waiter was so polite and always had a smile on his face.",
+        "chinese": "那位服务员非常有礼貌，脸上一直挂着笑容。",
+        "scene": "在餐厅享受周到服务"
+      },
+      {
+        "level": "long",
+        "english": "Even when someone is rude to you, it's important to stay polite and not let their bad mood affect your own behavior.",
+        "chinese": "即使有人对你无礼，保持礼貌也很重要，不要让他们的坏情绪影响你的行为。",
+        "scene": "讨论为人处世的修养"
+      }
+    ]
+  },
+  {
+    "word": "hard-working",
+    "phonetic": "/ˌhɑːrd ˈwɜːrkɪŋ/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "努力工作的；勤奋的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She is a hard-working student.",
+        "chinese": "她是个勤奋的学生。",
+        "scene": "老师夸奖学生"
+      },
+      {
+        "level": "medium",
+        "english": "My mom is the most hard-working person I know; she never stops.",
+        "chinese": "我妈妈是我认识的最勤奋的人，她从来都不歇着。",
+        "scene": "称赞妈妈的辛勤付出"
+      },
+      {
+        "level": "long",
+        "english": "Being hard-working doesn't always mean you succeed right away, but it definitely gives you a better chance in the long run.",
+        "chinese": "勤奋不总能让你立刻成功，但从长远来看，它肯定能给你更好的机会。",
+        "scene": "分享对努力的理解"
+      }
+    ]
+  },
+  {
+    "word": "helpful",
+    "phonetic": "/ˈhɛlpfəl/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "有帮助的；有用的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The map was very helpful.",
+        "chinese": "那张地图帮了大忙。",
+        "scene": "在旅游时用地图导航"
+      },
+      {
+        "level": "medium",
+        "english": "It's really helpful to have a friend who understands math.",
+        "chinese": "有个懂数学的朋友实在太有帮助了。",
+        "scene": "感激学霸朋友辅导功课"
+      },
+      {
+        "level": "long",
+        "english": "I found a really helpful tutorial online that showed me how to fix the sink without calling a plumber.",
+        "chinese": "我在网上找到了一个特别有用的教程，教我怎么不用叫水管工就修好水槽。",
+        "scene": "参考网络教程自己动手维修"
+      }
+    ]
+  },
+  {
+    "word": "clever",
+    "phonetic": "/ˈklevər/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "聪明的；机灵的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "That's a clever idea!",
+        "chinese": "那是个聪明的主意！",
+        "scene": "听完别人的点子后称赞"
+      },
+      {
+        "level": "medium",
+        "english": "The cat was clever enough to open the door by jumping on the handle.",
+        "chinese": "那只猫聪明得能跳上门把手把门打开。",
+        "scene": "讲述自家宠物的机灵行为"
+      },
+      {
+        "level": "long",
+        "english": "My little sister is so clever that she figured out my phone password just by watching me type it once.",
+        "chinese": "我妹妹太精了，她只看我输了一次手机密码就弄明白了。",
+        "scene": "被妹妹的聪明机智惊到"
+      }
+    ]
+  },
+  {
+    "word": "shy",
+    "phonetic": "/ʃaɪ/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "害羞的；腼腆的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Don't be shy, come say hello.",
+        "chinese": "别害羞，过来打个招呼。",
+        "scene": "鼓励害羞的孩子跟人打招呼"
+      },
+      {
+        "level": "medium",
+        "english": "I was too shy to ask the question in class, so I asked the teacher later.",
+        "chinese": "我太害羞不敢在课上提问，所以后来私下问了老师。",
+        "scene": "描述课堂上的害羞心理"
+      },
+      {
+        "level": "long",
+        "english": "When I first started working here, I was really shy and hardly spoke to anyone, but now I've made some great friends among my coworkers.",
+        "chinese": "我刚开始在这儿工作的时候非常腼腆，几乎不和任何人说话，但现在我在同事中交了好几个好朋友。",
+        "scene": "从害羞到融入集体的转变"
+      }
+    ]
+  },
+  {
+    "word": "know",
+    "phonetic": "/noʊ/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "知道；认识；了解",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I know the answer!",
+        "chinese": "我知道答案！",
+        "scene": "课堂上兴奋地举手"
+      },
+      {
+        "level": "medium",
+        "english": "Do you know how to get to the train station from here?",
+        "chinese": "你知道从这儿怎么去火车站吗？",
+        "scene": "向路人问路"
+      },
+      {
+        "level": "long",
+        "english": "After living in this neighborhood for five years, I feel like I know every street, every shortcut, and the name of every cashier at the grocery store.",
+        "chinese": "在这个街区住了五年后，我感觉我熟悉了每条街道、每条近路，连杂货店每个收银员的名字都叫得出来。",
+        "scene": "对居住地了如指掌"
+      }
+    ]
+  },
+  {
+    "word": "our",
+    "phonetic": "/aʊr/",
+    "part_of_speech": "determiner",
+    "chinese_meaning": "我们的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This is our classroom.",
+        "chinese": "这是我们的教室。",
+        "scene": "给新生指教室"
+      },
+      {
+        "level": "medium",
+        "english": "We need to paint our fence because the old paint is peeling off.",
+        "chinese": "我们的栅栏得刷漆了，因为旧漆在剥落。",
+        "scene": "家人商量修缮房屋"
+      },
+      {
+        "level": "long",
+        "english": "After years of dreaming, we finally bought our first house, and it's a little fixer-upper, but it's completely ours.",
+        "chinese": "经过多年的梦想，我们终于买了第一套属于我们自己的房子，它虽有点破旧，但完全是我们的。",
+        "scene": "分享购房的成就感"
+      }
+    ]
+  },
+  {
+    "word": "Ms",
+    "phonetic": "/mɪz/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "女士（用于婚姻状况不明的女性）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Good morning, Ms. Taylor!",
+        "chinese": "早上好，泰勒女士！",
+        "scene": "学生礼貌问候老师"
+      },
+      {
+        "level": "medium",
+        "english": "Ms. Ramirez is the new librarian who started at our school last week.",
+        "chinese": "拉米雷斯女士是上周刚到我们学校的图书管理员。",
+        "scene": "谈论新来的老师"
+      },
+      {
+        "level": "long",
+        "english": "When Ms. Clark announced that our class was going on a field trip to the zoo, everyone started cheering and couldn't stop talking about it for days.",
+        "chinese": "当克拉克女士宣布我们班要去动物园实地考察时，大家都欢呼起来，好几天都停不住谈论这件事。",
+        "scene": "老师宣布好消息引起全班轰动"
+      }
+    ]
+  },
+  {
+    "word": "will",
+    "phonetic": "/wɪl/",
+    "part_of_speech": "modal verb",
+    "chinese_meaning": "将；会；愿意",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I will call you later.",
+        "chinese": "我晚点会打给你。",
+        "scene": "分开时约定再联系"
+      },
+      {
+        "level": "medium",
+        "english": "Don't worry, everything will be okay. I promise.",
+        "chinese": "别担心，一切都会好起来的，我保证。",
+        "scene": "安慰情绪低落的朋友"
+      },
+      {
+        "level": "long",
+        "english": "If you study a little bit every day, you will see real progress, and soon you will be able to speak English more confidently.",
+        "chinese": "如果你每天学一点点，你就会看到真正的进步，很快你就能更自信地说英语了。",
+        "scene": "鼓励学英语的学员"
+      }
+    ]
+  },
+  {
+    "word": "sometimes",
+    "phonetic": "/ˈsʌmtaɪmz/",
+    "part_of_speech": "adverb",
+    "chinese_meaning": "有时；偶尔",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I sometimes skip breakfast.",
+        "chinese": "我有时不吃早餐。",
+        "scene": "承认自己不太好的习惯"
+      },
+      {
+        "level": "medium",
+        "english": "Sometimes, I just want to stay in bed all day and watch movies.",
+        "chinese": "有时候，我就想整天赖在床上看电影。",
+        "scene": "表达懒惰的周末愿望"
+      },
+      {
+        "level": "long",
+        "english": "I usually take the bus to work, but sometimes when the weather is nice, I walk instead because it wakes me up.",
+        "chinese": "我通常坐公交车上班，但有时天气好时我也走路去，因为这样能让我清醒。",
+        "scene": "根据天气变换通勤方式"
+      }
+    ]
+  },
+  {
+    "word": "robot",
+    "phonetic": "/ˈroʊbɑːt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "机器人",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I want a robot toy.",
+        "chinese": "我想要个机器人玩具。",
+        "scene": "孩子向父母要礼物"
+      },
+      {
+        "level": "medium",
+        "english": "The factory uses robots to build cars faster and more safely.",
+        "chinese": "那个工厂使用机器人更快速、更安全地制造汽车。",
+        "scene": "介绍现代工厂的自动化"
+      },
+      {
+        "level": "long",
+        "english": "When I was a kid, I dreamed of having a robot that would clean my room and do my homework, but I guess we're not quite there yet.",
+        "chinese": "我小时候梦想有个机器人能打扫我的房间和做作业，不过看来我们离这还有段距离呢。",
+        "scene": "回忆童年对机器人的幻想"
+      }
+    ]
+  },
+  {
+    "word": "him",
+    "phonetic": "/hɪm/",
+    "part_of_speech": "pronoun",
+    "chinese_meaning": "他（宾格）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I saw him yesterday.",
+        "chinese": "我昨天看到他了。",
+        "scene": "回答是否见过某人"
+      },
+      {
+        "level": "medium",
+        "english": "Can you give him this book? He left it in my car.",
+        "chinese": "你能把这本书给他吗？他落在我车上了。",
+        "scene": "请人转交物品"
+      },
+      {
+        "level": "long",
+        "english": "I asked my dad if I could borrow the car, but I knew from the look on his face that I had better not push him any further.",
+        "chinese": "我问爸爸能不能借车，但从他的表情我就知道最好别再追问了。",
+        "scene": "察言观色后知难而退"
+      }
+    ]
+  },
+  {
+    "word": "speak",
+    "phonetic": "/spiːk/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "说话；讲（某种语言）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Please speak slowly.",
+        "chinese": "请说慢一点。",
+        "scene": "听不懂时请求对方慢说"
+      },
+      {
+        "level": "medium",
+        "english": "I was so nervous during the presentation that I could hardly speak.",
+        "chinese": "演讲时我紧张得几乎说不出话来。",
+        "scene": "分享演讲时的紧张经历"
+      },
+      {
+        "level": "long",
+        "english": "After living in Spain for a year, I can finally speak Spanish comfortably, even though I still make mistakes sometimes.",
+        "chinese": "在西班牙住了一年后，我终于能自如地说西班牙语了，虽然有时候还是会犯错。",
+        "scene": "居住国外后语言能力的进步"
+      }
+    ]
+  },
+  {
+    "word": "finish",
+    "phonetic": "/ˈfɪnɪʃ/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "完成；结束",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let me finish this first.",
+        "chinese": "让我先把这个做完。",
+        "scene": "被人打扰时请人稍等"
+      },
+      {
+        "level": "medium",
+        "english": "I couldn't finish the movie because I fell asleep on the couch.",
+        "chinese": "我没能看完那部电影，因为我在沙发上睡着了。",
+        "scene": "没看完电影的常见原因"
+      },
+      {
+        "level": "long",
+        "english": "Once I finish reading this book, I'm going to start the next one in the series because the story was so gripping.",
+        "chinese": "等我把这本书读完，我就要开始这个系列的下一本，因为这故事太吸引人了。",
+        "scene": "着迷于一本书并计划续读"
+      }
+    ]
+  }
+]

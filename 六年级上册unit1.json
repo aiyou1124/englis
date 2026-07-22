@@ -1,6 +1,652 @@
-{
-  "grade": "六年级",
-  "term": "上册",
-  "unit": "unit1",
-  "words": []
-}
+[
+  {
+    "word": "science",
+    "phonetic": "/ˈsaɪəns/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "科学",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I love science class.",
+        "chinese": "我喜欢上科学课。",
+        "scene": "课堂上，你兴奋地跟同桌说最喜欢做实验了。"
+      },
+      {
+        "level": "medium",
+        "english": "We did a really cool science experiment with volcanoes today.",
+        "chinese": "今天我们做了一个超级酷的火山科学实验。",
+        "scene": "放学回家，你迫不及待地向爸妈展示学校里的模拟火山爆发。"
+      },
+      {
+        "level": "long",
+        "english": "My favorite subject has always been science, especially when we get to do hands-on experiments like building a simple robot. It makes me feel like a real inventor.",
+        "chinese": "我最喜欢的科目一直是科学，尤其是当我们可以动手做实验的时候，比如造一个简单的机器人。这让我感觉自己像个真正的发明家。",
+        "scene": "在学校的科技展上，自豪地介绍自己组装的机器人。"
+      }
+    ]
+  },
+  {
+    "word": "museum",
+    "phonetic": "/mjuːˈziːəm/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "博物馆",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's go to the museum.",
+        "chinese": "我们去博物馆吧。",
+        "scene": "周末无聊，你向朋友提议出去逛逛。"
+      },
+      {
+        "level": "medium",
+        "english": "We spent the whole afternoon at the science museum yesterday.",
+        "chinese": "我们昨天整个下午都泡在科学博物馆里。",
+        "scene": "周一跟同事分享周末带娃去科技馆的经历。"
+      },
+      {
+        "level": "long",
+        "english": "Last month, my class took a field trip to the art museum. I wasn't very excited at first, but then I saw a painting that was so beautiful it almost made me cry.",
+        "chinese": "上个月，我们班去美术馆参观。起初我并不怎么兴奋，但后来我看到一幅画，美得几乎让我落泪。",
+        "scene": "站在巨幅油画前，你被深深震撼，久久不愿离去。"
+      }
+    ]
+  },
+  {
+    "word": "post office",
+    "phonetic": "/ˈpoʊst ˌɔːfɪs/",
+    "part_of_speech": "noun phrase",
+    "chinese_meaning": "邮局",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I'm going to the post office.",
+        "chinese": "我要去趟邮局。",
+        "scene": "你拿着一个包裹出门，对室友交代了一句。"
+      },
+      {
+        "level": "medium",
+        "english": "Can you drop this package off at the post office for me?",
+        "chinese": "你能帮我把这个包裹送到邮局去吗？",
+        "scene": "同事急着开会，顺手把快递递给你，请你帮忙。"
+      },
+      {
+        "level": "long",
+        "english": "I had to wait in line at the post office for nearly half an hour just to mail a birthday card, but it was worth it to know my grandma would get it on time.",
+        "chinese": "我不得不在邮局排了将近半个小时的队，只为了寄一张生日贺卡，但想到奶奶能按时收到，这一切都值了。",
+        "scene": "邮局里排着长队，你看着手里的贺卡，想起了慈祥的奶奶。"
+      }
+    ]
+  },
+  {
+    "word": "bookstore",
+    "phonetic": "/ˈbʊkstɔːr/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "书店",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "There's a bookstore near my house.",
+        "chinese": "我家附近有一家书店。",
+        "scene": "给朋友指路时，提到小区旁边的地标。"
+      },
+      {
+        "level": "medium",
+        "english": "I love spending Saturday mornings at the bookstore, browsing new novels.",
+        "chinese": "我喜欢在周六早上泡在书店里，翻看新出的小说。",
+        "scene": "推开书店门，咖啡香和书香扑面而来，你准备在这里消磨半天。"
+      },
+      {
+        "level": "long",
+        "english": "Whenever I feel stressed, I walk to the little bookstore down the street, buy a cup of coffee, and just sit there reading for hours until I forget all my worries.",
+        "chinese": "每当我感到压力大时，我就走到街那头的小书店，买杯咖啡，坐在那里读上几个小时，直到忘记所有的烦恼。",
+        "scene": "下班后，你躲进熟悉的书店角落，用阅读给自己充电。"
+      }
+    ]
+  },
+  {
+    "word": "cinema",
+    "phonetic": "/ˈsɪnəmə/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "电影院",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The cinema is closed today.",
+        "chinese": "电影院今天没开门。",
+        "scene": "你兴冲冲地去看电影，发现门口贴着停业通知。"
+      },
+      {
+        "level": "medium",
+        "english": "Do you want to go to the cinema tonight? There's a new comedy playing.",
+        "chinese": "今晚想去看电影吗？有一部新的喜剧片在上映。",
+        "scene": "晚饭后，你刷着手机排片表，转身问室友。"
+      },
+      {
+        "level": "long",
+        "english": "We used to go to the cinema every Friday night when I was in college. It was a cheap way to have fun, and we'd always share a giant bucket of popcorn.",
+        "chinese": "上大学那会儿，我们每个周五晚上都去看电影。那是一种便宜的娱乐方式，我们总会分享一大桶爆米花。",
+        "scene": "路过老电影院，你笑着跟身边的朋友回忆当年的穷开心。"
+      }
+    ]
+  },
+  {
+    "word": "hospital",
+    "phonetic": "/ˈhɑːspɪtl/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "医院",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "He works at the hospital.",
+        "chinese": "他在医院工作。",
+        "scene": "介绍朋友时，提到他的职业是一名医生。"
+      },
+      {
+        "level": "medium",
+        "english": "My sister is a nurse at the children's hospital. She loves her job.",
+        "chinese": "我姐姐是儿童医院的护士。她非常热爱她的工作。",
+        "scene": "看到姐姐和生病的小朋友做游戏，你打心底里佩服她。"
+      },
+      {
+        "level": "long",
+        "english": "After my grandpa fell, we rushed him to the hospital. The doctors there were so kind and told us not to worry, which helped us calm down a lot.",
+        "chinese": "爷爷摔倒后，我们赶紧把他送进了医院。那里的医生非常和蔼，告诉我们别担心，让我们安心了不少。",
+        "scene": "在急诊室外面，医生耐心地解释病情，你悬着的心才慢慢放下来。"
+      }
+    ]
+  },
+  {
+    "word": "crossing",
+    "phonetic": "/ˈkrɔːsɪŋ/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "十字路口；人行横道",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Wait for the green light at the crosswalk.",
+        "chinese": "在人行横道等绿灯亮了再走。",
+        "scene": "妈妈牵着孩子的手，在斑马线前耐心等待。"
+      },
+      {
+        "level": "medium",
+        "english": "There's a school crossing ahead, so please drive slowly.",
+        "chinese": "前面有个学校路口，请慢点开。",
+        "scene": "坐在副驾驶的你，提醒司机注意减速，可能会有孩子冲出来。"
+      },
+      {
+        "level": "long",
+        "english": "Every morning, a crossing guard helps the children safely cross the busy crossing right next to the school. Without her, the traffic would be a nightmare.",
+        "chinese": "每天早上，都有一位交通协管员帮助孩子们安全地穿过学校旁边那个繁忙的路口。要是没有她，交通将是一团糟。",
+        "scene": "你摇下车窗，向风雨无阻护送孩子的阿姨点头致敬。"
+      }
+    ]
+  },
+  {
+    "word": "turn",
+    "phonetic": "/tɜːrn/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "转弯；转向",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Turn right at the corner.",
+        "chinese": "在街角右转。",
+        "scene": "看着手机导航，你提醒正在开车的同伴。"
+      },
+      {
+        "level": "medium",
+        "english": "If you turn left at the bank, you'll see the library on your right.",
+        "chinese": "如果你在银行那里左转，就会看到图书馆在你右边。",
+        "scene": "在路边给外地游客详细地指路。"
+      },
+      {
+        "level": "long",
+        "english": "When you get to the big oak tree, turn left and follow that winding road for about two miles. You'll see a red barn, and our house is just behind it.",
+        "chinese": "当你开到那棵大橡树时，向左转，沿着那条弯弯曲曲的路走大约两英里。你会看到一个红色的谷仓，我们家就在谷仓后面。",
+        "scene": "邀请朋友来乡下做客，你在电话里详细地描述了路线。"
+      }
+    ]
+  },
+  {
+    "word": "left",
+    "phonetic": "/left/",
+    "part_of_speech": "adverb, adjective, noun",
+    "chinese_meaning": "左边；向左",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Go left at the stop sign.",
+        "chinese": "在停车标志那里向左转。",
+        "scene": "你在后座探着头，给开车的朋友发出简短的指令。"
+      },
+      {
+        "level": "medium",
+        "english": "My house is the blue one on the left side of the street.",
+        "chinese": "我家是街道左边那栋蓝色的房子。",
+        "scene": "你站在门口，挥手向在马路对面徘徊的朋友示意。"
+      },
+      {
+        "level": "long",
+        "english": "I always get confused between left and right, so when I'm driving, I have to make an L shape with my fingers to remember which way to turn.",
+        "chinese": "我总是分不清左右，所以我开车的时候，不得不用手指比个L型来记住该往哪边转。",
+        "scene": "开车时被导航搞晕，你只好偷偷用左手比划，被副驾驶的朋友笑了一路。"
+      }
+    ]
+  },
+  {
+    "word": "straight",
+    "phonetic": "/streɪt/",
+    "part_of_speech": "adverb, adjective",
+    "chinese_meaning": "直走；笔直地",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Go straight for two blocks.",
+        "chinese": "直走两个街区。",
+        "scene": "在街角给送外卖的小哥指路。"
+      },
+      {
+        "level": "medium",
+        "english": "Just keep going straight, and you'll see the park entrance on your left.",
+        "chinese": "就继续直走，你会看到公园入口在你左边。",
+        "scene": "你给开着车在附近打转的游客指明方向。"
+      },
+      {
+        "level": "long",
+        "english": "The road goes straight through the desert for miles. It was a little boring to drive, but the sunset at the end made the whole trip worth it.",
+        "chinese": "这条路笔直地穿过沙漠好几英里。开车有点无聊，但最后看到的日落让整个旅程都值得了。",
+        "scene": "长途自驾，一条望不到头的直路让你昏昏欲睡，直到天边出现壮丽的晚霞。"
+      }
+    ]
+  },
+  {
+    "word": "right",
+    "phonetic": "/raɪt/",
+    "part_of_speech": "adverb, adjective, noun",
+    "chinese_meaning": "右边；向右；正确的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Take a right at the lights.",
+        "chinese": "在红绿灯那里右转。",
+        "scene": "你正在看地图，让朋友在前面路口转向。"
+      },
+      {
+        "level": "medium",
+        "english": "The coffee shop is on your right, just past the bookstore.",
+        "chinese": "咖啡店就在你右手边，刚过书店就是。",
+        "scene": "你在手机里对快迟到的朋友说具体位置。"
+      },
+      {
+        "level": "long",
+        "english": "I wasn't sure if I had the right answer, but I raised my hand anyway. The teacher smiled and said I was absolutely right, which made my whole day.",
+        "chinese": "我不确定自己的答案是否正确，但还是举起了手。老师笑了笑说完全正确，这让我开心了一整天。",
+        "scene": "在课上鼓起勇气回答问题，得到老师表扬，坐下后心里美滋滋的。"
+      }
+    ]
+  },
+  {
+    "word": "ask",
+    "phonetic": "/æsk/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "问；请求",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Please ask the teacher for help.",
+        "chinese": "请向老师求助。",
+        "scene": "你看到同桌抓耳挠腮，小声建议他去问老师。"
+      },
+      {
+        "level": "medium",
+        "english": "If you don't understand something, just ask. That's why I'm here.",
+        "chinese": "如果你有什么不明白的，直接问就好了。我在这儿就是为了帮你的。",
+        "scene": "在辅导新同事熟悉系统时，你让他不用不好意思开口。"
+      },
+      {
+        "level": "long",
+        "english": "I was too shy to ask anyone for directions, so I wandered around the city for an hour. Finally, I asked a kind old lady, and she walked me all the way to the museum.",
+        "chinese": "我太害羞了，不敢向任何人问路，于是就在城里转悠了一个小时。最后我问了一位和蔼的老奶奶，她一路把我带到了博物馆。",
+        "scene": "在国外旅游迷了路，不好意思开口，最后被好心人解救。"
+      }
+    ]
+  },
+  {
+    "word": "sir",
+    "phonetic": "/sɜːr/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "先生",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Excuse me, sir. You dropped this.",
+        "chinese": "打扰一下，先生。您掉了这个。",
+        "scene": "在商场里追上一个男士，把他掉的钱包递给他。"
+      },
+      {
+        "level": "medium",
+        "english": "The gentleman over there, sir, wants to know if this seat is taken.",
+        "chinese": "先生，那边那位先生想知道这个座位有人坐吗。",
+        "scene": "餐厅服务员礼貌地转达邻座客人的请求。"
+      },
+      {
+        "level": "long",
+        "english": "When I was a kid, I once addressed a police officer as 'Mr. Policeman'. He laughed and said, 'You can just call me sir.' I've never forgotten that.",
+        "chinese": "我小时候有一次管一个警察叫“警察先生”。他大笑着说：“你叫我先生就好。”我至今都记得这件事。",
+        "scene": "和朋友回忆起小时候的趣事，那个被警察叔叔纠正称呼的场景历历在目。"
+      }
+    ]
+  },
+  {
+    "word": "interesting",
+    "phonetic": "/ˈɪntrəstɪŋ/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "有趣的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "That book looks really interesting.",
+        "chinese": "那本书看起来真有趣。",
+        "scene": "在书店封面好看的书，你忍不住拿起来翻了翻。"
+      },
+      {
+        "level": "medium",
+        "english": "I watched a really interesting documentary about space last night.",
+        "chinese": "我昨晚看了一部关于太空的纪录片，非常有意思。",
+        "scene": "午饭时，你跟同事聊起昨晚熬夜看的科普片。"
+      },
+      {
+        "level": "long",
+        "english": "While traveling, I met an interesting old man who had visited over 50 countries. He told me stories that were way more exciting than any movie.",
+        "chinese": "旅行时，我遇到一位有趣的老人，他去过50多个国家。他给我讲的故事比任何电影都精彩。",
+        "scene": "青年旅社的公共区，你听一位阅历丰富的驴友侃侃而谈。"
+      }
+    ]
+  },
+  {
+    "word": "Italian",
+    "phonetic": "/ɪˈtæljən/",
+    "part_of_speech": "adjective, noun",
+    "chinese_meaning": "意大利的；意大利人；意大利语",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's try that Italian restaurant.",
+        "chinese": "我们去试试那家意大利餐厅吧。",
+        "scene": "走到街角，你指着那家新开的意大利餐馆提议。"
+      },
+      {
+        "level": "medium",
+        "english": "My neighbor is an Italian chef. He makes the best pasta in town.",
+        "chinese": "我的邻居是个意大利厨师。他做的意面是全镇最棒的。",
+        "scene": "闻到走廊飘来的蒜香，你向朋友安利隔壁的大厨。"
+      },
+      {
+        "level": "long",
+        "english": "I've been learning Italian for six months because I want to study abroad in Rome next year. The grammar is tough, but the language sounds so beautiful.",
+        "chinese": "我已经学意大利语六个月了，因为我想明年去罗马留学。语法很难，但发音真的太好听了。",
+        "scene": "在语言学习App上打完卡，你憧憬着未来在意大利街头用意大利语点单。"
+      }
+    ]
+  },
+  {
+    "word": "restaurant",
+    "phonetic": "/ˈrestərɑːnt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "餐厅",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Let's meet at the restaurant.",
+        "chinese": "我们餐厅见吧。",
+        "scene": "下班前，你在群里和朋友确认晚餐碰头地点。"
+      },
+      {
+        "level": "medium",
+        "english": "We found a small Japanese restaurant that serves amazing ramen.",
+        "chinese": "我们发现了一家小小的日本餐厅，拉面特别好吃。",
+        "scene": "你兴奋地在点评软件上给这家宝藏小店写好评。"
+      },
+      {
+        "level": "long",
+        "english": "For our anniversary, my husband took me to a fancy French restaurant on the top floor of a skyscraper. You could see the whole city lights while eating.",
+        "chinese": "结婚纪念日，丈夫带我去了一家开在摩天大楼顶层的法式餐厅。可以一边吃饭一边看整座城市的夜景。",
+        "scene": "你晃着红酒杯，俯瞰窗外璀璨的霓虹，享受浪漫一刻。"
+      }
+    ]
+  },
+  {
+    "word": "pizza",
+    "phonetic": "/ˈpiːtsə/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "比萨",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I ordered a large pizza.",
+        "chinese": "我点了一个大号比萨。",
+        "scene": "派对前，你在手机上下完单，对大家宣布。"
+      },
+      {
+        "level": "medium",
+        "english": "It's Friday night, so we're just going to watch movies and eat pizza.",
+        "chinese": "周五晚上嘛，我们就打算看看电影，吃点比萨。",
+        "scene": "结束一周的工作，你和伴侣窝在沙发上，准备开启宅家模式。"
+      },
+      {
+        "level": "long",
+        "english": "We tried making pizza from scratch last weekend. The kitchen was a complete mess with flour everywhere, but the pizza actually turned out delicious.",
+        "chinese": "上周末我们试着从零开始做比萨。厨房弄得一团糟，到处都是面粉，但做出来的比萨还挺好吃的。",
+        "scene": "系着围裙，看着刚出炉的手工比萨，虽然形状奇怪但香气扑鼻。"
+      }
+    ]
+  },
+  {
+    "word": "street",
+    "phonetic": "/striːt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "街道",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The kids are playing in the street.",
+        "chinese": "孩子们正在街上玩耍。",
+        "scene": "你在院子里，看到邻居家的孩子们在巷子里追逐打闹。"
+      },
+      {
+        "level": "medium",
+        "english": "Be careful when you cross the street. The cars here drive really fast.",
+        "chinese": "过马路时当心点。这里的车开得特别快。",
+        "scene": "你一把拉住急着过马路的同伴，指着呼啸而过的汽车提醒。"
+      },
+      {
+        "level": "long",
+        "english": "I grew up on a quiet little street where everyone knew each other. During summer, we would have block parties and barbecue in the middle of the road.",
+        "chinese": "我是在一条安静的小街上长大的，那里邻里都互相认识。夏天的时候，我们会举办街区派对，就在马路中间烧烤。",
+        "scene": "路过老房子，你回忆童年时那条街上热闹的邻里聚会。"
+      }
+    ]
+  },
+  {
+    "word": "get",
+    "phonetic": "/ɡet/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "得到；到达；明白",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I need to get some sleep.",
+        "chinese": "我需要睡会儿觉。",
+        "scene": "熬夜加班后，你揉着眼睛跟同事说撑不住了。"
+      },
+      {
+        "level": "medium",
+        "english": "What time do you usually get home from work?",
+        "chinese": "你通常几点下班到家？",
+        "scene": "和新同事一起下班坐电梯，你随口问道。"
+      },
+      {
+        "level": "long",
+        "english": "I didn't get the joke at first, but then everyone started laughing and I finally figured it out. It was actually pretty funny.",
+        "chinese": "我起初没懂那个笑话，后来大家都笑了，我才反应过来。其实还挺好笑的。",
+        "scene": "聚会上你反应慢半拍，尴尬地跟着笑，然后才觉得真的很好笑。"
+      }
+    ]
+  },
+  {
+    "word": "BDS",
+    "phonetic": "/ˌbiː diː ˈes/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "北斗卫星导航系统",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "My phone uses BDS for navigation.",
+        "chinese": "我的手机用北斗系统来导航。",
+        "scene": "设置新手机时，发现定位选项里有北斗，你好奇地点开了。"
+      },
+      {
+        "level": "medium",
+        "english": "Unlike GPS, the BDS system was developed by China and is widely used now.",
+        "chinese": "与GPS不同，北斗系统是由中国研发的，现在被广泛使用。",
+        "scene": "在科技展上，讲解员向参观者介绍北斗卫星模型。"
+      },
+      {
+        "level": "long",
+        "english": "When I went hiking in the mountains, my phone lost its GPS signal, but luckily it connected to BDS instead. Thanks to that, I could find my way back to camp without getting lost.",
+        "chinese": "我去山里徒步时，手机的GPS信号丢了，但幸运的是，它连上了北斗。多亏了北斗，我才能回到营地而没迷路。",
+        "scene": "深山老林里手机信号微弱，你看着导航上的北斗图标，松了口气。"
+      }
+    ]
+  },
+  {
+    "word": "gave",
+    "phonetic": "/ɡeɪv/",
+    "part_of_speech": "verb (past tense of give)",
+    "chinese_meaning": "给（give的过去式）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She gave me a gift.",
+        "chinese": "她给了我一份礼物。",
+        "scene": "生日派对上，朋友笑着递过来一个包装精美的盒子。"
+      },
+      {
+        "level": "medium",
+        "english": "My mom gave me her old necklace. It means a lot to me.",
+        "chinese": "妈妈把她的旧项链给了我。这对我来说意义重大。",
+        "scene": "你小心翼翼地戴上妈妈传下来的项链，心里暖暖的。"
+      },
+      {
+        "level": "long",
+        "english": "On my last day at work, my colleagues gave me a beautiful photo album filled with pictures of our team. I almost cried when I opened it.",
+        "chinese": "在我上班的最后一天，同事们给了我一本漂亮的相册，里面装满了我们团队的照片。打开时我差点哭出来。",
+        "scene": "离职告别会上，你翻着相册，过去几年的点点滴滴涌上心头。"
+      }
+    ]
+  },
+  {
+    "word": "feature",
+    "phonetic": "/ˈfiːtʃər/",
+    "part_of_speech": "noun, verb",
+    "chinese_meaning": "特征；以...为特色；特写",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "This phone has a great feature.",
+        "chinese": "这部手机有个很棒的功能。",
+        "scene": "店员拿着样机，向你展示面部解锁功能。"
+      },
+      {
+        "level": "medium",
+        "english": "The best feature of this app is that you can listen to music offline.",
+        "chinese": "这个应用最棒的功能就是可以离线听音乐。",
+        "scene": "你在给朋友安利一个能省流量的听歌软件。"
+      },
+      {
+        "level": "long",
+        "english": "I read a magazine feature about tiny houses, and it really made me want to simplify my life. The article featured stories of people who had sold everything to live in a 200-square-foot home.",
+        "chinese": "我读了一篇关于微型住宅的杂志特写，真的很想简化我的生活。文章专门报道了那些卖掉一切住进20平米小房子的人们的故事。",
+        "scene": "周末躺在床上翻杂志，被极简生活方式深深吸引，开始畅想。"
+      }
+    ]
+  },
+  {
+    "word": "follow",
+    "phonetic": "/ˈfɑːloʊ/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "跟随；理解",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Just follow the instructions carefully.",
+        "chinese": "仔细照着说明书做就行。",
+        "scene": "你看着一堆家具零件头疼，朋友指着说明书提醒你。"
+      },
+      {
+        "level": "medium",
+        "english": "If you get lost, just follow the path until you see the river.",
+        "chinese": "如果你迷路了，就沿着这条小路一直走到看见河为止。",
+        "scene": "在国家公园徒步，领队交代最后面的同伴简易的认路方法。"
+      },
+      {
+        "level": "long",
+        "english": "I tried to follow the recipe exactly, but I still messed up the cake. I guess I'm not very good at following directions when it comes to baking.",
+        "chinese": "我试着一丝不苟地照着食谱做，但还是把蛋糕搞砸了。我想我可能不太擅长在做烘焙时遵循指示。",
+        "scene": "厨房里弥漫着糊味，你看着塌陷的蛋糕，无奈地苦笑。"
+      }
+    ]
+  },
+  {
+    "word": "far",
+    "phonetic": "/fɑːr/",
+    "part_of_speech": "adverb, adjective",
+    "chinese_meaning": "远的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Is it far from here?",
+        "chinese": "离这儿远吗？",
+        "scene": "你看着地图一脸懵，问旁边店铺的老板。"
+      },
+      {
+        "level": "medium",
+        "english": "The airport is too far away. We need to leave now to catch the flight.",
+        "chinese": "机场太远了。我们现在就得出发去赶飞机。",
+        "scene": "你看着时间，催磨蹭的同伴赶紧搬行李上车。"
+      },
+      {
+        "level": "long",
+        "english": "When I was a kid, my grandma's house seemed so far away. The drive took forever, but now I realize it was only two hours. I just had no patience back then.",
+        "chinese": "我小时候觉得奶奶家好远。路上要坐好久的车，但现在我发现其实才两小时车程。我当时就是没耐心。",
+        "scene": "开车回老家，同样的路程如今觉得很快，你笑着回忆起小时候在后座不停问“到了没”。"
+      }
+    ]
+  },
+  {
+    "word": "tell",
+    "phonetic": "/tel/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "告诉；辨别",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Tell me a story, please.",
+        "chinese": "请给我讲个故事吧。",
+        "scene": "睡前，孩子拉着你的衣角，眼巴巴地望着你。"
+      },
+      {
+        "level": "medium",
+        "english": "Can you tell the difference between these two pictures?",
+        "chinese": "你能说出这两张图片的区别吗？",
+        "scene": "朋友在手机上打开一个找不同游戏，递过来考考你。"
+      },
+      {
+        "level": "long",
+        "english": "My grandpa used to tell me stories about when he was a soldier. I could sit and listen to him for hours, and I wish I had recorded some of them.",
+        "chinese": "我爷爷以前常给我讲他当兵时的故事。我可以坐在那里听上好几个小时，真希望我当时录下了一些。",
+        "scene": "整理旧物翻到爷爷的军功章，你想起夏夜在院子里听他讲故事的情景，心中满是怀念。"
+      }
+    ]
+  }
+]

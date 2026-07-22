@@ -1,6 +1,548 @@
-{
-  "grade": "四年级",
-  "term": "下册",
-  "unit": "unit4",
-  "words": []
-}
+[
+  {
+    "word": "trousers",
+    "phonetic": "/ˈtraʊzərz/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "裤子",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I need new trousers for school.",
+        "chinese": "我需要上学穿的新裤子。",
+        "scene": "发现旧裤子小了"
+      },
+      {
+        "level": "medium",
+        "english": "These trousers are too long, so I have to roll up the bottoms.",
+        "chinese": "这条裤子太长，我得把裤脚卷起来。",
+        "scene": "试穿时发现裤子不合身"
+      },
+      {
+        "level": "long",
+        "english": "I spilled coffee on my trousers right before the important meeting, and I had to try to clean it with a wet paper towel.",
+        "chinese": "就在重要会议前，我把咖啡洒在了裤子上，只好用湿纸巾使劲擦。",
+        "scene": "紧急处理衣服上的污渍"
+      }
+    ]
+  },
+  {
+    "word": "pair",
+    "phonetic": "/per/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "一双；一对",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I bought a new pair of socks.",
+        "chinese": "我买了一双新袜子。",
+        "scene": "展示新买的袜子"
+      },
+      {
+        "level": "medium",
+        "english": "I need a new pair of sneakers because my old ones have holes.",
+        "chinese": "我需要一双新的运动鞋，旧的已经磨出洞了。",
+        "scene": "鞋子破旧需要换新"
+      },
+      {
+        "level": "long",
+        "english": "I have at least ten pairs of gloves, but I can never find a matching pair when it gets cold outside.",
+        "chinese": "我至少有十双手套，但天一冷我就总也找不出一双配对的来。",
+        "scene": "冬天总找不到成对手套"
+      }
+    ]
+  },
+  {
+    "word": "clothes",
+    "phonetic": "/kloʊðz/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "衣服",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Put on your warm clothes.",
+        "chinese": "穿上你的厚衣服。",
+        "scene": "天冷时家长叮嘱"
+      },
+      {
+        "level": "medium",
+        "english": "I spent the whole morning washing and folding clothes.",
+        "chinese": "我花了整个上午洗衣服叠衣服。",
+        "scene": "周末做家务的日常"
+      },
+      {
+        "level": "long",
+        "english": "Every spring, my mom asks me to go through my clothes and donate the ones I haven't worn in over a year.",
+        "chinese": "每年春天，妈妈都让我清理衣服，把超过一年没穿的捐出去。",
+        "scene": "季节性整理衣柜的习惯"
+      }
+    ]
+  },
+  {
+    "word": "those",
+    "phonetic": "/ðoʊz/",
+    "part_of_speech": "determiner",
+    "chinese_meaning": "那些",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Look at those cute dogs!",
+        "chinese": "看那些可爱的狗！",
+        "scene": "在公园发现一群小狗"
+      },
+      {
+        "level": "medium",
+        "english": "Are those your keys on the kitchen counter?",
+        "chinese": "厨房台面上那些钥匙是你的吗？",
+        "scene": "发现别人落下的钥匙"
+      },
+      {
+        "level": "long",
+        "english": "I still think about those summer nights we spent sitting on the porch, just talking and watching the fireflies.",
+        "chinese": "我依然怀念那些夏夜，我们坐在门廊上，聊着天看着萤火虫。",
+        "scene": "回忆美好的夏日时光"
+      }
+    ]
+  },
+  {
+    "word": "shorts",
+    "phonetic": "/ʃɔːrts/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "短裤",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "It's hot, so wear shorts.",
+        "chinese": "天热，穿短裤吧。",
+        "scene": "建议当天的清凉穿着"
+      },
+      {
+        "level": "medium",
+        "english": "I packed three pairs of shorts for our beach vacation.",
+        "chinese": "我为了海边度假带了三条短裤。",
+        "scene": "准备度假行李"
+      },
+      {
+        "level": "long",
+        "english": "I wore shorts to the picnic, and the mosquitoes bit my legs so badly that I couldn't stop scratching.",
+        "chinese": "我穿短裤去野餐，结果蚊子把腿咬得惨不忍睹，我不停地挠。",
+        "scene": "户外活动被蚊虫叮咬"
+      }
+    ]
+  },
+  {
+    "word": "jacket",
+    "phonetic": "/ˈdʒækɪt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "夹克；短上衣",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Don't forget your jacket, it's chilly.",
+        "chinese": "别忘了带夹克，天凉。",
+        "scene": "出门前家人提醒"
+      },
+      {
+        "level": "medium",
+        "english": "I love this jacket because it has so many pockets.",
+        "chinese": "我喜欢这件夹克，因为它有好多口袋。",
+        "scene": "称赞新夹克的实用设计"
+      },
+      {
+        "level": "long",
+        "english": "I found an old movie ticket in my jacket pocket from a date five years ago, and it brought back so many memories.",
+        "chinese": "在夹克口袋里发现一张五年前约会的电影票，勾起了许多回忆。",
+        "scene": "旧物勾起怀旧情绪"
+      }
+    ]
+  },
+  {
+    "word": "skirt",
+    "phonetic": "/skɜːrt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "裙子",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "She wore a pretty blue skirt.",
+        "chinese": "她穿了一条漂亮的蓝裙子。",
+        "scene": "描述别人的穿着"
+      },
+      {
+        "level": "medium",
+        "english": "My skirt got caught in the bicycle wheel, and I almost fell.",
+        "chinese": "我的裙子卷进了自行车轮子里，我差点摔倒。",
+        "scene": "骑车时发生意外"
+      },
+      {
+        "level": "long",
+        "english": "For the school dance, I spent hours looking for the right skirt and ended up borrowing a sparkly one from my sister.",
+        "chinese": "为了学校舞会，我找裙子找了几个小时，最后从姐姐那里借了一条闪亮亮的。",
+        "scene": "为舞会准备服装"
+      }
+    ]
+  },
+  {
+    "word": "dear",
+    "phonetic": "/dɪr/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "亲爱的；昂贵的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "You're so dear to me.",
+        "chinese": "你对我来说太珍贵了。",
+        "scene": "对挚爱的人表达情感"
+      },
+      {
+        "level": "medium",
+        "english": "This old watch was a gift from a dear friend.",
+        "chinese": "这块旧表是一位亲爱的朋友送的。",
+        "scene": "解释一件物品的情感价值"
+      },
+      {
+        "level": "long",
+        "english": "I wanted to buy a new coat, but everything in the store was too dear, so I decided to wait for the sale.",
+        "chinese": "我想买件新大衣，但店里什么都太贵了，于是我决定等打折。",
+        "scene": "抱怨商品价格偏高"
+      }
+    ]
+  },
+  {
+    "word": "expensive",
+    "phonetic": "/ɪkˈspensɪv/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "昂贵的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "That bag is too expensive.",
+        "chinese": "那个包太贵了。",
+        "scene": "看到价格标签时感叹"
+      },
+      {
+        "level": "medium",
+        "english": "The restaurant looks nice, but the menu is too expensive for us.",
+        "chinese": "这家餐厅看着不错，但菜单对我们来说太贵了。",
+        "scene": "商量去哪吃饭时的现实考量"
+      },
+      {
+        "level": "long",
+        "english": "We went to a fancy steakhouse for Dad's birthday, and even though it was expensive, the food was incredible and worth every penny.",
+        "chinese": "我们去了一家高档牛排馆庆祝爸爸生日，虽然很贵，但食物太棒了，每一分钱都值。",
+        "scene": "特殊日子不计较价格的美食体验"
+      }
+    ]
+  },
+  {
+    "word": "take",
+    "phonetic": "/teɪk/",
+    "part_of_speech": "verb",
+    "chinese_meaning": "拿走；带走；花费（时间）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Take your umbrella, it's raining.",
+        "chinese": "带上你的伞，下雨了。",
+        "scene": "雨天出门前的提醒"
+      },
+      {
+        "level": "medium",
+        "english": "Can you take this package to the post office for me?",
+        "chinese": "你能帮我把这个包裹带到邮局去吗？",
+        "scene": "请求帮忙跑腿"
+      },
+      {
+        "level": "long",
+        "english": "It usually takes me about 20 minutes to walk to school, but today I ran and made it in 12.",
+        "chinese": "我通常走路去学校要20分钟，但今天我跑着去只用了12分钟。",
+        "scene": "比较不同通勤方式的时间"
+      }
+    ]
+  },
+  {
+    "word": "cheap",
+    "phonetic": "/tʃiːp/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "便宜的；廉价的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "These pens are really cheap.",
+        "chinese": "这些笔真便宜。",
+        "scene": "在文具店发现低价商品"
+      },
+      {
+        "level": "medium",
+        "english": "I bought this cute shirt for only five dollars—it was a cheap find.",
+        "chinese": "我五美元就买到了这件可爱的衬衫，真是个便宜货。",
+        "scene": "分享淘到便宜货的喜悦"
+      },
+      {
+        "level": "long",
+        "english": "The sunglasses looked cool and were dirt cheap, but they broke the very next day, so I guess you get what you pay for.",
+        "chinese": "那墨镜看着很酷而且便宜得要命，但第二天就坏了，真是一分钱一分货。",
+        "scene": "便宜商品质量不好的教训"
+      }
+    ]
+  },
+  {
+    "word": "shoe",
+    "phonetic": "/ʃuː/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "鞋",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I can't find my other shoe.",
+        "chinese": "我找不到另一只鞋了。",
+        "scene": "出门前慌张找鞋"
+      },
+      {
+        "level": "medium",
+        "english": "My puppy chewed up my favorite shoe, and I was so upset.",
+        "chinese": "小狗咬坏了我最喜欢的那只鞋，我气坏了。",
+        "scene": "宠物破坏东西的烦恼"
+      },
+      {
+        "level": "long",
+        "english": "While hiking, I stepped into a muddy puddle and my shoe got completely soaked, making the rest of the walk really uncomfortable.",
+        "chinese": "徒步时，我一脚踩进泥坑，鞋全湿透了，剩下的路程别提多难受了。",
+        "scene": "户外活动时弄湿鞋的窘境"
+      }
+    ]
+  },
+  {
+    "word": "beautiful",
+    "phonetic": "/ˈbjuːtɪfəl/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "美丽的；漂亮的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "What a beautiful sunset!",
+        "chinese": "多美的日落啊！",
+        "scene": "看到壮丽日落时的赞叹"
+      },
+      {
+        "level": "medium",
+        "english": "You look really beautiful in that dress.",
+        "chinese": "你穿那条裙子真漂亮。",
+        "scene": "真诚赞美朋友的打扮"
+      },
+      {
+        "level": "long",
+        "english": "We drove along the coast and the scenery was so beautiful that we pulled over several times just to take pictures.",
+        "chinese": "我们沿着海岸开车，风景美得我们好几次停下车来拍照。",
+        "scene": "沿海公路的绝美风光"
+      }
+    ]
+  },
+  {
+    "word": "hat",
+    "phonetic": "/hæt/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "帽子（有檐的）",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I need a hat for the sun.",
+        "chinese": "我需要一顶遮阳帽。",
+        "scene": "大太阳下觉得需要帽子"
+      },
+      {
+        "level": "medium",
+        "english": "My grandpa always wears his old straw hat when he gardens.",
+        "chinese": "我爷爷在花园干活时总戴着那顶旧草帽。",
+        "scene": "描述长辈的园艺习惯"
+      },
+      {
+        "level": "long",
+        "english": "A sudden gust of wind blew my hat off and I had to chase it halfway down the beach before I caught it.",
+        "chinese": "一阵狂风把我的帽子吹跑了，我沿着沙滩追了好远才抓住。",
+        "scene": "海滩上追帽子的滑稽场面"
+      }
+    ]
+  },
+  {
+    "word": "sunglasses",
+    "phonetic": "/ˈsʌnɡlæsɪz/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "太阳镜；墨镜",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I lost my sunglasses again.",
+        "chinese": "我又把墨镜弄丢了。",
+        "scene": "常丢墨镜的无奈"
+      },
+      {
+        "level": "medium",
+        "english": "The sun is so bright today; I should have brought my sunglasses.",
+        "chinese": "今天太阳好刺眼，我真该带墨镜出门的。",
+        "scene": "阳光下后悔没带墨镜"
+      },
+      {
+        "level": "long",
+        "english": "I sat on my brand new sunglasses and they snapped right in half, so I had to buy another pair on the way home.",
+        "chinese": "我一屁股坐断了崭新的墨镜，只好在回家路上又买了一副。",
+        "scene": "不小心损坏了新买的东西"
+      }
+    ]
+  },
+  {
+    "word": "free",
+    "phonetic": "/friː/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "免费的；自由的；空闲的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "The museum is free on Sundays.",
+        "chinese": "博物馆星期天免费。",
+        "scene": "分享免费参观信息"
+      },
+      {
+        "level": "medium",
+        "english": "Are you free this afternoon? Let's grab a coffee.",
+        "chinese": "你今天下午有空吗？一起去喝杯咖啡。",
+        "scene": "邀约空闲的朋友"
+      },
+      {
+        "level": "long",
+        "english": "The best things in life are free, like watching a sunrise or spending time with the people you love.",
+        "chinese": "生活中最美好的东西都是免费的，比如看日出或和所爱的人在一起。",
+        "scene": "感悟生活中无价的快乐"
+      }
+    ]
+  },
+  {
+    "word": "large",
+    "phonetic": "/lɑːrdʒ/",
+    "part_of_speech": "adjective",
+    "chinese_meaning": "大的；大型的",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I need a large coffee today.",
+        "chinese": "我今天需要一大杯咖啡。",
+        "scene": "买咖啡时指定尺寸"
+      },
+      {
+        "level": "medium",
+        "english": "This shirt is too large for me; do you have a smaller size?",
+        "chinese": "这件衬衫我穿太大了，有小一号的吗？",
+        "scene": "试穿时要求换尺码"
+      },
+      {
+        "level": "long",
+        "english": "Our family is so large that when we all get together for the holidays, we have to rent a hall to fit everyone.",
+        "chinese": "我们家人口太多了，假日聚会时得租个礼堂才装得下。",
+        "scene": "大家庭聚会的壮观场面"
+      }
+    ]
+  },
+  {
+    "word": "size",
+    "phonetic": "/saɪz/",
+    "part_of_speech": "noun",
+    "chinese_meaning": "尺寸；大小；尺码",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "What size are your shoes?",
+        "chinese": "你穿多大码的鞋？",
+        "scene": "聊天中询问鞋码"
+      },
+      {
+        "level": "medium",
+        "english": "These jeans are the wrong size; they're way too tight.",
+        "chinese": "这条牛仔裤尺码不对，太紧了。",
+        "scene": "试穿发现不合身"
+      },
+      {
+        "level": "long",
+        "english": "I ordered a sweater online in a medium size, but when it arrived, it fit like an extra-large, so I had to return it.",
+        "chinese": "我在网上订了件中号毛衣，结果收到后大得像加大号，只好退掉。",
+        "scene": "网购衣服尺码偏差的遭遇"
+      }
+    ]
+  },
+  {
+    "word": "list",
+    "phonetic": "/lɪst/",
+    "part_of_speech": "noun, verb",
+    "chinese_meaning": "清单；列表；列出",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "I made a grocery list.",
+        "chinese": "我列了张购物清单。",
+        "scene": "准备去超市前"
+      },
+      {
+        "level": "medium",
+        "english": "Let's make a list of everything we need for the trip.",
+        "chinese": "我们把旅行要带的东西列个清单吧。",
+        "scene": "出行前避免遗漏物品"
+      },
+      {
+        "level": "long",
+        "english": "I have a to-do list a mile long for this weekend, and I'm starting to think I might need an extra day to finish it all.",
+        "chinese": "我这周末的待办清单长得没边，我开始觉得可能得再多一天才能全干完。",
+        "scene": "面对冗长的任务清单感到压力"
+      }
+    ]
+  },
+  {
+    "word": "try on",
+    "phonetic": "/traɪ ɑːn/",
+    "part_of_speech": "phrasal verb",
+    "chinese_meaning": "试穿；试戴",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Can I try on this hat?",
+        "chinese": "我能试试这顶帽子吗？",
+        "scene": "在商店礼貌询问"
+      },
+      {
+        "level": "medium",
+        "english": "I tried on at least ten pairs of jeans before finding the right fit.",
+        "chinese": "我至少试了十条牛仔裤才找到合身的。",
+        "scene": "讲述购物时的耐心寻找"
+      },
+      {
+        "level": "long",
+        "english": "The shop assistant was really nice and didn't get annoyed even when I tried on almost every pair of shoes in my size.",
+        "chinese": "店员特别好，我几乎把我尺码的鞋都试了个遍，她也没有不耐烦。",
+        "scene": "遇到耐心的店员尽情试穿"
+      }
+    ]
+  },
+  {
+    "word": "any",
+    "phonetic": "/ˈeni/",
+    "part_of_speech": "determiner, pronoun",
+    "chinese_meaning": "一些；任何",
+    "sentences": [
+      {
+        "level": "short",
+        "english": "Do you have any questions?",
+        "chinese": "你们有任何问题吗？",
+        "scene": "老师讲完后询问学生"
+      },
+      {
+        "level": "medium",
+        "english": "I don't have any cash left, so I'll pay with my card.",
+        "chinese": "我没现金了，用卡付。",
+        "scene": "结账时发现现金不够"
+      },
+      {
+        "level": "long",
+        "english": "Let me know if you need any help with the heavy boxes; I'm just in the next room.",
+        "chinese": "搬那些重箱子要是需要帮忙就叫我，我就在隔壁。",
+        "scene": "主动提供帮助"
+      }
+    ]
+  }
+]
